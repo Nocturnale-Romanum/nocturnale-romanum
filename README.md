@@ -16,7 +16,7 @@ Detail issues with the implementation are to be taken there:
 https://github.com/Nocturnale-Romanum/nocturnale-romanum/issues
 
 # join us!
-E-mail bry <dot> matthias <at> yahoo.com if you are interested in joining. We are looking for:
+E-mail bry (dot) matthias (at) yahoo.com if you are interested in joining. We are looking for:
   - musicologists
   - typographers
   - graphic designers
