@@ -6,3 +6,4 @@
 *.glog
 *.aux
 *.synctex.gz
+*.out
