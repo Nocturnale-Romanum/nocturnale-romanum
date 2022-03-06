@@ -1,0 +1,558 @@
+OR	Ordinarium Divini Officii ad Matutinum	Ordinarium	Ordinarium	1			
+PSAL	Psalterium per Hebdomadam	Psalterium	Psalterium	1			
+F1	Dominica	Psalterium	Dominica	2			
+F2	Feria II	Psalterium	Feria II	2			
+F3	Feria III	Psalterium	Feria III	2			
+F4	Feria IV	Psalterium	Feria IV	2			
+F5	Feria V	Psalterium	Feria V	2			
+F6	Feria VI	Psalterium	Feria VI	2			
+F7	Sabbato	Psalterium	Sabbato	2			
+PT	Proprium de Tempore	Proprium de Tempore	Proprium de Tempore	1			
+A1F1	Dominica I Adventus	Proprium de Tempore	Hebdomada I Adventus	2		I. classis - Semiduplex	I. classis
+A1F2	Feria II	Proprium de Tempore	Hebdomada I Adventus	3		Feria	III. classis
+A1F3	Feria III	Proprium de Tempore	Hebdomada I Adventus	3		Feria	III. classis
+A1F4	Feria IV	Proprium de Tempore	Hebdomada I Adventus	3		Feria	III. classis
+A1F5	Feria V	Proprium de Tempore	Hebdomada I Adventus	3		Feria	III. classis
+A1F6	Feria VI	Proprium de Tempore	Hebdomada I Adventus	3		Feria	III. classis
+A1F7	Sabbato	Proprium de Tempore	Hebdomada I Adventus	3		Feria	III. classis
+A2F1	Dominica II Adventus	Proprium de Tempore	Hebdomada II Adventus	2		II. classis - Semiduplex	I. classis
+A2F2	Feria II	Proprium de Tempore	Hebdomada II Adventus	3		Feria	III. classis
+A2F3	Feria III	Proprium de Tempore	Hebdomada II Adventus	3		Feria	III. classis
+A2F4	Feria IV	Proprium de Tempore	Hebdomada II Adventus	3		Feria	III. classis
+A2F5	Feria V	Proprium de Tempore	Hebdomada II Adventus	3		Feria	III. classis
+A2F6	Feria VI	Proprium de Tempore	Hebdomada II Adventus	3		Feria	III. classis
+A2F7	Sabbato	Proprium de Tempore	Hebdomada II Adventus	3		Feria	III. classis
+A3F1	Dominica III Adventus	Proprium de Tempore	Hebdomada III Adventus	2		II. classis - Semiduplex	I. classis
+A3F2	Feria II	Proprium de Tempore	Hebdomada III Adventus	3		Feria	III. classis
+A3F3	Feria III	Proprium de Tempore	Hebdomada III Adventus	3		Feria	III. classis
+A3F4	Feria IV Quatuor Temporum	Proprium de Tempore	Hebdomada III Adventus	2		Feria	II. classis
+A3F5	Feria V	Proprium de Tempore	Hebdomada III Adventus	3		Feria	III. classis
+A3F6	Feria VI Quatuor Temporum	Proprium de Tempore	Hebdomada III Adventus	2		Feria	II. classis
+A3F7	Sabbato Quatuor Temporum	Proprium de Tempore	Hebdomada III Adventus	2		Feria	II. classis
+A4F1	Dominica IV Adventus	Proprium de Tempore	Hebdomada IV Adventus	2		II. classis - Semiduplex	I. classis
+A4F2	Feria II	Proprium de Tempore	Hebdomada IV Adventus	3		Feria	II. classis
+A4F3	Feria III	Proprium de Tempore	Hebdomada IV Adventus	3		Feria	II. classis
+A4F4	Feria IV	Proprium de Tempore	Hebdomada IV Adventus	3		Feria	II. classis
+A4F5	Feria V	Proprium de Tempore	Hebdomada IV Adventus	3		Feria	II. classis
+A4F6	Feria VI	Proprium de Tempore	Hebdomada IV Adventus	3		Feria	II. classis
+1224	In Vigilia Nativitatis Domini	Proprium de Tempore	In Vigilia Nativitatis Domini	3	24 Decembris	Duplex I. classis	I. classis
+1225	In Nativitate\\Domini nostri Jesu Christi	Proprium de Tempore	In Nativitate Domini	1	25 Decembris	Duplex I. classis	I. classis
+1226	In Festo S. Stephani Protomartyris	Proprium de Tempore	S. Stephani Protomartyris	2	26 Decembris	Duplex II. classis	II. classis
+1227	In Festo S. Joannis\\Apostoli et Evangelistæ	Proprium de Tempore	S. Joannis Apostoli et Evangelistæ	2	27 Decembris	Duplex II. classis	II. classis
+1228	In Festo Ss. Innocentium Martyrum	Proprium de Tempore	Ss. Innocentium Martyrum	2	28 Decembris	Duplex II. classis	II. classis
+N1F1	Dominica infra Octavam Nativitatis	Proprium de Tempore	Dominica infra Octavam Nativitatis	2		Semiduplex Dominica minor	II. classis
+1229	S. Thomæ Episcopi et Martyris	Proprium de Tempore	S. Thomæ Episcopi et Martyris	2	29 Decembris	Duplex	(Commemoratio tantum)
+1230	Die VI infra Octavam Nativitatis	Proprium de Tempore	Infra Octavam Nativitatis	3	30 Decembris	Feria	II. classis
+1231	S. Silvestri Papæ et Confessoris	Proprium de Tempore	S. Silvestri Papæ et Confessoris	2	31 Decembris	Duplex	(Commemoratio tantum)
+0101	In Circumsione Domini\\et Octava Nativitatis	Proprium de Tempore	In Circumsione Domini	2	1 Januarii	Duplex II. classis	II. classis
+N2	In Festo Sanctissimi Nominis Jesu	Proprium de Tempore	Sanctissimi Nominis Jesu	2	Dominica inter Circumcisionem et Epiphaniam	Duplex II. classis	II. classis
+0102	In Octava S. Stephani Protomartyris	Proprium de Tempore	In Octava S. Stephani	2	2 Januarii	Simplex	(Omittitur)
+0103	In Octava S. Joannis\\Apostoli et Evangelistæ	Proprium de Tempore	In Octava S. Joannis	2	3 Januarii	Simplex	(Omittitur)
+0104	In Octava Ss. Innocentium Martyrum	Proprium de Tempore	In Octava SS. Innocentium	2	4 Januarii	Simplex	(Omittitur)
+0105	In Vigilia Epiphaniæ	Proprium de Tempore	In Vigilia Epiphaniæ	2	5 Januarii	Semiduplex II. classis	(Omittitur)
+0106	In Epiphania\\Domini nostri Jesu Christi	Proprium de Tempore	In Epiphania Domini	1	6 Januarii	Duplex I. classis	I. classis
+E1F1	In Festo sanctæ Familiæ\\Jesu, Mariæ, Joseph	Proprium de Tempore	Sanctæ Familiæ	2	Dominica infra Octavam Epiphaniæ	Duplex majus	II. classis
+E0B	Infra Octavam Epiphaniæ	Proprium de Tempore	Infra Octavam Epiphaniæ	2	7 usque ad 12 Januarii	Semiduplex	IV. classis
+0113	In Octava Epiphaniæ,\\ et Baptismate Domini	Proprium de Tempore	In Octava Epiphaniæ	2	13 Januarii	Duplex majus	II. classis
+E1F1B	Dominica I post Epiphaniam	Proprium de Tempore	Dominica I post Epiphaniam	2		Semiduplex Dominica minor	(Omittitur)
+E1F2	Feria II	Proprium de Tempore	Hebdomada I post Epiphaniam	3		Feria	IV. classis
+E1F3	Feria III	Proprium de Tempore	Hebdomada I post Epiphaniam	3		Feria	IV. classis
+E1F4	Feria IV	Proprium de Tempore	Hebdomada I post Epiphaniam	3		Feria	IV. classis
+E1F5	Feria V	Proprium de Tempore	Hebdomada I post Epiphaniam	3		Feria	IV. classis
+E1F6	Feria VI	Proprium de Tempore	Hebdomada I post Epiphaniam	3		Feria	IV. classis
+E1F7	Sabbato	Proprium de Tempore	Hebdomada I post Epiphaniam	3		Feria	IV. classis
+E2F1	Dominicæ II usque IV post Epiphaniam	Proprium de Tempore	Dominicæ II usque IV post Epiphaniam	2		Semiduplicia	II. classis
+E2F2	Feria II	Proprium de Tempore	Hebdomadæ II usque IV post Epiphaniam	3		Feria	IV. classis
+E2F3	Feria III usque ad Sabbato	Proprium de Tempore	Hebdomadæ II usque IV post Epiphaniam	3		Feria	IV. classis
+7GF1	Dominica in Septuagesima	Proprium de Tempore	Dominica in Septuagesima	2		II. classis - Semiduplex	II. classis
+7GF2	Feria II	Proprium de Tempore	Hebdomada Septuagesimæ	3		Simplex	IV. classis
+7GF3	Feria III	Proprium de Tempore	Hebdomada Septuagesimæ	3		Simplex	IV. classis
+7GF4	Feria IV	Proprium de Tempore	Hebdomada Septuagesimæ	3		Simplex	IV. classis
+7GF5	Feria V	Proprium de Tempore	Hebdomada Septuagesimæ	3		Simplex	IV. classis
+7GF6	Feria VI	Proprium de Tempore	Hebdomada Septuagesimæ	3		Simplex	IV. classis
+7GF7	Sabbato	Proprium de Tempore	Hebdomada Septuagesimæ	3		Simplex	IV. classis
+6GF1	Dominica in Sexagesima	Proprium de Tempore	Dominica in Sexagesima	2		II. classis - Semiduplex	II. classis
+6GF2	Feria II	Proprium de Tempore	Hebdomada Sexagesimæ	3		Simplex	IV. classis
+6GF3	Feria III	Proprium de Tempore	Hebdomada Sexagesimæ	3		Simplex	IV. classis
+6GF4	Feria IV	Proprium de Tempore	Hebdomada Sexagesimæ	3		Simplex	IV. classis
+6GF5	Feria V	Proprium de Tempore	Hebdomada Sexagesimæ	3		Simplex	IV. classis
+6GF6	Feria VI	Proprium de Tempore	Hebdomada Sexagesimæ	3		Simplex	IV. classis
+6GF7	Sabbato	Proprium de Tempore	Hebdomada Sexagesimæ	3		Simplex	IV. classis
+5GF1	Dominica in Quinquagesima	Proprium de Tempore	Dominica in Quinquagesima	2		II. classis - Semiduplex	II. classis
+5GF2	Feria II	Proprium de Tempore	Hebdomada Quinquagesimæ	3		Simplex	IV. classis
+5GF3	Feria III	Proprium de Tempore	Hebdomada Quinquagesimæ	3		Simplex	IV. classis
+5GF4	Feria IV Cinerum	Proprium de Tempore	Hebdomada Quinquagesimæ	2		Feria privilegiata	I. classis
+5GF5	Feria V post Cineres	Proprium de Tempore	Hebdomada Quinquagesimæ	3		Simplex	III. classis
+5GF6	Feria VI post Cineres	Proprium de Tempore	Hebdomada Quinquagesimæ	3		Simplex	III. classis
+5GF7	Sabbato post Cineres	Proprium de Tempore	Hebdomada Quinquagesimæ	3		Simplex	III. classis
+Q1F1	Dominica I in Quadragesima	Proprium de Tempore	Dominica I in Quadragesima	2		I. classis - Semiduplex	I. classis
+Q1F2	Feria II	Proprium de Tempore	Hebdomada I Quadragesimæ	3		Simplex	III. classis
+Q1F3	Feria III	Proprium de Tempore	Hebdomada I Quadragesimæ	3		Simplex	III. classis
+Q1F4	Feria IV Quatuor Temporum	Proprium de Tempore	Hebdomada I Quadragesimæ	2		Simplex	II. classis
+Q1F5	Feria V	Proprium de Tempore	Hebdomada I Quadragesimæ	3		Simplex	III. classis
+Q1F6	Feria VI Quatuor Temporum	Proprium de Tempore	Hebdomada I Quadragesimæ	2		Simplex	II. classis
+Q1F7	Sabbato Quatuor Temporum	Proprium de Tempore	Hebdomada I Quadragesimæ	2		Simplex	II. classis
+Q2F1	Dominica II in Quadragesima	Proprium de Tempore	Dominica II in Quadragesima	2		I. classis - Semiduplex	I. classis
+Q2F2	Feria II	Proprium de Tempore	Hebdomada II Quadragesimæ	3		Simplex	III. classis
+Q2F3	Feria III	Proprium de Tempore	Hebdomada II Quadragesimæ	3		Simplex	III. classis
+Q2F4	Feria IV	Proprium de Tempore	Hebdomada II Quadragesimæ	3		Simplex	III. classis
+Q2F5	Feria V	Proprium de Tempore	Hebdomada II Quadragesimæ	3		Simplex	III. classis
+Q2F6	Feria VI	Proprium de Tempore	Hebdomada II Quadragesimæ	3		Simplex	III. classis
+Q2F7	Sabbato	Proprium de Tempore	Hebdomada II Quadragesimæ	3		Simplex	III. classis
+Q3F1	Dominica III in Quadragesima	Proprium de Tempore	Dominica III in Quadragesima	2		I. classis - Semiduplex	I. classis
+Q3F2	Feria II	Proprium de Tempore	Hebdomada III Quadragesimæ	3		Simplex	III. classis
+Q3F3	Feria III	Proprium de Tempore	Hebdomada III Quadragesimæ	3		Simplex	III. classis
+Q3F4	Feria IV	Proprium de Tempore	Hebdomada III Quadragesimæ	3		Simplex	III. classis
+Q3F5	Feria V	Proprium de Tempore	Hebdomada III Quadragesimæ	3		Simplex	III. classis
+Q3F6	Feria VI	Proprium de Tempore	Hebdomada III Quadragesimæ	3		Simplex	III. classis
+Q3F7	Sabbato	Proprium de Tempore	Hebdomada III Quadragesimæ	3		Simplex	III. classis
+Q4F1	Dominica IV in Quadragesima	Proprium de Tempore	Dominica IV in Quadragesima	2		I. classis - Semiduplex	I. classis
+Q4F2	Feria II	Proprium de Tempore	Hebdomada IV Quadragesimæ	3		Simplex	III. classis
+Q4F3	Feria III	Proprium de Tempore	Hebdomada IV Quadragesimæ	3		Simplex	III. classis
+Q4F4	Feria IV	Proprium de Tempore	Hebdomada IV Quadragesimæ	3		Simplex	III. classis
+Q4F5	Feria V	Proprium de Tempore	Hebdomada IV Quadragesimæ	3		Simplex	III. classis
+Q4F6	Feria VI	Proprium de Tempore	Hebdomada IV Quadragesimæ	3		Simplex	III. classis
+Q4F7	Sabbato	Proprium de Tempore	Hebdomada IV Quadragesimæ	3		Simplex	III. classis
+Q5F1	Dominica de Passione	Proprium de Tempore	Dominica de Passione	2		I. classis - Semiduplex	I. classis
+Q5F2	Feria II	Proprium de Tempore	Hebdomada Passionis	3		Feria major	III. classis
+Q5F3	Feria III	Proprium de Tempore	Hebdomada Passionis	3		Feria major	III. classis
+Q5F4	Feria IV	Proprium de Tempore	Hebdomada Passionis	3		Feria major	III. classis
+Q5F5	Feria V	Proprium de Tempore	Hebdomada Passionis	3		Feria major	III. classis
+Q5F6	Feria VI	Proprium de Tempore	Hebdomada Passionis	3		Feria major	III. classis
+Q5F7	Sabbato	Proprium de Tempore	Hebdomada Passionis	3		Feria major	III. classis
+Q6F1	Dominica in Palmis	Proprium de Tempore	Dominica in Palmis	2		I. classis - Semiduplex	I. classis
+Q6F2	Feria II	Proprium de Tempore	In Feriis Majoris Hebdomadæ	3		Feria privilegiata	I. classis
+Q6F3	Feria III	Proprium de Tempore	In Feriis Majoris Hebdomadæ	3		Feria privilegiata	I. classis
+Q6F4	Feria IV	Proprium de Tempore	In Feriis Majoris Hebdomadæ	3		Feria privilegiata	I. classis
+Q6F5	Feria V in Cœna Domini	Proprium de Tempore	Feria V in Cœna Domini	2		Duplex I. classis	I. classis
+Q6F6	Feria VI in Parasceve	Proprium de Tempore	Feria VI in Parasceve	2		Duplex I. classis	I. classis
+Q6F7	Sabbato Sancto	Proprium de Tempore	Sabbato Sancto	2		Duplex I. classis	I. classis
+P0F1	Dominica Resurrectionis\\Domini nostri Jesu Christi	Proprium de Tempore	Dominica Resurrectionis	1		Duplex I. classis	I. classis
+P0F2	Feria II infra Octavam Paschæ	Proprium de Tempore	Infra Octavam Paschæ	2		Duplex I. classis	Dies octavæ I. classis
+P0F3	Feria III infra Octavam Paschæ	Proprium de Tempore	Infra Octavam Paschæ	2		Duplex I. classis	Dies octavæ I. classis
+P0F4	Feria IV infra Octavam Paschæ	Proprium de Tempore	Infra Octavam Paschæ	2		Semiduplex	Dies octavæ I. classis
+P0F5	Feria V infra Octavam Paschæ	Proprium de Tempore	Infra Octavam Paschæ	2		Semiduplex	Dies octavæ I. classis
+P0F6	Feria VI infra Octavam Paschæ	Proprium de Tempore	Infra Octavam Paschæ	2		Semiduplex	Dies octavæ I. classis
+P0F7	Sabbato in Albis	Proprium de Tempore	Infra Octavam Paschæ	2		Semiduplex	Dies octavæ I. classis
+P1F1	Dominica in Albis	Proprium de Tempore	Dominica in Albis	2		I. classis - Duplex majus	I. classis
+P1F2	Feria II	Proprium de Tempore	Hebdomada I post Pascha	3		Feria	IV. classis
+P1F3	Feria III	Proprium de Tempore	Hebdomada I post Pascha	3		Feria	IV. classis
+P1F4	Feria IV	Proprium de Tempore	Hebdomada I post Pascha	3		Feria	IV. classis
+P1F5	Feria V	Proprium de Tempore	Hebdomada I post Pascha	3		Feria	IV. classis
+P1F6	Feria VI	Proprium de Tempore	Hebdomada I post Pascha	3		Feria	IV. classis
+P1F7	Sabbato	Proprium de Tempore	Hebdomada I post Pascha	3		Feria	IV. classis
+P2F1	Dominica II post Pascha	Proprium de Tempore	Dominica II post Pascha	2		Semiduplex	II. classis
+P3F1	Dominica III post Pascha	Proprium de Tempore	Dominica III post Pascha	2		Semiduplex	II. classis
+P3F2	Feria II	Proprium de Tempore	Hebdomada III post Pascha	3		Feria	IV. classis
+P3F3	Feria III	Proprium de Tempore	Hebdomada III post Pascha	3		Feria	IV. classis
+P3F4	Feria IV	Proprium de Tempore	Hebdomada III post Pascha	3		Feria	IV. classis
+P3F5	Feria V	Proprium de Tempore	Hebdomada III post Pascha	3		Feria	IV. classis
+P3F6	Feria VI	Proprium de Tempore	Hebdomada III post Pascha	3		Feria	IV. classis
+P3F7	Sabbato	Proprium de Tempore	Hebdomada III post Pascha	3		Feria	IV. classis
+P4F1	Dominica IV post Pascha	Proprium de Tempore	Dominica IV post Pascha	2		Semiduplex	II. classis
+P4F2	Feria II	Proprium de Tempore	Hebdomada IV post Pascha	3		Feria	IV. classis
+P4F3	Feria III	Proprium de Tempore	Hebdomada IV post Pascha	3		Feria	IV. classis
+P4F4	Feria IV	Proprium de Tempore	Hebdomada IV post Pascha	3		Feria	IV. classis
+P4F5	Feria V	Proprium de Tempore	Hebdomada IV post Pascha	3		Feria	IV. classis
+P4F6	Feria VI	Proprium de Tempore	Hebdomada IV post Pascha	3		Feria	IV. classis
+P4F7	Sabbato	Proprium de Tempore	Hebdomada IV post Pascha	3		Feria	IV. classis
+P5F1	Dominica V post Pascha	Proprium de Tempore	Dominica V post Pascha	2		Semiduplex	II. classis
+P5F2	Feria II in Rogationibus	Proprium de Tempore	Dominica V post Pascha	2		Feria	IV. classis
+P5F3	Feria III in Rogationibus	Proprium de Tempore	Dominica V post Pascha	2		Feria	IV. classis
+P5F4	Feria IV in Rogationibus\\et Vigilia Ascensionis	Proprium de Tempore	Dominica V post Pascha	2		Feria	II. classis
+P5F5	In Ascensione Domini	Proprium de Tempore	In Ascensione Domini	1		Duplex I. classis	I. classis
+P6F1	Infra et post Octavam Ascensionis	Proprium de Tempore	Infra et post Octavam Ascensionis	3			
+P6F7	In Vigilia Pentecostes	Proprium de Tempore	In Vigilia Pentecostes	3		Feria privilegiata	I. classis
+P7F1	Dominica Pentecostes	Proprium de Tempore	Dominica Pentecostes	1		Duplex I. classis	I. classis
+P7F2	Feria II infra Octavam Pentecostes	Proprium de Tempore	Infra Octavam Pentecostes	2		Duplex I. classis	Dies octavæ I. classis
+P7F3	Feria III infra Octavam Pentecostes	Proprium de Tempore	Infra Octavam Pentecostes	2		Duplex I. classis	Dies octavæ I. classis
+P7F4	Feria IV Quatuor Temporum Pentecostes	Proprium de Tempore	Infra Octavam Pentecostes	2		Semiduplex	Dies octavæ I. classis
+P7F5	Feria V infra Octavam Pentecostes	Proprium de Tempore	Infra Octavam Pentecostes	2		Semiduplex	Dies octavæ I. classis
+P7F6	Feria VI Quatuor Temporum Pentecostes	Proprium de Tempore	Infra Octavam Pentecostes	2		Semiduplex	Dies octavæ I. classis
+P7F7	Sabbato Quatuor Temporum Pentecostes	Proprium de Tempore	Infra Octavam Pentecostes	2		Semiduplex	Dies octavæ I. classis
+H1F1	In Festo Sanctissimæ Trinitatis	Proprium de Tempore	In Festo Sanctissimæ Trinitatis	2	Dominica I post Pentecosten	Duplex I. classis	I. classis
+H1F2	Feria II	Proprium de Tempore	Hebdomada I post Pentecosten	3		Feria	IV. classis
+H1F3	Feria III	Proprium de Tempore	Hebdomada I post Pentecosten	3		Feria	IV. classis
+H1F4	Feria IV	Proprium de Tempore	Hebdomada I post Pentecosten	3		Feria	IV. classis
+H1F5	In Festo Sanctissimi Corporis Christi	Proprium de Tempore	In Festo Sanctissimi Corporis Christi	2	Feria V post Octavam Pentecosten	Duplex I. classis	I. classis
+H1F6	Feria VI	Proprium de Tempore	Hebdomada I post Pentecosten	3		(Omittitur)	IV. classis
+H1F7	Sabbato	Proprium de Tempore	Hebdomada I post Pentecosten	3		(Omittitur)	IV. classis
+H2F1	Dominica II post Pentecosten	Proprium de Tempore	Hebdomada II post Pentecosten	2		(Omittitur)	II. classis
+H2F6	In Festo Sacratissimi Cordis Jesu	Proprium de Tempore	In Festo Sacratissimi Cordis Jesu	2	Feria VI post Octavam Ss. Corporis Christi	Duplex I. classis	I. classis
+H3F7	Sabbato post Octavam Ss. Cordis Jesu	Proprium de Tempore	Hebdomada III post Pentecosten	3		Feria	IV. classis
+H4F1	Dominica IV post Pentecosten	Proprium de Tempore	Post Pentecosten usque ad mensem Julii	2		Semiduplex	II. classis
+H4F2	Feria II	Proprium de Tempore	Post Pentecosten usque ad mensem Julii	3		Feria	IV. classis
+H4F3	Feria III	Proprium de Tempore	Post Pentecosten usque ad mensem Julii	3		Feria	IV. classis
+H4F4	Feria IV	Proprium de Tempore	Post Pentecosten usque ad mensem Julii	3		Feria	IV. classis
+H4F5	Feria V	Proprium de Tempore	Post Pentecosten usque ad mensem Julii	3		Feria	IV. classis
+H4F6	Feria VI	Proprium de Tempore	Post Pentecosten usque ad mensem Julii	3		Feria	IV. classis
+H4F7	Sabbato	Proprium de Tempore	Post Pentecosten usque ad mensem Julii	3		Feria	IV. classis
+08H1F1	Dominicæ mensis Augusti	Proprium de Tempore	Dominicæ mensis Augusti	2		Semiduplicia	II. classis
+08H1F2	Feria II	Proprium de Tempore	Mensis Augusti	3		Feria	IV. classis
+08H1F3	Feria III	Proprium de Tempore	Mensis Augusti	3		Feria	IV. classis
+08H1F4	Feria IV	Proprium de Tempore	Mensis Augusti	3		Feria	IV. classis
+08H1F5	Feria V	Proprium de Tempore	Mensis Augusti	3		Feria	IV. classis
+08H1F6	Feria VI	Proprium de Tempore	Mensis Augusti	3		Feria	IV. classis
+08H1F7	Sabbato	Proprium de Tempore	Mensis Augusti	3		Feria	IV. classis
+09H1F1	Dominica I et II Septembris	Proprium de Tempore	Dominica I et II Septembris	2		Semiduplicia	II. classis
+09H1F2	Feria II	Proprium de Tempore	Hebdomada I et II Septembris	3		Feria	IV. classis
+09H1F3	Feria III	Proprium de Tempore	Hebdomada I et II Septembris	3		Feria	IV. classis
+09H1F4	Feria IV	Proprium de Tempore	Hebdomada I et II Septembris	3		Feria	IV. classis
+09H1F5	Feria V	Proprium de Tempore	Hebdomada I et II Septembris	3		Feria	IV. classis
+09H1F6	Feria VI	Proprium de Tempore	Hebdomada I et II Septembris	3		Feria	IV. classis
+09H1F7	Sabbato	Proprium de Tempore	Hebdomada I et II Septembris	3		Feria	IV. classis
+09H3F1	Dominica III Septembris	Proprium de Tempore	Dominica III Septembris	2		Semiduplex	II. classis
+09H3F2	Feria II	Proprium de Tempore	Hebdomada III Septembris	3		Feria	IV. classis
+09H3F3	Feria III	Proprium de Tempore	Hebdomada III Septembris	3		Feria	IV. classis
+09H3F4	Feria IV Quatuor Temporum	Proprium de Tempore	Hebdomada III Septembris	2		Feria	II. classis
+09H3F5	Feria V	Proprium de Tempore	Hebdomada III Septembris	3		Feria	IV. classis
+09H3F6	Feria VI Quatuor Temporum	Proprium de Tempore	Hebdomada III Septembris	2		Feria	II. classis
+09H3F7	Sabbato Quatuor Temporum	Proprium de Tempore	Hebdomada III Septembris	2		Feria	II. classis
+09H4F1	Dominica IV Septembris	Proprium de Tempore	Dominica IV Septembris	2		Semiduplex	II. classis
+09H4F2	Feria II	Proprium de Tempore	Hebdomada IV Septembris	3		Feria	IV. classis
+09H4F3	Feria III	Proprium de Tempore	Hebdomada IV Septembris	3		Feria	IV. classis
+09H4F4	Feria IV	Proprium de Tempore	Hebdomada IV Septembris	3		Feria	IV. classis
+09H4F5	Feria V	Proprium de Tempore	Hebdomada IV Septembris	3		Feria	IV. classis
+09H4F6	Feria VI	Proprium de Tempore	Hebdomada IV Septembris	3		Feria	IV. classis
+09H4F7	Sabbato	Proprium de Tempore	Hebdomada IV Septembris	3		Feria	IV. classis
+09H5F1	Dominica V Septembris	Proprium de Tempore	Dominica V Septembris	2		Semiduplex	II. classis
+09H5F2	Feria II	Proprium de Tempore	Hebdomada V Septembris	3		Feria	IV. classis
+09H5F3	Feria III	Proprium de Tempore	Hebdomada V Septembris	3		Feria	IV. classis
+09H5F4	Feria IV	Proprium de Tempore	Hebdomada V Septembris	3		Feria	IV. classis
+09H5F5	Feria V	Proprium de Tempore	Hebdomada V Septembris	3		Feria	IV. classis
+09H5F6	Feria VI	Proprium de Tempore	Hebdomada V Septembris	3		Feria	IV. classis
+09H5F7	Sabbato	Proprium de Tempore	Hebdomada V Septembris	3		Feria	IV. classis
+10H1F1	Dominicæ mensis Octobris	Proprium de Tempore	Dominicæ mensis Octobris	2		Semiduplicia	II. classis
+10H1F2	Feria II	Proprium de Tempore	Mensis Octobris	3		Feria	IV. classis
+10H1F3	Feria III	Proprium de Tempore	Mensis Octobris	3		Feria	IV. classis
+10H1F4	Feria IV	Proprium de Tempore	Mensis Octobris	3		Feria	IV. classis
+10H1F5	Feria V	Proprium de Tempore	Mensis Octobris	3		Feria	IV. classis
+10H1F6	Feria VI	Proprium de Tempore	Mensis Octobris	3		Feria	IV. classis
+10H1F7	Sabbato	Proprium de Tempore	Mensis Octobris	3		Feria	IV. classis
+11H1F1	Dominicæ mensis ovembris	Proprium de Tempore	Dominicæ mensis Novembris	2		Semiduplicia	II. classis
+11H1F2	Feria II	Proprium de Tempore	Mensis Novembris	3		Feria	IV. classis
+11H1F3	Feria III	Proprium de Tempore	Mensis Novembris	3		Feria	IV. classis
+11H1F4	Feria IV	Proprium de Tempore	Mensis Novembris	3		Feria	IV. classis
+11H1F5	Feria V	Proprium de Tempore	Mensis Novembris	3		Feria	IV. classis
+11H1F6	Feria VI	Proprium de Tempore	Mensis Novembris	3		Feria	IV. classis
+11H1F7	Sabbato	Proprium de Tempore	Mensis Novembris	3		Feria	IV. classis
+PRSA	Proprium Sanctorum	Proprium Sanctorum	Proprium Sanctorum	1			
+1100a	Festa Novembris	Proprium Sanctorum	Festa Novembris	1			
+1129	S. Saturnini Martyris	Proprium Sanctorum	Festa Novembris	2	29 Novembris	(Commemoratio tantum)	(Commemoratio tantum)
+1130	S. Andreæ Apostoli	Proprium Sanctorum	Festa Novembris	2	30 Novembris	Duplex II. classis	II. classis
+1200	Festa Decembris	Proprium Sanctorum	Festa Decembris	1			
+1202	S. Bibianæ Virginis et Martyris	Proprium Sanctorum	Festa Decembris	2	2 Decembris	Semiduplex	III. classis
+1203	S. Francisci Xaverii Confessoris	Proprium Sanctorum	Festa Decembris	2	3 Decembris	Duplex majus m.t.v.	III. classis
+1204	S. Petri Chrysologi Episcopi et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Decembris	2	4 Decembris	Duplex	III. classis
+1205	S. Sabbæ Abbatis	Proprium Sanctorum	Festa Decembris	2	5 Decembris	(Commemoratio tantum)	(Commemoratio tantum)
+1206	S. Nicolai Episcopi et Confessoris	Proprium Sanctorum	Festa Decembris	2	6 Decembris	Duplex	III. classis
+1207	S. Ambrosii Episcopi et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Decembris	2	7 Decembris	Duplex m.t.v.	III. classis
+1208	In Conceptione Immaculata\\Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Decembris	1	8 Decembris	Duplex I. classis	I. classis
+1209	Die II infra Octavam Conceptionis B. M. V.	Proprium Sanctorum	Festa Decembris	2	9 Decembris		(Omittitur)
+1210	Die III infra Octavam Conceptionis B. M. V.	Proprium Sanctorum	Festa Decembris	2	10 Decembris		(Omittitur)
+1211	S. Damasii Papæ et Confessoris	Proprium Sanctorum	Festa Decembris	2	11 Decembris	Semiduplex	III. classis
+1212	Die V infra Octavam Conceptionis B. M. V.	Proprium Sanctorum	Festa Decembris	2	12 Decembris		(Omittitur)
+1213	S. Luciæ Virginis et Martyris	Proprium Sanctorum	Festa Decembris	2	13 Decembris	Duplex	III. classis
+1214	Die VII infra Octavam Conceptionis B. M. V.	Proprium Sanctorum	Festa Decembris	2	14 Decembris		(Omittitur)
+1215	In Octava Conceptionis B. M. V.	Proprium Sanctorum	Festa Decembris	2	15 Decembris	Duplex majus	(Omittitur)
+1216	S. Eusebii Episcopi et Martyris	Proprium Sanctorum	Festa Decembris	2	16 Decembris	Semiduplex	III. classis
+1221	S. Thomæ Apostoli	Proprium Sanctorum	Festa Decembris	2	21 Decembris	Duplex II. classis	II. classis
+0100	Festa Januarii	Proprium Sanctorum	Festa Januarii	1			
+0114	S. Hilarii Episcopi et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Januarii	2	14 Januarii	Duplex m.t.v.	III. classis
+0115	S. Pauli Primi Eremitæ et Confessoris	Proprium Sanctorum	Festa Januarii	2	15 Januarii	Duplex m.t.v.	III. classis
+0116	S. Marcelli Papæ et Confessoris	Proprium Sanctorum	Festa Januarii	2	16 Januarii	Semiduplex	III. classis
+0117	S. Antonii Abbatis	Proprium Sanctorum	Festa Januarii	2	17 Januarii	Duplex	III. classis
+0118	In Cathedra Sancti Petri Apostoli Romæ	Proprium Sanctorum	Festa Januarii	2	18 Januarii	Duplex majus	(Omittitur)
+0119	Ss. Marii, Marthæ, Audifacis et Abachum Martyrum	Proprium Sanctorum	Festa Januarii	2	19 Januarii	Simplex	(Commemoratio tantum)
+0120	Ss. Fabiani et Sebastiani Martyrum	Proprium Sanctorum	Festa Januarii	2	20 Januarii	Duplex	III. classis
+0121	S. Agnetis Virginis et Martyris	Proprium Sanctorum	Festa Januarii	2	21 Januarii	Duplex	III. classis
+0122	Ss. Vincentii et Anastasii Martyrum	Proprium Sanctorum	Festa Januarii	2	22 Januarii	Semiduplex	III. classis
+0123	S. Raymundi de Peñafort Confessoris	Proprium Sanctorum	Festa Januarii	2	23 Januarii	Semiduplex	III. classis
+0124	S. Timothei Episcopis et Martyris	Proprium Sanctorum	Festa Januarii	2	24 Januarii	Duplex	III. classis
+0125	In Conversione Sancti Pauli Apostoli	Proprium Sanctorum	Festa Januarii	2	25 Januarii	Duplex majus	III. classis
+0126	S. Polycarpi Episcopi et Martyris	Proprium Sanctorum	Festa Januarii	2	26 Januarii	Duplex	III. classis
+0127	S. Joannis Chrysostomi\\Episcopi Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Januarii	2	27 Januarii	Duplex m.t.v.	III. classis
+0128	S. Petri Nolasci Confessoris	Proprium Sanctorum	Festa Januarii	2	28 Januarii	Duplex m.t.v.	III. classis
+0129	S. Francisci Salesii\\Episcopi Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Januarii	2	29 Januarii	Duplex	III. classis
+0130	S. Martinæ Virginis et Martyris	Proprium Sanctorum	Festa Januarii	2	30 Januarii	Duplex	III. classis
+0131	S. Joannis Bosco Confessoris	Proprium Sanctorum	Festa Januarii	2	31 Januarii	Duplex	III. classis
+0200	Festa Februarii	Proprium Sanctorum	Festa Februarii	1			
+0201	S. Ignatii Episcopi et Martyris	Proprium Sanctorum	Festa Februarii	2	1 Februarii	Duplex	III. classis
+0202	In Purificatione Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Februarii	2	2 Februarii	Duplex II. classis	II. classis
+0203	S. Blasii Episcopi et Martyris	Proprium Sanctorum	Festa Februarii	2	3 Februarii	Simplex	(Commemoratio tantum)
+0204	S. Andreæ Corsini Episcopi et Confessoris	Proprium Sanctorum	Festa Februarii	2	4 Februarii	Duplex m.t.v.	III. classis
+0205	S. Agathæ Virginis et Martyris	Proprium Sanctorum	Festa Februarii	2	5 Februarii	Duplex	III. classis
+0206	S. Titi Episcopi et Confessoris	Proprium Sanctorum	Festa Februarii	2	6 Februarii	Duplex m.t.v.	III. classis
+0207	S. Romualdi Abbatis	Proprium Sanctorum	Festa Februarii	2	7 Februarii	Duplex m.t.v.	III. classis
+0208	S. Joannis de Matha Confessoris	Proprium Sanctorum	Festa Februarii	2	8 Februarii	Duplex m.t.v.	III. classis
+0209	S. Cyrilli Episcopi Alexandrini\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Februarii	2	9 Februarii	Duplex m.t.v.	III. classis
+0210	S. Scholasticæ Virginis	Proprium Sanctorum	Festa Februarii	2	10 Februarii	Duplex	III. classis
+0211	In Apparitione Beatæ Mariæ Virginis Immaculatæ	Proprium Sanctorum	Festa Februarii	2	11 Februarii	Duplex majus	III. classis
+0212	Ss. Septem Fundatorum\\Ordinis Servorum B. M. V. Confessorum	Proprium Sanctorum	Festa Februarii	2	12 Februarii	Duplex	III. classis
+0214	S. Valentini Presbyteri et Martyris	Proprium Sanctorum	Festa Februarii	2	14 Februarii	Simplex	(Commemoratio tantum)
+0215	Ss. Faustini et Jovitæ Martyrum	Proprium Sanctorum	Festa Februarii	2	15 Februarii	Simplex	(Commemoratio tantum)
+0218	S. Simeonis Episcopi et Martyris	Proprium Sanctorum	Festa Februarii	2	18 Februarii	Simplex	(Commemoratio tantum)
+0222	In Cathedra S. Petri Apostoli Antiochiæ	Proprium Sanctorum	Festa Februarii	2	22 Februarii	Duplex majus	II. classis
+0223	S. Petri Damiani\\Episcopi Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Februarii	2	23 Februarii	Duplex	III. classis
+0224b	In Vigilia S. Matthiæ Apostoli	Proprium Sanctorum	Festa Februarii	2	24 Februarii in anno bissextili extra Quadragesimam	Simplex	(Omittitur)
+0224	S. Matthiæ Apostoli	Proprium Sanctorum	Festa Februarii	2	24 Februarii aut 25 in anno bissextili	Duplex II. classis	II. classis
+0227	S. Gabrielis a Virgine Perdolente Confessoris	Proprium Sanctorum	Festa Februarii	2	27 Februarii aut 28 in anno bissextili	Duplex	III. classis
+0300	Festa Martii	Proprium Sanctorum	Festa Martii	1			
+0304	S. Casimiri Confessoris	Proprium Sanctorum	Festa Martii	2	4 Martii	Semiduplex	III. classis
+0306	Ss. Perpetuæ et Felicitatis Martyrum	Proprium Sanctorum	Festa Martii	2	6 Martii	Duplex	III. classis
+0307	S.Thomæ de Aquino\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Martii	2	7 Martii	Duplex	III. classis
+0308	S. Joannis de Deo Confessoris	Proprium Sanctorum	Festa Martii	2	8 Martii	Duplex	III. classis
+0309	S. Franciscæ Romanæ Viduæ	Proprium Sanctorum	Festa Martii	2	9 Martii	Duplex	III. classis
+0310	Ss. Quadraginta Martyrum	Proprium Sanctorum	Festa Martii	2	10 Martii	Semiduplex	III. classis
+0312	S. Gregorii Magni Papæ\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Martii	2	12 Martii	Duplex	III. classis
+0317	S. Patricii Episcopi et Confessoris	Proprium Sanctorum	Festa Martii	2	17 Martii	Duplex	III. classis
+0318	S. Cyrilli Episcopi Hierosolymitani\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Martii	2	18 Martii	Duplex	III. classis
+0319	S. Joseph Sponsi B. M. V. Confessoris	Proprium Sanctorum	Festa Martii	2	19 Martii	Duplex I. classis	I. classis
+0321	S. Benedicti Abbatis	Proprium Sanctorum	Festa Martii	2	21 Martii	Duplex majus	III. classis
+0324	S. Gabrielis Archangeli	Proprium Sanctorum	Festa Martii	2	24 Martii	Duplex majus	III. classis
+0325	In Annuntiatione Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Martii	1	25 Martii	Duplex I. classis	I. classis
+0327	S. Joannis Damasceni Confessoris	Proprium Sanctorum	Festa Martii	2	27 Martii	Duplex m.t.v.	III. classis
+0328	S. Joannis a Capistrano Confessoris	Proprium Sanctorum	Festa Martii	2	28 Martii	Semiduplex	III. classis
+Q5F6b	Septem Dolorum Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Martii	2	Feria VI post Dominicam Passionis	Duplex majus	(Commemoratio tantum)
+0400	Festa Aprilis	Proprium Sanctorum	Festa Aprilis	1			
+0402	S. Francisci de Paula Confessoris	Proprium Sanctorum	Festa Aprilis	2	2 Aprilis	Duplex	III. classis
+0404	S. Isidori Episcopi\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Aprilis	2	4 Aprilis	Duplex	III. classis
+0405	S. Vincentii Ferrerii Confessoris	Proprium Sanctorum	Festa Aprilis	2	5 Aprilis	Duplex	III. classis
+0411	S. Leonis Magni Papæ\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Aprilis	2	11 Aprilis	Duplex m.t.v.	III. classis
+0413	S. Hermenegildi Martyris	Proprium Sanctorum	Festa Aprilis	2	13 Aprilis	Semiduplex	III. classis
+0414	S. Justini Martyris	Proprium Sanctorum	Festa Aprilis	2	14 Aprilis	Duplex	III. classis
+0417	S. Aniceti Papæ et Martyris	Proprium Sanctorum	Festa Aprilis	2	17 Aprilis	Simplex	(Commemoratio tantum)
+0421	S. Anselmi Episcopi\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Aprilis	2	21 Aprilis	Duplex	III. classis
+0422	Ss. Soteris et Caji Paparum et Martyrum	Proprium Sanctorum	Festa Aprilis	2	22 Aprilis	Semiduplex	III. classis
+0423	S. Georgii Martyris	Proprium Sanctorum	Festa Aprilis	2	23 Aprilis	Semiduplex	III. classis
+0424	S. Fidelis a Sigmaringa Martyris	Proprium Sanctorum	Festa Aprilis	2	24 Aprilis	Duplex	III. classis
+0425	S. Marci Evangelistæ	Proprium Sanctorum	Festa Aprilis	2	25 Aprilis	Duplex II. classis	II. classis
+0426	Ss. Cleti et Marcellini Paparum et Martyrum	Proprium Sanctorum	Festa Aprilis	2	26 Aprilis	Semiduplex	III. classis
+0427	S. Petri Canisii Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Aprilis	2	27 Aprilis	Duplex m.t.v.	III. classis
+0428	S. Pauli a Cruce Confessoris	Proprium Sanctorum	Festa Aprilis	2	28 Aprilis	Duplex m.t.v.	III. classis
+0429	S. Petri Martyris	Proprium Sanctorum	Festa Aprilis	2	29 Aprilis	Duplex	III. classis
+0430	S. Catharinæ Senensis Virginis	Proprium Sanctorum	Festa Aprilis	2	30 Aprilis	Duplex	III. classis
+P2F4	In Solemnitate Sancti Joseph\\Sponsi Beatæ Mariæ Virginis\\Confessoris et Ecclesiæ universalis Patroni	Proprium Sanctorum	Festa Aprilis	2	Feria IV infra Hebdomadam II post Pascha	Duplex I. classis	(Omittitur)
+0500	Festa Maii	Proprium Sanctorum	Festa Maii	1			
+0501	Ss. Philippi et Jacobi Apostolorum	Proprium Sanctorum	Festa Maii	2	1 Maii (rubricæ Pii X)	Duplex II. classis	(Omittitur : cf. 11 Maii)
+0501b	In Festo Sancti Joseph Opificis	Proprium Sanctorum	Festa Maii	2	1 Maii (rubricæ Joannis XXIII)	(Omittitur)	I. classis
+0502	S. Athanasii Episcopi Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Maii	2	2 Maii	Duplex	III. classis
+0503	In Inventione Sanctæ Crucis	Proprium Sanctorum	Festa Maii	2	3 Maii	Duplex II. classis	(Omittitur)
+0504	S. Monicæ Viduæ	Proprium Sanctorum	Festa Maii	2	4 Maii	Duplex	III. classis
+0505	S. Pii V Papæ et Confessoris	Proprium Sanctorum	Festa Maii	2	5 Maii	Duplex m.t.v.	III. classis
+0506	S. Joannis Apostoli ante Portam Latinam	Proprium Sanctorum	Festa Maii	2	6 Maii	Duplex majus	(Omittitur)
+0507	S. Stanislai Episcopi et Martyris	Proprium Sanctorum	Festa Maii	2	7 Maii	Duplex	III. classis
+0508	In Apparitione S. Michaëlis Archangeli	Proprium Sanctorum	Festa Maii	2	8 Maii	Duplex majus	(Omittitur)
+0509	S. Gregorii Nazianzeni\\Episcopi Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Maii	2	9 Maii	Duplex	III. classis
+0510	S. Antonini Episcopi et Confessoris	Proprium Sanctorum	Festa Maii	2	10 Maii	Duplex m.t.v.	III. classis
+0511	Ss. Philippi et Jacobi Apostolorum	Proprium Sanctorum	Festa Maii	2	11 Maii	(Omittitur : cf. 1 Maii)	II. classis
+0512	Ss. Nerei, Achillei et Domitillæ Virginis\\atque Pancratii Martyrum	Proprium Sanctorum	Festa Maii	2	12 Maii	Semiduplex	III. classis
+0513	S. Roberti Bellarmino\\Episcopi Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Maii	2	13 Maii	Duplex m.t.v.	III. classis
+0514	S. Bonifatii Martyris	Proprium Sanctorum	Festa Maii	2	14 Maii	Simplex	(Commemoratio tantum)
+0515	S. Joannis Baptistæ de la Salle Confessoris	Proprium Sanctorum	Festa Maii	2	15 Maii	Duplex m.t.v.	III. classis
+0516	S. Ubaldi Episcopi et Confessoris	Proprium Sanctorum	Festa Maii	2	16 Maii	Semiduplex	III. classis
+0517	S. Paschalis Baylon Confessoris	Proprium Sanctorum	Festa Maii	2	17 Maii	Duplex	III. classis
+0518	S. Venantii Martyris	Proprium Sanctorum	Festa Maii	2	18 Maii	Duplex	III. classis
+0519	S. Petri Celestini Papæ et Confessoris	Proprium Sanctorum	Festa Maii	2	19 Maii	Duplex	III. classis
+0520	S. Bernardini Senensis Confessoris	Proprium Sanctorum	Festa Maii	2	20 Maii	Semiduplex	III. classis
+0525	S. Gregorii VII Papæ et Confessoris	Proprium Sanctorum	Festa Maii	2	25 Maii	Duplex	III. classis
+0526	S. Philippi Neri Confessoris	Proprium Sanctorum	Festa Maii	2	26 Maii	Duplex m.t.v.	III. classis
+0527	S. Bedæ Venerabilis Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Maii	2	27 Maii	Duplex m.t.v.	III. classis
+0528	S. Augustini Episcopi et Confessoris	Proprium Sanctorum	Festa Maii	2	28 Maii	Duplex m.t.v.	III. classis
+0529	S. Mariæ Magdalenæ de Pazzis Virginis	Proprium Sanctorum	Festa Maii	2	29 Maii	Semiduplex	III. classis
+0530	S. Felicis I Papæ et Martyris	Proprium Sanctorum	Festa Maii	2	30 Maii	Simplex	(Commemoratio tantum)
+0531	S. Angelæ Mericiæ Virginis	Proprium Sanctorum	Festa Maii	2	31 Maii (rubricæ Pii X)	Duplex	(Omittitur : cf. 1 Junii)
+0531b	In Festo Beatæ Mariæ Virginis Reginæ	Proprium Sanctorum	Festa Maii	2	31 Maii (rubricæ Joannis XXIII)	(Omittitur)	II. classis
+0600	Festa Junii	Proprium Sanctorum	Festa Junii	1			
+0601	S. Angelæ Mericiæ Virginis	Proprium Sanctorum	Festa Junii	2	1 Junii	(Omittitur : cf. 31 Maii)	III. classis
+0602	Ss. Marcellini, Petri, atque Erasmi Martyrum	Proprium Sanctorum	Festa Junii	2	2 Junii	Simplex	(Commemoratio tantum)
+0604	S. Francisci Caracciolo Confessoris	Proprium Sanctorum	Festa Junii	2	4 Junii	Duplex	III. classis
+0605	S. Bonifatii Episcopi et Martyris	Proprium Sanctorum	Festa Junii	2	5 Junii	Duplex	III. classis
+0606	S. Norberti Episcopi et Confessoris	Proprium Sanctorum	Festa Junii	2	6 Junii	Duplex	III. classis
+0609	Ss. Primi et Feliciani Martyrum	Proprium Sanctorum	Festa Junii	2	9 Junii	Simplex	(Commemoratio tantum)
+0610	S. Margaritæ Reginæ Viduæ	Proprium Sanctorum	Festa Junii	2	10 Junii	Semiduplex	III. classis
+0611	S. Barnabæ Apostoli	Proprium Sanctorum	Festa Junii	2	11 Junii	Duplex majus	III. classis
+0612	S. Joannis a S. Facundo Confessoris	Proprium Sanctorum	Festa Junii	2	12 Junii	Duplex m.t.v.	III. classis
+0613	S. Antonii de Padua Confessoris	Proprium Sanctorum	Festa Junii	2	13 Junii	Duplex	III. classis
+0614	S. Basilii Magni Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Junii	2	14 Junii	Duplex m.t.v.	III. classis
+0615	Ss. Viti, Modesti atque Crescentiæ Martyrum	Proprium Sanctorum	Festa Junii	2	15 Junii	Simplex	(Commemoratio tantum)
+0617	S. Gregorii Barbadici Episcopi et Confessoris	Proprium Sanctorum	Festa Junii	2	17 Junii	(Omittitur)	III. classis
+0618	S. Ephræm Syri Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Junii	2	18 Junii	Duplex	III. classis
+0619	S. Julianæ de Falconeriis Virginis	Proprium Sanctorum	Festa Junii	2	19 Junii	Duplex	III. classis
+0620	S. Silverii Papæ et Martyris	Proprium Sanctorum	Festa Junii	2	20 Junii	Simplex	(Commemoratio tantum)
+0621	S. Aloisii Gonzagæ Confessoris	Proprium Sanctorum	Festa Junii	2	21 Junii	Duplex	III. classis
+0622	S. Paulini Episcopi et Confessoris	Proprium Sanctorum	Festa Junii	2	22 Junii	Duplex	III. classis
+0623	In Vigilia Nativitatis Sancti Joannis Baptistæ	Proprium Sanctorum	Festa Junii	2	23 Junii	Simplex	II. classis
+0624	In Nativitate Sancti Joannis Baptistæ	Proprium Sanctorum	Festa Junii	2	24 Junii	Duplex I. classis	I. classis
+0625	S. Gulielmi Abbatis	Proprium Sanctorum	Festa Junii	2	25 Junii	Duplex	III. classis
+0626	Ss. Joannis et Pauli Martyrum	Proprium Sanctorum	Festa Junii	2	26 Junii	Duplex	III. classis
+0627	Die VI infra Octavam S. Joannis	Proprium Sanctorum	Festa Junii	2	27 Junii	Semiduplex	(Omittitur)
+0628	S. Irenæi Episcopi\\Martyris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Junii	2	28 Junii (rubricæ Pii X)	Duplex	(Omittitur : cf. 3 Julii)
+0628b	In Vigilia Ss. Petri et Pauli Apostolorum	Proprium Sanctorum	Festa Junii	2	28 Junii (rubricæ Joannis XXIII)	(Omittitur)	II. classis
+0629	Ss. Petri et Pauli Apostolorum	Proprium Sanctorum	Festa Junii	2	29 Junii	Duplex I. classis	I. classis
+0630	In Commemoratione S. Pauli Apostoli	Proprium Sanctorum	Festa Junii	2	30 Junii	Duplex majus	III. classis
+0700	Festa Julii	Proprium Sanctorum	Festa Julii	1			
+0701	Pretiosissimi Sanguinis\\Domini nostri Jesu Christi	Proprium Sanctorum	Festa Julii	2	1 Julii	Duplex I. classis	I. classis
+0702	In Visitatione Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Julii	2	2 Julii	Duplex II. classis	II. classis
+0703	S. Leonis II Papæ et Confessoris	Proprium Sanctorum	Festa Julii	2	3 Julii (rubricæ Pii X)	Semiduplex	(Omittitur)
+0703b	S. Irenæi Episcopi\\Martyris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Julii	2	3 Julii (rubricæ Joannis XXIII)	(Omittitur : cf. 28 Junii)	III. classis
+0704	Die VI infra Octavam Ss. Petri et Pauli	Proprium Sanctorum	Festa Julii	2	4 Julii	Semiduplex	(Omittitur)
+0705	S. Antonii Mariæ Zaccaria Confessoris	Proprium Sanctorum	Festa Julii	2	5 Julii	Duplex	III. classis
+0706	In Octava Ss. Petri et Pauli	Proprium Sanctorum	Festa Julii	2	6 Julii	Duplex majus	(Omittitur)
+0707	Ss. Cyrilli et Methodii Pont. et Conf.	Proprium Sanctorum	Festa Julii	2	7 Julii	Duplex	III. classis
+0708	S. Elisabeth Reginæ Viduæ	Proprium Sanctorum	Festa Julii	2	8 Julii	Semiduplex	III. classis
+0710	Ss. Septem Fratrum Martyrum\\ac Rufinæ et Secundæ Virginum et Martyrum	Proprium Sanctorum	Festa Julii	2	10 Julii	Semiduplex	III. classis
+0711	S. Pii I Papæ et Martyris	Proprium Sanctorum	Festa Julii	2	11 Julii	Simplex	(Commemoratio tantum)
+0712	S. Joannis Gualberti Abbatis	Proprium Sanctorum	Festa Julii	2	12 Julii	Duplex	III. classis
+0713	S. Anacleti Papæ et Martyris	Proprium Sanctorum	Festa Julii	2	13 Julii	Semiduplex	(Omittitur)
+0714	S. Bonaventuræ Episcopi\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Julii	2	14 Julii	Duplex m.t.v.	III. classis
+0715	S. Henrici Imperatoris Confessoris	Proprium Sanctorum	Festa Julii	2	15 Julii	emiduplex m.t.v.	III. classis
+0716	In Commemoratione Beatæ Mariæ Virginis\\de Monte Carmelo	Proprium Sanctorum	Festa Julii	2	16 Julii	Duplex majus	(Commemoratio tantum)
+0717	S. Alexii Confessoris	Proprium Sanctorum	Festa Julii	2	17 Julii	Semiduplex	(Commemoratio tantum)
+0718	S. Camilli de Lellis Confessoris	Proprium Sanctorum	Festa Julii	2	18 Julii	Duplex m.t.v.	III. classis
+0719	S. Vincentii a Paulo Confessoris	Proprium Sanctorum	Festa Julii	2	19 Julii	Duplex m.t.v.	III. classis
+0720	S. Hieronymi Æmiliani Confessoris	Proprium Sanctorum	Festa Julii	2	20 Julii	Duplex m.t.v.	III. classis
+0721	S. Praxedis Virginis	Proprium Sanctorum	Festa Julii	2	21 Julii (rubricæ Pii X)	Simplex	(Commemoratio tantum)
+0721b	S. Laurentii a Brundusio Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Julii	2	21 Julii (rubricæ Joannis XXIII)	(Omittitur)	III. classis
+0722	S. Mariæ Magdalenæ Pœnitentis	Proprium Sanctorum	Festa Julii	2	22 Julii	Duplex	III. classis
+0723	S. Apollinaris Episcopi et Martyris	Proprium Sanctorum	Festa Julii	2	23 Julii	Duplex	III. classis
+0724	In Vigilia S. Jacobi	Proprium Sanctorum	Festa Julii	2	24 Julii	Simplex	(Omittitur)
+0724b	S. Christinæ Virginis et Martyris	Proprium Sanctorum	Festa Julii	2	24 Julii	(Commemoratio tantum)	(Commemoratio tantum)
+0725	S. Jacobi Apostoli	Proprium Sanctorum	Festa Julii	2	25 Julii	Duplex II. classis	II. classis
+0726	S. Annæ Matris B. M. V.	Proprium Sanctorum	Festa Julii	2	26 Julii	Duplex II. classis	II. classis
+0727	S. Pantaleonis Martyris	Proprium Sanctorum	Festa Julii	2	27 Julii	Simplex	(Commemoratio tantum)
+0728	Ss. Nazarii et Celsi Martyrum, Victoris I Papæ et Martyris ac Innocentii I Papæ et Confessoris	Proprium Sanctorum	Festa Julii	2	28 Julii	Semiduplex	III. classis
+0729	S. Marthæ Virginis	Proprium Sanctorum	Festa Julii	2	29 Julii	Semiduplex	III. classis
+0730	S. Abdon et Sennen Martyrum	Proprium Sanctorum	Festa Julii	2	30 Julii	Simplex	(Commemoratio tantum)
+0731	S. Ignatii Confessoris	Proprium Sanctorum	Festa Julii	2	31 Julii	Duplex majus	III. classis
+0800	Festa Augusti	Proprium Sanctorum	Festa Augusti	1			
+0801	S. Petri ad Vincula	Proprium Sanctorum	Festa Augusti	2	1 Augusti	Duplex majus	(Omittitur)
+0802	S. Alfonsi Mariæ de Ligorio\\Episcopi Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Augusti	2	2 Augusti	Duplex m.t.v.	III. classis
+0803	In Inventione S. Stephani Protomartyris	Proprium Sanctorum	Festa Augusti	2	3 Augusti	Semiduplex	(Omittitur)
+0804	S. Dominici Confessoris	Proprium Sanctorum	Festa Augusti	2	4 Augusti	Duplex majus m.t.v.	III. classis
+0805	In Dedicatione Sanctæ Mariæ ad Nives	Proprium Sanctorum	Festa Augusti	2	5 Augusti	Duplex majus	III. classis
+0806	In Transfiguratione\\Domini nostri Jesu Christi	Proprium Sanctorum	Festa Augusti	2	6 Augusti	Duplex II. classis	II. classis
+0807	S. Cajetani Confessoris	Proprium Sanctorum	Festa Augusti	2	7 Augusti	Duplex	III. classis
+0808	Ss. Cyriaci, Largi et Smaragdi Martyrum	Proprium Sanctorum	Festa Augusti	2	8 Augusti	Semiduplex	(Omittitur)
+0809	S. Joannis Mariæ Vianney Confessoris	Proprium Sanctorum	Festa Augusti	2	9 Augusti	Duplex m.t.v.	(Omittitur : cf. 8 Augusti)
+0809b	In Vigilia S. Laurentii	Proprium Sanctorum	Festa Augusti	2	9 Augusti	(Omittitur)	III. classis
+0810	S. Laurentii Martyris	Proprium Sanctorum	Festa Augusti	2	10 Augusti	Duplex II. classis	II. classis
+0811	Ss. Tiburtii et Susannæ Martyrum	Proprium Sanctorum	Festa Augusti	2	11 Augusti	Simplex	(Commemoratio tantum)
+0812	S. Claræ Virginis	Proprium Sanctorum	Festa Augusti	2	12 Augusti	Duplex	III. classis
+0813	Ss. Hippolyti et Cassiani Martyrum	Proprium Sanctorum	Festa Augusti	2	13 Augusti	Simplex	(Commemoratio tantum)
+0814	In Vigilia Assumptionis\\Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Augusti	2	14 Augusti	Simplex	II. classis
+0815	In Assumptione Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Augusti	1	15 Augusti	Duplex I. classis	I. classis
+0816	S. Joachim Confessoris\\Patris Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Augusti	2	16 Augusti	Duplex II. classis	II. classis
+0817	S. Hyacinthi Confessoris	Proprium Sanctorum	Festa Augusti	2	17 Augusti	Duplex m.t.v.	III. classis
+0818	Die IV infra Octavam Assumptionis	Proprium Sanctorum	Festa Augusti	2	18 Augusti	Semiduplex	(Omittitur)
+0819	S. Joannis Eudes Confessoris	Proprium Sanctorum	Festa Augusti	2	19 Augusti	Duplex	III. classis
+0820	S. Bernardi Abbatis et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Augusti	2	20 Augusti	Duplex	III. classis
+0821	S. Joannæ Franciscæ Frémiot de Chantal Viduæ	Proprium Sanctorum	Festa Augusti	2	21 Augusti	Duplex	III. classis
+0822	In Festo Immaculati Cordis Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Augusti	2	22 Augusti	Duplex II. classis	II. classis
+0823	S. Philippi Benitii Confessoris	Proprium Sanctorum	Festa Augusti	2	23 Augusti	Duplex m.t.v.	III. classis
+0824	S. Bartholomæi Apostoli	Proprium Sanctorum	Festa Augusti	2	24 Augusti	Duplex II. classis	II. classis
+0825	S. Ludovici Regis Confessoris	Proprium Sanctorum	Festa Augusti	2	25 Augusti	Semiduplex	III. classis
+0826	S. Zephyrini Papæ et Martyris	Proprium Sanctorum	Festa Augusti	2	26 Augusti	Simplex	(Commemoratio tantum)
+0827	S. Josephi Calasanctii Confessoris	Proprium Sanctorum	Festa Augusti	2	27 Augusti	Duplex m.t.v.	III. classis
+0828	S. Augustini Episcopi\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Augusti	2	28 Augusti	Duplex	III. classis
+0829	In Decollatione Sancti Joannis Baptistæ	Proprium Sanctorum	Festa Augusti	2	29 Augusti	Duplex majus	III. classis
+0830	S. Rosæ a Sancta Maria Limanæ Virginis	Proprium Sanctorum	Festa Augusti	2	30 Augusti	Duplex	III. classis
+0831	S. Raymundi Nonnati Confessoris	Proprium Sanctorum	Festa Augusti	2	31 Augusti	Duplex m.t.v.	III. classis
+0900	Festa Septembris	Proprium Sanctorum	Festa Septembris	1			
+0901	S. Ægidii Abbatis	Proprium Sanctorum	Festa Septembris	2	1 Septembris	Simplex	(Commemoratio tantum)
+0902	S. Stephani Hungariæ Regis Confessoris	Proprium Sanctorum	Festa Septembris	2	2 Septembris	Semiduplex m.t.v.	III. classis
+0903	S. Pii X Papæ Confessoris	Proprium Sanctorum	Festa Septembris	2	3 Septembris	Duplex m.t.v.	III. classis
+0905	S. Laurentii Justiniani Episcopi et Confessoris	Proprium Sanctorum	Festa Septembris	2	5 Septembris	Semiduplex m.t.v.	III. classis
+0908	In Nativitate Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Septembris	2	8 Septembris	Duplex II. classis	II. classis
+0909	S. Gorgonii Martyris	Proprium Sanctorum	Festa Septembris	2	9 Septembris	Simplex	(Commemoratio tantum)
+0910	S. Nicolai de Tolentino Confessoris	Proprium Sanctorum	Festa Septembris	2	10 Septembris	Duplex	III. classis
+0911	Ss. Proti et Hyacinthi Martyrum	Proprium Sanctorum	Festa Septembris	2	11 Septembris	Simplex	(Commemoratio tantum)
+0912	In Festo Sanctissimi Nominis\\Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Septembris	2	12 Septembris	Duplex majus	III. classis
+0914	In Exaltatione Sanctæ Crucis	Proprium Sanctorum	Festa Septembris	2	14 Septembris	Duplex majus	II. classis
+0915	Septem Dolorum Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Septembris	2	15 Septembris	Duplex II. classis	II. classis
+0916	Ss. Cornelii Papæ et Cypriani Episcopi Martyrum	Proprium Sanctorum	Festa Septembris	2	16 Septembris	Semiduplex	III. classis
+0917	In Impressione Ss. Stigmatum\\S. Francisci Confessoris	Proprium Sanctorum	Festa Septembris	2	17 Septembris	Duplex	(Commemoratio tantum)
+0918	S. Josephi a Cupertino Confessoris	Proprium Sanctorum	Festa Septembris	2	18 Septembris	Duplex	III. classis
+0919	S. Januarii Episcopi et Sociorum Martyrum	Proprium Sanctorum	Festa Septembris	2	19 Septembris	Duplex	III. classis
+0920	Ss. Eustachii et Sociorum Martyrum	Proprium Sanctorum	Festa Septembris	2	20 Septembris	Duplex	(Commemoratio tantum)
+0921	S. Matthæi Apostoli et Evangelistæ	Proprium Sanctorum	Festa Septembris	2	21 Septembris	Duplex II. classis	II. classis
+0922	S. Thomæ de Villanova\\Episcopi et Confessoris	Proprium Sanctorum	Festa Septembris	2	22 Septembris	Duplex m.t.v.	III. classis
+0923	S. Lini Papæ et Martyris	Proprium Sanctorum	Festa Septembris	2	23 Septembris	Semiduplex	III. classis
+0924	In Festo Beatæ Mariæ Virginis de Mercede	Proprium Sanctorum	Festa Septembris	2	24 Septembris	Duplex majus	(Commemoratio tantum)
+0926	Ss. Cypriani et Justinæ Martyrum	Proprium Sanctorum	Festa Septembris	2	26 Septembris	Simplex	(Commemoratio tantum)
+0927	Ss. Cosmæ et Damiani Martyrum	Proprium Sanctorum	Festa Septembris	2	27 Septembris	Semiduplex	III. classis
+0928	S. Wenceslai Ducis et Martyris	Proprium Sanctorum	Festa Septembris	2	28 Septembris	Semiduplex	III. classis
+0929	In Dedicatione S. Michaëlis Archangeli	Proprium Sanctorum	Festa Septembris	2	29 Septembris	Duplex I. classis	I. classis
+0930	S. Hieronymi Presbyteri\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Septembris	2	30 Septembris	Duplex	III. classis
+1000	Festa Octobris	Proprium Sanctorum	Festa Octobris	1			
+1001	S. Remigii Episcopi et Confessoris	Proprium Sanctorum	Festa Octobris	2	1 Octobris	Simplex m.t.v.	(Commemoratio tantum)
+1002	Ss. Angelorum Custodum	Proprium Sanctorum	Festa Octobris	2	2 Octobris	Duplex majus	III. classis
+1003	S. Teresiæ a Jesu Infante Virginis	Proprium Sanctorum	Festa Octobris	2	3 Octobris	Duplex	III. classis
+1004	S. Francisci Confessoris	Proprium Sanctorum	Festa Octobris	2	4 Octobris	Duplex majus	III. classis
+1005	Ss. Placidi et Sociorum Martyrum	Proprium Sanctorum	Festa Octobris	2	5 Octobris	Simplex	(Commemoratio tantum)
+1006	S. Brunonis Confessoris	Proprium Sanctorum	Festa Octobris	2	6 Octobris	Duplex	III. classis
+1007	In Festo Sacratissimi Rosarii\\Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Octobris	2	7 Octobris	Duplex II. classis	II. classis
+1008	S. Birgittæ Viduæ	Proprium Sanctorum	Festa Octobris	2	8 Octobris	Duplex	III. classis
+1009	S. Joannis Leonardi Confessoris	Proprium Sanctorum	Festa Octobris	2	9 Octobris	Duplex	III. classis
+1010	S. Francisci Borgiæ Confessoris	Proprium Sanctorum	Festa Octobris	2	10 Octobris	Semiduplex m.t.v.	III. classis
+1011	In Maternitate Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Octobris	2	11 Octobris	Duplex II. classis	II. classis
+1013	S. Eduardi Regis Confessoris	Proprium Sanctorum	Festa Octobris	2	13 Octobris	Semiduplex m.t.v.	III. classis
+1014	S. Callisti Papæ et Martyris	Proprium Sanctorum	Festa Octobris	2	14 Octobris	Duplex	III. classis
+1015	S. Teresiæ Virginis	Proprium Sanctorum	Festa Octobris	2	15 Octobris	Duplex	III. classis
+1016	S. Hedwigis Viduæ	Proprium Sanctorum	Festa Octobris	2	16 Octobris	Semiduplex	III. classis
+1017	S. Margaritæ Mariæ Alacoque Virginis	Proprium Sanctorum	Festa Octobris	2	17 Octobris	Duplex	III. classis
+1018	S. Lucæ Evangelistæ	Proprium Sanctorum	Festa Octobris	2	18 Octobris	Duplex II. classis	II. classis
+1019	S. Petri de Alcantara Confessoris	Proprium Sanctorum	Festa Octobris	2	19 Octobris	Duplex m.t.v.	III. classis
+1020	S. Joannis Cantii Confessoris	Proprium Sanctorum	Festa Octobris	2	20 Octobris	Duplex	III. classis
+1021	S. Hilarionis Abbatis	Proprium Sanctorum	Festa Octobris	2	21 Octobris	Simplex	(Commemoratio tantum)
+1023	S. Antonii Mariæ Claret Episcopi et Confessoris	Proprium Sanctorum	Festa Octobris	2	23 Octobris	Duplex	III. classis
+1024	S. Raphaëlis Archangeli	Proprium Sanctorum	Festa Octobris	2	24 Octobris	Duplex majus	III. classis
+1025	Ss. Chrysanthi et Dariæ Martyrum	Proprium Sanctorum	Festa Octobris	2	25 Octobris	Simplex	(Commemoratio tantum)
+1026	S. Evaristi Papæ et Martyris	Proprium Sanctorum	Festa Octobris	2	26 Octobris	Simplex	(Commemoratio tantum)
+1027	In Vigilia Ss. Simonis et Judæ	Proprium Sanctorum	Festa Octobris	2	27 Octobris	Simplex	(Omittitur)
+1028	Ss. Simonis et Judæ Apostolorum	Proprium Sanctorum	Festa Octobris	2	28 Octobris	Duplex II. classis	II. classis
+1031	In Vigilia Omnium Sanctrum	Proprium Sanctorum	Festa Octobris	2	31 Octobris aut 30 si 31 fuerit Dominica	Simplex	(Omittitur)
+10H5F1	In Festo Domini Nostri Jesu Christi Regis	Proprium Sanctorum	Festa Octobris	2	Dominica ultima Octobris	Duplex I. classis	I. classis
+1100b	Festa Novembris	Proprium Sanctorum	Festa Novembris	1			
+1101	In Festo Omnium Sanctorum	Proprium Sanctorum	Festa Novembris	1	1 Novembris	Duplex I. classis	I. classis
+1102	In Commemoratione\\Omnium Fidelium Defunctorum	Proprium Sanctorum	Festa Novembris	2	2 Novembris	Duplex	I. classis
+1103	Die III infra Octavam Omnium Sanctorum	Proprium Sanctorum	Festa Novembris	2	3 Novembris	Semiduplex	(Omittitur)
+1104	S. Caroli Episcopi et Confessoris	Proprium Sanctorum	Festa Novembris	2	4 Novembris	Duplex m.t.v.	III. classis
+1105	Diebus V-VII infra Octavam Omnium Sanctorum	Proprium Sanctorum	Festa Novembris	2	5-8 Novembris	Semiduplicia	(Omittitur)
+1108	In Octava Omnium Sanctorum	Proprium Sanctorum	Festa Novembris	2	8 Novembris	Duplex majus	(Omittitur)
+1109	In Dedicatione Archibasilicæ Sanctissimi Salvatoris	Proprium Sanctorum	Festa Novembris	2	9 Novembris	Duplex II. classis	II. classis
+1110	S. Andreæ Avellini Confessoris	Proprium Sanctorum	Festa Novembris	2	10 Novembris	Duplex	III. classis
+1111	S. Martini Episcopi et Confessoris	Proprium Sanctorum	Festa Novembris	2	11 Novembris	Duplex	III. classis
+1112	S. Martini Papæ et Martyris	Proprium Sanctorum	Festa Novembris	2	12 Novembris	Semiduplex	III. classis
+1113	S. Didaci Confessoris	Proprium Sanctorum	Festa Novembris	2	13 Novembris	Semiduplex m.t.v.	III. classis
+1114	S. Josaphat Episcopi et Martyris	Proprium Sanctorum	Festa Novembris	2	14 Novembris	Duplex	III. classis
+1115	S. Alberti Magni Episcopi\\Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Novembris	2	15 Novembris	Duplex	III. classis
+1116	S. Gertrudis Virginis	Proprium Sanctorum	Festa Novembris	2	16 Novembris	Duplex	III. classis
+1117	S. Gregorii Thaumaturgi Episcopi et Confessoris	Proprium Sanctorum	Festa Novembris	2	17 Novembris	Semiduplex	III. classis
+1118	In Dedicatione Basilicarum\\Ss. Apostolorum Petri et Pauli	Proprium Sanctorum	Festa Novembris	2	18 Novembris	Duplex majus	III. classis
+1119	S. Elisabeth Viduæ	Proprium Sanctorum	Festa Novembris	2	19 Novembris	Duplex	III. classis
+1120	S. Felicis de Valois Confessoris	Proprium Sanctorum	Festa Novembris	2	20 Novembris	Duplex m.t.v.	III. classis
+1121	In Præsentatione Beatæ Mariæ Virginis	Proprium Sanctorum	Festa Novembris	2	21 Novembris	Duplex majus	III. classis
+1122	S. Cæciliæ Virginis et Martyris	Proprium Sanctorum	Festa Novembris	2	22 Novembris	Duplex	III. classis
+1123	S. Clementis Papæ et Martyris	Proprium Sanctorum	Festa Novembris	2	23 Novembris	Duplex	III. classis
+1124	S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris	Proprium Sanctorum	Festa Novembris	2	24 Novembris	Duplex m.t.v.	III. classis
+1125	S. Catharinæ Virginis et Martyris	Proprium Sanctorum	Festa Novembris	2	25 Novembris	Duplex	III. classis
+1126	S. Silvestri Abbatis	Proprium Sanctorum	Festa Novembris	2	26 Novembris	Duplex	III. classis
+CS	Commune Sanctorum	Commune Sanctorum	Commune Sanctorum	1			
+VIAP	In Vigiliis Apostolorum	Commune Sanctorum	In Vigiliis Apostolorum	2			
+APEX	Commune Apostolorum\\extra Tempus Paschale	Commune Sanctorum	Commune Apostolorum extra T. P.	2			
+EVEX	Commune Evangelistarum\\extra Tempus Paschale	Commune Sanctorum	Commune Evangelistarum extra T. P.	2			
+APTP	Commune Apostolorum\\et Evangelistarum\\Tempore Paschali	Commune Sanctorum	Commune Apostolorum et Evangelistarum T. P.	2			
+UMEX	Commune unius Martyris\\extra Tempus Paschale	Commune Sanctorum	Commune unius Martyris extra T. P.	2			
+PMEX	Commune plurimorum Martyrum\\extra Tempus Paschale	Commune Sanctorum	Commune plurimorum Martyrum extra T. P.	2			
+MRTP	Commune unius aut plurimorum Martyrum\\Tempore Paschali	Commune Sanctorum	Commune unius aut plurimorum Martyrum T. P.	2			
+COPO	Commune Confessoris Pontificis	Commune Sanctorum	Commune Confessoris Pontificis	2			
+CODO	Commune Doctorum Ecclesiæ	Commune Sanctorum	Commune Doctorum Ecclesiæ	2			
+CONP	Commune Confessoris non Pontificis	Commune Sanctorum	Commune Confessoris non Pontificis	2			
+COAB	Commune Abbatum	Commune Sanctorum	Commune Abbatum	2			
+MU	Commune Virginum aut non Virginum	Commune Sanctorum	Commune Virginum aut non Virginum	2			
+CDED	Commune Dedicationis Ecclesiæ	Commune Sanctorum	Commune Dedicationis Ecclesiæ	2			
+CBMV	Commune Beatæ Mariæ Virginis	Commune Sanctorum	Commune Beatæ Mariæ Virginis	2			
+CSMS	De Sancta Maria in Sabbato	Commune Sanctorum	De Sancta Maria in Sabbato	2			
+OPBM	Officium Parvum\\Beatæ Mariæ Virginis	Officium Parvum B. M. V.	Officium Parvum B. M. V.	2			
+ODEF	Officium Defunctorum	Officium Defunctorum	Officium Defunctorum	2			
