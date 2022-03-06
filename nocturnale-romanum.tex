@@ -1,0 +1,224 @@
+% !TEX TS-program = lualatex
+% !TEX encoding = UTF-8
+
+\documentclass[11pt, twoside]{book}
+
+%%%%%%%%%%%%%%% STANDARD PACKAGES %%%%%%%%%%%%%%%
+
+%% This is the format of the recent Solesmes books.
+\usepackage[paperwidth=135mm, paperheight=205mm]{geometry}
+
+\usepackage{fontspec}
+\usepackage[medievallatin]{babel}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{expl3}
+\usepackage{refcount}
+\usepackage{needspace}
+
+%%%%%%%%%%%%%%% GEOMETRY %%%%%%%%%%%%%%%
+
+%% This should mimic the layout of the recent Solesmes books.
+\geometry{
+inner=15mm,
+outer=10mm,
+top=15mm,
+bottom=15mm,
+headsep=3mm,
+}
+
+%% General scale of all graphical elements.
+%% Values different from 1 are largely untested.
+%% Used in those commands (e.g. everything FontSpec) that use a scale parameter.
+\newcommand{\customscale}{1}
+
+%% Provide the command \fpeval as a copy of the code-level \fp_eval:n.
+%% \fpeval allows to evaluate floating point calculation for scaled parameters, e.g. \setSomeStretchFactor{\fpeval{0,6 * \customscale}}
+\ExplSyntaxOn
+\cs_new_eq:NN \fpeval \fp_eval:n
+\ExplSyntaxOff
+
+%%%%%%%%%%%%%%% INDICES %%%%%%%%%%%%%%%
+
+\usepackage{imakeidx}
+
+\indexsetup{level=\section*,toclevel=section,noclearpage,othercode=\footnotesize}
+\makeindex[name=I,title=Index Invitatorium,columns=2,columnseprule]
+\makeindex[name=H,title=Index Hymnorum,columns=1]
+\makeindex[name=A,title=Index Antiphonarum,columns=2,columnseprule]
+\makeindex[name=R,title=Index Responsoriorum,columns=2,columnseprule]
+\makeindex[name=P,title=Index Psalmorum,columns=2,columnseprule]
+\makeindex[name=T,title=Toni Communes,columns=1]
+
+%%%%%%%%%%%%%%% GREGORIO CONFIG %%%%%%%%%%%%%%%
+
+\usepackage[autocompile]{gregoriotex}
+
+%% text above lines shall be of color gregoriocolor
+\grechangestyle{abovelinestext}{\color{gregoriocolor}\footnotesize}
+%% fine-tuning of space beween the staff and the text above lines
+\newcommand{\altraise}{-2.4mm}
+\grechangedim{abovelinestextraise}{\altraise}{scalable}
+
+%% \officepartannotation converts a letter (IHARPT) into the office part to be printed as annotation,
+%% storing the result into \result.
+
+\newcommand{\result}{}
+\newcommand{\lookup}[3]{
+  \IfSubStr{#2}{#1}{ \renewcommand{\result}{#3} }{}
+}
+\newcommand{\officepartannotation}[1]{
+  \renewcommand{\result}{#1}
+  \lookup{#1}{T}{}
+  \lookup{#1}{H}{Hymn.}
+  \lookup{#1}{A}{Ant.}
+  \lookup{#1}{P}{}
+  \lookup{#1}{R}{Resp.}
+  \lookup{#1}{I}{Invit.}
+  \result
+}
+
+%% header capture setup for the mode
+\gresetheadercapture{mode}{greannotation}{string}
+
+%% outputs a score with no label, indexing, initials or annotations
+%% for 
+\newcommand{\unindexedscore}[1]{
+  \gresetinitiallines{0}
+  \gregorioscore{#1}
+  \gresetinitiallines{1}
+}
+
+%% outputs a score with label, indexing, and annotations. no initials if [n] is passed
+\newcommand{\gscore}[5][y]{
+  %% #1 (passed as option) : y = initial, n = no initial
+  %% #2 : name of the score file, should be a code, e.g. Q4F4A3 or 1225N1R1
+  %% #3 : office-part among the values: T, H, A, P, R, I (toni communes, hy., ant., psalmus, resp., invit.)
+  %% #4 : if applicable, a number between 1 and 9 (rank of the ant./resp.) - else: empty
+  %% #5 : the indexed name of the piece
+  
+  % this prevents page breaks between the phantom section and its label, and the actual score.
+  \needspace{2\baselineskip} 
+  \phantomsection
+  \label{#2}
+  \greannotation{\officepartannotation{#3} #4}
+  \index[#3]{#5}
+  \ifx n#1\gresetinitiallines{0}\fi
+  \gregorioscore{#2}
+  \ifx n#1\gresetinitiallines{1}\fi
+}
+
+%%%%%%%%%%%%%%% FONTS %%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%% Main font
+\setmainfont[Ligatures=TeX, Scale=\customscale]{Charis SIL}
+\setstretch{\fpeval{1.05 * \customscale}}
+
+%%%%%%%%%%%%%%% Score initials
+%% \initialsize resizes the initials, with one argument (size in points)
+\newcommand{\initialsize}[1]{
+    \grechangestyle{initial}{\fontspec{Zallman}\fontsize{#1}{#1}\selectfont}
+}
+%% default initial size is 32 points
+\newcommand{\defaultinitialsize}{32}
+\initialsize{\defaultinitialsize}
+
+%% spacing before and after initials to kern the Zallman Caps.
+%% this should be changed if we move away from Zallman Caps.
+\newcommand{\initialspace}[1]{
+  \grechangedim{afterinitialshift}{#1}{scalable}
+  \grechangedim{beforeinitialshift}{#1}{scalable}
+}
+%% default space before and after initials is 0cm.
+\newcommand{\defaultinitialspace}{0cm}
+\initialspace{\defaultinitialspace}
+
+%%%%%%%%%%%%%%% GRAPHICAL ELEMENTS %%%%%%%%%%%%%%%
+
+% V/, R/, A/ and + signs for in-line use (\vv \rr \aa \cc) and in-score use (<sp>V/ R/ A/ +</sp>)
+
+\newcommand{\vv}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.\hspace{3mm}}}
+\newcommand{\rr}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.\hspace{3mm}}}
+\renewcommand{\aa}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.\hspace{3mm}}}
+\newcommand{\cc}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}\symbol{"2720}~}}
+\gresetspecial{V/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
+\gresetspecial{R/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
+\gresetspecial{A/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
+\gresetspecial{+}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}\symbol{"2720}~}}
+
+%%%%%%%%%%%%%%% COLUMN MANAGEMENT %%%%%%%%%%%%%%%
+
+\usepackage{multicol}
+\setlength\columnseprule{0.4pt}
+
+%%%%%%%%%%%%%%% TITLE STYLES %%%%%%%%%%%%%%%
+
+%% Titles are centered and small-caps
+\titleformat{\chapter}[block]{\Large\filcenter\sc}{}{}{}
+\titleformat{\section}[block]{\large\filcenter\sc}{}{}{}
+\titleformat{\subsection}[block]{\filcenter\sc}{}{}{}
+\setcounter{secnumdepth}{0}
+%% Fine-tuning of space around titles
+\titlespacing*{\paragraph}{0pt}{1ex}{.6ex}
+
+
+
+
+
+%%%%%%%%%%%%%%% SUBFILES %%%%%%%%%%%%%%%
+
+\usepackage{xr}
+\usepackage{subfiles}
+\externaldocument[M-]{\subfix{nocturnale-romanum}}
+
+%% When we start a new subfile (new chapter), 
+%% we start on a new page (with blank filling on the previous page), create a corresponding label,
+%% and look for the file in a folder of the same name.
+\newcommand{\customsubfile}[1]{\newpage\label{#1}\subfile{#1/#1}}
+
+\begin{document}
+
+\customsubfile{01_prolegomena}
+\customsubfile{02_kalendarii}
+\customsubfile{10_tempus_adventus}
+\customsubfile{11_tempus_nativitatis}
+\customsubfile{12_tempus_post_epiphaniam}
+\customsubfile{13_tempus_quadragesimae}
+\customsubfile{14_tempus_passionis}
+\customsubfile{15_tempus_paschale}
+\customsubfile{16_tempus_post_pentecosten}
+\customsubfile{17_tempus_augusti_septembri}
+\customsubfile{18_tempus_octobri_novembri}
+\customsubfile{20_psalterium_ordinarium}
+\customsubfile{21_psalterium_hebdomada}
+\customsubfile{30_commune_apostolorum}
+\customsubfile{31_commune_martyrum}
+\customsubfile{32_commune_confessoris}
+\customsubfile{33_commune_mulierum}
+\customsubfile{34_commune_dedicationis}
+\customsubfile{35_commune_bmv}
+\customsubfile{36_officium_defunctorum}
+\customsubfile{40_sanctorale_januarii}
+\customsubfile{41_sanctorale_februarii}
+\customsubfile{42_sanctorale_martii}
+\customsubfile{43_sanctorale_aprilis}
+\customsubfile{44_sanctorale_maii}
+\customsubfile{45_sanctorale_junii}
+\customsubfile{46_sanctorale_julii}
+\customsubfile{47_sanctorale_augusti}
+\customsubfile{48_sanctorale_septembris}
+\customsubfile{49_sanctorale_octobris}
+\customsubfile{50_sanctorale_novembris}
+\customsubfile{51_sanctorale_decembris}
+
+\printindex[I]
+\printindex[H]
+\printindex[A]
+\printindex[R]
+\printindex[P]
+\printindex[T]
+
+\end{document}
+
