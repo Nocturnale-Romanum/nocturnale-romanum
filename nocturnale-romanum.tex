@@ -15,8 +15,10 @@
 \usepackage{titlesec}
 \usepackage{setspace}
 \usepackage{expl3}
+\usepackage{hyperref}
 \usepackage{refcount}
 \usepackage{needspace}
+\usepackage{etoolbox}
 
 %%%%%%%%%%%%%%% GEOMETRY %%%%%%%%%%%%%%%
 
@@ -51,6 +53,7 @@ headsep=3mm,
 \makeindex[name=R,title=Index Responsoriorum,columns=2,columnseprule]
 \makeindex[name=P,title=Index Psalmorum,columns=2,columnseprule]
 \makeindex[name=T,title=Toni Communes,columns=1]
+\makeindex[name=F,title=Index Festorum, columns=1]
 
 %%%%%%%%%%%%%%% GREGORIO CONFIG %%%%%%%%%%%%%%%
 
@@ -87,7 +90,10 @@ headsep=3mm,
 %% for 
 \newcommand{\unindexedscore}[1]{
   \gresetinitiallines{0}
-  \gregorioscore{#1}
+  %% the use of a directory called "gabc" is linked
+  %% to the management of gabc files by the website: do not change 
+  %% without also changing the website static files structure
+  \gregorioscore{\subfix{gabc/#1}}
   \gresetinitiallines{1}
 }
 
@@ -100,13 +106,16 @@ headsep=3mm,
   %% #5 : the indexed name of the piece
   
   % this prevents page breaks between the phantom section and its label, and the actual score.
-  \needspace{2\baselineskip} 
+  \needspace{4\baselineskip} 
   \phantomsection
   \label{#2}
   \greannotation{\officepartannotation{#3} #4}
   \index[#3]{#5}
   \ifx n#1\gresetinitiallines{0}\fi
-  \gregorioscore{#2}
+  %% the use of a directory called "gabc" is linked
+  %% to the management of gabc files by the website: do not change 
+  %% without also changing the website static files structure
+  \gregorioscore{\subfix{gabc/#2}}
   \ifx n#1\gresetinitiallines{1}\fi
 }
 
@@ -151,7 +160,16 @@ headsep=3mm,
 %%%%%%%%%%%%%%% COLUMN MANAGEMENT %%%%%%%%%%%%%%%
 
 \usepackage{multicol}
+\usepackage{paracol}
 \setlength\columnseprule{0.4pt}
+
+%%%%%%%%%%%%%%% HEADER STYLES %%%%%%%%%%%%%%%
+
+\newcommand{\setheaders}[2]{
+	\renewcommand{\rightmark}{#2}
+	\renewcommand{\leftmark}{#1}
+}
+\setheaders{}{}
 
 %%%%%%%%%%%%%%% TITLE STYLES %%%%%%%%%%%%%%%
 
@@ -163,8 +181,62 @@ headsep=3mm,
 %% Fine-tuning of space around titles
 \titlespacing*{\paragraph}{0pt}{1ex}{.6ex}
 
+%% Typesets all titles throughout the NR except a few special ones.
+%% Using a continuation is necessary because there are 10 arguments.
+%% Only \feast should ever be used.
+\newcommand{\feast}[6]{
+  %% #1: feast code, e.g. 1225 or A1F1
+  %% #2: feast title
+  %% #3: left header title
+  %% #4: right header title
+  %% #5: title level
+    %% title level 1 : full page width, a few major feasts + titles of temporale, sanctorale, etc.
+	%% title level 2 : all feasts, sundays and major ferias
+	%% title level 3 : used for ferias and "nth nocturn" titles
+  %% #6: incipit date (goes above feast title)
+  %% cont'd #1: 1954 rank
+  %% cont'd #2: 1960 rank
+  %% cont'd #3: 1945 feast-wide rubrics
+  %% cont'd #4: 1960 feast-wide rubrics
 
+  %% needspace: should be barely more than the vertical space for the titles, rubrics excluded.
+  %% this is to ensure that the page does not get cut after the title or the phantomsection.
+  \needspace{6\baselineskip}
+  %% phantomsection is to allow the label to attach to the title and not the previous counter object.
+  \phantomsection
+  \label{#1}
+  \index[F]{#2}
+  %% we typeset a line for the date if the date is not blank
+  \ifblank{#6}{}{\centering{\large #6}\\}%
+  \centering{\Large #2}
+  
+  %% we define the header titles manually
+  \setheaders{#3}{#4}
+  
+  %% moving on to a continuation macro to unpack the last 4 arguments
+  \feastcontinued
+}
+\newcommand{\feastcontinued}[4]
+{
+  %% we name the last 4 arguments
+  \def\oldrank{#1}%
+  \def\newrank{#2}%
+  \def\oldrubric{#3}%
+  \def\newrubric{#4}%
 
+  %% we typeset a two-column rank & rubrics block if one rank is filled in
+  \ifblank{#1}{}{%
+    \begin{paracol}{2}%
+    {\center\oldrank}
+    
+    \oldrubric
+    \switchcolumn%
+    {\center\newrank}
+    
+    \newrubric
+    \end{paracol}
+  }
+}
 
 
 %%%%%%%%%%%%%%% SUBFILES %%%%%%%%%%%%%%%
@@ -219,6 +291,7 @@ headsep=3mm,
 \printindex[R]
 \printindex[P]
 \printindex[T]
+\printindex[F]
 
 \end{document}
 
