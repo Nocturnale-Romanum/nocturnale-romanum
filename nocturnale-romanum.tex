@@ -147,14 +147,14 @@ headsep=3mm,
 %%%%%%%%%%%%%%% GRAPHICAL ELEMENTS %%%%%%%%%%%%%%%
 
 % V/, R/, A/ and + signs for in-line use (\vv \rr \aa \cc) and in-score use (<sp>V/ R/ A/ +</sp>)
-
-\newcommand{\vv}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.\hspace{3mm}}}
-\newcommand{\rr}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.\hspace{3mm}}}
-\renewcommand{\aa}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.\hspace{3mm}}}
+\newcommand{\specialcharhsep}{3mm} % space after invoking R/ or V/ or A/
+\newcommand{\vv}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.\hspace{\specialcharhsep}}}
+\newcommand{\rr}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.\hspace{\specialcharhsep}}}
+\renewcommand{\aa}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.\hspace{\specialcharhsep}}}
 \newcommand{\cc}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}\symbol{"2720}~}}
 \gresetspecial{V/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
 \gresetspecial{R/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
-\gresetspecial{A/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
+\gresetspecial{A/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.~}}
 \gresetspecial{+}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}\symbol{"2720}~}}
 
 %%%%%%%%%%%%%%% COLUMN MANAGEMENT %%%%%%%%%%%%%%%
@@ -206,9 +206,14 @@ headsep=3mm,
   \phantomsection
   \label{#1}
   \index[F]{#2}
+  \begin{center}
   %% we typeset a line for the date if the date is not blank
-  \ifblank{#6}{}{\centering{\large #6}\\}%
-  \centering{\Large #2}
+  \ifblank{#6}{}{
+    {\large #6}\\%
+  }%
+  %% the actual title
+  {\Large #2}
+  \end{center}
   
   %% we define the header titles manually
   \setheaders{#3}{#4}
@@ -226,12 +231,10 @@ headsep=3mm,
 
   %% we typeset a two-column rank & rubrics block if one rank is filled in
   \ifblank{#1}{}{%
-    \begin{paracol}{2}%
-    {\center\oldrank}
+    \begin{paracol}{2} {\center\oldrank}
     
     \oldrubric
-    \switchcolumn%
-    {\center\newrank}
+    \switchcolumn {\center\newrank}
     
     \newrubric
     \end{paracol}
