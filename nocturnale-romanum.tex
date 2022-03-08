@@ -69,8 +69,16 @@ headsep=3mm,
 %% text above lines shall be of color gregoriocolor
 \grechangestyle{abovelinestext}{\color{gregoriocolor}\footnotesize}
 %% fine-tuning of space beween the staff and the text above lines
-\newcommand{\altraise}{-2.4mm}
+\newcommand{\altraise}{-2.4mm} %% default is -0.1cm
 \grechangedim{abovelinestextraise}{\altraise}{scalable}
+
+%% fine-tuning of space between the staff and the lyrics
+\newcommand{\textraise}{2.8ex} %% default is 3.48471 ex
+\grechangedim{spacelinestext}{\textraise}{scalable}
+
+%% fine-tuning of space between the initial and the annotations
+\newcommand{\annraise}{0mm} %% default is -0.2mm
+\grechangedim{annotationraise}{\annraise}{scalable}
 
 %% \officepartannotation converts a letter (IHARPT) into the office part to be printed as annotation,
 %% storing the result into \result.
@@ -138,7 +146,7 @@ headsep=3mm,
     \grechangestyle{initial}{\fontspec{Zallman}\fontsize{#1}{#1}\selectfont}
 }
 %% default initial size is 32 points
-\newcommand{\defaultinitialsize}{32}
+\newcommand{\defaultinitialsize}{28}
 \initialsize{\defaultinitialsize}
 
 %% spacing before and after initials to kern the Zallman Caps.
@@ -151,6 +159,9 @@ headsep=3mm,
 \newcommand{\defaultinitialspace}{0cm}
 \initialspace{\defaultinitialspace}
 
+%%%%%%%%%%%%%%% Score annotations
+\grechangestyle{annotation}{\small}
+
 %%%%%%%%%%%%%%% GRAPHICAL ELEMENTS %%%%%%%%%%%%%%%
 
 % V/, R/, A/ and + signs for in-line use (\vv \rr \aa \cc) and in-score use (<sp>V/ R/ A/ +</sp>)
@@ -162,7 +173,7 @@ headsep=3mm,
 \gresetspecial{V/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
 \gresetspecial{R/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
 \gresetspecial{A/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.~}}
-\gresetspecial{+}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}\symbol{"2720}~}}
+\gresetspecial{+}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}†~}}
 
 %%%%%%%%%%%%%%% COLUMN MANAGEMENT %%%%%%%%%%%%%%%
 
@@ -172,9 +183,17 @@ headsep=3mm,
 
 %%%%%%%%%%%%%%% HEADER STYLES %%%%%%%%%%%%%%%
 
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\headheight}{20pt}
+\fancyhead[RO]{\small\rightmark\hspace{1cm}\thepage}
+\fancyhead[LE]{\small\thepage\hspace{1cm}\leftmark}
+
 \newcommand{\setheaders}[2]{
-	\renewcommand{\rightmark}{#2}
-	\renewcommand{\leftmark}{#1}
+	\renewcommand{\rightmark}{{\sc#2}}
+	\renewcommand{\leftmark}{{\sc#1}}
 }
 \setheaders{}{}
 
@@ -263,7 +282,7 @@ headsep=3mm,
 %% When we start a new subfile (new chapter), 
 %% we start on a new page (with blank filling on the previous page), create a corresponding label,
 %% and look for the file in a folder of the same name.
-\newcommand{\customsubfile}[1]{\newpage\label{#1}\subfile{#1}}
+\newcommand{\customsubfile}[1]{\newpage\label{#1}\thispagestyle{empty}\subfile{#1}}
 
 \begin{document}
 
