@@ -42,6 +42,13 @@ headsep=3mm,
 \cs_new_eq:NN \fpeval \fp_eval:n
 \ExplSyntaxOff
 
+%% No indentation of paragraphs
+\setlength{\parindent}{0mm}
+
+%% We want to allow large inter-words space 
+%% to avoid overfull boxes in two-columns rubrics.
+\sloppy
+
 %%%%%%%%%%%%%%% INDICES %%%%%%%%%%%%%%%
 
 \usepackage{imakeidx}
@@ -160,7 +167,7 @@ headsep=3mm,
 %%%%%%%%%%%%%%% COLUMN MANAGEMENT %%%%%%%%%%%%%%%
 
 \usepackage{multicol}
-\usepackage{paracol}
+\usepackage{parcolumns}
 \setlength\columnseprule{0.4pt}
 
 %%%%%%%%%%%%%%% HEADER STYLES %%%%%%%%%%%%%%%
@@ -231,13 +238,18 @@ headsep=3mm,
 
   %% we typeset a two-column rank & rubrics block if one rank is filled in
   \ifblank{#1}{}{%
-    \begin{paracol}{2} {\center\oldrank}
-    
-    \oldrubric
-    \switchcolumn {\center\newrank}
-    
-    \newrubric
-    \end{paracol}
+    \begin{parcolumns}[rulebetween]{2}
+	\colchunk{%
+      {\centering \oldrank
+	  
+	  } \oldrubric 
+	}
+	\colchunk{%
+	  {\centering \newrank
+	  
+	  } \newrubric 
+    }
+	\end{parcolumns}
   }
 }
 
