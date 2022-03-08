@@ -69,19 +69,19 @@ headsep=3mm,
 %% storing the result into \result.
 
 \newcommand{\result}{}
-\newcommand{\lookup}[3]{
-  \IfSubStr{#2}{#1}{ \renewcommand{\result}{#3} }{}
-}
-\newcommand{\officepartannotation}[1]{
-  \renewcommand{\result}{#1}
-  \lookup{#1}{T}{}
-  \lookup{#1}{H}{Hymn.}
-  \lookup{#1}{A}{Ant.}
-  \lookup{#1}{P}{}
-  \lookup{#1}{R}{Resp.}
-  \lookup{#1}{I}{Invit.}
-  \result
-}
+\newcommand{\lookup}[3]{%
+  \IfSubStr{#2}{#1}{ \renewcommand{\result}{#3} }{}%
+}%
+\newcommand{\officepartannotation}[1]{%
+  \renewcommand{\result}{#1}%
+  \lookup{#1}{T}{}%
+  \lookup{#1}{H}{Hymn.}%
+  \lookup{#1}{A}{Ant.}%
+  \lookup{#1}{P}{}%
+  \lookup{#1}{R}{Resp.}%
+  \lookup{#1}{I}{Invit.}%
+  \result%
+}%
 
 %% header capture setup for the mode
 \gresetheadercapture{mode}{greannotation}{string}
@@ -105,7 +105,7 @@ headsep=3mm,
   %% #4 : if applicable, a number between 1 and 9 (rank of the ant./resp.) - else: empty
   %% #5 : the indexed name of the piece
   
-  % this prevents page breaks between the phantom section and its label, and the actual score.
+  %% this prevents page breaks between the phantom section and its label, and the actual score.
   \needspace{4\baselineskip} 
   \phantomsection
   \label{#2}
