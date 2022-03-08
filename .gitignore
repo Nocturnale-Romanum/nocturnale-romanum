@@ -8,3 +8,4 @@
 *.synctex.gz
 *.out
 *.gaux
+*.synctex(busy)
