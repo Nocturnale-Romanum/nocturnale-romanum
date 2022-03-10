@@ -10,7 +10,7 @@ Our project builds upon the great work of Holger Peter Sandhofe, who published t
 It aims to provide better restitutions of ancient pieces and other options for newly-composed pieces, as well as a replacement for print copies, given that the 2002 NR is no longer available in print.
 
 # top-level development plan
-- Setting up a steering committee: mostly done: Fr. Damien (Le Barroux) (liturgical chant), D. Crochu (musicology), G. Gapsys (musicology), F. Ramel (typography). Having a secular priest that sings Matins at least weekly would be nice.
+- Setting up a steering committee: mostly done: Fr. Damien (Le Barroux) (liturgical chant), D. Crochu (musicology), G. Gapsys (musicology), F. Ramel (typography). Having a secular priest who sings Matins at least weekly would be appreciated.
 - Inventory of pieces and feasts to be included: done.
 - Setting up a website for anyone to submit resitution proposals: ongoing.
 - Draft one: "all of the material, none of the corrections". Sandhofe melodies, but the structure, the rubrics, the layout. Basically a starting point for people to start making corrections. PDF only. Ongoing.
