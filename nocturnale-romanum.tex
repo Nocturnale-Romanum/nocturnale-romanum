@@ -6,7 +6,10 @@
 %%%%%%%%%%%%%%% STANDARD PACKAGES %%%%%%%%%%%%%%%
 
 %% This is the format of the recent Solesmes books.
-\usepackage[paperwidth=135mm, paperheight=205mm]{geometry}
+%\usepackage[paperwidth=135mm, paperheight=205mm]{geometry}
+
+%% This is the format of the 1912 Antiphonale Romanum
+\usepackage[paperwidth=160mm, paperheight=240mm]{geometry}
 
 \usepackage{fontspec}
 \usepackage[medievallatin]{babel}
@@ -19,6 +22,7 @@
 \usepackage{refcount}
 \usepackage{needspace}
 \usepackage{etoolbox}
+\usepackage{enumitem}
 
 %%%%%%%%%%%%%%% GEOMETRY %%%%%%%%%%%%%%%
 
@@ -124,7 +128,7 @@ headsep=3mm,
   \needspace{4\baselineskip} 
   \phantomsection
   \label{#2}
-  \greannotation{\officepartannotation{#3} #4}
+  \greannotation{\officepartannotation{#3}#4}
   \index[#3]{#5}
   \ifx n#1\gresetinitiallines{0}\fi
   %% the use of a directory called "gabc" is linked
@@ -138,6 +142,7 @@ headsep=3mm,
 
 %%%%%%%%%%%%%%% Main font
 \setmainfont[Ligatures=TeX, Scale=\customscale]{Charis SIL}
+%\setmainfont[Ligatures=TeX, Scale=\customscale]{TeXGyreBonum-Regular}
 \setstretch{\fpeval{1.05 * \customscale}}
 
 %%%%%%%%%%%%%%% Score initials
@@ -164,7 +169,7 @@ headsep=3mm,
 
 %%%%%%%%%%%%%%% GRAPHICAL ELEMENTS %%%%%%%%%%%%%%%
 
-% V/, R/, A/ and + signs for in-line use (\vv \rr \aa \cc) and in-score use (<sp>V/ R/ A/ +</sp>)
+%% V/, R/, A/ and + signs for in-line use (\vv \rr \aa \cc) and in-score use (<sp>V/ R/ A/ +</sp>)
 \newcommand{\specialcharhsep}{3mm} % space after invoking R/ or V/ or A/
 \newcommand{\vv}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.\hspace{\specialcharhsep}}}
 \newcommand{\rr}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.\hspace{\specialcharhsep}}}
@@ -175,11 +180,43 @@ headsep=3mm,
 \gresetspecial{A/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.~}}
 \gresetspecial{+}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}†~}}
 
+%% Roman Numerals
+\usepackage{modroman}
+\newcommand{\Rnum}[1]{\nbRoman{#1}}
+\newcommand{\rnum}[1]{\nbshortroman{#1}}
+
+%% Macro to print versicles
+\newcommand{\versiculus}[2]{\rr #1 \\ \vv #2}
+
+%% Macro to print rubrics
+\newcommand{\rubric}[1]{{\textcolor{gregoriocolor}#1}}
+
+%% Macro to print the name of a score in normal characters inside a \rubric
+\newcommand{\normaltext}[1]{{\normalfont #1}}
+\newcommand{\scorename}[1]{\normaltext{\nameref{#1}}}
+
 %%%%%%%%%%%%%%% COLUMN MANAGEMENT %%%%%%%%%%%%%%%
 
 \usepackage{multicol}
 \usepackage{parcolumns}
 \setlength\columnseprule{0.4pt}
+
+%% Macro to print a psalm on two columns.
+\newcommand{\psalmus}[2]{
+	\begin{multicols}{2}
+	\begin{itemize}[
+		label=\null, 
+		leftmargin=0pt, 
+		itemindent=0pt, 
+		labelsep=0pt, 
+		labelwidth=0pt, 
+		rightmargin=0pt, 
+		parsep=0pt, 
+		itemsep=0pt]
+	\input{psalmi/#1_#2.tex}
+	\end{itemize}
+	\end{multicols}
+}
 
 %%%%%%%%%%%%%%% HEADER STYLES %%%%%%%%%%%%%%%
 
@@ -207,7 +244,7 @@ headsep=3mm,
 %% Fine-tuning of space around titles
 \titlespacing*{\paragraph}{0pt}{1ex}{.6ex}
 
-%% Typesets all titles throughout the NR except a few special ones.
+%% Typesets all titles throughout the NR except Nocturn titles and a few special titles.
 %% Using a continuation is necessary because there are 10 arguments.
 %% Only \feast should ever be used.
 \newcommand{\feast}[6]{
@@ -261,17 +298,23 @@ headsep=3mm,
 	\colchunk{%
       {\centering \oldrank
 	  
-	  } \oldrubric 
+	  } \rubric{\oldrubric}
 	}
 	\colchunk{%
 	  {\centering \newrank
 	  
-	  } \newrubric 
+	  } \rubric{\newrubric} 
     }
 	\end{parcolumns}
   }
 }
 
+\newcommand{\nocturn}[1]{
+  \needspace{6\baselineskip}
+  \begin{center}
+  {\Large In \Rnum{#1} Nocturno}
+  \end{center}
+}
 
 %%%%%%%%%%%%%%% SUBFILES %%%%%%%%%%%%%%%
 
@@ -280,8 +323,7 @@ headsep=3mm,
 \externaldocument[M-]{\subfix{nocturnale-romanum}}
 
 %% When we start a new subfile (new chapter), 
-%% we start on a new page (with blank filling on the previous page), create a corresponding label,
-%% and look for the file in a folder of the same name.
+%% we start on a new page (with blank filling on the previous page) and create a corresponding label.
 \newcommand{\customsubfile}[1]{\newpage\label{#1}\thispagestyle{empty}\subfile{#1}}
 
 \begin{document}
