@@ -189,11 +189,14 @@ headsep=3mm,
 \newcommand{\versiculus}[2]{\rr #1 \\ \vv #2}
 
 %% Macro to print rubrics
-\newcommand{\rubric}[1]{{\textcolor{gregoriocolor}#1}}
+\newcommand{\rubric}[1]{\textcolor{gregoriocolor}{\emph{#1}}}
 
 %% Macro to print the name of a score in normal characters inside a \rubric
-\newcommand{\normaltext}[1]{{\normalfont #1}}
+\newcommand{\normaltext}[1]{{\normalfont\normalcolor #1}}
 \newcommand{\scorename}[1]{\normaltext{\nameref{#1}}}
+
+%% Macro to print the common rubric that signals the Te Deum
+\newcommand{\tedeumrubric}{\rubric{Lectione ultima peracta Hymnus \normaltext{Te Deum} cantatur.}}
 
 %%%%%%%%%%%%%%% COLUMN MANAGEMENT %%%%%%%%%%%%%%%
 
@@ -203,6 +206,7 @@ headsep=3mm,
 
 %% Macro to print a psalm on two columns.
 \newcommand{\psalmus}[2]{
+	{\centering Psalmus #1\par}
 	\begin{multicols}{2}
 	\begin{itemize}[
 		label=\null, 
