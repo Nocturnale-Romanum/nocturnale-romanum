@@ -188,6 +188,9 @@ headsep=3mm,
 %% Macro to print versicles
 \newcommand{\versiculus}[2]{\rr #1 \\ \vv #2}
 
+\newcommand{\versiculustpall}[2]
+	{\versiculus{#1 \rubric{(T.P.} Allelúja. \rubric{)}}{#2 \rubric{(T.P.} Allelúja. \rubric{)}}}
+
 %% Macro to print rubrics
 \newcommand{\rubric}[1]{\textcolor{gregoriocolor}{\emph{#1}}}
 
@@ -206,6 +209,10 @@ headsep=3mm,
 
 %% Macro to print a psalm on two columns.
 \newcommand{\psalmus}[2]{
+	\needspace{4\baselineskip}
+	\phantomsection
+	\label{Psalm#1_#2}
+	\index[P]{#1}
 	{\centering Psalmus #1\par}
 	\begin{multicols}{2}
 	\begin{itemize}[
@@ -314,7 +321,7 @@ headsep=3mm,
 }
 
 \newcommand{\nocturn}[1]{
-  \needspace{6\baselineskip}
+  \needspace{8\baselineskip}
   \begin{center}
   {\Large In \Rnum{#1} Nocturno}
   \end{center}
