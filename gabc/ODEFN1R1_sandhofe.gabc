@@ -2,13 +2,27 @@ name:Credo quod redemptor V Quem visurus;
 office-part:re;
 mode:8;
 submitter:sandhofe;
+nabc-lines:1;
 %%
-(c4) Cre(gj)do<sp>*</sp>(j) quod(j) Re(j)dém(j)ptor(hj~) me(jh)us(i!jwkJIHiwjIH) vi(GHivHGh)vit,(hg) (;)
-et(hf) in(g) no(h)vís(-hjij)si(h)mo(hfh) di(h!iwjiHGh)e(hg) (,)
-de(f) ter(ghg/gi~)ra(h) sur(j)re(jk)ctú(ki/kjIHG)rus(h/jg/hg) sum,(f) (:)
-<sp>+</sp> Et(f) in(h) car(jjk~)ne(j) me(ki!jwkjk)a(kj) vi(j)dé(ji/jh)bo(j) De(ji/jkhhO1g)um(GHiwjg/h/ggO1f) (;)
-Sal(h>)va(jk)tó(jijvIHi!jo1)rem(i!jwkJIHiwjIHs<) me(GHivHGh)um.(hg) (::)
-<sp>V/</sp> Quem(j) vi(j)sú(j)rus(ji) sum(jkj/iji/hhO1g) e(hi)go(ih) i(ij)pse,(ih) et(ij) non(hi) á(g)li(g!hwih)us;(hg) (;)
-et(g) ó(fg)cu(g)li(g) me(gh)i(g) con(hiHGhih)spe(ghf)ctú(gh)ri(h!iwji/jkjIH) sunt(ghGFgf) (::)
-<sp>+</sp> Et.(f) (::)
-
+(c4) Cre(gj|peS)do(j|vi) <sp>*</sp>()
+quod(j|vi) Red(j|vi)émp(j|vi)tor(hj~|ta>) 
+me(jh|cl-)us(i!jwkJIHiwjIH|qi-hippt1sut3qi-hksu2) 
+vi(GHivHGh|vi-pp2su2vihh)vit,(hg|cl-) (;)
+et(hf|cllsc3) in(g|vi) no(h|vi)vís(-hjij|tr)si(h|ta)mo(hfh|po) 
+di(h!iwjiHGh|ql!vsppt1su2vihh)e(hg|cl-) (,)
+de(f|ta) ter(ghg/hi~|ta>)ra(h|vi-hg) 
+sur(j|vi)rec(jk|pehi)tú(ki/|clhj|kjIHG|clShmsuu1su2)rus(h/jg/hg|vi-pf-hh) 
+sum,(f|ta) (:)
+<sp>+</sp> Et(f|ta) in(h|vi) car(jjk~|vi-ta>hh)ne(j|vi) 
+me(ki!jwkjk|clhiqlhi!pohi)a(kj|cl-hi) 
+vi(j|vi)dé(ji/jh|pf1lsc2)bo(j|vi) 
+De(ji/|cl|jkh/|toS2hh|hO1g|pihh)um(GHiwjg/h/ggO1f|qi!clppt2vihhprhh) (;)
+Sal(h>|vi>)va(jk|pehi)tó(ji|cl-|jvIH|ci-|ijO|vs-)rem(i!jwkJIH|qi-hippt1sut3|iwjIH>|qi-hjsu1sux1) 
+me(GHivHGh|vi-pp2su2vihh)um.(hg|cl-) (::)
+<sp>V/</sp> Quem(j|vi) vi(j|vi)sú(j|vi)rus(ji|cl) sum(jkj/|to-1hi|iji/|to-1hg|hhO1g|pi) 
+e(hi|pe)go(ih|cl) ip(ij|pe)se,(ih|cl) et(ij|pe) 
+non(hi|pe) á(g|ta)li(g!hwih|qihg!clhgppt1)us;(hg|cl-) (;)
+et(g|vi) ó(fg|pe)cu(g|ta)li(g|ta) me(gh|pe)i(g|ta) 
+con(hiHG|pe-su2|hih|to)spec(ghf|to)tú(gh|peS)ri(h!iwji/|ql!clppt1|jkjIH|//to-1hlsu2) 
+sunt.(ghGFgf|pe-1su2cl-) (::)
+<sp>+</sp> Et.(f|ta) (::)
