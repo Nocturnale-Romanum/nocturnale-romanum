@@ -1,7 +1,4 @@
-name:Veni electa mea V Specie tua;
-office-part:re;
 mode:2;
-submitter:sandhofe;
 %%
 def-m1:\grechangeglyph{PorrectusLongqueue*}{*}{.alt};
 def-m2:\greresetglyph{PorrectusLongqueue*};

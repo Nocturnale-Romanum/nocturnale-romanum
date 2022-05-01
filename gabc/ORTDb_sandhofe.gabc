@@ -1,8 +1,35 @@
-name:Te Deum laudamus (tonus simplex);
-office-part:hy;
 mode:3;
-submitter:sandhofe;
 %%
 (c4) TE([alt:Tonus simplex.]e) De(gh)um(h) lau(hg~)dá(h@iwj)mus:(ih) <sp>*</sp>(;) 
    te(h) Dó(h)mi(h)num(g) con(g)fi(i)té(h)mur.(g) (::)
+Te(j) æ(j)tér(j)num(i>) Pa(hi)trem(h) (;) om(h>)nis(h) ter(h)ra(h) ve(g)ne(i)rá(h)tur.(g) (::)
+Ti(j)bi(j) om(j)nes(i) An(hi)ge(h)li,(h) (;) ti(h)bi(h) Cœ(h)li(h) et(h) uni(h)vér(h)sæ(h) Pot(g)es(i)tá(h)tes:(g) (::)
+Ti(j)bi(j) Che(j)ru(j)bim(j) et(i) Sé(hi)ra(h)phim(h) (;) in(h)ces(h)sá(h)bi(h)li(h) vo(g)ce(h) pro(i)clá(h)mant:(g) (::)
+Sanc(GHiwj>)tus:(ih)(::) Sanc(GHiwj>)tus,(ih) (::) 
+Sanc(he/gh)tus(h) Dó(h)mi(h)nus(g) De(h)us(i) Sá(h)ba(h)oth.(g) (::)
+Ple(j)ni(j) sunt(j) cœ(j)li(i) et(h) ter(hi)ra(h) (;) ma(h)jes(h)tá(h)tis(h) gló(g)ri(h)æ(i) tu(h)æ.(g) (::)
+Te(j) glo(j)ri(i)ó(hi)sus(h) A(h)po(h)sto(h)ló(g)rum(i) Cho(h)rus:(g) (::) 
+Te(j) Pro(j)phet(i)á(hi)rum(h) lau(h)dá(g)bi(h)lis(i) nú(h)me(h)rus:(g) (::)
+Te(j) Mar(j)tý(j)rum(j) can(j)di(i)dá(hi)tus(h) lau(g)dat(h) ex(i)ér(h)ci(h)tus.(g) (::)
+Te(j) per(j) or(j)bem(j) ter(i)rá(hi)rum(h) sanc(h)ta(h) con(h>)fi(h)té(g)tur(h) Ec(i)clé(h)si(g)a:(g) (::)
+Pa(GHiwj)trem(ih) im(h)mén(h>)sæ(g) ma(h)je(i)stá(h)tis;(g) (::)
+Ve(j)ne(j)rán(j>)dum(j) tu(j)um(i) ver(hi)um,(h) (;) 
+   et(h) ú(g)ni(h)cum(i) Fí(h)li(h)um;(g) (;) Sanc(g)tum(h) quo(i)que(h) Pa(h)rá(g)cli(h)tum(i) Spí(h)ri(h)tum.(g) (::)
+Tu(gh) Rex(h) gló(g)ri(h)æ,(i) Chri(h)ste.(g) (::) 
+Tu(h) Pa(i)tris(h) sem(h)pi(h)tér(g)nus(h) es(i) Fí(g)li(g)us.(e) (::) 
+Tu(gj) ad(j) li(j)be(j)rán(j)dum(j) su(j)scep(j)tú(i)rus(h) hó(ij)mi(i)nem,(h) (;) non(h) hor(h)ru(h)í(h)sti(h) Vír(g)gi(h)nis(i) ú(g)ter(g)um.(e) (::)
+Tu(gj) de(j)vic(j)to(j) mor(j)tis(i) a(h)cú(ij)le(i)o,(h) (;) a(h)pe(h)ru(h)í(h)sti(h) cre(h)dén(i)ti(h)bus(h) reg(g)na(h) cœ(i)ló(g)rum.(e) (::)
+Tu(gj) ad(j) déx(j)ter(j)am(j) De(i)i(h) se(ij)des,(ih) (;) in(h) gló(g)ri(h)a(i) Pa(g)tris.(e) (::)
+Ju(h)dex(h) cré(i)de(h)ris(h) es(g)se(h) ven(i)tú(g)rus.(e) (::) 
+<sc>Te(gj) er(j)go(j) quæ(j)su(j)mus,(j) tu(j)is(j) fa(j)mu(i)lis(h) sub(ij)ve(i)ni,(h) (;) quos(h) pre(h)ti(h)o(h)so(h) san(i)gui(h)ne(g) re(h)de(i)mi(g)sti.(e)</sc> (::)
+Æ(f)tér(fe)na(df) fac(evDC) cum(c) Sanc(e)tis(f) tu(g)is(g) in(g) gló(g)ri(g)a(g) nu(h)me(f)rá(gvFE)ri.(e) (::)
+Sal(c)vum(df~) fac(f) pó(f)pu(f)lum(f) tu(f)um,(f) Dó(d)mi(f)ne,(evDC) (;) et(c) bé(df)ne(f)dic(f) hæ(f)re(fe)di(d)tá(f)ti(gh) tu(gvFE)ae.(e) (::)
+Et(f) re(fe)ge(d) e(f)os,(evDC) et(c) ex(df)tól(fe)le(d) il(g)los(g) us(g)que(g) in(h) æ(f)tér(gvFE)num.(e) (::)
+Per(h) sín(h)gu(h)los(g) di(ij)es,(ih) (;) be(h)ne(g)dí(h)ci(i)mus(g) te;(e) (::)
+Et(h) lau(h)dá(h)mus(h) no(h)men(h) tu(h)um(h) in(g) sǽ(ij)cu(i)lum,(h) (;)
+et(h) in(h) sǽ(g)cu(h)lum(i) sǽ(g)cu(g)li.(e) (::)
+Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) di(h)e(g) i(ij)sto(ih) (;) si(h)ne(h) pec(h)cá(h)to(h) nos(g) cus(h)to(i)dí(g)re.(e) (::)
+Mi(h)se(h)ré(h)re(h) no(h)stri,(g) Dó(ij)mi(i)ne,(h) (;) mi(h)se(g)ré(h)re(i) no(g)stri.(e) (::)
+Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h) Dó(h)mi(h)ne,(g) su(ij)per(i) nos,(h) (;) que(h)mád(h)mo(h)dum(h) spe(h)rá(g)vi(h)mus(i) in(g) te.(e) (::)
+In(c) te,(df) Dó(fe)mi(d)ne,(f) spe(gh)rá(gf/gf)vi:(ed) (;) non(c) con(df~)fún(fe)dar(dc) in(f) æ(gh)ter(gfgvFE)num.(e) (::)
 
