@@ -229,6 +229,17 @@ headsep=3mm,
 	\end{multicols}
 }
 
+\newcommand{\twocolrubric}[2]{
+	\begin{parcolumns}[rulebetween]{2}
+	\colchunk{%
+      \rubric{#1}
+	}
+	\colchunk{%
+	  \rubric{#2} 
+    }
+	\end{parcolumns}
+}
+
 %%%%%%%%%%%%%%% HEADER STYLES %%%%%%%%%%%%%%%
 
 \pagestyle{fancy}
