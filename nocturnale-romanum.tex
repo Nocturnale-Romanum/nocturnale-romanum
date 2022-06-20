@@ -198,6 +198,23 @@ headsep=3mm,
 \newcommand{\normaltext}[1]{{\normalfont\normalcolor #1}}
 \newcommand{\scorename}[1]{\normaltext{\nameref{#1}}}
 
+%% Macro to print a full reference to a responsory
+%% #1 is the R/ number in the feast, #2 is the R/ code, #3 is an optional additional text, like "sine Gloria Patri".
+\newcommand{\respref}[3]{\rubric{%
+\rr #1 \scorename{#2}, pag.\ \pageref{M-#2}%
+\if\relax\detokenize{#3}\relax%
+.%
+\else%
+, #3.%
+\fi%
+}}
+
+\newcommand{\resprefcumgp}[2]
+	{\respref{#1}{#2}{sed cum \normaltext{Glória Patri} in fine}}
+	
+\newcommand{\resprefsinegp}[2]
+	{\respref{#1}{#2}{sine \normaltext{Glória Patri}}}
+
 %% Macro to print the common rubric that signals the Te Deum
 \newcommand{\tedeumrubric}{\rubric{Lectione ultima peracta Hymnus \normaltext{Te Deum} cantatur.}}
 
