@@ -1,10 +1,23 @@
+%%%%%%%%%%%%%%% INDICES %%%%%%%%%%%%%%%
+
+\usepackage{imakeidx}
+
+\indexsetup{level=\section*,toclevel=section,noclearpage,othercode=\footnotesize}
+\makeindex[name=I,title=Index Invitatorium,columns=2,columnseprule]
+\makeindex[name=H,title=Index Hymnorum,columns=1]
+\makeindex[name=A,title=Index Antiphonarum,columns=2,columnseprule]
+\makeindex[name=R,title=Index Responsoriorum,columns=2,columnseprule]
+\makeindex[name=P,title=Index Psalmorum,columns=2,columnseprule]
+\makeindex[name=T,title=Toni Communes,columns=1]
+\makeindex[name=F,title=Index Festorum, columns=1]
+
 %%%%%%%%%%%%%%% STANDARD PACKAGES %%%%%%%%%%%%%%%
 
 %% This is the format of the recent Solesmes books.
-%\usepackage[paperwidth=135mm, paperheight=205mm]{geometry}
+\usepackage[paperwidth=135mm, paperheight=205mm]{geometry}
 
 %% This is the format of the 1912 Antiphonale Romanum
-\usepackage[paperwidth=160mm, paperheight=240mm]{geometry}
+%\usepackage[paperwidth=160mm, paperheight=240mm]{geometry}
 
 \usepackage{fontspec}
 \usepackage[latin.medieval]{babel}
@@ -25,7 +38,7 @@
 \geometry{
 inner=15mm,
 outer=10mm,
-top=15mm,
+top=12mm,
 bottom=15mm,
 headsep=3mm,
 }
@@ -47,19 +60,6 @@ headsep=3mm,
 %% We want to allow large inter-words space 
 %% to avoid overfull boxes in two-columns rubrics.
 \sloppy
-
-%%%%%%%%%%%%%%% INDICES %%%%%%%%%%%%%%%
-
-\usepackage{imakeidx}
-
-\indexsetup{level=\section*,toclevel=section,noclearpage,othercode=\footnotesize}
-\makeindex[name=I,title=Index Invitatorium,columns=2,columnseprule]
-\makeindex[name=H,title=Index Hymnorum,columns=1]
-\makeindex[name=A,title=Index Antiphonarum,columns=2,columnseprule]
-\makeindex[name=R,title=Index Responsoriorum,columns=2,columnseprule]
-\makeindex[name=P,title=Index Psalmorum,columns=2,columnseprule]
-\makeindex[name=T,title=Toni Communes,columns=1]
-\makeindex[name=F,title=Index Festorum, columns=1]
 
 %%%%%%%%%%%%%%% GREGORIO CONFIG %%%%%%%%%%%%%%%
 
@@ -348,6 +348,12 @@ headsep=3mm,
   \begin{center}
   {\Large In \Rnum{#1} Nocturno}
   \end{center}
+}
+
+%% command to wrap printindex and set the headers for indices
+\newcommand{\cprintindex}[2]{
+	\setheaders{Indices}{#2}
+	\printindex[#1]
 }
 
 %%%%%%%%%%%%%%% SUBFILES %%%%%%%%%%%%%%%
