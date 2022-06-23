@@ -112,6 +112,7 @@ headsep=3mm,
 }
 
 %% outputs a score with label, indexing, and annotations. no initials if [n] is passed
+\makeatletter
 \newcommand{\gscore}[5][y]{
   %% #1 (passed as option) : y = initial, n = no initial
   %% #2 : name of the score file, should be a code, e.g. Q4F4A3 or 1225N1R1
@@ -121,6 +122,7 @@ headsep=3mm,
   
   %% this prevents page breaks between the phantom section and its label, and the actual score.
   \needspace{4\baselineskip} 
+  \protected@edef\@currentlabelname{#5}
   \phantomsection
   \label{#2}
   \greannotation{\officepartannotation{#3}#4}
@@ -132,6 +134,7 @@ headsep=3mm,
   \gregorioscore{\subfix{gabc/#2}}
   \ifx n#1\gresetinitiallines{1}\fi
 }
+\makeatother
 
 %%%%%%%%%%%%%%% FONTS %%%%%%%%%%%%%%%
 
@@ -191,7 +194,7 @@ headsep=3mm,
 
 %% Macro to print the name of a score in normal characters inside a \rubric
 \newcommand{\normaltext}[1]{{\normalfont\normalcolor #1}}
-\newcommand{\scorename}[1]{\normaltext{\nameref{#1}}}
+\newcommand{\scorename}[1]{\normaltext{\nameref{M-#1}}}
 
 %% Macro to print a full reference to a responsory
 %% #1 is the R/ number in the feast, #2 is the R/ code, #3 is an optional additional text, like "sine Gloria Patri".
