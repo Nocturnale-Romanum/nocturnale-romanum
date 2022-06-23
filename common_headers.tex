@@ -167,16 +167,21 @@ headsep=3mm,
 
 %%%%%%%%%%%%%%% GRAPHICAL ELEMENTS %%%%%%%%%%%%%%%
 
-%% V/, R/, A/ and + signs for in-line use (\vv \rr \aa \cc) and in-score use (<sp>V/ R/ A/ +</sp>)
-\newcommand{\specialcharhsep}{3mm} % space after invoking R/ or V/ or A/
+%% V/, R/, A/ and + signs for in-line use (\vv \rr \aa \cc)
+\newcommand{\specialcharhsep}{3mm} % space after invoking R/ or V/ or A/ outside rubrics
 \newcommand{\vv}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.\hspace{\specialcharhsep}}}
 \newcommand{\rr}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.\hspace{\specialcharhsep}}}
 \renewcommand{\aa}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.\hspace{\specialcharhsep}}}
 \newcommand{\cc}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}\symbol{"2720}~}}
+%% Same special characters, for in-score use (<sp>V/ R/ A/ +</sp>)
 \gresetspecial{V/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
 \gresetspecial{R/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
 \gresetspecial{A/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.~}}
 \gresetspecial{+}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}†~}}
+%% Same special characters, for use in rubrics (no space, and no red command since it will be reddified with the rest)
+\newcommand{\vvrub}{{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
+\newcommand{\rrrub}{{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
+\newcommand{\aarub}{{\fontspec[Scale=\customscale]{Charis SIL}\Abar.~}}
 
 %% Roman Numerals
 \usepackage{modroman}
@@ -199,7 +204,7 @@ headsep=3mm,
 %% Macro to print a full reference to a responsory
 %% #1 is the R/ number in the feast, #2 is the R/ code, #3 is an optional additional text, like "sine Gloria Patri".
 \newcommand{\respref}[3]{\rubric{%
-\rr #1 \scorename{#2}, pag.\ \pageref{M-#2}%
+\rrrub #1 \scorename{#2}, pag.\ \pageref{M-#2}%
 \if\relax\detokenize{#3}\relax%
 .%
 \else%
