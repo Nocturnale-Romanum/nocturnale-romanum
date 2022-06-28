@@ -270,9 +270,12 @@ headsep=3mm,
 \fancyhead[RO]{\small\rightmark\hspace{1cm}\thepage}
 \fancyhead[LE]{\small\thepage\hspace{1cm}\leftmark}
 
+% this command is called every time the left and right header texts are set (e.g. by calling \feast)
+% the hyphenpenalty override is neede only on older versions of gregorio which do not reset it correctly after typesetting the score.
+% see https://tex.stackexchange.com/questions/581013/lualatex-hyphenation-issue-in-fancyhdr-with-gregoriotex-and-multicols-latin-te
 \newcommand{\setheaders}[2]{
-	\renewcommand{\rightmark}{{\sc#2}}
-	\renewcommand{\leftmark}{{\sc#1}}
+	\renewcommand{\rightmark}{\hyphenpenalty=50{\sc#2}}
+	\renewcommand{\leftmark}{\hyphenpenalty=50{\sc#1}}
 }
 \setheaders{}{}
 
