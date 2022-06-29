@@ -2,14 +2,14 @@
 
 \usepackage{imakeidx}
 
-\indexsetup{level=\section*,toclevel=section,noclearpage,othercode=\footnotesize}
-\makeindex[name=I,title=Index Invitatorium,columns=2,columnseprule]
-\makeindex[name=H,title=Index Hymnorum,columns=1]
-\makeindex[name=A,title=Index Antiphonarum,columns=2,columnseprule]
-\makeindex[name=R,title=Index Responsoriorum,columns=2,columnseprule]
-\makeindex[name=P,title=Index Psalmorum,columns=2,columnseprule]
-\makeindex[name=T,title=Toni Communes,columns=1]
-\makeindex[name=F,title=Index Festorum, columns=1]
+\indexsetup{level=\section*,toclevel=section,noclearpage,othercode=\footnotesize\thispagestyle{empty}}
+\makeindex[name=I,title=Index Antiphonarum ad Invitatorium, columns=2,columnseprule]
+\makeindex[name=H,title=Index Hymnorum, columns=2,columnseprule]
+\makeindex[name=A,title=Index Antiphonarum, columns=2,columnseprule]
+\makeindex[name=R,title=Index Responsoriorum, columns=2,columnseprule]
+\makeindex[name=P,title=Index Psalmorum, columns=2,columnseprule]
+\makeindex[name=T,title=Toni Communes, columns=2,columnseprule]
+\makeindex[name=F,title=Index Festorum, columns=2,columnseprule]
 
 %%%%%%%%%%%%%%% STANDARD PACKAGES %%%%%%%%%%%%%%%
 
@@ -189,7 +189,7 @@ headsep=3mm,
 \newcommand{\rnum}[1]{\nbshortroman{#1}}
 
 %% Macro to print versicles
-\newcommand{\versiculus}[2]{\rr #1 \\ \vv #2}
+\newcommand{\versiculus}[2]{\par\rr #1 \\ \vv #2}
 
 \newcommand{\versiculustpall}[2]
 	{\versiculus{#1 \rubric{(T.P.} Allelúja. \rubric{)}}{#2 \rubric{(T.P.} Allelúja. \rubric{)}}}
@@ -304,8 +304,9 @@ headsep=3mm,
   %% #6: incipit date (goes above feast title)
   %% cont'd #1: 1954 rank
   %% cont'd #2: 1960 rank
-  %% cont'd #3: 1945 feast-wide rubrics
-  %% cont'd #4: 1960 feast-wide rubrics
+  %% cont'd #3: name of the feast as it shows up in the index
+  %% cont'd #4: 1945 feast-wide rubrics
+  %% cont'd #5: 1960 feast-wide rubrics
 
   %% needspace: should be barely more than the vertical space for the titles, rubrics excluded.
   %% this is to ensure that the page does not get cut after the title or the phantomsection.
@@ -313,7 +314,6 @@ headsep=3mm,
   %% phantomsection is to allow the label to attach to the title and not the previous counter object.
   \phantomsection
   \label{#1}
-  \index[F]{#2}
   \begin{center}
   %% we typeset a line for the date if the date is not blank
   \ifblank{#6}{}{
@@ -326,17 +326,21 @@ headsep=3mm,
   %% we define the header titles manually
   \setheaders{#3}{#4}
   
-  %% moving on to a continuation macro to unpack the last 4 arguments
+  %% moving on to a continuation macro to unpack the last 5 arguments
   \feastcontinued
 }
-\newcommand{\feastcontinued}[4]
+\newcommand{\feastcontinued}[5]
 {
-  %% we name the last 4 arguments
+  %% we name the last 5 arguments
   \def\oldrank{#1}%
   \def\newrank{#2}%
-  \def\oldrubric{#3}%
-  \def\newrubric{#4}%
-
+  \def\indexfeastname{#3}%
+  \def\oldrubric{#4}%
+  \def\newrubric{#5}%
+  %% we index the feast if the indexing name is given
+  \ifblank{#3}{}{
+	\index[F]{\indexfeastname}
+  }
   %% we typeset a two-column rank & rubrics block if one rank is filled in
   \ifblank{#1}{}{%
     \begin{parcolumns}[rulebetween]{2}
@@ -364,6 +368,8 @@ headsep=3mm,
 %% command to wrap printindex and set the headers for indices
 \newcommand{\cprintindex}[2]{
 	\setheaders{Indices}{#2}
+	\pagestyle{fancy}
+	\thispagestyle{empty}
 	\printindex[#1]
 }
 
