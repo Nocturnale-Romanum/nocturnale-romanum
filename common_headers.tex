@@ -48,10 +48,10 @@ headsep=3mm,
 %% Used in those commands (e.g. everything FontSpec) that use a scale parameter.
 \newcommand{\customscale}{1}
 
-%% Provide the command \fpeval as a copy of the code-level \fp_eval:n.
-%% \fpeval allows to evaluate floating point calculation for scaled parameters, e.g. \setSomeStretchFactor{\fpeval{0,6 * \customscale}}
+%% Provide the command \fpevalc as a copy of the code-level \fp_eval:n.
+%% \fpevalc allows to evaluate floating point calculation for scaled parameters, e.g. \setSomeStretchFactor{\fpevalc{0,6 * \customscale}}
 \ExplSyntaxOn
-\cs_new_eq:NN \fpeval \fp_eval:n
+\cs_new_eq:NN \fpevalc \fp_eval:n
 \ExplSyntaxOff
 
 %% No indentation of paragraphs
@@ -141,7 +141,7 @@ headsep=3mm,
 %%%%%%%%%%%%%%% Main font
 \setmainfont[Ligatures=TeX, Scale=\customscale]{Charis SIL}
 %\setmainfont[Ligatures=TeX, Scale=\customscale]{TeXGyreBonum-Regular}
-\setstretch{\fpeval{1.05 * \customscale}}
+\setstretch{\fpevalc{1.05 * \customscale}}
 
 %%%%%%%%%%%%%%% Score initials
 %% \initialsize resizes the initials, with one argument (size in points)
