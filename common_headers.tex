@@ -191,7 +191,7 @@ headsep=3mm,
 \newcommand{\rnum}[1]{\nbshortroman{#1}}
 
 %% Macro to print versicles
-\newcommand{\versiculus}[2]{\par\rr #1 \\ \vv #2\par}
+\newcommand{\versiculus}[2]{\par\vv #1 \\ \rr #2\par}
 
 \newcommand{\versiculustpall}[2]
 	{\versiculus{#1 \rubric{(T.P.} Allelúja. \rubric{)}}{#2 \rubric{(T.P.} Allelúja. \rubric{)}}}
@@ -322,8 +322,12 @@ headsep=3mm,
     {\large #6}\\%
   }%
   %% the actual title
-  {\Large #2}
+  \ifx 1#5{\sc\huge #2}\fi
+  \ifx 2#5{\Large #2}\fi
+  \ifx 3#5{\large #2}\fi
   \end{center}
+  %% If this is a level 1 title, empty pagestyle
+  \ifx 1#5\thispagestyle{empty}\fi
   
   %% we define the header titles manually
   \setheaders{#3}{#4}
