@@ -126,7 +126,9 @@ headsep=3mm,
   \phantomsection
   \label{#2}
   \greannotation{\officepartannotation{#3}#4}
-  \index[#3]{#5}
+  %% if #5 (indexed name) is blank, nothing is indexed.
+  %% this is for pieces that are repetitions of another piece (antiphons after psalms)
+  \ifblank{#5}{}{\index[#3]{#5}}
   \ifx n#1\gresetinitiallines{0}\fi
   %% the use of a directory called "gabc" is linked
   %% to the management of gabc files by the website: do not change 
@@ -189,7 +191,7 @@ headsep=3mm,
 \newcommand{\rnum}[1]{\nbshortroman{#1}}
 
 %% Macro to print versicles
-\newcommand{\versiculus}[2]{\par\rr #1 \\ \vv #2}
+\newcommand{\versiculus}[2]{\par\rr #1 \\ \vv #2\par}
 
 \newcommand{\versiculustpall}[2]
 	{\versiculus{#1 \rubric{(T.P.} Allelúja. \rubric{)}}{#2 \rubric{(T.P.} Allelúja. \rubric{)}}}
@@ -233,7 +235,7 @@ headsep=3mm,
 	\phantomsection
 	\label{Psalm#1_#2}
 	\index[P]{#1 (mode #2)}
-	{\centering Psalmus #1\par}
+	\smalltitle{Psalmus #1}
 	\begin{multicols}{2}
 	\begin{itemize}[
 		label=\null, 
@@ -300,7 +302,7 @@ headsep=3mm,
   %% #5: title level
     %% title level 1 : full page width, a few major feasts + titles of temporale, sanctorale, etc.
 	%% title level 2 : all feasts, sundays and major ferias
-	%% title level 3 : used for ferias and "nth nocturn" titles
+	%% title level 3 : ferias
   %% #6: incipit date (goes above feast title)
   %% cont'd #1: 1954 rank
   %% cont'd #2: 1960 rank
@@ -358,11 +360,19 @@ headsep=3mm,
   }
 }
 
+\newcommand{\smalltitle}[1]{
+  \par{\centering#1\par}
+}
+
+\newcommand{\intermediatetitle}[1]{
+  \begin{center}
+  {\Large #1}
+  \end{center}
+ }
+
 \newcommand{\nocturn}[1]{
   \needspace{8\baselineskip}
-  \begin{center}
-  {\Large In \Rnum{#1} Nocturno}
-  \end{center}
+  \intermediatetitle{In \Rnum{#1} Nocturno}
 }
 
 %% command to wrap printindex and set the headers for indices
