@@ -68,8 +68,9 @@ headsep=3mm,
 %% text above lines shall be of color gregoriocolor
 \grechangestyle{abovelinestext}{\color{gregoriocolor}\footnotesize}
 %% fine-tuning of space beween the staff and the text above lines
-\newcommand{\altraise}{-2.4mm} %% default is -0.1cm
+\newcommand{\altraise}{-1.4mm} %% default is -0.1cm
 \grechangedim{abovelinestextraise}{\altraise}{scalable}
+\grechangedim{abovelinestextheight}{8mm}{scalable}
 
 %% fine-tuning of space between the staff and the lyrics
 \newcommand{\textraise}{2.8ex} %% default is 3.48471 ex
@@ -228,10 +229,12 @@ headsep=3mm,
 \usepackage{multicol}
 \usepackage{parcolumns}
 \setlength\columnseprule{0.4pt}
+\setlength{\multicolsep}{6pt plus 2pt minus 1.5pt}
 
 %% Macro to print a psalm on two columns.
 \newcommand{\psalmus}[2]{
 	\needspace{4\baselineskip}
+	\vspace{0.5\baselineskip}
 	\phantomsection
 	\label{Psalm#1_#2}
 	\index[P]{#1 (mode #2)}
@@ -322,9 +325,9 @@ headsep=3mm,
     {\large #6}\\%
   }%
   %% the actual title
-  \ifx 1#5{\sc\huge #2}\fi
-  \ifx 2#5{\Large #2}\fi
-  \ifx 3#5{\large #2}\fi
+  \ifx 1#5{\setstretch{1.2}\sc\huge #2\par}\fi
+  \ifx 2#5{\Large #2\par}\fi
+  \ifx 3#5{\large #2\par}\fi
   \end{center}
   %% If this is a level 1 title, empty pagestyle
   \ifx 1#5\thispagestyle{empty}\fi
@@ -365,7 +368,7 @@ headsep=3mm,
 }
 
 \newcommand{\smalltitle}[1]{
-  \par{\centering#1\par}
+  \par{\centering\textbf{#1}\par}
 }
 
 \newcommand{\intermediatetitle}[1]{
