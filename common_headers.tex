@@ -70,7 +70,7 @@ headsep=3mm,
 %% fine-tuning of space beween the staff and the text above lines
 \newcommand{\altraise}{-1.4mm} %% default is -0.1cm
 \grechangedim{abovelinestextraise}{\altraise}{scalable}
-\grechangedim{abovelinestextheight}{8mm}{scalable}
+\grechangedim{abovelinestextheight}{6mm}{scalable}
 
 %% fine-tuning of space between the staff and the lyrics
 \newcommand{\textraise}{2.8ex} %% default is 3.48471 ex
@@ -136,6 +136,7 @@ headsep=3mm,
   %% without also changing the website static files structure
   \gregorioscore{\subfix{gabc/#2}}
   \ifx n#1\gresetinitiallines{1}\fi
+  \vspace{1mm}
 }
 \makeatother
 
