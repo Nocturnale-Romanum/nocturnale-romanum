@@ -181,11 +181,17 @@ headsep=3mm,
 \gresetspecial{V/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
 \gresetspecial{R/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
 \gresetspecial{A/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.~}}
-\gresetspecial{+}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}†~}}
+\gresetspecial{+}{{\fontspec[Scale=\customscale]{FreeSerif}†~}}
+\gresetspecial{*}{\gresixstar}
 %% Same special characters, for use in rubrics (no space, and no red command since it will be reddified with the rest)
 \newcommand{\vvrub}{{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
 \newcommand{\rrrub}{{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
 \newcommand{\aarub}{{\fontspec[Scale=\customscale]{Charis SIL}\Abar.~}}
+
+%% the asterisk as found in the mediants of text-only psalms
+\newcommand{\psstar}{\GreSpecial{*}}
+\newcommand{\pscross}{\GreSpecial{+}}
+%% also, most psalms do not call those but use † and * - todo
 
 %% Roman Numerals
 \usepackage{modroman}
@@ -355,14 +361,12 @@ headsep=3mm,
   \ifblank{#1}{}{%
     \begin{parcolumns}[rulebetween]{2}
 	\colchunk{%
-      {\centering \oldrank
-	  
-	  } \rubric{\oldrubric}
+      {\centering\oldrank\par}%
+	  \ifblank{#4}{}{\rubric{\oldrubric}}
 	}
 	\colchunk{%
-	  {\centering \newrank
-	  
-	  } \rubric{\newrubric} 
+	  {\centering\newrank\par}%
+	  \ifblank{#5}{}{\rubric{\newrubric}}
     }
 	\end{parcolumns}
   }
@@ -374,7 +378,7 @@ headsep=3mm,
 
 \newcommand{\intermediatetitle}[1]{
   \begin{center}
-  {\Large #1}
+  {\large #1}
   \end{center}
  }
 
@@ -395,7 +399,6 @@ headsep=3mm,
 
 \usepackage{xr}
 \usepackage{subfiles}
-\externaldocument[M-]{\subfix{nocturnale-romanum}}
 
 %% When we start a new subfile (new chapter), 
 %% we start on a new page (with blank filling on the previous page) and create a corresponding label.
