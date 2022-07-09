@@ -126,15 +126,20 @@ headsep=3mm,
   \protected@edef\@currentlabelname{#5}
   \phantomsection
   \label{#2}
-  \greannotation{\officepartannotation{#3}#4}
+  %% we add the office part, and number of that ant. or resp. in the current office, if applicable
+  %% todo : the negative hspace is here because somehow the initial and annotation (first line only) are misaligned by 1mm _with this initial font size_.
+  %% this should probably be fixed in a more elegant way.
+  \greannotation[c]{\hspace{-1mm}\officepartannotation{#3}#4}
   %% if #5 (indexed name) is blank, nothing is indexed.
   %% this is for pieces that are repetitions of another piece (antiphons after psalms)
   \ifblank{#5}{}{\index[#3]{#5}}
+  %% if optional arg #1 has been passed as 'n', set no initial
   \ifx n#1\gresetinitiallines{0}\fi
   %% the use of a directory called "gabc" is linked
   %% to the management of gabc files by the website: do not change 
   %% without also changing the website static files structure
   \gregorioscore{\subfix{gabc/#2}}
+  %% if optional arg #1 has been passed as 'n', unset no initial
   \ifx n#1\gresetinitiallines{1}\fi
   \vspace{1mm}
 }
@@ -369,6 +374,7 @@ headsep=3mm,
 	  \ifblank{#5}{}{\rubric{\newrubric}}
     }
 	\end{parcolumns}
+	\vspace{2mm}
   }
 }
 
