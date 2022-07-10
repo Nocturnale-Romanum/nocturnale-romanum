@@ -99,7 +99,9 @@ headsep=3mm,
 }%
 
 %% header capture setup for the mode
-\gresetheadercapture{mode}{greannotation}{string}
+\newcommand{\defaultannotationshift}{-2mm}
+\newcommand{\modeannotation}[1]{\greannotation{\hspace{\defaultannotationshift}#1}}
+\gresetheadercapture{mode}{modeannotation}{string}
 
 %% outputs a score with no label, indexing, initials or annotations
 %% for 
@@ -129,7 +131,7 @@ headsep=3mm,
   %% we add the office part, and number of that ant. or resp. in the current office, if applicable
   %% todo : the negative hspace is here because somehow the initial and annotation (first line only) are misaligned by 1mm _with this initial font size_.
   %% this should probably be fixed in a more elegant way.
-  \greannotation[c]{\hspace{-1mm}\officepartannotation{#3}#4}
+  \greannotation[c]{\hspace{-1.4mm}\hspace{\defaultannotationshift}\officepartannotation{#3}#4}
   %% if #5 (indexed name) is blank, nothing is indexed.
   %% this is for pieces that are repetitions of another piece (antiphons after psalms)
   \ifblank{#5}{}{\index[#3]{#5}}
@@ -163,13 +165,13 @@ headsep=3mm,
 
 %% spacing before and after initials to kern the Zallman Caps.
 %% this should be changed if we move away from Zallman Caps.
-\newcommand{\initialspace}[1]{
-  \grechangedim{afterinitialshift}{#1}{scalable}
+\newcommand{\initialspace}[2]{
+  \grechangedim{afterinitialshift}{#2}{scalable}
   \grechangedim{beforeinitialshift}{#1}{scalable}
 }
-%% default space before and after initials is 0cm.
-\newcommand{\defaultinitialspace}{0cm}
-\initialspace{\defaultinitialspace}
+%% default space before and after initials is 0mm to the left and 2mm to the right.
+\newcommand{\defaultinitialspace}{\initialspace{0mm}{-\defaultannotationshift}}
+\defaultinitialspace{}
 
 %%%%%%%%%%%%%%% Score annotations
 \grechangestyle{annotation}{\small}
@@ -245,8 +247,8 @@ headsep=3mm,
 
 %% Macro to print a psalm on two columns.
 \newcommand{\psalmus}[2]{
-	\needspace{4\baselineskip}
 	\vspace{0.5\baselineskip}
+	\needspace{5\baselineskip}
 	\phantomsection
 	\label{Psalm#1_#2}
 	\index[P]{#1 (mode #2)}
@@ -307,8 +309,8 @@ headsep=3mm,
 \titlespacing*{\paragraph}{0pt}{1ex}{.6ex}
 
 %% Typesets all titles throughout the NR except Nocturn titles and a few special titles.
-%% Using a continuation is necessary because there are 10 arguments.
-%% Only \feast should ever be used.
+%% Using a continuation is necessary because there are 11 arguments.
+%% Only \feast, \nocturn, \intermediatetitle and \smalltitle should ever be used.
 \newcommand{\feast}[6]{
   %% #1: feast code, e.g. 1225 or A1F1
   %% #2: feast title
@@ -327,7 +329,7 @@ headsep=3mm,
 
   %% needspace: should be barely more than the vertical space for the titles, rubrics excluded.
   %% this is to ensure that the page does not get cut after the title or the phantomsection.
-  \needspace{6\baselineskip}
+  \needspace{8\baselineskip}
   %% phantomsection is to allow the label to attach to the title and not the previous counter object.
   \phantomsection
   \label{#1}
