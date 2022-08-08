@@ -20,8 +20,8 @@
 %\usepackage[paperwidth=160mm, paperheight=240mm]{geometry}
 
 \usepackage{fontspec}
-\usepackage{babel}
-\usepackage{xcolor}
+\usepackage[nolocalmarks]{polyglossia}
+\usepackage[table]{xcolor}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{setspace}
@@ -31,6 +31,11 @@
 \usepackage{needspace}
 \usepackage{etoolbox}
 \usepackage{enumitem}
+
+%%%%%%%%%%%%%%% HYPHENATION AND TYPOGRAPHICAL CONVENTIONS %%%%%%%%%%%%%%
+
+%\setdefaultlanguage[variant=ecclesiastic, hyphenation=liturgical, usej=true, babelshorthands=false]{latin}
+\setdefaultlanguage[variant=french, frenchitemlabels=false]{french}
 
 %%%%%%%%%%%%%%% GEOMETRY %%%%%%%%%%%%%%%
 
@@ -157,7 +162,7 @@ headsep=3mm,
 %%%%%%%%%%%%%%% Score initials
 %% \initialsize resizes the initials, with one argument (size in points)
 \newcommand{\initialsize}[1]{
-    \grechangestyle{initial}{\fontspec{Zallman}\fontsize{#1}{#1}\selectfont}
+    \grechangestyle{initial}{\fontspec{Zallman Caps}\fontsize{#1}{#1}\selectfont}
 }
 %% default initial size is 32 points
 \newcommand{\defaultinitialsize}{28}
