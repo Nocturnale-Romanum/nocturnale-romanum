@@ -1,18 +1,29 @@
+name:Duo Seraphim V Tres sunt V Gloria;
+office-part:re;
 mode:1;
+submitter:marteo;
 %%
-(c4)  Du(dc)o(a) Sé(cded)ra(cd)phim<sp>*</sp>(d) (,)
-cla(dcd)má(f!go1!hv)bant(g) al(f!go1!h>)ter(fe) ad(cd) ál(dc~)te(d!ewfef)rum:(ed) (:)
-<sp>+</sp> San(ixhghvGFgwhg/hi~)ctus,(h) (,)
-San(ixdhivHGhvGFgwhg/hi~)ctus,(h) (,)
-San(ixjvHGhvGFgwhg/hi~)ctus(h) (;)
-Dó(hg)mi(e)nus(gh) De(fvED)us(cd) Sá(d)ba(d!ewfef)oth:(ed) (;)
-<v>\ddag\ </v> Ple(d)na(cdCA) est(C2D2F2hvFDfe>) o(efd~)mnis(cd) ter(d!ewfef)ra(ed) (;)
-gló(dC2A2CDewffgFD)ri(fe)a(cd) e(d!ewfef)jus.(ed) (::)
-<sp>V/</sp> Tres(h) sunt(hg/hggO1f) qui(g) tes(g)ti(g)mó(gh)ni(g)um(hf~) dant(gh) in(gh) cœ(ixh/iiO1h)lo,(h) (;)
-Pa(h)ter,(j) Ver(kj)bum,(h) et(h) Spí(gf)ri(gh)tus(gh) San(ixh/iiO1h)ctus,(h) (;)
-et(hg~) hi(e) tres(gh) u(fe)num(CDefd~) sunt.(d) (::)
-<sp>V/</sp> San(ixhghvGFgwhg/hi~)ctus.(h) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iiO1!h)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf) (::)
-<v>\ddag\ </v> Ple(d)na.(cdCA)   (::)
+(c4)Du(dc)o(a) Sé(cd/ed)ra(cd)phim(d_) <sp>*</sp> (,)
+cla(dcd)má(f!go!hv)bant(g) 
+al(f!go!h>)ter(f_e) ad(cd) ál(dc~)te(d!ewfef)rum :(ed..) (:)
 
+<sp>+</sp> San(ixh_ghvGF!gw!h!g/hi~)ctus,(h.) (,) San(ixdh__/ihhg/hvGF!gw!h!g/hi~)ctus,(h.) (,) San(ixjg__/hv_GF!gw!h!g/hi~)ctus(h.) (;) 
+Dó(hg)mi(e)nus(gh) De(fv_ED)us(cd) Sá(d)ba(d!ewfef)oth :(ed..) (:)
+
+<sp>‡</sp> Ple(d)na(cdCAcd) est(d_)
+o(d@fogFD/fe~)mnis(cd) ter(d!ewfef)ra(ed..) (;) gló(dvCAcd_/fgFD/f_e)ri(cd)a(d) e(d!ewfef)jus.(ed..) (::)
+
+<sp>V/</sp> Tres(dh) sunt(hg/hggof)
+qui(g) te(g)sti(g)mó(g)ni(g)um(hf) 
+dant(gh) in(gh) cæ(ixh_/iioh)lo,(h.) (;) 
+Pa(h_)ter,(j_`) Ver(kj)bum,(h_`) 
+et(h) Spí(gf)ri(gh)tus(gh) Sanc(ixh_/iioh)tus,(h.) (;) 
+et(hg) hi(e) tres(gh) u(fe)num(c/efd~) sunt.(d.) (::) 
+
+<sp>+</sp> San(ixh_ghvGF!gw!h!g/hi~)ctus.(h.) (::)
+
+<sp>V/</sp> Gló(dh)ri(h)a(hg/hggof) 
+Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh_/iioh)o,(h.) (:) 
+et(h) Spi(h)rí(hg)tu(e)i(gh) San(fvEC/efd~)cto.(d.) (::) 
+
+<sp>‡</sp> Ple(d)na(cdCAcd) est.(d_) (::)
