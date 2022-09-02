@@ -4,10 +4,19 @@ mode:1;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-(c4) IN(e>|vi>) il(c|ta)lo(d|vi) tém(ixdh/iv|scG1)po(h|vi)re(h|vi) *() ex(g|ta)au(h>|vi>)dí(h!iwji/jkj|ql!clppt1tohl)tæ(hf|cllsc3) sunt(ghg|to) pre(fg|pe)ces(f|vi) am(e!fgf/gvFE|clpp2vi-hhsut2)bó(d!ewfef|ql!poppt1)rum(ed|cl-) (;) in(hgh|polsl4) con(jk~|``ta>hhlsal4)spéc(jij|po)tu(hgh|po) gló(jk!lv|```sc-hmlsal4)ri(j|tahj)æ(jjoi|pr) sum(h|ta)mi(jh!iwji|cl-ql!cl-) De(hi!jvIHi|//ci-hgpp2vihh)i:(ih|cl-) (:)
+initial-style: 1;
+name: In illo tempore exauditae;
+mode: 1;
+office-part: Responsorium;
+annotation:Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) IN(e>|vi>) il(c|ta)lo(d|vi) tém(ixdh/iv|////scG-1)po(h|vi)re(h|vi) *() ex(g|ta)au(h>|vi>)dí(h!iwji/jkj|ql!clppt1tohl)tæ(hf|cllsc3) sunt(ghg|to) pre(fg|pe)ces(f|vi) am(e!fgf/gvFE|clpp2vi-hhsut2)bó(d!ewfef|ql!poppt1)rum(ed|cl-) (;) in(hgh|polsl4) con(jk~|``ta>hhlsal4)spéc(jij|po)tu(hgh|po) gló(jk!lv|```sc-hmlsal4)ri(j|tahj)æ(jjoi|pr) sum(h|ta)mi(jh!iwji|cl-ql!cl-) De(hi!jvIHi|//ci-hgpp2vihh)i:(ih|cl-) (:)
 
 †() Et(f|ta) mis(h|vi)sus(g|ta) est(h|vi) An(g>|vi>)ge(h|vi)lus(ge|cllsc3) Dó(f|vi)mi(gf|cllsc3)ni(f|ta) sanc(gh>|pe>)tus(fe|cllsc3) Rá(d!ewfED|ql-ppt1su2)pha(c!dwfEDe|qi-ppt1su2vihg)ël,(ed|cl-) (;) ut(d|``talse1) cu(d|ta)rá(f/gh|scM1)ret(g|talse9) e(g|ta)os(g|ta) am(gfg|po)bos,(fg/ffod|pe-1`prhg) (,) quo(f|vi)rum(gh|pe) u(h|vi)no(gf|cllsc3) tém(gh~|pe~)po(g|ta)re(gh|pe) sunt(g|vi) o(fd|cllsc3)ra(f|vi)ti(f!goh|sa)ó(hvGFE/fwgfg|vi-sut3qi!po)nes(gf|cl-) (,) in(f<|ta>) con(gh|pe)spéc(ixhjhioj|////to/pqhg)ctu(g|vi) Dó(fg|peS)mi(gvFEfvEDe|////clSsut1vi-sut2vihg)ni(ed|cl-) re(f!ghffoe|clhg!pihgpp2)ci(d|ta)tá(d!ewfef|ql!poppt1)tæ.(ed|cl-) (::)
 
 
 <sp>V/</sp> To(h|vi)bí(h|vi)as(hg/hg/gof|cllsc2cl!pilst3) et(g|vi) Sa(gh|pe)ra(g|ta-) (,) in(g|ta) tri(g|ta)bu(g|ta)la(g|ta)ti(hf|cllsc3)ó(gh|pe)ne(gh|pe) pó(h|vi)si(ixh/iioh|////ta-pr)ti(h|ta-) (;) cum(hf~|cl~lss2) lá(gh|pe)cri(h|vi)mis(h|vi) o(h|vi)rá(hg/hg|pflsc2)re(hf|cllsc3) cœ(ixf!gwhg/hih|////ql!clppt1tohk)pé(hvGFE/fwghv|vi-su1sut2ql-hgvihk)runt.(gf|cl) (::)
 †() Et.(f|ta) (::)
+
