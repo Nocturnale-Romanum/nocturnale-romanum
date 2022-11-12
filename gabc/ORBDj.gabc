@@ -1,8 +1,6 @@
+name:Benedicamus Domino (In Octavam Paschae);
+office-part:or;
 mode:8;
+submitter:marteo;
 %%
-%Two-line version without using translation text:
-%BE(g)ne(g)di(g)cá(g)mus(g) Dó(g)mi(g)no,(h) (,) al(g)le(f)lú(gh~)ja,(h) (,) al(h)le(gjIHG)lú(fgh)ja.(hg)
-%<sp>R/</sp> () De(g)o(g)  grá(g)ti(g)as.(h) (,) al(g)le(f)lú(gh~)ja,(h) (,) al(h)le(gjIHG)lú(fgh)ja.(hg)(::)
-%%
-BE(g)ne(g)di(g)cá[<sp>R/</sp> De-](g)mus[<v>\ \ \ \ \ </v>o](g) Dó[<v>\ \ </v> grá-](g)mi[<v>\ \ \ \ </v>ti-](g)no,[<v>\ \ \ </v>as,](h) (,) al[al](g)le[<v>\ </v>le-](f)lú[lú-](gh~])ja,[ja,](h) (,) al[al](h)le[<v>\ </v>le-](gjIHG)lú[lú-](fgh)ja.[ja.](hg) (::)
-
+BE(g)ne(g)di[<sp>R/</sp> De-](g)cá(g)mus[~~~o](g) Dó[grá-](g)mi[~~ti-](g)no,[as,](h_) (,) al[al](g)le[le-](f)lú[lú-](gh~])ja,[ja,](h_) (,) al[al](h)le[le-](gjIHG____)lú[lú-](fgh)ja.[ja.](hg..) (::)
