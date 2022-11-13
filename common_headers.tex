@@ -31,6 +31,7 @@
 \usepackage{needspace}
 \usepackage{etoolbox}
 \usepackage{enumitem}
+\usepackage{lettrine}
 
 %%%%%%%%%%%%%%% HYPHENATION AND TYPOGRAPHICAL CONVENTIONS %%%%%%%%%%%%%%
 
@@ -71,7 +72,7 @@ headsep=3mm,
 \usepackage[autocompile]{gregoriotex}
 
 %% text above lines shall be of color gregoriocolor
-\grechangestyle{abovelinestext}{\color{gregoriocolor}\footnotesize}
+\grechangestyle{abovelinestext}{\color{gregoriocolor}\footnotesize\itshape}
 %% fine-tuning of space beween the staff and the text above lines
 \newcommand{\altraise}{-1.4mm} %% default is -0.1cm
 \grechangedim{abovelinestextraise}{\altraise}{scalable}
@@ -185,9 +186,9 @@ headsep=3mm,
 
 %% V/, R/, A/ and + signs for in-line use (\vv \rr \aa \cc)
 \newcommand{\specialcharhsep}{3mm} % space after invoking R/ or V/ or A/ outside rubrics
-\newcommand{\vv}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.\hspace{\specialcharhsep}}}
-\newcommand{\rr}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.\hspace{\specialcharhsep}}}
-\renewcommand{\aa}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.\hspace{\specialcharhsep}}}
+\newcommand{\vv}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.\nolinebreak[4]\hspace{\specialcharhsep}\nolinebreak[4]}}
+\newcommand{\rr}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℟.\nolinebreak[4]\hspace{\specialcharhsep}\nolinebreak[4]}}
+\renewcommand{\aa}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.\nolinebreak[4]\hspace{\specialcharhsep}\nolinebreak[4]}}
 \newcommand{\cc}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}\symbol{"2720}~}}
 %% Same special characters, for in-score use (<sp>V/ R/ A/ +</sp>)
 \gresetspecial{V/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
@@ -195,6 +196,8 @@ headsep=3mm,
 \gresetspecial{A/}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{Charis SIL}\Abar.~}}
 \gresetspecial{+}{{\fontspec[Scale=\customscale]{FreeSerif}†~}}
 \gresetspecial{*}{\gresixstar}
+\gresetspecial{cross}{\textcolor{gregoriocolor}{\fontspec[Scale=\customscale]{FreeSerif}\symbol{"2720}}}
+\gresetspecial{labiacross}{\textcolor{gregoriocolor}{+}}
 %% Same special characters, for use in rubrics (no space, and no red command since it will be reddified with the rest)
 \newcommand{\vvrub}{{\fontspec[Scale=\customscale]{Charis SIL}℣.~}}
 \newcommand{\rrrub}{{\fontspec[Scale=\customscale]{Charis SIL}℟.~}}
@@ -386,17 +389,18 @@ headsep=3mm,
 }
 
 \newcommand{\smalltitle}[1]{
+  \needspace{5\baselineskip}
   \par{\centering\textbf{#1}\par}
 }
 
 \newcommand{\intermediatetitle}[1]{
+  \needspace{8\baselineskip}
   \begin{center}
   {\large #1}
   \end{center}
  }
 
 \newcommand{\nocturn}[1]{
-  \needspace{8\baselineskip}
   \intermediatetitle{In \Rnum{#1} Nocturno}
 }
 
