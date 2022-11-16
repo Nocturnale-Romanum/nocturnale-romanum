@@ -1,3 +1,7 @@
+name:Exsurge Domine salvum;
+office-part:an;
 mode:6f;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Ex(f)súr(fg~)ge,(f) <v>\greheightstar</v>() Dó(fe)mi(dc)ne,(c) (,) sal(d>)vum(c) me(df) fac,(fe) De(g)us(gh) me(f)us.(f) (::) E(h) U(h) O(f) U(gh) A(g) E.(f) (::)
+(c4)Ex(f|ta)súr(fg~|pe~)ge,(f|ta) <sp>*</sp> Dó(fe|cllsc3)mi(dc|cllsc3)ne,(c_|ta-) (,) sal(d>|vi>)vum(c|ta) me(df|``pelss2) fac,(fe|cllsc3) De(g|vi)us(gh|pe) me(f.|ta-)us.(f.|ta-) (::) <eu>E(h) U(h) O(f) U(gh) A(g) E.</eu>(f) (::)
