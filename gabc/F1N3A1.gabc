@@ -1,3 +1,7 @@
+name:Ut quid Domine recessisti;
+office-part:an;
 mode:2d;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3)Ut(f) quid,(hg) Dó(h)mi(g)ne,(f) <sp>+</sp>(,) re(gh)ces(fe)sís(f)ti(gh) lon(f)ge?(f) (::) E(h) U(h) O(h) U(g) A(ef) E.(f) (::)
+(f3) Ut(f|ta) quid,(hg|cllsc3) Dó(h|vihh)mi(g|vi)ne,(f_|ta-) <sp>+</sp>(,) re(gh|pe)ces(fe|cllsc3)sís(f|vi)ti(gwh|qlhh) lon(f.|ta-)ge?(f.|ta-) (::) <eu>E(h) U(h) O(h) U(g) A(ef) E.</eu>(f) (::)
