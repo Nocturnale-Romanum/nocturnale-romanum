@@ -1,14 +1,25 @@
-mode:1;
+name:Consors paterni luminis;
+office-part:hy;
+mode:4;
+submitter:marteo;
 %%
-(c4) COn(h)sors(h) pa(h)tér(h)ni(h) lú(ixhi)mi(h)nis,(h) (,) Lux(h) i(h)pse(h) lu(g)cis,(f) et(gh) di(g)es,(g) (;)
-Noc(f)tem(h) can(h)én(g)do(f) rúm(g)pi(g)mus:(h) (,) As(g)sís(g)te(g) po(f)stu(d)lán(f)ti(e)bus.(d) (::)
-2. Au(h)fer(h) te(h)né(h)bras(h) mén(ixhi)ti(h)um,(h) (,) Fu(h)ga(h) ca(h)tér(g)vas(f) dǽ(gh)mo(g)num,(g) (;)
-Ex(f)pél(h)le(h) som(g)no(f)lén(g)ti(g)am,(h) (,) Ne(g) pi(g)gri(g)tán(f)tes(d) ó(f)bru(e)at.(d) (::)
+(c4) Con(d)sors(e) pa(f)tér(g)ni(eg) lú(f)mi(e)nis,(f_) (,)
+Lux(d) i(e)pse(f) lu(g)cis,(eg) et(f) di(e)es,(ded.) (;)
+No(e)ctem(c) ca(e)nén(gh)do(ixhi) rúm(h)pi(g)mus:(h_) (,)
+As(f)sí(h)ste(h) po(g)stu(ef)lán(g)ti(f)bus.(e.) (::)
 
-3. Sic,(h) Chri(h)ste,(h) no(h)bis(h) óm(ixhi)ni(h)bus(h) (,) In(h)dúl(h)ge(h)as(g) cre(f)dén(gh)ti(g)bus,(g) (;)
-Ut(f) pro(h)sit(h) ex(g)o(f)rán(g)ti(g)bus,(h) (,) Quod(g) præ(g)cin(g)én(f)tes(d) psál(f)li(e)mus.(d) (::)
+<c>2.</c> Au(d)fer(e) té(f)ne(g)bras(eg) mén(f)ti(e)um,(f_) (,)
+Fu(d)ga(e) ca(f)tér(g)vas(eg) dǽ(f)mo(e)num,(ded.) (;)
+Ex(e)pél(c)le(e) som(gh)no(ixhi)lén(h)ti(g)am,(h_) (,)
+Ne(f) pi(h)gri(h)tán(g)tes(ef) ó(g)bru(f)at.(e.) (::)
 
-4. Præ(h)sta,(h) Pa(h)ter(h) pi(h)ís(ixhi)si(h)me,(h) (,) Pa(h)trí(h)que(h) com(g)par(f) U(gh)ni(g)ce,(g) (;)
-Cum(f) Spi(h)ri(h)tu(g) Pa(f)rá(g)cli(g)to(h) (,) Re(g)gnans(g) per(g) om(f)ne(d) sǽ(f)cu(e)lum.(d) (::)
+<c>3.</c> Sic,(d) Chri(e)ste,(f) no(g)bis(eg) óm(f)ni(e)bus(f_) (,)
+In(d)dúl(e)ge(f)as(g) cre(eg)dén(f)ti(e)bus,(ded.) (;)
+Ut(e) pro(c)sit(e) e(gh)xo(ixhi)rán(h)ti(g)bus,(h_) (,)
+Quod(f) præ(h)ci(h)nén(g)tes(ef) psál(g)li(f)mus.(e.) (::)
 
-A(ded)men.(cd) (::)
+<c>4.</c> Præ(d)sta,(e) Pa(f)ter(g) pi(eg)ís(f)si(e)me,(f_) (,)
+Pa(d)trí(e)que(f) com(g)par(eg) Ú(f)ni(e)ce,(ded.) (;)
+Cum(e) Spí(c)ri(e)tu(gh) Pa(ixhi)rá(h)cli(g)to(h_) (,)
+Re(f)gnans(h) per(h) om(g)ne(ef) sǽ(g)cu(f)lum.(e.) (::)
+A(efe)men.(de..) (::)
