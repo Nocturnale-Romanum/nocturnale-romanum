@@ -1,23 +1,25 @@
-mode:1;
+name:Audit tyrannus;
+office-part:hy;
+mode:6;
+submitter:marteo;
 %%
-(c4) <nlba>Au(c)dit(d) ty(fh)rán(gf){nu}s(ede) án(f){xi}(e){us}(d) (,)
-Ad(ce)és(g)se(h) re(h)gum(g) {Pr}ín(h!iwj){c}i(ivHG)</nlba>pem,(h) (;z)
-Qui(hi) no(g)men(fg) Is(e)ra(dc)ël(d) re(de)gat,(e) (,)
-Ten<e>e</e>(c)át(d)que(eg) Da(gf)vid(ede) ré(f)gi(e)am.(d) (::z)
-%
-2. Ex(c)clá(d)mat(fh) a(gf)mens(ede) nún(f)ti(e)o:(d) (,)
-Suc(ce)cés(g)sor(h) in(h)stat,(g) pél(h!iwj)li(ivHG)mur:(h) (;z)
-Sa(hi)tél(g)les,(fg) i,(e) fer(dc)rum(d) ra(de)pe,(e) (,)
-Per(c)fún(d)de(eg) cu(gf)nas(ede) sán(f)gui(e)ne.(d) (::z)
-%
-<nlba>3. Qui(c) p{r}ó(d){fi}(fh){ci}t(gf) {t}an(ede)tum(f) ne(e)f{as}?(d) (,)
-<v>\hspace{-0.2em}</v>Quid(ce) cri(g)men(h) {He}(h)ró(g)dem(h!iwj) {j}u(ivHG)</nlba>vat?(h) (;Z)
-U(hi)nus(g) tot(fg) in(e)ter(dc) fú(d)ne(de)ra(e) (,)
-Im(c)pú(d)ne(eg) Chri(gf)stus(ede) tól(f)li(e)tur.(d) (::)
-%
-4. Je(cz)su,(d) 
-ti(fh)bi(gf) sit(ede) gló(f)ri(e)a,(d) (,)
-Qui(ce) na(g)tus(h) es(h) de(g) Vír(h!iwj)gi(ivHG)ne,(h) (;)
-Cum(hiz) 
-Patr<e>e</e>,(g) et(fg) al(e)mo(dc) Spí(d)ri(de)tu,(e) (,)
-In(c) sem(d)pi(eg)tér(gf)na(ede) sǽ(f)cu(e)la.(d) (::) A(ded)men.(cd) (::) 
+(c4) Au(f)dit(f) ty(gh)rán(h)nus(gh) án(g)xi(gf)us(f_) (,)
+ad(h)és(j)se(k) re(j)gum(ij) prín(h)ci(g)pem,(hg..) (;)
+qui(f) no(f)men(g) Is(d)ra(c)el(fg) re(gf)gat(f.) (,)
+t{e}n<i>e</i>(f)át(f)que(gh) Da(h)vid(gh) ré(g)gi(gf)am.(f.) (::)
+
+<c>2.</c> Ex(f)clá(f)mat(gh) a(h)mens(gh) nún(g)ti(gf)o :(f_) (,) 
+«Suc(h)cés(j)sor(k) in(j)stat,(ij) pél(h)li(g)mur ;(hg..) (;)
+sa(f)tél(f)les,(g) i,(d) fer(c)rum(fg) ra(gf)pe,(f.) (,)
+per(f)fún(f)de(gh) cu(h)nas(gh) sán(g)gui(gf)ne!»(f.) (::)
+
+<c>3.</c> Quo(f) pró(f)fi(gh)cit(h) tan(gh)tum(g) ne(gf)fas ?(f_) (,)
+Quid(h) cri(j)men(k) He(j)ró(ij)dem(h) ju(g)vat ?(hg..) (;)
+U(f)nus(f) tot(g) in(d)ter(c) fú(fg)ne(gf)ra(f.) (,)
+im(f)pú(f)ne(gh) Chris(h)tus(gh) tól(g)li(gf)tur.(f.) (::)
+
+<c>4.</c> Je(f)su,(f) ti(gh)bi(h) sit(gh) gló(g)ri(gf)a,(f_) (,)
+qui(h) na(j)tus(k) es(j) de(ij) Vír(h)gi(g)ne,(hg..) (;)
+cum(f) P{a}tr<i>e</i>(f) et(g) al(d)mo(c) Spí(fg)ri(gf)tu,(f.) (,)
+in(f) sem(f)pi(gh)tér(h)na(gh) sǽ(g)cu(gf)la.(f.) (::)
+A(fgf)men.(ef..) (::)
