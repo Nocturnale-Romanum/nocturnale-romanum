@@ -1,35 +1,40 @@
+name:Christe redemptor omnium;
+office-part:hy;
 mode:1;
+submitter:marteo;
 %%
-(c4) <nlba>JE(c)su,(d) Re(eg)démp(gf){t}or(ede) ó(f)mni(e)um,(d) (,) 
-Quem(ce) lu(g)cis(h) an(h)t<e>e</e> o(g)</nlba>rí(h!iwjz)gi(ivHG)nem(h) (;)
-<nlba>{Pa}(hi)rem(g) {pa}(fg)tér(e)næ(dc) gló(d)ri(de)æ(e) (,)
-{Pa}(c)ter(d) su(eg)p{ré}(gf){mu}s(ede) é(f){di}(e)</nlba>d{it}.(d) (::z)
-2. Tu(c) lu(d)men,(eg) et(gf) splen(ede)dor(f) Pa(e)tris,(d) (,)
-Tu(ce) spes(g) pe(h)rén(h)nis(g) ó(h!iwj)mni(ivHGz)u{m},(h) (;)
-{In}(hi)tén(g)de(fg) quas(e) fun(dc)dunt(d) p{re}(de)ces(e) (,)
-<nlba>Tu(c)i(d) per(eg) or(gf)bem(ede) sér(f)vu(e)</nlba>li.(d) (::z)
-%
-3. Me(c)mén(d)to,(eg) re(gf)rum(ede) Cón(f)di(e)tor,(d) (,)
-No(ce)stri(g) quod(h) o(h)lim(g) cór(h!iwj)po(ivHGz)ri{s},(h) (;)
-Sa(hi)crá(g)t<e>a</e> {ab}(fg) al(e)vo(dc) Vír(d)gi(de)nis(e) (,)
-<nlba>Na(c)scén(d)do,(eg) for(gf)mam(ede) súm(f)p{s}e(e)</nlba>ris.(d) (::z)
-%
-<nlba>4. T{es}(c)tá(d)tur(eg) hoc(gf) p{r}æ(ede)sens(f) {di}(e)e{s},(d) (,)
-Cur(ce)rens(g) per(h) an(h)ni(g) cír(h!iwj){cu}(ivHG)</nlba>lum,(h) (;z)
-Quod(hi) so(g)lus(fg) e(e) si(dc)nu(d) Pa(de)tris(e) (,)
-<nlba>Mun(c)di(d) sa(eg)lus(gf) ad(ede)vé(f)ne(e)</nlba>ris.(d) (::z)
-%
-<nlba>5. Hunc(c) a(d)stra,(eg) tel(gf)lus,(ede) ǽ(f)quo(e)ra,(d) (,) 
-Hunc(ce) o(g)mne,(h) quod(h) {cœ}(g)lo(h!iwj) </nlba>sub(ivHGz)est,(f) (;)
-Sa(hi)lú(g)tis(fg) auc(e)tó(dc)rem(d) no(de)væ(e) (,) {No}(c){vo}(d) sa(eg)lú(gf)tat(ede) cá(f)ti(e)co.(d) (::z)
-%
-<nlba>6. Et(c) nos,(d) be(eg)á(gf)ta(ede) quos(f) sa(e)cri(d) (,)
-Ri(ce)gá(g)vit(h) un(h)da(g) sá(h!iwj)gui(ivHG)</nlba>nis,(h) (;z)
-Na(hi)tá(g)lis(fg) ob(e) di(dc)em(d) tu(de)i(e) (,) Hym(c)ni(d) tri(eg)bú(gf)tum(ede) sól(f)vi(e)mus.(d) (::z)
-%
-<nlba>7. Je(c)su,(d) ti(eg)bi(gf) sit(ede) gló(f)ri(e)a,(d) (,) 
-Qui(ce) na(g)tus(h) es(h) de(g) Vír(h!iwj)gi(ivHG)</nlba>ne,(h) (;z)
-Cum(hi) Patr<e>e</e>,(g) et(fg) al(e)mo(dc) Spí(d)ri(de)tu,(e) (,)
-In(c) sem(d)pi(eg)tér(gf)na(ede) sǽ(f)cu(e)la.(d) (::) 
-A(ded)men.(cd) (::) 
+(c4) Chri(c)ste(d) Re(eg)dém(g)ptor(ed) óm(f)ni(ed)um,(d.) (,)
+Ex(ce) Pa(g)tre(h) Pa(h)tris(g) ú(h!iwj)ni(ig)ce,(h.) (;)
+So(hi)lus(g) an(gf)te(e) prin(dc)cí(d)pi(de)um(e.) (,)
+Na(c)tus(d) i(eg)nef(g)fa(ed)bí(f)li(ed)ter.(d.) (::)
 
+<c>2.</c> Tu(c) lu(d)men,(eg) tu(g) splen(ed)dor(f) Pa(ed)tris,(d.) (,)
+Tu(ce) spes(g) pe(h)rén(h)nis(g) óm(h!iwj)ni(ig)um:(h.) (;)
+In(hi)tén(g)de(gf) quas(e) fun(dc)dunt(d) pre(de)ces(e.) (,)
+Tu(c)i(d) per(eg) or(g)bem(ed) fá(f)mu(ed)li.(d.) (::)
+
+<c>3.</c> Me(c)mén(d)to(eg) sa(g)lú(ed)tis(f) Au(ed)ctor,(d.) (,)
+Quod(ce) no(g)stri(h) quon(h)dam(g) cór(h!iwj)po(ig)ris,(h.) (;)
+Ex(hi) il(g)li(gf)bá(e)ta(dc) Vír(d)gi(de)ne(e.) (,)
+Na(c)scén(d)do,(eg) for(g)mam(ed) súm(f)pse(ed)ris.(d.) (::)
+
+<c>4.</c> Sic(c) præ(d)sens(eg) te(g)stá(ed)tur(f) di(ed)es,(d.) (,)
+Cur(ce)rens(g) per(h) an(h)ni(g) cír(h!iwj)cu(ig)lum,(h.) (;)
+Quod(hi) so(g)lus(gf) a(e) se(dc)de(d) Pa(de)tris(e.) (,)
+Mun(c)di(d) sa(eg)lus(g) ad(ed)vé(f)ne(ed)ris.(d.) (::)
+
+<c>5.</c> Hunc(c) cæ(d)lum,(eg) ter(g)ra,(ed) hunc(f) ma(ed)re,(d.) (,)
+Hunc(ce) om(g)ne(h) quod(h) in(g) e(h!iwj)is(ig) est,(h.) (;)
+Au(hi)ctó(g)rem(gf) ad(e)vén(dc)tus(d) tu(de)i,(e.) (,)
+Lau(c)dans(d) ex(eg)súl(g)tat(ed) cán(f)ti(ed)co.(d.) (::)
+
+<c>6.</c> Nos(c) quo(d)que,(eg) qui(g) san(ed)cto(f) tu(ed)o(d.) (,)
+Re(ce)dém(g)pti(h) sán(h)gui(g)ne(h!iwj) su(ig)mus,(h.) (;)
+Ob(hi) di(g)em(gf) na(e)tá(dc)lis(d) tu(de)i,(e.) (,)
+Hym(c)num(d) no(eg)vum(g) con(ed)cí(f)ni(ed)mus.(d.) (::)
+
+<c>7.</c> Gló(c)ri(d)a(eg) ti(g)bi(ed) Dó(f)mi(ed)ne,(d.) (,)
+Qui(ce) na(g)tus(h) es(h) de(g) Vír(h!iwj)gi(ig)ne,(h.) (;)
+Cum(hi) P{a}tr<e>e</e>(g) et(gf) San(e)cto(dc) Spí(d)ri(de)tu,(e.) (,)
+In(c) sem(d)pi(eg)tér(g)na(ed) sǽ(f)cu(ed)la.(d.) (::)
+A(ded)men.(cd..) (::)
