@@ -1,32 +1,36 @@
-mode:2;
+name:Te dicimus praeconio;
+office-part:hy;
+mode:8;
+submitter:marteo;
 %%
-(c4) Te(h) dí(hg)ci(ed)mus(g) præ(hj)có(ji)ni(h)o,(i) (,)
-In(hk)tá(k)cta(i) Ma(ji)ter(h) Nú(ih)mi(g)nis,(h) (;)
-No(k)stris(k) be(i)ní(k)gna(klk) láu(ji)di(hi)bus(ivHG) (,)
-Tu(ji)am(jk) {re}(i)pén(ji)de(h) grá(ih)ti(g)am.(h) (::)
-2.  Son(h)tes(hg) A(ed)dá(g)mi(hj) pó(ji)ste(h)ri,(i) (,)
-In(hk)fé(k)cta(i) pro(ji)les(h) gí(ih)gni(g)mur;(h) (;)
-La(k)bis(k) pa(i)tér(k)næ(klk) né(ji)sci(hi)a(ivHG) (,)
-Tu(ji) so(jk)la,(i) Vir(ji)go,(h) cré(ih)de(g)ris.(h) (::)
+(c4) Te(g) dí(g)ci(f)mus(e) præ(d)có(fhg)ni(fg)o,(g.) (,)
+In(h!iwji)tá(h)cta(g) Ma(h)ter(ig) Nú(h)mi(g)nis,(f.) (;)
+No(f)stris(g) be(f)ní(g)gna(h) láu(j)di(g)bus(hih_0) (,)
+Tu(h)am(h) re(g)pén(e)de(f) grá(hg)ti(fg)am.(g.) (::)
 
-3. Ca(h)put(hg) dra(ed)có(g)nis(hj) ín(ji)vi(h)di(i) (,)
-Tu(hk) cón(k)te(i)ris(ji) ve(h)stí(ih)gi(g)o,(h) (;)
-Et(k) so(k)la(i) gló(k)ri(klk)am(ji) re(hi)fers(ivHG) (,)
-In(ji)ta(jk)mi(i)nat<e>æ</e>(ji) o(h)rí(ih)gi(g)nis.(h) (::)
+<c>2.</c> Son(g)tes(g) A(f)dá(e)mi(d) pó(fhg)ste(fg)ri(g.) (,)
+In(h!iwji)fé(h)cta(g) pro(h)les(ig) gí(h)gni(g)mur;(f.) (;)
+La(f)bis(g) pa(f)tér(g)næ(h) né(j)sci(g)a(hih_0) (,)
+Tu(h) so(h)la,(g) Vir(e)go,(f) cré(hg)de(fg)ris.(g.) (::)
 
-4. O(h) gen(hg)tis(ed) hu(g)má(hj)næ(ji) de(h)cus,(i) (,)
-Quæ(hk) tol(k)lis(i) Hev<e>æ</e>(ji) op(j)pró(ih)bri(g)um,(h) (;)
-Tu(k) no(k) tu(i)é(k)re(klk) súp(ji)pli(hi)ces,(ivHG) (,)
-Tu(ji) nos(jk) la(i)bán(ji)tes(h) é(ih)ri(g)ge.(h) (::)
+<c>3.</c> Ca(g)put(g) dra(f)có(e)nis(d) ín(fhg)vi(fg)di(g.) (,)
+Tu(h!iwji) cón(h)te(g)ris(h) ve(ig)stí(h)gi(g)o,(f.) (;)
+Et(f) so(g)la(f) gló(g)ri(h)am(j) re(g)fers(hih_0) (,)
+In(h)ta(h)mi(g)nát<e>æ</e>(e) o(f)rí(hg)gi(fg)nis.(g.) (::)
 
-5.  Ser(h)pén(hg)tis(ed) an(g)tí(hj)qui(ji) po(h)tens(i) (,)
-A(hk)stus(k) re(i)túnd<e>e</e>(ji) et(h) īm(ih)pe(g)tus,(h) (;)
-Ut(k) cœ́(k)li(i)tum(k) pe(klk)rén(ji)ni(hi)bus(ivHG) (,)
-Per(ji) te(jk) fru(i)á(ji)mur(h) gáu(ih)di(g)is.(h) (::)
+<c>4.</c> O(g) gen(g)tis(f) hu(e)má(d)næ(fhg) de(fg)cus(g.) (,)
+Quæ(h!iwji) tol(h)lis(g) Hev<e>æ</e>(h) op(ig)pró(h)bri(g)um,(f.) (;)
+Tu(f) nos(g) tu(f)é(g)re(h) súp(j)pli(g)ces,(hih_0) (,)
+Tu(h) nos(h) la(g)bán(e)tes(f) é(hg)ri(fg)ge.(g.) (::)
 
-6.  Je(h)su,(hg) ti(ed)bi(g) sit(hj) gló(ji)ri(h)a,(i) (,)
-Qui(hk) na(k)tus(i) es(ji) de(h) Vír(ih)gi(g)ne,(h) (;)
-Cum(k) Patr<e>e</e>,(k) et(i) al(k)mo(klk) Spí(ji)ri(hi)tu,(ivHG) (,)
-In(ji) sem(jk)pi(i)tér(ji)na(h) sæ(ih)cu(g)la.(h) (::)
-A(hih)men.(gh) (::) 
+<c>5.</c> Ser(g)pén(g)tis(f) an(e)tí(d)qui(fhg) po(fg)tens(g.) (,)
+A(h!iwji)stus(h) re(g)túnd<e>e</e>(h) et(ig) ím(h)pe(g)tus,(f.) (;)
+Ut(f) cǽ(g)li(f)tum(g) pe(h)rén(j)ni(g)bus(hih_0) (,)
+Per(h) te(h) fru(g)á(e)mur(f) gáu(hg)di(fg)is.(g.) (::)
 
+<c>6.</c> Je(g)su,(g) ti(f)bi(e) sit(d) gló(fhg)ri(fg)a,(g.) (,)
+Qui(h!iwji) na(h)tus(g) es(h) de(ig) Vír(h)gi(g)ne,(f.) (;)
+Cum(f) Patr<e>e</e>(g) et(f) al(g)mo(h) Spí(j)ri(g)tu,(hih_0) (,)
+In(h) sem(h)pi(g)tér(e)na(f) sǽ(hg)cu(fg)la.(g.) (::)
+
+A(ghg)men.(fg..) (::)
