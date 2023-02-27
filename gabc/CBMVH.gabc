@@ -1,26 +1,31 @@
+name:Quem terra pontus aethera;
+office-part:hy;
 mode:2;
+submitter:marteo;
 %%
-(c4) Quem(h) ter(hg)ra,(ed) pon(g)tus(hj) sí(ji)de(h)ra(i) (,)
-Co(hk)lunt,(k) a(i)dó(ji)rant,(h) prǽ(ih)di(g)cant,(h) (;)
-Tri(k)nam(k) re(i)gen(k)tem(klk) má(ji)chi(hi)nam,(ivHG) (,)
-Clau(ji)strum(jk) Ma(i)rí(ji)æ(h) bá(ih)ju(g)lat.(h) (::)2.  Cui(h) lu(hg)na,(ed) sol(g) et(hj) ó(ji)mni(h)a(i) (,)
-De(hk)sér(k)vi(i)unt(ji) per(h) tém(ih)po(g)ra,(h) (;)
-per(k)fú(k)sa(i) cœ(k)li(klk) grá(ji)ti(hi)a,(ivHG) (,)
-Ge(ji)stant(jk) pu(i)él(ji)læ(h) ví(ih)sce(g)ra.(h) (::)
+(c4) Quem(h) ter(hhg)ra,(ed) pon(g)tus,(hj) ǽ(ji)the(hi)ra(i_) (,)
+Co(k)lunt,(kj) a(i)dó(ji)rant,(h) præ(ih)di(gh)cant,(h.) (;)
+Tri(k)nam(k) re(i)gén(k)tem(klk) má(j)chi(i)nam,(hiHG_0) (,)
+Clau(i)strum(jk) Ma(i)rí(ji)æ(h) bá(ih)ju(gh)lat.(h.) (::)
 
-3. Be(h)á(hg)ta(ed) {Ma}(g)ter(hj) mú(ji){ne}(h)re,(i) (,)
-Cu(hk)jus,(k) su(i)pér(ji)nus(h) Ar(ih)ti(gZ)fex(h) (;)
-Mun(k)dum(k) {pu}(i)gíl(k)lo(klk) cón(ji)ti(hi)nens,(ivHG) (,)
-Ven(ji)tris(jk) sub(i) ar(ji)ca(h) clau(ih)sus(g) est(h) (::)
+<c>2.</c> Cu{i}(h) lu(hhg)na,(ed) sol,(g) et(hj) óm(ji)ni(hi)a(i_) (,)
+De(k)sér(kj)vi(i)unt(ji) per(h) tém(ih)po(gh)ra,(h.) (;)
+Per(k)fú(k)sa(i) cæ(k)li(klk) grá(j)ti(i)a,(hiHG_0) (,)
+Ge(i)stant(jk) pu(i)él(ji)læ(h) ví(ih)sce(gh)ra.(h.) (::)
 
-4.  Be(h)á(hg)ta(ed) cœ(g)li(hj) nún(ji)ti(h)o,(i) (,)
-Fœ(hk)cún(k)da(i) Sanc(ji)to(h) Spí(ih)ri(g)tu,(h) (;)
-De(k)si(k)de(i){rá}(k)tus(klk) gén(ji){ti}(hi)bus(ivHG) (,)
-Cu(ji)jus(jk) per(i) al(ji)vum(h) fu(ih)sus(g) est.(h) (::Z)
+<c>3.</c> Be(h)á(hhg)ta(ed) Ma(g)ter(hj) mú(ji)ne(hi)re,(i_) (,)
+Cu(k)jus(kj) su(i)pér(ji)nus(h) ár(ih)ti(gh)fex(h.) (;)
+Mun(k)dum(k) pu(i)gíl(k)lo(klk) cón(j)ti(i)nens,(hiHG_0) (,)
+Ven(i)tris(jk) sub(i) ar(ji)ca(h) clau(ih)sus(gh) est.(h.) (::)
 
-5.  Je(h)su,(hg) ti(ed)bi(g) sit(hj) gló(ji)ri(h)a,(i) (,)
-Qui(hk) na(k)tus(i) es(ji) de(h) Vír(ih)gi(g)ne,(h) (;)
-Cum(k) Pa(k)tr<e>e</e> et(i) al(k){mo}(klk) Spí(ji)ri(hi)tu,(ivHG) (,)
-In(ji) sem(jk)pi(i)tér(ji)na(h) sǽ(ih)cu(g)la.(h) (::)
-A(hih)men.(gh) (::) 
+<c>4.</c> Be(h)á(hhg)ta(ed) cæ(g)li(hj) nún(ji)ti(hi)o,(i_) (,)
+Fœ(k)cún(kj)da(i) san(ji)cto(h) Spí(ih)ri(gh)tu,(h.) (;)
+De(k)si(k)de(i)rá(k)tus(klk) gén(j)ti(i)bus,(hiHG_0) (,)
+Cu(i)jus(jk) per(i) al(ji)vum(h) fu(ih)sus(gh) est.(h.) (::)
+
+<c>5.</c> Gló(h)ri(hhg)a(ed) ti(g)bi,(hj) Dó(ji)mi(hi)ne,(i_) (,)
+Qui(k) na(kj)tus(i) es(ji) de(h) Vír(ih)gi(gh)ne,(h.) (;)
+Cum(k) Patr<e>e</e>,(k) et(i) San(k)cto(klk) Spí(j)ri(i)tu,(hiHG_0) (,)
+In(i) sem(jk)pi(i)tér(ji)na(h) sǽ(ih)cu(gh)la.(h.) (::)
+A(hih)men.(gh..) (::)
 
