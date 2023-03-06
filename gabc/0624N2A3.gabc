@@ -1,7 +1,9 @@
+name:Dominus ab utero vocavit;
+office-part:an;
 mode:8g;
+submitter:marteo;
 %%
-(c4) Do(g)mi(fd)nus(e) ab(f) ú(gh)te(h)ro<sp>*</sp>(g) vo(g)cá(h)vit(g) me,(f) (;)
-de(fh) ven(j)tre(i) ma(jk)tris(h) me(h)æ(g) (,)
-re(g)cor(gh~)dá(f)tus(e) est(d) nó(ef)mi(gh)nis(h) me(g)i.(g) (::) 
-<eu>  E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::) 
-
+(c4) Do(g_)mi(fd)nus(e) <sp>*</sp> ab(f) ú(gh)te(h)ro(g_) vo(g)cá(h)vit(g) me,(f.) (;)
+de(f_h) ven(j_)tre(i) ma(jk)tris(h) me(h)æ(g) (,)
+re(g)cor(gh~)dá(f)tus(e) est(d_) nó(e_f)mi(gh)nis(h) me(g.)i.(g.) (::) 
+<eu>E(j) U(j) O(i) U(j) A(h) E.(g) </eu>(::)
