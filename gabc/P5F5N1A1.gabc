@@ -1,9 +1,11 @@
-mode:4a*;
+name:Elevata est magnificentia tua;
+office-part:an;
+mode:4a;
+submitter:marteo;
 %%
-(c3)E(e)Le(f)vá(h)ta(hi) est(i) <v>\greheightstar</v>()
-ma(i>)gni(h)fi(i)cén(j)ti(i)a(h) tu(i)a(i) (;)
-su(f)per(i) cœ(h)los,(g)
-De(fe)us,(fe) al(de)le(fh)lú(f)ja.(f) (::)
+(c3) E(e)le(f)vá(h)ta(hi) est(i) <sp>*</sp>
+ma(i>)gni(h)fi(i)cén(j)ti(i)a(h) tu(i_)a(i_) (;)
+su(f)per(i) cæ(h)los,(g)
+De(fe__)us,(fe__) al(d_e)le(f_h)lú(f.)ja.(f.) (::)
 
-E(i) U(h) O(i) U(j) A(h) E.(fg) (::)
-
+<eu>E(i) U(h) O(i) U(j) A(h) E.(f) </eu>(::)
