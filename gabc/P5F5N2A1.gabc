@@ -1,9 +1,11 @@
-mode:4a*;
+name:Exaltare Domine;
+office-part:an;
+mode:4a;
+submitter:marteo;
 %%
-(c3)EX(e)al(f)tá(h)re,(h) Dó(h)mi(hi)ne,(hhO1) <v>\greheightstar</v>()
-in(h) vir(i)tú(j)te(ih) tu(i)a:(i) (;)
-can(i)tá(f)bi(i)mus(h) et(g) psal(f)lé(e)mus,(fe)
- al(de)le(fh)lú(f)ja.(f) (::)
-
-E(i) U(h) O(i) U(j) A(h) E.(fg) (::)
-
+(c3) Ex(e)al(f)tá(h)re,(h) Dó(h)mi(ij)ne,(iio) 
+<sp>*</sp>(,)
+in(h) vir(i)tú(j)te(ih) tu(i_)a:(i_) (;)
+can(i)tá(f)bi(i)mus(h) et(g) psal(f)lé(e)mus,(fe__) (,)
+ al(d_e)le(f_h)lú(f.)ja.(f.) (::)
+<eu>E(i) U(h) O(i) U(j) A(h) E.(f) </eu>(::)
