@@ -1,8 +1,10 @@
+name:Dixit Romanus ad beatum Laurentium;
+office-part:an;
 mode:7a;
+submitter:marteo;
 %%
-(c3) Di(e)xit(g) Ro(h)má(ih/ji)nus<sp>*</sp>(i) (;)
-ad(i) be(i)á(ig)tum(ij>) Lau(i>)rén(hi)ti(h)um:(e) (:)
-Ví(h)de(h)o(i) an(hg~)te(fe) te(h) hó(h)mi(f)nem(h) pul(g)chér(f)rim(ef)um,(f) (;)
-fe(f)stí(e)na(f) me(f) bap(h)ti(g)zá(e)re.(e) (::)
-<eu>  E(i) U(i) O(j) U(i) A(h) E.(gf) </eu> (::) 
-
+(c3) Di(e)xit(g) Ro(h)má(ih/ji)nus(i_) <sp>*</sp>(;)
+ad(i) be(i)á(ig)tum(ij>) Lau(i>)rén(h_i_)ti(g)um:(e.) (;)
+Ví(h)de(h)o(h) an(i>)te(hf) te(g_) (,) jú(g)ve(f)nem(g) pul(f)chér(e)rim(ef)um,(f_) (,)
+fe(f)stí(e)na(f) me(f) bap(h)ti(g)zá(e.)re.(e.) (::)
+<eu>E(i) U(i) O(j) U(i) A(h) E.(gf) </eu>(::)
