@@ -1,12 +1,27 @@
+name:Judas mercator pessimus V Melius illi erat;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Ju(e!fg)das(f) mer(f)cá(f)tor<sp>*</sp>(h) pes(hgh)si(fg)mus(ffO1e) (;) 
-ós(e)cu(f)lo(h) pé(hvGFE)ti(f!gwh)it(ih/hg) Dó(f)mi(FGhvGFg)num:(gf) (:)
-il(f!gwhg/h!i>)le(h) ut(h) a(hggo~)gnus(fg) ín(h!i>)no(ghGFg)cens(gf) (;)
-non(f) ne(fg)gat(f) Ju(FGhvGFE)dæ(f) ó(hg/hih)scu(hvGFg)lum:(ffO1e) (:)
-<sp>+</sp> De(fc)na(e!fg)ri(f)ó(fg)rum(f) nú(f)me(fe/f!gwh!ivHGhwihi)ro(ih) (;)
-Chris(h)tum(hihhg) Ju(fe)dǽ(f)is(hfgwhg) trá(f)di(FGhvGFg)dit.(gf) (::)
-<sp>V/</sp> Mé(EFgwhhi)li(h)us(hg) il(hi)li(gh) e(f!gwhg)rat,(gf) (;)
-si(f) na(ef)tus(f!gwhGFE) non(f) fu(hg/hih)ís(hvGFg)set.(ffO1e) (::)
-<sp>+</sp> De(fc)na(e!fg)ri(f)ó(fg)rum.(f) (::)  
+(f3) Ju(e_0[uh:l]!fg|peppt1)das(f|ta) <sp>*</sp>
+mer(f|ta)cá(f|ta)tor(h|vi-) pés(hgh|po)si(fg|pe)mus(ffe.|pr) (,)
+ós(e|ta)cu(f|vi)lo(h|vi)
+pé(hv_G_F_3E/f_g|vi-suu1su2)ti(f|vi)it(f!gwh/ihhg|qlppt1//clS//cl-)
+Dó(f|ta)mi(fg!hvGFg|ci-pp2vi)num :(gf..|cl-) (:)
+il(kxh!iwji/j_k|////vi-qlhh!clhh//pe>1hh)le(j|ta)
+ut(j|ta) a(jiig~|clor>)gnus(hi|pe)
+ín(h_i|pe>1)no(g_[uh:l]hGFg|peSsu2vi)cens(g_[oh:h]f_[oh:h]|cl-) (,)
+non(f|ta) ne(f)gá(fg|pe)vit(f|ta) Ju(fg!hvGFE|ci1pp2lsc3)dæ(f|vi)
+ós(hg/hih|cllsc2////to)cu(hv_GFg|ci-vi)lum :(ffe.|pr) (:)
+<sp>+</sp> De(fc|clMlsc3)na(e_0[uh:l]!fg|vi-pehj)ri(f|ta)ó(fg|pe)rum(f|ta)
+nú(f|ta)me(fe__|cl-|f!gwh!iv_[oh:h]H_[oh:h]G_3[oh:h]hwihi|ql-ppt1vi-hjsut2qi!po)ro(ih..|cl-) (;)
+Chri(h|ta)stum(h_[oh:h]i_[oh:h]h_[oh:h]hg|toS//cl-)
+Ju(fe|cllsc3)dǽ(f|ta)is(h.f!gwh_g|cl-ql!cl-)
+trá(f|ta)di(fg!hvGFg|ci-pp2vi)dit.(gf..|cl-) (::)
+<sp>V/</sp> Mé(e.f!gwhhi|qlppt2pehh)li(h|ta)us(hg|cllsc3)
+il(hi|pe)li(gh|pe) e(f!gwh_g|ql!cl-ppt1)rat,(gf..|cl-) (;)
+si(f|ta) na(f|ta)tus(f!gwhGF_5E_|ql-hhppt1su1sut2)
+non(f|vi) fu(hg/hih|cl//to)ís(hv_GFg|ci-vi)set.(ffe.|pr) (::)
+<sp>+</sp> De(fc)na(e_0[uh:l]!fg)ri(f)ó(fg)rum.(f) (::)
 

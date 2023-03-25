@@ -1,7 +1,11 @@
-mode:8g;
+name:Delicta juventutis meae;
+office-part:an;
+mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) De(h)lí(fg)cta<sp>*</sp>(g) ju(g)ven(g)tú(gh)tis(g) me(g)æ(g) (,)
-et(g) i(g)gno(g)rán(h)ti(g)as(f) me(gh)as(h) (;)
-ne(h) me(j)mí(j)ne(i)ris,(hg) Dó(hi)mi(h)ne.(g) (::)  
-<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::) 
-
+(c4)De(h|vi)líc(fg|peS)ta(g|vi-) *()
+ju(g|vihg)ven(g|vihg)tú(gh|pehg)tis(g|tahh) me(g|tahh)æ(g|tahh) (,)
+et(g|tahg) i(g|ta)gno(g|ta)rán(h|vihg)ti(g|vi)as(f|ta) me(gh|peS)as(h|vi-) (;)
+ne(h|vi) me(j|`vilse1)mí(j|vihg)ne(i|vihg)ris,(hg|clhglsc3) Dó(hi|pe)mi(h|vi)ne.(g|ta) (::)
+<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::)

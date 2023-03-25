@@ -1,13 +1,29 @@
-mode:8;
+name:Una hora non potuistis V Quid dormitis;
+office-part:re;
+mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) U(kkO1i)na(k) ho(j/kljji)ra(GHiwjg/h/ggO1f) 
-<sp>*</sp> non(hf~) po(g)tu(h!iwj)í(ki!jwkjk)stis(kj) (;)
-vi(ji)gi(jk)lá(jijvIH)re(jh/iwjIH) me(GHivHGh)cum,(hg) (z0:c3) 
-qui(i) ex(jh)hor(i)ta(jllO1k)bá(lvklj)mi(klKJI)ni(jiiO1h) mo(j)ri(lj/kwlKJ) pro(ij/ji) me?(i) (;)
-<sp>+</sp> Vel(h) Ju(iji/jkj)dam(i>) non(hhO1gs<) vi(fe)dé(e/fhf/g)tis,(fe/fgf) (:)
-quó(f)mo(ed)do(e) non(fh~) dor(hvg!ho1!i>)mit,(ih/ihhO1g) (;)
-sed(g) fé(i)sti(h/ijhhg)nat(EFgwhe/f/eeO1d) trá(f)de(i)re(hg/hf~) me(h) Ju(i!jwkjIHiwjIH)dǽ(GHivHGh)is?(hg) (::)
-<sp>V/</sp> Quid(j) dor(j)mí(ji)tis?(jkj/iji/hhO1g) súr(hi)gi(i)te,(ih) et(ij) o(hi)rá(g!hwih)te,(hg) (;)
-ne(g) in(fg~)tré(g)tis(g) in(g) ten(hiHGhih)ta(ghf)ti(gh)ó(h!iwji/jkjIH)nem.(hiHGhg) (::)
-<sp>+</sp> Vel.(h) (::)
+(c3) U(iig|prlst2)na(i|vi)
+ho(h_0//ijh|ta-////to|hg|cl)ra(e.f!gwh_e_|ql!cl-ppt2|f_3eed.0|vi-``pr) <sp>*</sp>(;)
+non(fd~|cl~)
+po(e|vi)tu(f!gwh|vi-qlhj)í(h.g!hwihi|cl-qi!po)stis(i_[oh:h]h_[oh:h]|cl-) (,)
+vi(hg|cllsc3)gi(hi|pe)lá(ihhvGF|clSci-)re(h.f!gwhGF|cl-ql-su2)
+me(ef!gvFEf|ci-pp2vi)cum,(fe..|cl-) (;)
+qui(i|vi) 
+ex(jh|cllsc2)hor(i|vi)ta([oll:1{1]jl|pehl)bá(llk|pihl)mi(lv.[oll:}]jkj|vi-hltohl)ni(kl_K_J_3I/jiih|pe-1hlsuu1su2/////cl!pilsc1lst3)
+mo(j|vi)ri(l.j!kwlKJ|cl-hlqi-hlsu2) pro(ijji|pe-cl-) me ?(i.|vi-) (:)
+<sp>+</sp> Vel(g|ta) Ju(iji|to|jkj|to)dam(i|vi>) non(hhg~|pr>)
+vi(fe|cllsc3)dé(e_0[uh:l]//fhf_g|ta-////toS2vi)tis,(fe/fgf.|cl//to) (,)
+quó(f|vi)mo(ed|cllsc3)do(e|vi) non(fh~|pe~)
+dor(hv.f/hi|vi-sa>)mit,(ih/ihhg.|cllsc2////cl!pilst2) (:)
+sed(g|ta) 
+fe(i|vi)stí(h_0//ijhhg|ta-////tocllsc1lsm1)nat(e.f!gwh_e_|ql!cl-ppt2|f_3eed.0|vi-``pr) (,)
+trá(f|ta)de(i|vi)re(hghf~|clcl~) me(g|vi)
+Ju(g!hwiH_G_F_|vi-qlhj!vshjsut2|gwhGF|qi-hjsu2)dǽ(ef!gvFEf|ci-pp2vi)is ?(fe..|cl-) (::) 
+<sp>V/</sp> Quid(i) dor(i)mí(i!jwkJI)tis?(h_[oh:h]i_[oh:h]h_[oh:h]hg.) (,)
+súr(h)gi(h)te,(ig) et(hi) o(hi)rá(i!jwk_j)te,(ji..) (;)
+ne(h_[oh:h]i_[oh:h]h_[oh:h]hg) in(hih~)tré(ij)tis(i_[oh:h]) in(i)
+ten(ij_ijIH)ta(hg)ti(h!iwji/jkj)ó(i.h!iwjij)nem.(iv_[oh:h]HGhg..) (::)
+<sp>+</sp> Vel(g) Ju(iji/jkj)dam.(i) (::)
 

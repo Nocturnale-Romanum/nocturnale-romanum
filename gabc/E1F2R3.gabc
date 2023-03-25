@@ -1,12 +1,25 @@
+name:A dextris est mihi V Dominus pars hereditatis V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
 %%
-(c4) A(g) Dex(g!hwi!jo~)tris<sp>*</sp>(i) est(jijvIHih) mi(h)hi(j) Dó(jij)mi(hi)nus,(hhO1g) (;)
-ne(h) com(jh!iwjIHs<)mó(g)ve(GHivHGh)ar:(hg) (:)
-<sp>+</sp> Pro(j)pter(j) hoc(i/jkhhg) di(j)la(j)tá(j)tum(j) est(jijvIHGhg) cor(h!iwj) me(ikjJs)um,(ji) (;)
-et(j) ex(jvIH)sul(ij~)tá(hg)vit(hg/hih) lin(ghggo~)gua(h) me(g!hwihi)a.(hg) (::)
-<sp>V/</sp> Dó(j)mi(ji)nus(jkj/iji/hhO1g) pars(i) he(i)re(i)di(ih)tá(ij)tis(hi) me(g!hwih)æ,(hg) (;)
-et(g) cá(hiHGhih)li(ghf)cis(gh) me(h!iwji/jkjIH)i.(hiHGhg) (::)
-<sp>+</sp> Pro(j)pter.(j) (::) 
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Pro(j)pter.(j)  (::)
+(c4) A(g) dex(g!hwi_@jo)tris(i) est(ji__/jv_IHih__) <sp>*</sp>
+mi(h)hi(j) Dó(jij)mi(hi)nus,(hhog.) (,)
+ne(h) com(j_h!iwj_IH>)mó(g)ve(gh!iv_HGh)ar :(hg..) (;)
+
+<sp>+</sp> Prop(i)ter(i) hoc(i_/jkhhg__)
+di(i)la(i)tá(j)tum(j) est(ji__/jv_I_HGhg__) cor(h!iwj) me(ikjjs)um,(ji..) (;)
+et(j) ex(jv_IH)sul(ij~)tá(hg__)vit(ixhg/hih)
+lin(ghg___/gof~)gua(g) me(iyg!hwihi)a.(hg..) (::)
+
+<sp>V/</sp> Dó(j)mi(ji)nus(jkj/iji/hhog)
+pars(i) he(i)re(i)di(ih)tá(ij)tis(hi) me(g!hwih)æ,(hg..) (;)
+et(g) cá(ixhi_HGhih)li(ghf)cis(g_h) me(iyh!iwji/jkJ_IH)i.(h_i_HGhg..) (::)
+
+<sp>+</sp> Prop(i)ter(i) hoc.(i_/jkhhg__) (::)
+
+<sp>V/</sp> Gló(j)ri(ji)a(jkj/iji/hhog) Pa(ih)tri,(ij)
+et(hi) Fí(g)li(g!hwih)o,(hg..) (;)
+et(g) Spi(g)rí(ixhi_HG/hih)tu(ghf)i(g_h) Sanc(iyh!iwji/jkJ_IH)to.(h_i_HGhg..) (::)
+
+<sp>+</sp> Prop(i)ter(i) hoc.(i_/jkhhg__) (::)

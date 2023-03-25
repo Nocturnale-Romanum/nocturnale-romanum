@@ -1,14 +1,28 @@
+name:Tristis est anima mea V Ecce appropinquat;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Tri(g)stis(gh) est(g) á(hf)ni(g)ma(h) me(ji!jwkjk)a<sp>*</sp>(kj) (;)
-us(jijvIHi!jo1)que(i) ad(i!jwkjIHiwjIH) mor(ghivHGh)tem:(hg) (:)
-su(ji)sti(jk)né(k)te(jkj) hic,(j) et(jij) vi(hg)gi(fg)lá(g)te(GHjij) me(jh/jg)cum:(g) (;)
-nunc(j) vi(h)dé(jk)bi(ljk)tis(jvIGh) tur(hi~)bam,(g) (;) 
-quæ(g) cir(g)cúm(gh~)da(h)bit(hf!gwhgh) me:(hg) (;)
-<sp>+</sp> Vos(gh) fu(hf/gwhgh)gam(hg) ca(h)pi(j)é(ji!jwk)tis,(jkj) (;) 
-et(j) e(ji/jh)go(j) va(ji/jkhhO1g)dam(GHiwjg/h/ggO1f) (,) 
-im(h)mo(j)lá(jijvIHi!jo1)ri(i) pro(i!jwkjIHiwjIH) vo(GHivHGh)bis.(hg) (::)
-<sp>V/</sp> Ec(ji)ce(jkj/iji/hhO1g) ap(i)pro(ih)pín(ij~)quat(hi) ho(g!hwih)ra,(hg) (;)
-et(g) Fí(fg)li(g)us(g) hó(gh)mi(g)nis(g) tra(g)dé(gh)tur(g) in(g) ma(g)nus(hiHGhih) pec(ghf)ca(gh)tó(h!iwji/jkjIH)rum.(hiHGhg) (::)
-<sp>+</sp> Vos.(gh) (::)
+(c4) Tr{i}(f|ta)stis(fg|pe) est(g.|ta)
+<sp>*</sp> á(hf|cllsc2)ni(h|vi)ma(j|vi) me(j.i!jwkjk|cl-qi!po)a(kj..|cl-) (;)
+us(j_i_2/jv_IH/ij|cl-//ci-//vs)q{ue}(i|ta)
+ad(i!jwkJ_I_H_/!iwjIH|ql!vsppt1sut2qi-su2)
+mor(gh!ivHGh|ci-pp2vi)tem :(hg..|cl-) (:)
+sus(ji|cllsc2)ti(jk|////pe)né(k|vi-)te(jkj|to) hic,(j.|ta) (,)
+et(jij|po) vi(hg|cl)gi(fg|pe)lá(g|vi-)te(gh/jij|popp2)
+me(jhig|pflsc2)cum :(g.|ta) (:)
+nunc(j_|vi-) vi(h|ta)dé(j_k|////peS)bi(kij|po)tis(jv_IGh|ci-vi)
+tur(hi~|pe~)bam,(g_[oh:h]|ta) (,)
+quæ(g|ta) cir(g|ta)cúm(gh~|pe~)da(h|vi)bit(h.f!gwhgh|cl-ql!po)
+me :(hg..|cl-) (:)
+<sp>+</sp> Vos(g_[uh:l]h|peS) fu(h.f!gwhgh|cl-ql!po)gam(h_g|cl-)
+ca(h|vi)pi(j|vi)é(j.i!jwk|cl-ql)tis,(jkj.|to) (;)
+et(j|vi) e(jijh|pflsc2)go(j|vi)
+va(ji|cl|jkhhg|////////topi)dam(g.h!iwj_g_|ql!cl-ppt2|h_3ggf.0|vi-pr) (,)
+im(h|vi)mo(j|vi)lá(j_i_2|cl-|jv_IHij|ci-vs)ri(i|ta)
+pro(i!jwk/J_I_H_/!iwjIH|ql!vsppt1sut2qi-su2)
+vo(gh!ivHGh|ci-pp2vi)bis.(hg..|cl-) (::)
+<sp>V/</sp> Ec(ji)ce(jkj/iji/hhg) ap(hi~)pro(ih)pín(ij)quat(hi) ho(g!hwi_[oh:h]h)ra,(hg..) (;) et(g) Fí(fg)li(g)us(g) hó(gh)mi(g)nis(g) tra(g)dé(gh)tur(g_[oh:h]) (,) in(g) ma(g)nus(hi_[oh:h]HG/hih) pec(ghf)ca(g_[uh:l]h)tó(h!iwji/jkJ_4IH)rum.(h_iHGhg..) (::)
+<sp>+</sp> Vos.(g_[uh:l]h) (::)
 

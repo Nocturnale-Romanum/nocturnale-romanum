@@ -1,11 +1,28 @@
+name:Unus ex discipulis meis V Qui intingit;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Un(gh)us(g) ex(g) di(g)scí(gh)pu(g)lis(GHiwj) me(ji!jwkjk)is(kj) (;)
-<sp>*</sp> tra(j)det(h!iwj) me(ikJIHiwjIH) hó(g)di(GHivHGh)e:(hg) (:)
-Væ(ji) il(i/jkj/k>)li(g!hwjhj) per(kjjvIHG) quem(hghvGF) tra(FHiwjjv)dar(kj@ijvIHG) e(hghvGFg)go:(gf) (;)
-<sp>+</sp> Mé(f)li(g)us(hf) il(g)li(h) e(ji/jwk)rat,(jkj) si(j) na(jkjji)tus(g!ho1j) non(j>) fu(ivkvJHiwjIH) ís(GHivHGh)set.(hg) (::)
-<sp>V/</sp> Qui(j) in(j)tín(ji~)git(jkj/iji/hhO1g) me(hi)cum(i) ma(i)num(ih) in(ij) pa(hi)ró(g)psi(g!hwih)de,(hg) (;)
-hic(g) me(fg) ta(g)di(g)tú(gh)rus(g) est(g) in(g) ma(g)nus(hiHGhih) pec(ghf)ca(gh)tó(h!iwji/jkjIH)rum.(hiHGhg) (::)
+(c4) U(gh|pe)nus(g|ta) <sp>*</sp>
+ex(g|ta) di(g|ta)scí(gh|pe)pu(g|ta)lis(g.h!iwj|qlppt2)
+me(j.i!jwkjk|cl-ql!po)is(kj..|cl-) (;)
+tra(j|vi)det(h!iwj|qlppt1) <nlba>me(i!jwkJIH___/iwjIH|pe-1sut3ql-su2) </nlba>
+hó(g|ta)di(gh!ivHGh|ci-pp2vi)e :(hg..|cl-) (:)
+Væ(ji|cllsc2) il(i_0[uh:l]//jkj_k|ta-//toS2/vi>)li(g!hwihi.|ql!poppt1) (,)
+per(j_i_2/jv_I_H_3G|cl-vi-sut1su2) quem(h_g_2|cl-|hv_GF|vi-sut2)
+tra(f.0h!iwjjv|ql-ppt2``vi-)dar(kvJ_I_2|clSsut1|jv_I_H_3G|vi-sut1su2) 
+e(h_g_2|cl-|hv_GFg|ci-vi)go :(gf..|cl-) (:)
+<sp>+</sp> Mé(f|ta)li(g|vi)us(hf|cllsc3) il(h|vi)li(j|vi)
+e(j.i!jwk|cl-ql)rat,(jkj.|to) (;)
+si(j|ta) na(jkj___|toS|ji|cl-)tus(g/hi|sa) non(i|vi>)
+fu(jv_/jvI__H|bv-sut2|iwjIH|ql-su2)ís(gh!ivHGh|ci-pp2vi)set.(hg..|cl-) (::)
+<sp>V/</sp> Qui(j|vi) in(j|vi)tín(ji~|cl~)git(jkj|to|iji|to|hhg|pr)
+me(hi|pe)cum(i|vi) ma(i|vi)num(ih|cllsc3) in(ij|pe)
+par(hi|pe)ó(g|ta)psi(g!hwi_[oh:h]h|ql!cl-ppt1)de,(hg..|cl-) (;)
+hic(g|vi) me(fg|pe) tra(g|ta)di(g|ta)tú(gh|pe)rus(g|ta) est(g_[oh:h]|ta) (,)
+in(g|ta) ma(g|ta)nus(hi_[oh:h]HG|pe-su2|hih|to)
+pec(ghf|to)ca(g_[uh:l]h|peS)tó(h!iwji/jkJ_4IH|ql!clppt1////toS2hjsu2)rum.(h_iHG|pe-1su2|hg..|cl-) (::)
 <sp>+</sp> Mé(f)li(g)us.(hf) (::)
-Un(gh)us.(g) (::)
+<sp>R/</sp> U(gh)nus.(g) (::)
 

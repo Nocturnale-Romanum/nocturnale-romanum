@@ -1,13 +1,24 @@
+name:Seniores populi consilium V Collegerunt;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Se(d!ewf/gf)ni(fd)ó(fgf)res(g) pó(ghGF)pu(ixf@g@hgh@iv)li<sp>*</sp>(h) (;)
-con(f)si(f!go1!hv)li(h)um(hgge~) fe(fg)cé(fgefvEDe)runt(ed) (:)
-<sp>+</sp> Ut(d) Je(f!gh)sum(g) do(g)lo(g) te(g)né(gfg)rent,(d!ewf) (,)
-et(fgFED) oc(f!go1!hv)cí(hg/hfg)de(fe!fwgfg)rent:(gf) (;)
-cum(f) glá(h)di(g)is(h) et(f) fú(go0!hv)sti(fe)bus(d) ex(fe)i(fg)é(efEDCd)runt(CDed) (,)
-tam(c)quam(d) ad(e!f>) la(go0!hv)tró(efc/ed)nem.(d) (::)
-<sp>V/</sp> Col(h)le(h)gé(h)runt(hg/hggO1f) pon(gh)tí(h)fi(ixh/iiO1h)ces(h) (;)
-et(gf~) pha(gh)ri(h)sǽ(h)i(hg/hg) con(gf~)ci(ixf!gwhg/hih)li(hvGFEfwg!hv)um.(gf) (::)
-<sp>+</sp> Ut.(d) (::)
-Se(d!ewf/gf)ni(fd)ó(fgf)res.(g) (::)
-
+(c4) Se(d!ewf/gf|qlppt1cllsc2)ni(fd|cl)ó(fgf|to)res(g|vi) <sp>*</sp>
+pó(g_[uh:l]hGF|pe-1su2)pu(ixghg/h_i|//////tr-3vihj)li(h.|vi-) (,)
+con(f|ta)sí(f/gh|sa)li(h|vi)um(hgge~|clor>)
+fe(fg|pe)cé(f_[oh:h]g_[oh:h]e_[oh:h]|toS|fvEDe|ci-vi)runt,(ed..|cl-) (;)
+<sp>+</sp> Ut(d|ta) Je(f_0!gh|scM1)sum(g|ta) do(g|ta)lo(g|ta)
+te(g|ta)né(gfg|po)rent,(d!ewf.|qlppt1) (,)
+et(f_0g_[oh:h]F_[oh:h]E|peSsut2)
+oc(f/gh|sa)cí(hg|cl|hfg|po)de(f.e!fwgfg|cl-qi!po)rent :(gf..|cl-) (:)
+cum(f|ta) glá(h|vi)di(g|ta)is(h|vi) et(f|ta)
+fú(g_[uh:l]h|pq)sti(fe|cllsc3)bus(d.|ta) (,)
+ex(fe|cllsc3)i(f_g|peS)é(d_eDCd|pe-1su2vi)runt(c_d/e_[oh:h]d_[oh:h]|cl-ppt2) (,)
+tam(c|ta)quam(d|vi) ad(f_g|pe>1)
+la(g_[uh:l]h|pq)tró(e_f_c_2|toS|e_[oh:h]d_[oh:h]|cl-)nem.(d.|ta) (::)
+<sp>V/</sp> Col(h|vi)le(h|vi)gé(h|vi)runt(hg|cl|hggf~|clor>)
+pon(g)tí(gh)fi(g)ces(g) et(g) pha(g)ri(g)sǽ(hf|cl)i(gh|pe)
+con(gh|pe)cí(h)li(ixh/iih|////tapr)um.(h.|ta) (::)
+<sp>+</sp> Ut(d) Je(f_0!gh)sum.(g) (::)
+<sp>R/</sp> Se(d!ewf/gf)ni(fd)ó(fgf)res.(g) (::)

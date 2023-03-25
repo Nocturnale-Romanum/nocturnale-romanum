@@ -1,5 +1,9 @@
-mode:8g;
+name:In loco pascuae;
+office-part:an;
+mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) In(g) lo(f)co(h) pá(j)s{cu}(j)æ<sp>*</sp>(ig) (,)
-i(i)bi(j) me(h) {co}l(i>){lo}(h)cá(g)v{it.}(g) (::)  
+(c4)In(g|vihg) lo(f|ta)co(h|vi) pás(j|vihg)cu(j|vihg)æ(ig|cl-hg) *(,)
+i(i|vihh)bi(j|vihi) me(h|tahh) col(i>|vi>)lo(h|vihh)cá(g|tahg)vit.(g|tahg) (::)
 <eu> E(j) U(j) O(i) U(j) A(h) E.(g)  </eu> (::)

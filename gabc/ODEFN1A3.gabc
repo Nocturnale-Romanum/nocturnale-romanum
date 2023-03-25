@@ -1,7 +1,10 @@
-mode:8g;
+name:Nequando rapiat ut leo;
+office-part:an;
+mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ne(h)quán(fg)do<sp>*</sp>(g) rá(gh)pi(g)at(g) ut(g) le(h)o(g) á(h)ni(g)mam(f) me(gh)am,(h) (;)
-dum(h) non(j) est(j) qui(hg) ré(hi)di(h)mat,(g) (,)
-ne(g)que(g) qui(h) sal(gf~)vum(f) fá(gh)ci(h)at.(g) (::) 
-<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::) 
-
+(c4)Ne(h|vi)quán(fg|peS)do(g|vi) *()
+rá(gh|pe)pi(g|ta)at(g|ta) ut(g|ta) le(h|ta)o(g|ta) á(h|vihh)ni(g|vihg)mam(f|ta) me(gh|peS)am,(h|vi-) (;)
+dum(h|vi) non(j|vihi) est(j|vihh) qui(hg|cllsc3) ré(hi|pehg)di(h|vi)mat,(g|ta) (,)
+ne(g|ta)que(g|ta) qui(g|vi) sal(g>|vi>)vum(f|ta) fá(gh|pe)ci(h|vi)at.(g|ta) (::)
