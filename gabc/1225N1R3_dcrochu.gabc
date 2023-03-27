@@ -2,6 +2,7 @@ name:Quem vidistis pastores V Dicite V Gloria;
 office-part:re;
 mode:4;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Quem vidistis;
@@ -9,11 +10,12 @@ mode: 4;
 office-part: Responsorium;
 annotation: Resp. ;
 annotation: iv;
+nabc-lines: 1;
 %%
-(c4) Quem(d) vi(fd)dí(e)stis(egFEfvEDed) *(,) pa(fd)stó(ef)re()s,(g) dí(ixhgh/iv)ci(h)te?(h) (;) An(dh~)nun(h)ti(hg)á(ixh/igh)te(ef) no(ghGF/gwhgh)bis,(hg) (,) in(ixhi>) ter(h)ris(gf) quis(g) ap(gd)pá(e)ru(egffs)it?(eeof) †(:) Na(ixd!ewg/hi)tum(h) ví(h)di(gf!gwhGFEf)mus(fe) (;) in(e) cho(e!fhg)ro(f) An(ed>)ge(c)ló(deDC/dwe/fv)rum(ed/efe) (,) Sal(c)va(de)tó(efED)rem(ixfog//fg!hv/ig/hg>) Dó(e)mi(egffs)num.(fe) (::)
+(c4) Quem(d|ta) vi(fd|``cllsl2lsc3)dí(e|vi)stis(egFEfvEDed|toS2sut1ci-cl-) *(,) pa(fd|``cllsl2lsc3)stó(ef|peS)res(g|vi), dí(ixhgh/iv|////po-1vihk)ci(h|vi)te?(h|vi) (;) An(dh~|ta>lsi8)nun(h|vi)ti(hg|cllsc3)á(ixh/igh|////////vi-pohjlsc2)te(ef|`peSlsi7) no(ghGF/gwhgh|pe-sut2qihg!pohg)bis,(hg|cl-) (,) in(ixhi>|////pe>1) ter(h|vi)ris(gf|cllsc3) quis(g|vi) ap(gd|cllsc3)pá(e|vi)ru(egffs|tosthh)it?(eeof|sa) †(:) Na(ixd!ewg/hi|//ql-ppt1pehk)tum(h|ta) ví(h|vi)di(gf!gwhGFEf|cl-`qihg!vshgsu2vi-hh)mus(fe|cl-) (;) in(e|ta) cho(e!fhg|clhhpp2lsc3)ro(f|ta) An(ed>|cl>-)ge(c|ta)ló(deDC/dwe/fv|pe-sut2/ql-hgvihk)rum(ed/efe|//cllsi4lsc2to) (,) Sal(c|ta)va(de|pe)tó(efED|pe-1su2)rem(ixfog//fg!hv/ig/hg>|////pq-vi-pp2clhjlssc2cl>hjlst3) Dó(e|vi)mi(egffs|tosthh)num.(fe|cl-) (::)
 
-<sp>V/</sp> Dí(h)ci(gh)te,(gf!gwhg/hvGEfe) quid(gf~)nam(gh) vi(gf)dí(e!fwgf)stis?(fe) (;) et(f) an(de)nun(e)ti(e)á(e!fo)te(e) Chri(e!fo)sti(e) na(e!fwgFE)ti(g)vi(ghghGF)tá(e!fgffs)tem.(ed) (::)
-†() Na(ixd!ewg/hi)tum.(h) (::)
+<sp>V/</sp> Dí(h|vi)ci(gh|peS)te,(gf!gwhg/hvGEfe|cl-qihh!clhhci-hjcl-hk) quid(gf~|vi>)nam(gh|pe) vi(gf|cl)dí(e!fwgf|qi!cl-ppt1)stis?(fe|cl-) (;) et(f|vi) an(de|pe)nun(e|vi)ti(e|vi)á(e!fo|vs)te(e|ta) Chri(e!fo|vs)sti(e|ta) na(e!fwgFE|qi-su2ppt1)ti(g|vi)vi(ghghGF|to-ci-hh)tá(e!fgffs|//popp2)tem.(ed|cl-) (::)
+†() Na(ixd!ewg/hi|//ql-ppt1pehk)tum.(h|ta) (::)
 
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhg/hvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;)et(e) Spi(e)rí(e!fwgFE)tu(g)i(ghghGF) Sanc(EFgffs)to.(ed) (::)
-†() Na(ixd!ewg/hi)tum.(h) (::)
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`qlhg!cl-hgcl-hh) Pa(gf|cllsc3)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;)et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|to-`ci-hg) Sanc(e!fgffs|//popp2)to.(ed|cl-) (::)
+†() Na(ixd!ewg/hi|//ql-ppt1pehk)tum.(h|ta) (::)
