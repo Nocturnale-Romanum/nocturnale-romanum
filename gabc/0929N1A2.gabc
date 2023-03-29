@@ -1,4 +1,9 @@
-mode:1d;
+name:Laudemus Dominum;
+office-part:an;
+mode:2d;
+submitter:marteo;
 %%
-(c4)Lau(d)dé(c)mus(df~) Dó(f)mi(fvED)num,(d!ewf) <v>\greheightstar</v>(,) quem(d) lau(c)dant(df~) Án(f)ge(fvED)li,(d!ewf) (;)  quem(fd~) Ché(f)ru(g)bim(h) et(g) Sé(f)ra(g)phim,(f) (,) San(fg>)ctus,(f) (,) San(f)ctus,(g) (,) San(fe~)ctus(dc) pro(d)clá(fe)mant.(d) (::)
-<eu> E(f) U(f) O(f) U(e) A(cd) E.(d) </eu> (::) 
+(f3) Lau(f)dé(e)mus(fh~) Dó(h)mi(hv_GF)num,(f!gwh.) <sp>*</sp>(,) 
+quem(f) lau(e)dant(fh~) An(h)ge(hv_GF)li,(f!gwh.) (;) 
+quem(hf~) Ché(h)ru(i)bim(j) et(i) Sé(h)ra(i)phim(h.) (,) San(h_i>)ctus,(h) (,) San(h)ctus,(i) (,) San(hg~)ctus(fe) pro(f)clá(hg)mant.(f.) (::) 
+<eu>E(h) U(h) O(h) U(g) A(e) E.(f) </eu>(::)
