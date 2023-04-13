@@ -1,7 +1,10 @@
+name:Ipse invocabit me alleluia;
+office-part:an;
 mode:6f;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) I(f)Pse(f) in(f)vo(e)cá(g)bit(g) me,(h) (,) al(f)le(f)lú(d>)ja:(c) (;)
-Pa(f)ter(f) me(f)us(e) es(g) tu,(h) (,)
-al(h)le(hg)lú(gf)ja.(f) (::) 
-<eu>  E(h) U(h) O(f) U(gh) A(g) E.(f) </eu> (::) 
-
+(c4) I(f|vi)pse(f|vi) in(f|vi)vo(e|vi)cá(g|vi)bit(g|vi) me,(h|vi) (,) al(f|vi)le(f|vi)lú(d>|vi>)ja:(c.|ta) (;)
+Pa(f|vi)ter(f|vi) me(f|vi)us(e|ta) es(g|vi) tu,(h|vi) (,)
+al(h|vi)le(hg__|cl-)lú(g>|vi>)ja.(f.|ta) (::) 
+<eu>  E(h) U(h) O(f) U(gh) A(g) E.(f) </eu> (::)
