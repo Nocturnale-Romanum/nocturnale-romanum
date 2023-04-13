@@ -1,6 +1,11 @@
+name:Laetentur caeli;
+office-part:an;
 mode:4a;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Læ(f)tén(e)tur(f) cœ(hi)li,<sp>*</sp>(iiO1) et(h) ex(i)súl(j)tet(ih) ter(i)ra(i) (;)
-an(f)te(i) fá(h)ci(g)em(f) Dó(f)mi(e)ni,(fe) quó(de)ni(f)am(h>) ve(f)nit.(f) (::)  
-<eu> E(i) U(h) O(i) U(j) A(h) E.(f) </eu> (::) 
-
+(c3) Læ(f|vi)tén(e|ta)tur(f|vi) cæ(h_i|peS)li,(iio|vs) <sp>*</sp>(,) 
+et(h|ta) ex(i|vi)súl(j|vihh)tet(ih|clhhlsc2) ter(i.|vi-)ra(i.|vi-) (;) 
+an(f|ta)te(i|vi) fá(h|vi)ci(g|vi)em(f|ta) Dó(f|vi)mi(e|ta)ni,(fe__|cl-) (,) 
+quó(d_e|peS)ni(f|vi)am(h>|vi>) ve(f.|ta)nit.(f.|ta) (::)  
+<eu> E(i) U(h) O(i) U(j) A(h) E.(f) </eu> (::)
