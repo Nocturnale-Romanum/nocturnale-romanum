@@ -1,5 +1,8 @@
-mode:2g;
+name:Tamquam sponsus Dominus procedens;
+office-part:an;
+mode:8g;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Tam(g)quam(h) spon(g)sus<sp>*</sp>(gf) Dó(f)mi(h)nus(j) pro(i)cé(hj)dens(i) de(h) thá(f)la(h)mo(h) su(g)o.(g) (::)
-<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::) 
-
+(c4) Tam(g|ta)quam(h|vihh) spon(g|vihg)sus(gf|cllsc3) <sp>*</sp> Dó(g|vi)mi(h|vihh)nus(j|vihj) pro(i|vihh)cé(h_j|peS)dens(i|vihglsc6) (,) de(h|vi) thá(f|ta)la(h|vi)mo(h|vihg) su(g.|ta)o.(g.|ta) (::)
+<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::)
