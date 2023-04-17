@@ -1,3 +1,11 @@
-mode:1a;
+name:Cantate Deo psalmum dicite;
+office-part:an;
+mode:6f;
+submitter:marteo;
 %%
-(c4)Can(d)tá(f)te(e) De(fg)o,(g) <v>\greheightstar</v>(,) psal(gh~)mum(g) dí(h)ci(g)te(f) nó(ghg)mi(h!iwj)ni(ji) e(gh~)jus:(h) (;) i(h)ter(g) fá(h)ci(g)te(f) e(efe)i,(eeO1d) (:) qui(d) a(f)scén(gh~)dit(h) su(h!iwj)per(ji) oc(hg)cá(gh)sum,(h) (;) Dó(h)mi(g)nus(f) no(ghg)men(fgf/fO1e) il(d)li.(d) (::) E(h) U(h) O(g) U(f) A(g) E.(h) (::)
+(c4) Can(f)tá(g)te(f) De(ixg@hwi)o,(h_) <sp>*</sp>(,) 
+psal(ixi)mum(h) dí(ixi)ci(h)te(g) nó(fe__)mi(g)ni(gh) e(f.)jus:(f.) (;)
+i(f)ter(gh) fá(ixi)ci(ih)te(gh) e(h)i,(h) (`) 
+qui(h) as(h)cén(jk>)dit(j) su(j)per(ixih) oc(gh)cá(hg)sum,(ffoddoc.) (,) 
+Dó(f)mi(fg)nus(gf) no(g)men(ghg) il(f.)li.(f.) (::)
+<eu>E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
