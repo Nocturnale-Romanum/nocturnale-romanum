@@ -2,14 +2,17 @@ name:Isti sunt agni novelli V In conspectu Agni V Gloria;
 office-part:re;
 mode:7;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c3)I(ef)sti(e) sunt(e.) <sp>*</sp> a(ef~)gni(e) no(e!foh)vél(h.vgh/ih/ij>)li,(i_) (,) 
-qui(i) an(i)nun(ij~)ti(i)a(i)vé(ihhvGFg@ho)runt,(g_) (,) 
-al(hshshf~)le(g!hwi/HGf!gwhGF)lú(e!fwgfg>)ja :(fe..) (:) 
-mo(hhi)do(h) ve(h)né(hi)runt(h) ad(g) fon(ef/hf/gvF~E~)tes,(fe..) (:) 
+(c3)I(ef|pe)sti(e|ta) sunt(e.|ta) <sp>*</sp> 
+a(ef~|pe~)gni(e|ta) 
+no(e!foh|sa)vél(hv.gh/ih/ij>|vi-po-1pp2cl~hj)li,(i_|ta) (,) 
+qui(i|ta) an(i|ta)nun(ij~|pe~)ti(i|ta)a(i|ta)vé(ihhvGFg@ho|clSci-vs)runt,(g_|ta) (,) 
+al(hshshf~|ts>)le(g!hwi/HGf!gwhGF|ql!vsppt1sut2qi-su2)lú(e!fwgfg>|qi!po>ppt1)ja :(fe..|cl-) (:) 
+mo(hhi|vi-pehj)do(h|ta) ve(h|ta)né(hi|pe)runt(h|vi) ad(g|vi) fon(ef/hf/gvF~E~|ta-toS2ci~)tes,(fe..|cl-) (:) 
 
-<sp>+</sp> Re(g)plé(e!fwg@ho)ti(g) sunt(g) cla(g)ri(hg)tá(fih/ij)te,(i.) (;) 
-al(i)le(i)lú(ihhog/hv)ja,(hg..) (;) al(f!gwh/hi~)le(hv.ghFE)lú(e!fwgfg>)ja.(fe..) (::) 
+<sp>+</sp> Re(g|vi)plé(e!fwg@ho|ql-ppt1or)ti(g|ta) sunt(g|ta) cla(g|ta)ri(hg|cllsc2)tá(fih/ij|tr-3vihh)te,(i.|ta) (;) 
+al(i|ta)le(i|ta)lú(ihhog/hv|clprlsc2vi)ja,(hg..|cl-) (;) al(f!gwh/hi~|ql!po~ppt1)le(hv.ghFE|vi-toS2sut1)lú(e!fwgfg>|ql!po>ppt1)ja.(fe..|cl-) (::) 
 
 <sp>V/</sp> In(i) con(i)spéc(i!jwk_JI)tu(h_i/hhog) A(hi)gni(h.) (,) a(h)míc(hi)ti(h) sunt(ig) sto(hi)lis(hi) al(i!jwkj__)bis,(ji..) (;) et(h_i/hhog) pal(hi~)mæ(i) in(i) má(i)ni(ijij_IH)bus(ih) e(h!iwji/jkj)ó(i_h!iwjij)rum.(iv_HGhg..) (::)
 
