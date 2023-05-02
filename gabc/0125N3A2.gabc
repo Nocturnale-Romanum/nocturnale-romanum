@@ -1,11 +1,13 @@
-mode:1f;
+name:Ne magnitudo revelationum;
+office-part:an;
+mode:1g;
+submitter:marteo;
 %%
-(c4) Ne(ddO1) ma(c)gni(d)tú(f)do<sp>*</sp>(fg) re(g)ve(g)la(g)ti(g)ó(g)num(f) ex(g)tól(gh>)lat(fe) me,(d) (;)
-da(dc)tus(f) est(g) mi(h)hi(g)stí(f)mu(gh)lus,(h) án(hj~)ge(i)lus(i!jo1) sá(h)ta(gh)næ,(h) (,)
-ut(f) me(go0!hv) co(fe)la(fgf)phí(d)zet:(d) (:)
-prop(d)ter(f) quod(fg) ter(g) Dó(gh)mi(g)num(g) ro(g)gá(gfg)vi,(d) (;)
-ut(dc) au(f)fer(g)ré(h)tur(g) a(fg)  me,(f) (,)
-et(hj~) di(j)xit(i!jo1) mi(h)hi(g) Dó(h)mi(fe)nus:(d) (:)
-súf(f)fi(fe)cit(d) ti(fe)bi,(d) Pau(ixf!gw!h>)le,(hg/hih) grá(fg)ti(e)a(fe) me(d)a.(d) (::)
-<eu>  E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu> (::) 
-
+(c4) Ne(ddo) ma(c)gni(d)tú(f)do(fg) <sp>*</sp> re(g)ve(g)la(g)ti(g)ó(g)num(f_) (,) ex(g)tól(gh>)lat(fe__) me,(d.) (;)
+da(dc)tus(f) est(g) mi(h)hi(g) stí(f)mu(gh)lus,(h) (`) án(hj~)ge(i)lus(i@jo) sá(h)ta(gh)næ,(h_) (,)
+ut(f) me(go0!hv) co(fe)la(fgf)phí(d.)zet:(d.) (;)
+prop(d)ter(f) quod(fg) ter(g_) Dó(gh)mi(g)num(g) ro(g)gá(gfg)vi,(d) (,)
+ut(dc) au(f)fer(g)ré(h)tur(g) a(f_g) me,(f.) (;)
+et(hj~) di(j_)xit(i@jo) mi(h)hi(g) Dó(h)mi(fe)nus:(d_) (,)
+súf(f_)fi(fe)cit(d) ti(fe)bi,(c_) (,) Pau(f@gwh>)le,(ixhg/hih) grá(f_g)ti(e)a(fe) me(d.)a.(d.) (::)
+<eu>  E(h) U(h) O(g) U(f) A(gh) E.(g) </eu> (::)
