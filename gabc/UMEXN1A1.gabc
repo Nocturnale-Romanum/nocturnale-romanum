@@ -1,6 +1,8 @@
-mode:1d;
+name:In lege Domini fuit voluntas;
+office-part:an;
+mode:1g;
+submitter:marteo;
 %%
-(c4) In(d) le(fe~)ge(d!ewfEC) Dó(fh)mi(g)ni<sp>*</sp>(ixhg/hih) (,)
-fu(h)it(g) vo(f)lún(fg>)tas(f) e(fe)jus(c) di(fg)e(e) ac(f) no(d)cte.(d)  (::) 
-<eu> E(h) U(h) O(g) U(f) A(gf) E.(d) </eu> (::) 
-
+(c4) In(d) le(f_)ge(d!ewfEC) Dó(f_h)mi(g)ni(ixhg/hih) <sp>*</sp>(,)
+fu(h)it(g) vo(f)lún(f_g>)tas(f) e(fe)jus(c) (,) di(f_g)e(e) ac(f) no(d.)cte.(d.)  (::) 
+<eu> E(h) U(h) O(g) U(f) A(gh) E.(g) </eu> (::)
