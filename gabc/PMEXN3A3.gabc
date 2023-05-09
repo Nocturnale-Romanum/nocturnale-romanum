@@ -1,4 +1,11 @@
-mode:4e2;
+name:Ecce merces sanctorum;
+office-part:an;
+mode:4a;
+submitter:marteo;
 %%
-(c4) Ec(f)ce(d) mer(f)ces(e) san(d)ctó(c)rum(c) <v>\greheightstar</v>() co(d)pi(dg)ó(g)sa(f) est(ef) a(g)pud(f) De(e)um:(e) (;) i(d)psi(e) ve(gh)ro(h) mór(h)tu(h)i(h) sunt(h) pro(g) Chri(fe)sto,(d) (,) et(d) vi(d)vent(c>) in(e) æ(fg)tér(e)num.(e) (::)
-<eu> E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu> (::) 
+(c3) Ec(h_)ce(f) mer(h)ces(g) San(f>)ctó(e.)rum(e.) <sp>*</sp>(,) 
+co(e)pi(ei)ó(i_)sa(h) est(gxf_g) a(h)pud(gxg) De(f.)um:(f.) (;) 
+i(e)psi(f) ve(h_i)ro(i_) (`) 
+mór(i)tu(i)i(i) sunt(i) pro(j) Chri(gxhg__)sto,(f.) (,) 
+et(f) vi(f)vent(ed~) in(f) æ(fh)tér(f.)num.(f.) (::)
+<eu> E(i) U(h) O(i) U(j) A(h) E.(f) </eu> (::)
