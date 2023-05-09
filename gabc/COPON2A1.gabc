@@ -1,9 +1,10 @@
-mode:1d;
+name:Invocantem exaudivit;
+office-part:an;
+mode:2d;
+submitter:marteo;
 %%
-(f3) In(e)vo(f)cán(h)tem<sp>*</sp>(ffO1)
-ex(e)au(f)dí(h)vit(g) Dó(h)mi(g)nus(f) san(h)ctum(f) su(f)um(e) (;)
-Dó(h)mi(j)nus(i) ex(j)au(ih~)dí(i)vit(io~) e(h)um,(h) (,) 
-et(h) con(g)stí(h)tu(f)it(g) e(fe)um(f) in(hg~) pa(f)ce.(f) (::z)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(g)le(hg)lú(f)ja.(f) (::) 
-<eu> E(j) U(j) O(i) U(h) A(ij) E.(ivHGF) </eu> (::) 
-
+(f3) In(e)vo(f)cán(h)tem(ffo) <sp>*</sp> ex(e)au(f)dí(h)vit(g) Dó(h)mi(g)nus(f) san(h)ctum(f) su(f)um(e.) (;)
+Dó(h)mi(j)nus(i) ex(j)au(ih~)dí(i)vit(io) e(h.)um,(h.) (,) 
+et(h_) con(g)stí(h)tu(f)it(g) e(fe__)um(h) in(g>) <sp>+</sp> pa(f.)ce.(f.) (::z-) 
+<c><i>T.P.</i></c> <sp>+</sp> pa(f_)ce,(f) al(h)le(hg)lú(f.)ja.(f.) (::) 
+<eu> E(h) U(h) O(h) U(g) A(e) E.(f) </eu> (::)
