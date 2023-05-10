@@ -1,10 +1,15 @@
-mode:3a2;
+name:Beatus vir... prosperabuntur;
+office-part:an;
+mode:3a3;
+submitter:marteo;
 %%
-(c4) Be(ed)á(g)tus(hi) vir<sp>*</sp><sp>+</sp>(i) (,)
-qui(i) in(j) le(k>)ge(j) Dó(k)mi(ji)ni(h) me(i)di(j)tá(hjg)tur:(g) (;z)
-vo(g)lún(i)tas(h) e(j)jus(i) pér(h>)ma(g)net(h) di(gf)e(g) ac(fo~) no(e)cte,(e) (:)
-et(e) ó(e)mni(f)a(g) quæ(g)cúm(g)que(g) fá(fg)ci(fvED)et,(d) (;)
-sem(fd~)per(f) pro(ef)spe(g)ra(gf)bún(e)tur.(e) (::) <v>{\scriptsize\itshape t.p.\/}</v> Al(g)le(gf)lú(e)ja.(e) (::z) 
-<eu>  E(i) U(i) O(ji) U(hi) A(h) E.(gh) </eu> (::)
-<v>{\scriptsize\itshape t.p.\ post tertium Nocturni Psalmum Antiphona repetitur.}</v>( ) 
+(c4) Be(ed)á(g)tus(hi) vir(i_) <sp>*</sp>(,)
+qui(i) in(j) le(k>)ge(j) Dó(k)mi(ji)ni(h) me(i)di(j)tá(hjg___)tur:(g.) (;)
+vo(g)lún(g)tas(h) e(j)jus(i) pér(h>)ma(g)net(h) di(gf)e(g) ac(go) no(e.)cte,(e.) (;)
+et(e) ó(e)mni(f)a(g) quæ(g)cúm(g)que(g) fá(f_g)ci(fv_ED)et,(d.) (,)
+sem(fd~)per(f) 
+<sp>+</sp> pro(e_f)spe(g)ra(gf)bún(e.)tur.(e.) (::z-) 
 
+<c><i>T.P.</i></c> <sp>+</sp> pro(e_f)spe(g)ra(gf)bún(e_)tur,(e)
+al(g)le(gf)lú(e.)ja.(e.) (::) 
+<eu> E(i) U(i) O(ji) U(hi) A(h) E.(gh) </eu> (::)
