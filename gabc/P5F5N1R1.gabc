@@ -1,19 +1,32 @@
+name:Post passionem suam V Et converscens;
+office-part:re;
 mode:3;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)POst(g) pas(hsss)si(hf)ó(gh)nem(i) su(jijkv)am(j) <v>\greheightstar</v>(,)
-per(j) di(jl)es(i) qua(i)dra(hi)gín(i)ta(h) ap(i)pá(h)rens(g) e(EFgfghv)is,(g) (;)
-lo(e)quens(fg) de(g) re(h)gno(hg) De(fihijv)i,(i)
-al(hi>)le(ih/hf/hihivHG)lú(f!gwhgh)ja:(gfgvFEfe) (:)
+(c2) Post(d|ta) pas(exesss|ts)si(ec|cl)ó(d_e|peS)nem(f|vi) 
+su(hxgfg@hv__|po-1vihj)am(g|ta) <sp>*</sp>(,) 
+per(g|ta) di(gi|pe)es(f|ta) qua(f|vi)dra(d_f|peS)gín(exe|vi)ta(d|ta) 
+ap(f|vi)pá(exe|vi)rens(d|ta) e(exde/fef@gv__|po-1pp2vihj)is,(f.|vi) (;) 
+lo(b|ta)quens(cd|pe) de(d|vi) re(exe|vi)gno(ed|cllsc2) 
+De(excfef@gv__|tr-3vihj)i,(f.|ta) (;) 
+al(f_g>|pe>1)le(gf__/fd__/fgf_0/gvFE___|pflst2toS2vi-sut2)lú(d@ewfef|qi!poppt1)ja:(ed__/ev_DCdc..|cl-ci-cl-) (:)
+<sp>+</sp> Et,(c|ta) vi(d|vi)dén(f|vi)ti(fg|pe)bus(g_h_GF|pe-1su2) 
+il(ghgh@i>__|trvi>hh)lis,(h|ta) (,) 
+e(h|tahh)le(h_i!jwkj__|qlhj!cl-hjppt2)vá(ji/iv_HGj|clShhci-hhvihh)tus(j|vihh) 
+est,(jvIH__iv_HGhg..|clShhsut1ci-cl-) (;) 
+al(g>|vi>)le(g_j|peS)lú(jiioh/iv|cl!pivi)ja:(h_i_HGhg..|pe-1su2cl-) (;) 
+et(f|ta) nu(g_f/g!hwi_HGh|cl-ql-ppt1su2vi)bes(hg__|cl-) 
+su(g|vi)scé(g|vi)pit(f|ta) e(hxfg@hv_GFg|ci-pp2vi)um(gf__|cl-) 
+ab(fg|pe) ó(g|vi)cu(f|ta)lis(f|ta) 
+e(exf_c@dwe|cl-ql)ó(dfees|tosthh)rum,(ed..|cl-) (;) 
+al(f_g>|pe>1)le(fv_|vi-|cecd_//fv_|tr-3vi-|cecd_//fv_|tr-3vi-|ge/fgf|cllsc2to)lú(dfees|tosthh)ja.(ed..|cl-) (::)
+<sp>V/</sp> Et(h|ta) con(h|ta)vé(hjiis|tosthh)scens,(g@hwih__/ggof|ql!cl-ppt1pr) 
+præ(h|ta)cé(h@io|vslsc2)pit(g|ta) e(gh|pe)is,(g|ta) 
+ab(g|ta) Je(g|ta)ro(g|ta)só(gh|pe)ly(g|ta)mis(gf|cl) ne(g|vi) 
+di(i|vi)scé(h|vi)de(hjiis|tosthh)rent,(ih..|cl-) (;) 
+sed(hf|cllsc2) ex(gh|pe)spe(h|vi)ctá(h@io|vs)rent(h|ta) 
+pro(h|ta)mis(h|ta)si(hji___/ivHG___hwih|toSvi-sut2qi!cl)ó(gf|cl)nem(f_g@hwi|qlppt2) 
+Pa(ihhog/hv_GFg|cl!pici-vi)tris.(gf..|cl-) (::)
 
-+ 
-Et(e) vi(f)dén(h)ti(hi)bus(ijIH) il(ijij!k>)lis,(j)
-e(j)le(JKlwml)vá(lkkvJIl)tus(l) est,(lkkvJIji)
-al(ji~)le(il)lú(lkkO1j/k)ja:(jkJIji) (;)
-et(h) nu(ih/i!jwkJIj)bes(ji) su(i)scé(i)pit(h) e(HIjvIHi)is(ih) ab(hi) ó(i)cu(h)lis(h) e(gxhefwg)ó(fhg/gs)rum,(gf) (,)
-al(hi>)le(hvgxegefhvegefhvig/hih)lú(fhg/gs)ja.(gf) (::)
-
-<sp>V/</sp>. 
-Et(j) con(j)vé(jlkks)scens,(i!jwkjiiO1h) præ(j)cé(jko1)pit(i) e(ij)is(i) ab(i) Je(i)ro(i)so(ij)lý(i)mis(ih) ne(i) di(i)scé(k)de(jlkks)rent,(kj) (;)
-sed(ih~) ex(ij)pe(j)ctá(jko1)rent(j) pro(j)mis(j)si(jlkJIjwkj)ó(ih)nem(HIjwk) Pa(kjjO1ijvIHi)tris.(ih) (::)
-
-+ Et.(e) (::)
+<sp>+</sp> Et,(c|ta) vi(d|vi)dén(f|vi)ti(fg|pe)bus.(g_h_GF|pe-1su2) (::)
