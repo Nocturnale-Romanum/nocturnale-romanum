@@ -1,20 +1,26 @@
+name:Tempus est V Nisi ego abiero;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)TEm(eo0f)pus(fvDFgvFEf) est,(fe) <v>\greheightstar</v>()
-ut(e>) re(f)vér(g>)tar(f) ad(e) e(fvEDe)um,(ed) (;) 
-qui(f) mi(fgd/e)sit(dcdwede) me,(ed) (,)
-di(hg/gO1f/g)cit(FGhv/ig/hg) Dó(e)mi(egffs)nus:(fe) (:) 
-no(ef)lí(g)te(f) con(fssfs>)tri(f)stá(egffs)ri,(fe) 
-nec(e) tur(fed~)bé(ef)tur(ghg/hih) cor(fd~) ve(EFgvFEfvED)strum:(ed) (;)
+(c4) Tem(eof|pq)pus(fv_//df!gv_FEf|vi-/ci-pp2vi) est,(fe__|cl-) 
+<sp>*</sp>(,)
+ut(fe~|vi>) re(f|ta)vér(g>|vi>)tar(f|vi) ad(e|ta) e(fv_EDe|ci-vi)um,(ed__|cl-) (,) 
+qui(f|vi) mi(egd_/e|toS2vi)sit(d_c!dwede|cl-qi!po) me,(ed..|cl-) (;)
+di(hg/gof|cl!pilsc2)cit(ixfg@hv_/ig/hg__|vi-pp2clcl-) Dó(e|ta)mi(egffs|tosthh)nus:(fe..|cl-) (:) 
+no(e_f|peS)lí(g|vi)te(f|vi) con(fssfd~|ts>)tri(f|vi)stá(egffs|tosthh)ri,(fe__|cl-) (,) 
+nec(f|ta) tur(fv_E~D~|cl->)bé(e_f|peS)tur(ixghg/hih|to////to) cor(ge~|vi>) ve(ef!gvFEfvED|scsu1sut1lsc2cilsc2)strum:(ed..|cl-) (;)
 
-+ 
-Ro(f)go(fssfg) pro(fvED) vo(ef)bis(g) Pa(hghiv)trem,(h) 
-ut(f) il(h)le(hj) vos(ggO1f) cu(gh)stó(g)di(hfgFEfvED)at,(ed) (,)
-al(fd~)le(ewf)lú(ec~)ja,(ded) (,) 
-al(fh~)le(hvGFECdfvEDfh/gh/ffO1e)lú(egffs)ja.(fe) (::)
+<sp>+</sp>
+Ro(e|vi)go(fssfg|dspeS) pro(fv_ED|ci-) vo(e_f|peS)bis(g|vi) Pa(ixhgh@iv__|po-1vihj)trem,(h|vi) (,) 
+ut(f|ta) il(h|vi)le(hj|pe) vos(ggof|pr) cu(gh|pe)stó(g|ta)di(ge/gvFEfv__ED|polsc2su1sut1ci-)at,(ed__|cl-) (,)
+al(ed~|vi>)le(ewf|ql)lú(ec~|vi>){ia},(ded___|toS) (,) 
+al(fh~|pe~)le(hvGFEC_____d_fvEDf_h/g_h/ffoe|vi-sut4//ta-/visu1sut1/peS/peS/pr)lú(egffs|tosthh){ia}.(fe..|cl-) (::)
 
-<sp>V/</sp>. 
-Ni(h)si(gf!gwhghvGEfe) e(g)go(g) a(g)bí(gh)e(g)ro,(g) Pa(g)rá(g)cli(gf)tus(gh) non(gf) vé(e)ni(e!fwgf)et:(fe) (;)
-cum(f) as(de)súm(e)ptus(e) fú(e!fo1)e(e)ro,(e) mit(e)tam(e!fwgFE) vo(g)bis(ghghvGF) e(EFgefs)um.(ed) (::)
+<sp>V/</sp> 
+Ni(h|vi)si(g_f!gwhghv_GEfe__|cl-qi!cl/ci-cl-) e(gh|pe)go(g|ta) a(g|ta)bí(gh|pe)e(g|ta)ro,(g|ta) (,) Pa(g|ta)rá(g|ta)cli(gf|cl)tus(gh|pe) non(gf~|cl~) vé(e|ta)ni(e!fwg_f|ql!cl-ppt1)et:(fe..|cl-) (;)
+cum(f|vi) as(de|pe)súm(e|vi)ptus(e|vi) fú(e@fo|vs)e(e|ta)ro,(e|ta) (,) mit(e|ta)tam(e!fwg_FE|ql-ppt1su2) vo(g|vi)bis(ghghv_GF|to//ci-) e(ef/gffs|clpp2sthh)um.(ed..|cl-) (::)
 
-+ Ro(f)go.(fssfg) (::)
+<sp>+</sp>
+Ro(e)go.(fssfg) (::)
