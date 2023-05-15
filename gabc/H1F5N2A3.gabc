@@ -1,5 +1,18 @@
+name:In voce exsultationis;
+office-part:an;
 mode:6f;
+submitter:marteo;
 %%
-(c4) In(efd) vo(dc)ce<sp>*</sp>(d) ex(fg)sul(gf)ta(g)ti(gh)ó(f)nis(f) (;)
-ré(ixf!gi)so(ih)nent(gh) e(g)pu(f!go1!hv)lán(fe>)tes(dc) in(gf) men(g)sa(ghg) Dó(f)mi(df)ni.(f) (::)  
-<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu> (::) 
+(c4) 
+In(efd) 
+vo(cd)ce(d) % Zw&Fco2. E611 has vo(dc)ce(d), LAT15182 is different
+ex(fg)sul(gf~)ta(g)ti(ghg)ó(f.)nis(f.) % E611&Zw variant, others have ex(f)sul(f) or ex(g)sul(g).
+<sp>*</sp>(;)
+ré(ixf!gi)so(ih)nent(gh) % no variants 
+e(g)pu(f@goh)lán(f_e~)tes(dc__) % all, Fco2 has lan(ffe) hence the episema 
+(,)
+in(gf~) % E611&Zw variant (liq), close to LAT15182 (2 notes), against Fco2 (1 note)
+men(g)sa(ghg) % no variants
+Dó(f)mi(df)ni.(f.) % E611 variant. Zw, Fco2 and LAT15182 have (ef). Minority variant kept for subjective musical reasons.
+(::)  
+<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
