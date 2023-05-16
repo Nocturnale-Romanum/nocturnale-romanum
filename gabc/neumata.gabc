@@ -1,0 +1,25 @@
+name: Neumata;
+author: Matthias Bry;
+nabc-lines: 1;
+%%
+
+{punct}um(g////G|//////pu) (:) 
+{tractu}lus(g|ta|  g_|ta-) (:)
+{vi}rga(g//gv|////vi|  gv_|vi-) (:) 
+{p}es(fg|pe|  f_g|peS|  f_g_|pe-1) (:)
+{c}livis(gf|cl//cllsc2|  gf__|cl-|  gf_|clS) (:z-)
+{p}orrectus(gfg|popolsc2|  gfg_2|/po-1| g_fg|/po-| gfg___|/poG) (:)
+{t}orculus(ghg|to/tolsc2|  ghg___|/toS| ghg__|/to-| g_hg|/toG) (:)
+{scan}dicus(fg@hv|sc| fg@hv___|sc-) (:)
+{c}limacus(hvGF|ci| hv_GF|ci-| hvGF___|vi-sut2) (:z-)
+{q}uilisma(f@gwh|``qlppt1`qippt1|   f@gwh_|``ql-ppt1`qi-ppt1) ( :)
+{oriscus}(go|or) (:)
+{p}ressus(ggof|/pr| g_gof|/pr-| gof|/pi) (:)
+{pes q}uassus(fog|pq| fog_|pq-) (:)
+{v}irga strata(ggo g@ho|//////vs|  g_0go g_0@ho|//////vs-) (:z-)
+{s}alicus(f@goh|`sasa1|   f@goh_|``sa-sa-1|   f_@goh_|saG) (:)
+{pes strat}us(fggo|pt) (:)
+{d}istropha(gss|/ds|  gsgs_|/ds-) (:)
+{t}ristropha(gsss|//ts|  gsgsgs_|//ts-) (:)
+{t}rigonus(gssfs|//tg|  gsgsfs_|//tgS) (:z-)
+{ } ~~~~~~~~~~~~~~formæ liquescentes(g> gf~|///vi>|   g< gh~|//pe~|   hg> hvG~F~|////cl>|  gh> ghg~|////pe>|   gsgs<|//ds>|   f@gwh>|ql>ppt1|   go~|or>) (::)
