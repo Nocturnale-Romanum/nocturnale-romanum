@@ -2,6 +2,7 @@ name:Ave Maria V Quomodo;
 office-part:re;
 mode:7;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Ave Maria gratia plena;
@@ -9,11 +10,9 @@ mode: 7;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: vii;
+nabc-lines: 1;
 %%
-(c3) A(ef)ve,(fe/feeod) *() Ma(df)rí(f!gwhivHG/hwihi)a,(ih) (,) grá(h)ti(hg)a(g!hoi) ple(hg)na,(giHGhvGFEfe) (;) Dó(ggoh)mi(f!gwh)nus(g!hwiHGF/gwhGF) te(ef!gvFEf)cum.(fe) †(:) Spí(e)ri(e)tus(ei) Sanc(i>)tus(ikijvIHih) (,) su(i)per(-ikj/kl~)vé(llom)ni(i)et(-ikkj) in(jlk) te,(jkJIjiio/ghg) (;) et(gh) vir(iji/jkj>)tus(hf) Al(h!ioj)tís(ig)si(g)mi(giHGhvGFEfe) (;) ob(e)um(ei~)brá(ih/ivHF)bit(h) ti(gihhs)bi;(hg) (:) quod(e) e(ef)nim(fe/feeod) ex(d) te(f!gwh) na(hg)scé(ihhvGF)tur(hi!jwkj/kvJIji) (,) Sanc(i)tum(ihhf~) (`) vo(h)cá(hghoi)bi(fe)tur(ef!gwhe/fv/eeod) (;) Fí(ggoh)li(f!gwh)us(g!hwiHGF/gwhGF) De(ef!gvFEf)i.(fe) (::)
+(c3) A(ef|peS)ve,(fe/feeod|clcllsm2pi) *() Ma(df|peS)rí(f!gwhivHG/hwihi|ql-ppt1lse4vi-hjsut2qihj!pohj)a,(ih|cl-) (,) grá(h|vi)ti(hg|cl)a(g!hoi|sa) ple(hg|cl-)na,(giHGhvGFEfe|////toS2sut1vi-suu1su2cl-) (;) Dó(ggoh|sa)mi(f!gwh|qlppt1)nus(g!hwiHGF/gwhGF|ql!vssut2ppt1qi-hgsu2) te(ef!gvFEf|//ci-hhpp2vihh)cum.(fe|cl-) †(:) Spí(e|````talsew2)ri(e|ta)tus(ei|pelss3) Sanc(i>|vi>)tus(ikijvIHih|toS2hhci-hhcl-hh) (,|) su(i|vi)per(ikj/kl~|tohhlss2/ta>hjlsl3)vé(llom|saMhn)ni(i|tahh)et(ikkj|pe-hicl-hj) in(jlk|//tohk) te,(jkJIjiio/ghg|////pe-1hjsu2clhjlsc2orhktohk) (;) et(gh|peS) vir(iji/jkj>|////tohh/to>hi)tus(hf|cl-) Al(h!ioj|sa>)tís(ig|cl-)si(g|vi)mi(giHGhvGFEfe|////toS2hhsut1vi-hhsuu1su2cl-hh) (;) ob(e|``talse4)um(ei~|ta>lsl3)brá(ih/ivHF|cl-ci-)bit(h|vi) ti(gihhs|////tosthh)bi;(hg|cl-) (:) quod(e|ta) e(ef|``pelse4)nim(fe/feeod|clclScl-) ex(d|vi) te(f!gwh|vi-hgqlhk) na(hg|cl-)scé(ihhvGF|clSci-)tur(hi!jwkj/kvJIji|qlhj!cl-hjppt2ci-hmcl-hm) (,) Sanc(i|vi)tum(ihhf~|cllsc2orhg) (`) vo(h|vi)cá(hghoi|clpq)bi(fe|cl)tur(ef!gwhe/fv/eeod|qlhh!cl-hhppt2ci-hkcl-hk) (;) Fí(ggoh|sa)li(f!gwh|qlppt1)us(g!hwiHGF/gwhGF|//ql!vsppt1sut2qi-hgsu2) De(ef!gvFEf|//ci-hhpp2vihh)i.(fe|cl-) (::)
 
-<sp>V/</sp> Quó(i!jwkJI)mo(hg)do(hi/hhog) fi(h)et(h) i(hi)stud,(h) (,) quó(h)ni(h)am(h) vi(h)rum(ig) non(hi) co(hi)gnós(i!jwkj)co?(ji) (;) Et(hi/hhog) re(hih)spón(i)dens(i) An(i)ge(i)lus,(ijijIH) dix(ih)it(h!iwji/jkj) e(ih!iwjij)i.(ivHGhg) (::)
-†() Spí(e)ri(e)tus(ei) Sanc(i>)tus(ikijvIHih) (,) su(i)per(-ikj/kl~)vé(llom)ni(i)et(-ikkj) in(jlk) te,(jkJIjiio/ghg) (;) et(gh) vir(iji/jkj>)tus(hf) Al(h!ioj)tís(ig)si(g)mi(giHGhvGFEfe) (;) ob(e)um(ei~)brá(ih/ivHF)bit(h) ti(gihhs)bi;(hg) (:) quod(e) e(ef)nim(fe/feeod) ex(d) te(f!gwh) na(hg)scé(ihhvGF)tur(hi!jwkj/kvJIji) (,) Sanc(i)tum(ihhf~) (`) vo(h)cá(hghoi)bi(fe)tur(ef!gwhe/fv/eeod) (;) Fí(ggoh)li(f!gwh)us(g!hwiHGF/gwhGF) De(ef!gvFEf)i.(fe) (::)
-
-<sp>V/</sp>. Gló(i!jwkJI)ri(hi)a(hhog) Pa(ig)tri,(hi) et(hi) Fí(i)li(i!jwkj)o,(ji) (:) et(i) Spi(i)rí(-ijijIH)tu(ih)i(h!iwji/jkj) Sanc(ih!iwjij)to.(ivHGhg) (::) 
-†() Fí(ggoh)li(f!gwh)us(g!hwiHGF/gwhGF) De(ef!gvFEf)i.(fe) (::)
+<sp>V/</sp> Quó(i!jwkJI|ql-hippt1su2)mo(hg|cllsc3)do(hi/hhog|peS``pr) fi(h|vi)et(h|vi) i(hi|pe)stud,(h|ta) (,) quó(h|ta)ni(h|ta)am(h|ta) vi(h|ta)rum(ig|cllsc3) non(hi|pe) co(hi|pe)gnós(i!jwkj|qlhh!cl-hhppt1)co?(ji|cl-) (;) Et(hi/hhog|peS``pr) re(hih|//to)spón(i|ta)dens(i|ta) An(i|ta)ge(i|ta)lus,(ijijIH|////toci-hg) dix(ih|cllsc3)it(h!iwji/jkj|ql!clppt1tohm) e(ih!iwjij|////cl-`qi!po)i.(ivHGhg|//ci-cl-) (::)
+†() Spí(e|````talsew2)ri(e|ta)tus(ei|pelss3) (::)
