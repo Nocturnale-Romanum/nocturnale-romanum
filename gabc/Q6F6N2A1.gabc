@@ -1,6 +1,7 @@
+name:Vim faciebant qui quaerebant;
+office-part:an;
 mode:8g;
+submitter:marteo;
 %%
-(c4) Vim(g) fa(h)ci(h)é(g)bant<sp>*</sp>(g>) (;)
-qui(gh) quæ(ji)ré(hj)bant(ih>) á(g)ni(h)mam(h>) me(g)am.(g) (::) 
-<eu> Et(j) sic(j) fi(i)ní(j)a(h)tur.(g) </eu> (::) 
-
+(c4) Vim(g) fa(h)ci(h)é(g)bant(gf~) <sp>*</sp>(,) qui(g_h) quae(ji)ré(h_j)bant(ih>) á(g)ni(h)mam(h>) me(g.)am.(g.) (::)
+<eu> Et(j) sic(j) fi(i)ni(j)á(h)tur.(g) </eu> (::)
