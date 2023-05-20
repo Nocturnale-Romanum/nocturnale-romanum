@@ -2,6 +2,7 @@ name:Obsecro Domine V Qui regis V Gloria;
 office-part:re;
 mode:5;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Obsecro Domine mitte;
@@ -9,11 +10,12 @@ mode: 5;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: v;
+nabc-lines: 1;
 %%
-(c3) Ob(f)se(d)cro,(fh) Dó(hhog)mi(hvGF)ne,(gwhivHG/hwiih) *(,) mit(h)te(hi) quem(ffoe) mis(ef)sú(fe/fde)rus(dc!dwede) es;(ed) (;) vi(d)de(ef) af(f)flic(igfg)ti(f)ó(fe)nem(feeod) (,) pó(dfoh)pu(hi)li(ihhVGFiv) tu(ivHGhvGFg)i;(gf) †(;) Sic(f)ut(d) lo(f)cú(h)tus(gh) es,(ffoe) ve(fef)ni,(d) (,) et(dc~) lí(e)be(fe)ra(de!fvEDe) nos.(ed) (::)
+(c3) Ob(f|vi)se(d|ta)cro,(fh|pe) Dó(hhog|prlst3)mi(hvGF|ci-)ne,(gwhivHG/hwiih|qlvi-hisut2ql-hicl-hj) *(,) mit(h|``talse4)te(hi|pe) quem(ffoe|prlst3) mis(ef|pe)sú(fe/fde|////cl!polsc2)rus(dc!dwede|cl-`qi!po) es;(ed|cl-) (;) vi(d|``talse4)de(ef|pe) af(f|vi)flic(gxfg|////pe)ti(f|ta)ó(fe|cl-)nem(feeod|cl!pilsc2lst3) (,) pó(dfoh|sa)pu(hi|pe)li(ihhVGFiv|clSci-vi-) tu(ivHGhvGFg|////clSsut1ci-vi-)i;(gf|cl-) †(;) Sic(f|``vilse4)ut(d|ta) lo(f|vi)cú(h|vihh)tus(gh|pe) es,(ffoe|pr) ve(fef|po)ni,(d|vilse3) (,) et(dc~|vi>) lí(e|vi)be(fe|cl)ra(de!fvEDe|//ci-pp2vihg) nos.(ed|cl-) (::)
 
-<sp>V/</sp> Qui(h) re(h)gis(hi/hssfgf) Is(h)ra(h)ël,(h) in(h)tén(hi~)de,(h) (,) qui(h) de(h)dú(hi)cis(h) vel(h)ut(hf) o(fi)vem(gh) Jo(hg!hwihi)seph,(ih) (;) qui(h) se(h)des(h) su(hg/hg)per(gf~) Ché(hi)ru(gxhg!hwiHGFg)bim.(gf) (::)
-†() Sic(f)ut.(d) (::)
+<sp>V/</sp> Qui(h|vi) re(h|vi)gis(hi/hssfgf|pe-ds-hjtohj) Is(h|vi)ra(h|vi)ël,(h|vi) in(h|vi)tén(hi~|ta>lsl3)de,(h|ta) (,) qui(h|ta) de(h|ta)dú(hi|pe)cis(h|ta) vel(h|ta)ut(hf|cllsc3) o(fi|pe)vem(gh|pe) Jo(hg!hwihi|cl-`ql!po)seph,(ih|cl-) (;) qui(h|ta) se(h|ta)des(h|ta) su(hg/hg|pflsc2)per(gf~|vi>lsi6) Ché(hi|peS)ru(gxhg!hwiHGFg|////cl-`qi!vssu2vihg)bim.(gf|cl-) (::)
+†() Sic(f|``vilse4)ut(d|ta) (::)
 
-<sp>V/</sp> Gló(h)ri(h)a(hi/hss/fgf) Pá(hf)tri,(fi) et(gh) Fí(h)li(hg!hwihi)o,(ih) (;) et(h) Spi(h)rí(hg/hg)tu(gf)i(hi) Sánc(gxhg!hwiHGFg)to.(gf) (::) 
-†() Sic(f)ut.(d) (::)
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hi/hss/fgf|pe-ds-hjtohj) Pa(hf|cllsc3)tri,(fi|pe) et(gh|pe) Fí(h|vi)li(hg!hwihi|cl-`qi!po)o,(ih|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(gf|cl)i(hi|peS) Sanc(gxhg!hwiHGFg|////cl-`qi!vssu2vihg)to.(gf|) (::) 
+†() Sic(f|``vilse4)ut(d|ta) (::)
