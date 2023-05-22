@@ -1,5 +1,10 @@
-mode:4e2;
+name:Credo videre;
+office-part:an;
+mode:4e;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Cre(e)do(f) vi(d)dé(ec)re<sp>*</sp>(d) bo(e)na(f) Dó(g)mi(h)ni(g) in(h) ter(f)ra(g) vi(h)vén(e)ti(de)um.(e) (::)  
-<eu> Et(h) sic(g) fi(h)ní(ih)a(gf)tur.(e) </eu> (::) 
-
+(c4) Cre(e|vi)do(f|vi) vi(d|vi)dé(ec__|cl-)re(d_|vi-) 
+<sp>*</sp> bo(e|vi-)na(f|vihg) Dó(g|vi)mi(h|vi)ni(g.|ta) (;)
+in(h|vi) ter(f|ta)ra(g|vi) vi(g|vi)vén(e|vi)ti(de|pe)um.(e.|ta) (::)
+<eu> Et(h) sic(g) fi(h)ni(ih)á(gf)tur.(e) </eu> (::)
