@@ -1,10 +1,11 @@
 name:Nequando rapiat ut leo;
 office-part:an;
-mode:8;
+mode:8g;
 submitter:marteo;
 nabc-lines:1;
 %%
-(c4)Ne(h|vi)quán(fg|peS)do(g|vi) *()
-rá(gh|pe)pi(g|ta)at(g|ta) ut(g|ta) le(h|ta)o(g|ta) á(h|vihh)ni(g|vihg)mam(f|ta) me(gh|peS)am,(h|vi-) (;)
+(c4) Ne(h|vi)quán(f_g|peS)do(g|vi) <sp>*</sp> 
+rá(gh|pe)pi(g|ta)at(g|ta) ut(g|ta) le(h|ta)o(g|ta) á(h|vihh)ni(g|vihg)mam(f|ta) me(g_h|peS)am,(h.|vi-) (;)
 dum(h|vi) non(j|vihi) est(j|vihh) qui(hg|cllsc3) ré(hi|pehg)di(h|vi)mat,(g|ta) (,)
-ne(g|ta)que(g|ta) qui(g|vi) sal(g>|vi>)vum(f|ta) fá(gh|pe)ci(h|vi)at.(g|ta) (::)
+ne(g|ta)que(g|ta) qui(g|vi) sal(g>|vi>)vum(f|ta) fá(gh|pe)ci(h|vi)at.(g.|ta) (::)
+<eu> Et(j) sic(j) fi(i)ni(j)á(h)tur.(g) </eu> (::)
