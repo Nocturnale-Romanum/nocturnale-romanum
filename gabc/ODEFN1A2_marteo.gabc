@@ -1,10 +1,10 @@
 name:Convertere Domine et eripe animam;
 office-part:an;
-mode:8;
+mode:8g;
 submitter:marteo;
 nabc-lines:1;
 %%
-(c4)Con(g|vi)vér(gf>|cl>)te(e|ta)re(f|vihg) Dó(gh|pe)mi(h|vihg)ne,(g|ta) *()
-et(g|vi) é(i|vihi)ri(k|vihh)pe(j|ta) á(j|vi)ni(j|vi)mam(i>|vi>) me(h|ta)am,(h|talsx6) (;)
-quó(h|ta)ni(j|vi)am(i>|vi>hg) non(j|vihh) est(h|tahh) in(gf~|vi>) mor(gvv|bv-)te(d|tahg) qui(d|ta) me(ef|peS)mor(gh|pehg) sit(h|vihg) tu(g|ta)i.(g|ta) (::) 
-<eu>  E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::)
+(c4) Con(g|vi)vér(gf>|cl>)te(e|ta)re(f|vihg) Dó(gh|pe)mi(h|vihg)ne,(g|ta) <sp>*</sp>(,)
+et(g|vi) é(i|vihi)ri(k|vihh)pe(j|tahh) á(j|vihh)ni(j|vihh)mam(i>|vi>hh) me(h.|ta)am,(h.|talsx6) (;)
+quó(h|ta)ni(j|vihh)am(i>|vi>hg) non(j|vihh) est(h|tahh) in(gf~|vi>) mor(gv_gv_|bv-)te(d|tahg) (`) qui(d|ta) me(e_f|peS)mor(gh|pehg) sit(h|vihg) tu(g.|ta)i.(g.|ta) (::) 
+<eu> Et(j) sic(j) fi(i)ni(j)á(h)tur.(g) </eu> (::)
