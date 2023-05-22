@@ -86,6 +86,12 @@ headsep=3mm,
 \newcommand{\annraise}{0mm} %% default is -0.2mm
 \grechangedim{annotationraise}{\annraise}{scalable}
 
+%% fine-tuning the behavior of text placed under bars. We use the so-called "new algorithm" which
+%% places the bar in the middle of surrounding notes, and the text in the middle of surrounding text.
+%% however, we restrict drastically the deviation of the text from the position of the bar.
+\grechangedim{maxbaroffsettextleft}{0.5mm}{scalable}
+\grechangedim{maxbaroffsettextright}{0.5mm}{scalable}
+
 %% \officepartannotation converts a letter (IHARPT) into the office part to be printed as annotation,
 %% storing the result into \result.
 
