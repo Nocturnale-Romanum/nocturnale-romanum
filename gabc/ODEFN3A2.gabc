@@ -1,6 +1,9 @@
+name:Sana Domine animam;
+office-part:an;
 mode:2d;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Sa(h)na,(g) Dó(h)mi(g)ne,<sp>*</sp>(f) á(h)ni(h)mam(g) me(f)am,(f) (;)
-qui(f)a(e) pec(f)cá(h)vi(g) ti(f)bi.(f) (::)  
-<eu>  E(h) U(h) O(h) U(g) A(de) E.(e) </eu> (::) 
-
+(f3) Sa(h|vi)na,(g|ta) Dó(h|vi)mi(g|vi)ne,(f|ta) <sp>*</sp>() á(h|vihg)ni(h|vihg)mam(g|vi) me(f.|ta)am,(f.|ta) (;)
+qui(f|vi)a(e|ta) pec(f|vi)cá(h|vihg)vi(g|vi) ti(f.|ta)bi.(f.|ta) (::)  
+<eu> Et(h) sic(h) fi(h)ni(g)á(e)tur.(f) </eu> (::)
