@@ -1,3 +1,8 @@
-mode:4e;
+name:Dixit autem Angelus apprehende;
+office-part:an;
+mode:4a;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Di(d)xit(e) au(gh~)tem(hg) An(hi~)ge(h)lus:(h) (,) * Ap(g)pre(h)hén(i>)de(hg) brán(h)chi(h)am(i) pi(gf)scis,(e) (;) et(ef~) tra(gh)he(g) e(ed)um(ed) ex(cd)tra(eg) a(e)quas.(e) (::) E(h) U(g) O(h) U(i) A(g) E.(e) (::)
+(c3) Di(f|vi)xit(e|ta) au(f<|pe~)tem(h|vi) An(h|vi)ge(ij|pehh)lus:(iio|vs) <sp>*</sp>(,) ap(h|ta)pre(i|vi)hén(jo|orhh)de(i|vi) brán(h|ta)chi(i|vi)am(ij|pe) pi(hg__|cl-)scis,(f.|ta-) (;) et(f_i|peShg) tra(h|vihg)he(g|vi) e(fe__|cl-)um(fe__|cl-) (,) ex(d_e|peS)tra(f_h|peS) a(f.|ta)quas.(f.|ta) (::) 
+<eu>E(i) U(h) O(i) U(j) A(h) E.(f) </eu>(::)
