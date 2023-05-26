@@ -2,6 +2,7 @@ name:Suscipe verbum V Paries;
 office-part:re;
 mode:4;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Suscipe verbum;
@@ -9,8 +10,9 @@ mode: 4;
 office-part: Responsorium;
 annotation: Resp. ;
 annotation: iv;
+nabc-lines: 1;
 %%
-(c4) Su(f)sci(de)pe(e) ver(eg~)bum,(gv/fssded) *(,) Vir(fd~)go(ef) Ma(g)rí(ixhgh/iv)a,(h) (,) quod(h) ti(jhjsss)bi(ghg) a(f) Dó(ghgh)mi(fe/fvEDe)no(ed) (;) per(dc) An(f)ge(gh)lum(ixh/ifg) trans(ixg!hig/hg>)mís(e)sum(egffs) est:(fe) (:) con(ixhi~)cí(h)pi(h)es(hggof) per(g) au(gffg~)rem,(eeof) (,) De(d)um(d) pá(fgf)ri(fe)es(g) et(h) hó(hg/hvGF)mi(e!fgffs)nem,(ed) †(:) Ut(fd~) be(dfe)ne(f)díc(g)ta(f) di(e)cá(EFgfg/hv)ris(g) (,) in(f)ter(ghgh) om(hvGF/egFEf>)nes(ed) mu(fooh)lí(ixhiGFghg)e(egffs)res.(fe) (::)
+(c4) Su(f|vi)sci(de|pe)pe(e|ta) ver(eg~|ta>)bum,(gv/fssded|vi-ds-hitohi) *(,) Vir(fd~|vi>)go(ef|peS) Ma(g|)rí(ixhgh/iv|////po-1vihk)a,(h|ta) (,) quod(h|``talse4) ti(jhjsss|///cltshg)bi(ghg|//to) a(f|ta) Dó(ghgh|//tr-3)mi(fe/fvEDe|cl-ci-hgvihg)no(ed|cl-) (;) per(dc|cllsc3) An(f|vi)ge(gh|pe)lum(ixh/ifg|////vi-pohilsi8) trans(ixg!hig/hg>|////clhhpp2cl>hj)mís(e|ta)sum(egffs|tosthh) est:(fe|cl-) (:) con(ixhi~|///ta>lsal3)cí(h|ta)pi(h|ta)es(hggof|//cllsc2pi) per(g|vi) au(gffg~|//cllsc2ta>)rem,(eeof|sa) (,) De(d|ta)um(d|ta) pá(fgf|//to)ri(fe|cllsc3)es(g|vihglsl3) et(h|vihhlss3) hó(hg/hvGF|posu2lsc2)mi(e!fgffs|popp2)nem,(ed|cl-) †(:) Ut(fd~|vi>) be(dfe|//to)ne(f|vi)díc(g|vihi)ta(f|vihg) di(e|ta)cá(e!fgfg/hv|//po-1hgpp2vihl)ris(g|vi) (,) in(f|ta)ter(ghgh|tr) om(hvGF/egFEf>|vi-suu2/toS2sut1vi>)nes(ed|cl-) mu(f!goh|sa)lí(ixhiGFghg|////pelsc2su2tohg)e(egffs|//tosthh)res.(fe|cl-) (::)
 
-<sp>V/</sp> Pá(h)ri(gh)es(gf!gwhg/hvGEfe) qui(g)dem(g) fí(gh)li(g)um,(g) (,) et(g) vir(g)gi(g)ni(g)tá(gh)tis(g) non(g) pa(g)ti(g)é(g)ris(gf) de(gh)tri(gf)mén(e!fwgf)tum:(fe) (;) ef(f)fi(de)ci(e)é(e)ris(e) grá(e!fo)vi(e)da,(e) (,) et(e) e(e)ris(e) ma(e!fo)ter(e) sem(e!fwgFE)per(g) in(ghghGF)tác(e!fgffs)ta.(ed) (::)
-*() Ut(fd~) be(dfe)ne(f)díc(g)ta.(f) (::)
+<sp>V/</sp> Pá(h|vi)ri(gh|pe)es(gf!gwhg/hvGEfe|cl-`ql!clci-hgcl-hg) qui(g|vi)dem(g|vi) fí(gh|pe)li(g|ta)um,(g|ta) (,) et(g|ta) vir(g|ta)gi(g|ta)ni(g|ta)tá(gh|pe)tis(g|ta) non(g|ta) pa(g|ta)ti(g|ta)é(g|ta)ris(gf|cllsc3) de(gh|pe)tri(gf|cllsc3)mén(e!fwgf|ql!cl-ppt1)tum:(fe|cl-) (;) ef(f|vi)fi(de|pe)ci(e|ta)é(e|ta)ris(e|ta) grá(e!fo|vshe)vi(e|ta)da,(e|ta) (,) et(e|ta) e(e|ta)ris(e|ta) ma(e!fo|vshe)ter(e|ta) sem(e!fwgFE|ql-ppt1su2)per(g|vi) in(ghghGF|//tr-1su2)tác(e!fgffs|popp2)ta.(ed|cl-) (::)
+*() Ut(fd~|vi>) be(dfe|//to)ne(f|vi)díc(g|vihi)ta(f|vihg) (::)
