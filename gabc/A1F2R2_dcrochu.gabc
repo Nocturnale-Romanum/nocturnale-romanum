@@ -1,7 +1,8 @@
-name:Laetentur coeli V Orietur;
+name:Laetentur caeli V Orietur;
 office-part:re;
 mode:2;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Laetentur caeli;
@@ -9,8 +10,9 @@ mode: 2;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: ii;
+nabc-lines: 1;
 %%
-(f3) Læ(c)tén(eof)tur(f!gwh) cæ(hg/hif/gv)li,(ffoe) *(,) et(f) ex(h)súl(hvGFEf)tet(f!gwh/ihhog) ter(fg!hvGFg)ra,(gf) (;) ju(h)bi(iji)lá(j)te(i) mon(hhog~)tes,(hi) lau(hig/hvGFg)dem,(gf) (;) qui(g!ho)a(f) Dó(fg)mi(f)nus(f) no(g)ster(hi~) vé(ge)ni(fe)et,(e) †(;) Et(e/fh~) páu(hhog~)pe(hi)rum(ihhog~) su(hi)ó(i)rum(ivHGhvGFEfe) (,) mi(fhGE)se(h)ré(hg/hf/gf)bi(e!fwhGFg)tur.(gf) (::)
+(f3) Læ(c|talsc9)tén(eof|pq)tur(f!gwh|``qlppt1lse4) cæ(hg/hif/gv|cltoS2vi-)li,(ffoe|prlst3) *(,) et(f|vihd) ex(h|vihe)súl(hvGFEf|vi-suu1su2vi)tet(f!gwh/ihhog|qlppt1clShipihi) ter(fg!hvGFg|//ci-hhpp2vihh)ra,(gf|cl-) (;) ju(h|vi)bi(iji|//cl)lá(j|vihg)te(i|vi) mon(hhog~|vs>)tes,(hi|pe) lau(hig/hvGFg|toSci-hhvihh)dem,(gf|cl-) (;) qui(g!ho|vslsc3)a(f|ta) Dó(fg|pe)mi(f|ta)nus(f|ta) no(g|vi)ster(hi~|ta>lsl2) vé(ge|cl-)ni(fe|cllsc3)et,(e|ta) †(;) Et(e/fh~|``ta-lse4/ta>hg) páu(hhog~|vs>)pe(hi|pe)rum(ihhog~|//clorhg) su(hi|pe)ó(i|vi)rum(ivHGhvGFEfe|clSsut1vi-suu1su2cl-) (,) mi(fhGE|pe-1su2)se(h|vi)ré(hg/hf/gf|pflsc2cl-hg)bi(e!fwhGFg|ql-ppt1su2vi)tur.(gf|cl-) (::)
 
-<sp>V/</sp> O(f)ri(e)é(ef!gwhhi)tur(h) in(h) dí(h)e(ij)bus(i) e(hg)jus(hi) ju(gh)stí(f)ti(f!gwhg)a,(gf) (;) et(f) a(ef)bun(f)dán(f!gwhGF!Es>)ti(f)a(hg/hih) pa(hvGFg)cis.(gf) (::)
-†() Et(e/fh~) páu(hhog~)pe(hi)rum.(ihhog~) (::)
+<sp>V/</sp> O(f|vi)ri(e|ta)é(ef!gwhhi|ql-hhppt2pehk)tur(h|ta) in(h|ta) dí(h|ta)e(ij|pe)bus(i|vi) e(hg|cllsc3)jus(hi|pe) ju(gh|pe)stí(f|ta)ti(f!gwhg|ql!cl-ppt1)a,(gf|cl-) (;) et(f|vi) a(ef|pe)bun(f|ta)dán(f!gwhGFE~|ql-ppt1su1sux1)ti(f|vi)a(hg/hih|//cltohg) pa(hvGFg|ci-vihg)cis.(ggof|pr) (::)
+†() Et(e/fh~|``ta-lse4/ta>hg) páu(hhog~|vs>)pe(hi|pe)rum.(ihhog~|//clorhg) (::)
