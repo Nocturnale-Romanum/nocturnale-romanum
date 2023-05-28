@@ -1,6 +1,8 @@
-mode:8g2;
+name:Fecit mihi magna qui potens est;
+office-part:an;
+mode:8g;
+submitter:marteo;
 %%
-(c4) Fe(fg)cit(g) mi(f)hi(hj) ma(ji)gna(g) qui(g) po(e)tens(fg) est,(gvFED) (;)
-et(d) sanc(ef~)tum(gf) no(gh)men(h) e(g)jus.(g) (::)   
-<eu> E(j) U(j) O(i) U(j) A(h) E.(ghg) </eu> (::) 
-
+(c4) Fe(f_g)cit(g) mi(f)hi(hj) ma(ji)gna(g_) <sp>*</sp>() qui(g) po(e)tens(fg) est,(gv_FED.) (;)
+et(d) san(e_f~)ctum(gf) no(h)men(ih) e(g.)jus.(g.) (::)   
+<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::)
