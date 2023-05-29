@@ -2,6 +2,7 @@ name:Montes Israel V Rorate;
 office-part:re;
 mode:1;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Montes Israel;
@@ -9,8 +10,9 @@ mode: 1;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: i;
+nabc-lines: 1;
 %%
-(c4) Mon(cd)tes(fg) Is(ghGEf)ra(dcd)ël,(d!ewf) *(,) ra(cd)mos(ixdh/ivGFhg/hi) ve(ixhi)stros(h) (`) ex(hvGFE/fwgf/gvFE)pán(ed~)di(d!ewfef)te,(ed) (;) et(c/df~) flo(fef)ré(d!ewfEDCd)te,(dc) (,) et(ixf!gwh/iv) fruc(hi)tus(h) fá(hfg)ci(hg)te:(ghGFgf) †(:) Pro(f)pe(gh) est(hggoe) ut(g>) vé(fe)ni(dc)at(c) di(e/ghg)es(gv//fgFED//c!dweDCd) Dó(d)mi(d!ewfef)ni.(ed) (::)
+(c4) Mon(cd>|pe>1)tes(fg|peS) Is(ghGEf|ta-/visu1sut1vihg)ra(dcd|po)ël,(d!ewf|``qlppt1lse7) *(,) ra(cd|pe)mos(ixdh/ivGFhgh/iv|////pe-vihjsu1sut1lss2lsc3po-1vihj) ve(ixhi|////pe)stros(h|ta-) (`) ex(hv//ghGEfgfgoh|////vi-lse2/toS2hisut1/tohk/pqhl)pán(d|ta)di(d!ewfef|ql!poppt1)te,(ed|cl-) (;) et(c/df~|ta-/ta>hglss3) flo(fef|//po)ré(d!ewfEDCd|ql!vsppt1su2vihg)te,(dc|cl-) (,) et(ixf!gwh/iv|viqlhjorhm) fruc(hi|pe)tus(h|ta) fá(hfg|////polsi8)ci(hg|cllsc3)te:(ghGFgf|pe-1su2cl-hg) †(:) Pro(f|ta)pe(gh|pe) est(hggoe|//cl!pilsc2) ut(g>|vi>lsl2) vé(fe|cllsc3)ni(dc|cllsi2lsc3)at(c|ta-) di(e/ghg|vi-tohjlsc2)es(gv//fgFEC//dweDCd|vi-toS2sut2ql-hgsu2vi) Dó(d|ta)mi(d!ewfef|ql!poppt1)ni.(ed|cl-) (::)
 
-<sp>V/</sp> Ro(h)rá(h)te,(hg/hggof) cœ(g)li,(g) dé(gh)su(g)per,(g) (,) et(g) nu(g)bes(hf) plu(gh)ant(gh) ju(ixh/iioh)stum:(h) (;) a(hf)pe(gh)ri(h)á(h)tur(h) ter(ixhi~)ra,(h) (,) et(h) gér(h)mi(h)net(hg/hg) Sal(hf~)va(ixf!gwhg/hih)tó(hvGFE/fwg/hv)rem.(gf) (::)
-†() Pro(f)pe(gh) est.(hggoe) (::)
+<sp>V/</sp> Ro(h|vi)rá(h|vi)te,(hg/hggof|pflsc2``pihhlst2) cæ(g|vi)li,(g|vi) dé(gh|pe)su(g|ta)per,(g|ta) (,) et(g|ta) nu(g|ta)bes(hf|cllsc3) plu(gh|pe)ant(gh|pe) ju(ixh/iioh|////ta-pr)stum:(h|ta) (;) a(hf|cllsl2lsc3)pe(gh|pe)ri(h|ta)á(h|ta)tur(h|ta) ter(ixhi~|////ta>)ra,(h|ta) (,) et(h|ta) gér(h|ta)mi(h|ta)net(hg/hg|//pf1lsc2) Sal(hf~|vi>lsi6)va(ixf!gwhg/hih|////ql!clppt1tohmlsc3)tó(hvGFE/fwg/hv|//vi-su1sut2ql-vi-hj)rem.(gf|cl-) (::)
+†() Pro(f|ta)pe(gh|pe) est(hggoe|//cl!pilsc2) (::)
