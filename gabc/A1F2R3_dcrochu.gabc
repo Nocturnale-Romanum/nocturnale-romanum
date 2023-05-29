@@ -2,6 +2,7 @@ name:Alieni non transibunt V Deus a Libano V Gloria;
 office-part:re;
 mode:8;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Alieni non transibunt ;
@@ -9,12 +10,12 @@ mode: 8;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: viii;
+nabc-lines: 1;
 %%
-(c4) A(d)li(d)é(f/gh)ni(g) *() non(g) trans(ixg!hoi)í(h)bunt(hg/h!iwjg/hv/ggof) (;) per(g) Je(g)rú(gh)sa(g)lem(gh!iwjIH/iwjIH) ám(g)pli(gh!ivHGh)us:(hg) †(:) Nam(gh) in(gf) il(g)la(h!iwj) di(ji!jwkjk)e(kj) stil(j)lá(jvjvIH)bunt(j) mon(ji/jkh/iv)tes(hhog) dul(h)cé(h/jvIG)di(hg/hvGFg)nem,(gf) (;) et(gh) col(gf~)les(h!iwj) flu(ji!jwkjk)ent(kj) lac(jvjvIHG) et(ixg/ivHGhV!gf~) mel,(gf) (:) di(hf/gh!iwjjv)cit(jkJIH/iwjIH) Dó(g)mi(g!hwihi)nus.(hg) (::)
+(c4) A(d|talsc9)li(d|ta)é(f/gh|scM1)ni(g|ta) *() non(g|ta) trans(ixg!hoi|////sa1)í(h|ta)bunt(hg/h!iwjg/hv/ggof|cl-ql!cl-ppt1``vi-hi`prhi) (;) per(g|vi) Je(g|vi)rú(gh|pe)sa(g|ta)lem(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hhsu2) ám(g|ta)pli(gh!ivHGh|//ci-hhpp2vihi)us:(hg|cl-) †(:) Nam(gh|pe) in(gf|cllsc3) il(g|vi)la(h!iwj|``vihgqlhj) di(ji!jwkjk|cl-hi`qlhi!pohi)e(kj|cl-hi) stil(j|tahh)lá(jvjvIH|bv-hhsu2)bunt(j|vihh) mon(ji/jkh/i>|clhhlsc2toS2hhvi>hh)tes(hhog|pr) dul(h|vihh)cé(h/jvIG|vi-hhvihsu1sut1jlsc3lsi9)di(hg/hvGFg|//cl-ci-vihg)nem,(gf|cl-) (;) et(gh|pe) col(gf~|vi>lsi6)les(h!iwj|viqlhj) flu(ji!jwkjk|cl-hh`qlhh!pohh)ent(kj|cl-hh) lac(jvjvIHG|bv-hhsu3) et(ixg/ivHGhgf~|////ta/cicl>-) mel,(gf|cl-) (:) di(hf/gh!iwjjv|cl-ql-hippt2``vi-hi)cit(jkJIH/iwjIH|////pe-1hhsut3qi-hhsu2) Dó(g|ta)mi(gh!ivHGh|//ci-hhpp2vihi)nus.(hg|cl-) (::)
 
-<sp>V/</sp> De(ji)us(jkj/iji/hhog) a(hi) Lí(ih)ba(ij)no(hi) vé(g)ni(g!hwih)et,(hg) (;) et(g) Sanc(fg~)tus(g) de(g) mon(gh~)te(g) um(g)bró(g)so(ixhiHGhih) et(ghf) con(gh)dén(iyh!iwji/jkJIH)so.(hiHGhg) (::)
-†() Nam.(gh) (::)
+<sp>V/</sp> De(ji|cllsc3)us(jkj/iji/hhog|////tohhtohiprhi) a(hi|pe) Lí(ih|cllsc3)ba(ij|pe)no(hi|pe) vé(g|ta)ni(g!hwih|ql!cl-ppt1)et,(hg|cl-) (;) et(g|vi) Sanc(fg~|ta>)tus(g|ta) de(g|ta) mon(gh~|ta>)te(g|ta) um(g|ta)bró(g|ta)so(ixhiHGhih|////pe-su2tohg) et(ghf|//toM1) con(gh|peS)dén(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)so.(hiHGhg|pe-1su2cl-hg) (::)
+†() Nam(gh|pe) in.(gf|cllsc3) (::)
 
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/iji/hhog) Pa(ih)tri,(ij) et(hi) Fí(g)li(g!hwih)o,(hg) (;) et(g) Spi(g)rí(ixhiHG/hih)tu(ghf)i(gh) Sanc(iyh!iwji/jkJIH)to.(hiHGhg) (::) 
-*() Nam.(gh) (::)
-
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::) 
+*() Nam(gh|pe) in.(gf|cllsc3) (::)
