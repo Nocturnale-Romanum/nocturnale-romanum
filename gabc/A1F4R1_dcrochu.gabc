@@ -2,6 +2,7 @@ name:Rex noster adveniet V Super ipsum;
 office-part:re;
 mode:4;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Rex noster adveniet Christus;
@@ -9,8 +10,9 @@ mode: 4;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: iv;
+nabc-lines: 1;
 %%
-(c4) Rex(d!ewffvEC/d!ewf) no(egffs)ster(eeof) *() ad(dg)vé(h)ni(g)et(gfh) Chri(h!iwjIHGh)stus(hg) †(;) Quem(g) Jo(gh)án(hhgh>)nes(e) (`) præ(e)di(fg)cá(ge/gvFEfvEDe)vit(ed) (,) A(f)gnum(gh) es(ixhig)se(gfg) ven(gd/f!go!h>)tú(egffs)rum.(fe) (::)
+(c4) Rex(d!ewffvEC/d!ewf|vi-hdql-hgvi-hjsuu2qlhjppt1) no(egffs|//tolsi7sthh)ster(eeof|sa) *() ad(dg|peS)vé(h|vi)ni(g|ta)et(gfh|polss3) Chri(h!iwjIHGh|ql!vsppt1su2vi-hg)stus(hg|cl-) †(;) Quem(g|``talse4) Jo(gh|pe)án(hhgh>|vi-/po>hjlss3)nes(e|ta) (`) præ(e|ta)di(fg|pe)cá(ge/gvFEfvEDe|clhgciShgcihg)vit(ed|cl-) (,) A(f|vi)gnum(gh|pe) es(ixhig|//////to)se(gfg|//po) ven(gd/f!go!h>|cllsc2sa>lsal3)tú(egffs|//tosthh)rum.(fe|cl-) (::)
 
-<sp>V/</sp> Su(h)per(h) ip(h)sum(gf!gwhg/hvGEfe) con(g)ti(g)né(gh)bunt(g) re(gf)ges(gh) os(gf) su(e!fwgf)um,(fe) (;) i(f)psum(de~) Gen(ef~)tes(e) de(e!fwgFE)pre(g)ca(ghghGF)bún(e!fgffs)tur.(ed) (::)
-†() Quem(g) Jo(gh)án(hhgh>)nes.(e) (::)
+<sp>V/</sp> Su(h|vi)per(h|vi) ip(h|vi)sum(gf!gwhg/hvGEfe|////cl-``qi!cl-``ci-hhcl-hh) con(g|vi)ti(g|vi)né(gh|pe)bunt(g|ta) re(gf|cllsc3)ges(gh|pe) os(gf|cllsc3) su(e!fwgf|ql!cl-ppt1)um,(fe|cl-) (;) ip(f|vi)sum(de~|ta>) Gen(ef~|ta>)tes(e|ta) de(e!fwgFE|ql-ppt1su2)pre(g|vi)ca(ghghGF|//toci-)bún(e!fgffs|//pohhpp2)tur.(ed|cl-) (::)
+†() Quem(g|``talse4) Jo(gh|pe)án(hhgh>|vi-/po>hjlss3)nes.(e|ta) (::)
