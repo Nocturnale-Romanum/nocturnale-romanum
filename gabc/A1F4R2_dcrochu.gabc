@@ -2,6 +2,7 @@ name:Ante multum tempus  V Porta quam vidisti;
 office-part:re;
 mode:7;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Ante multum tempus;
@@ -9,8 +10,9 @@ mode: 7;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: vii;
+nabc-lines: 1;
 %%
-(c3) An(ef!gwhGFg)te(fe) *() mul(ehg)tum(hi) tem(i!jwkJH/iwjij)pus(ji) (,) pro(hg)phe(hi)tá(ihhvGFg!ho)vit(g) E(g!hwiHGF/gwhGF)zé(e)chi(ef!gvFEf)el:(fe) (:) Vi(e)di(e) por(ehg)tam(hi) clau(i!jwkJH/iwjij)sam;(ji) (,) et(i) ec(ij)ce(i) De(ihhvGFg!ho)us(g) an(g)te(g!hwiHGF/gwhGF) sǽ(e)cu(ef!gvFEf)la(fe) (;) ex(i) e(i)a(jh) pro(i)ce(k)dé(jlKJkvJI/jwkjk)bat(ji) pro(k) sa(j!ko)lú(i)te(ih) mun(i!jw!kjk>)di:(ji) †(;) Et(g) í(iji/jkj)te(ih)rum(h) e(hvhvGF)rat(h!ioj) clau(ijIHGh)sa,(hg) (;) de(ef)món(ef!gwhhi)strans(h) Vír(h!iwji)gi(ih!iwjij)nem,(ji) (;) qui(hi)a(h) post(iji) par(ihhvGFg!ho)tum(g) per(g)mán(g>)sit(g!hwiHGF/gwhGF) vir(ef!gvFEf)go.(fe) (::)
+(c3) An(ef!gwhGFg|ql-hhppt2su2vihh)te(fe|cl-) *() mul(ehg|//to)tum(hi|pe) tem(i!jwkJH/iwjij|////ql-hkppt1sut2qihk!pohk)pus(ji|cl-hh) *(,) pro(hg|cllsc3)phe(hi|pe)tá(ihhvGFg!ho|clSci-vs)vit(g|ta) E(g!hwiHGF/gwhGF|qlhh!vshhppt1sut2qi-hjsu2)zé(e|ta)chi(ef!gvFEf|ci-hhpp2vihh)el:(fe|cl-) (:) Vi(e|``talse4)di(e|ta) por(ehg|//to)tam(hi|pe) clau(i!jwkJH/iwjij|ql-hkppt1sut2qihk!pohk)sam;(ji|cl-hh) (,) et(i|``talse4) ec(ij|pe)ce(i|ta) De(ihhvGFg!ho|//clSci-vs)us(g|ta) an(g|ta)te(g!hwiHGF/gwhGF|qlhh!vshhppt1sut2qi-hisu2) sǽ(e|ta)cu(ef!gvFEf|ci-hhpp2vihh)la(fe|cl-) (;) ex(i|``vilsl2) e(i|tahh)a(jh|clhhlsc3lss2) pro(i|vihh)ce(k|vihk)dé(jlKJkvJI/jwkjk|toS2hmsut1ciS1hmqihm!pohm)bat(ji|cl-hh) pro(k|vihk) sa(j!ko|vshj)lú(i|tahh)te(ih|clhhlsc3) mun(i!jwkjkJ~I~|qlhi!clhi!cl>hippt1)di:(ji|cl-hh) †(;) Et(g|ta) í(iji/jkj|//tohhlsc3tohj)te(ih|clhhlsc3)rum(h|tahh) e(hvhvGF|bv-hhsu2)rat(h!ioj|sahh) clau(ijIHGh|//toShhsu2vihh)sa,(hg|cl-hh) (;) de(ef|ta)món(ef!gwhhi|ql-hhppt2pehj)strans(h|tahh) Vír(h!iwji|qihh!cl-hhppt1)gi(ih!iwjij|//cl-hh`qlhh!pohh)nem,(ji|cl-hh) (;) qui(hi|pe)a(h|ta) post(iji|//to) par(ihhvGFg!ho|clSci-vs)tum(g|ta) per(g|ta)mán(g<|ta>)sit(g!hwiHGF/gwhGF|qlhh!vshhppt1sut2qi-hisu2) vir(ef!gvFEf|//ci-hhpp2vihh)go.(fe|cl-hh) (::)
 
-<sp>V/</sp> Por(i!jwkJI)ta(hi/hhog) quam(hi) vi(hi)dí(i!jwkj)sti,(ji) (;) Dó(hi/hhog)mi(hih)nus(i) so(ij)lus(i) tran(i)sí(ijijIH)bit(ih) per(h!iwji/jkj) il(ih!iwjij)lam.(ivHGhg) (::)
-†() Et(g) í(iji/jkj)te(ih)rum.(h) (::)
+<sp>V/</sp> Por(i!jwkJI|ql-hjppt1su2)ta(hi/hhog|pe-1``pr) quam(hi|pe) vi(hi|pe)dí(i!jwkj|qihh!cl-hhppt1)sti,(ji|cl-hh) (;) Dó(hi/hhog|pe-1``pr)mi(hih|//to)nus(i|vi) so(ij|pe)lus(i|ta) trans(i|ta)í(ijijIH|////tr-1su2)bit(ih|cllsc3) per(h!iwji/jkj|//qlhh!clhhppt1tohn) il(ih!iwjij|cl-hh`qihh!pohh)lam.(ivHGhg|//ci-cl-) (::)
+†() Et(g|ta) í(iji/jkj|//tohhlsc3tohj)te(ih|clhhlsc3)rum.(h|tahh) (::)
