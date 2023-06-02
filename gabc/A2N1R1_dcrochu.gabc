@@ -2,6 +2,7 @@ name:Hierusalem cito V Ego enim sum;
 office-part:re;
 mode:4;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Jerusalem cito veniet;
@@ -9,8 +10,9 @@ mode: 4;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: iv;
+nabc-lines: 1;
 %%
-(c4) Je(eeof)rú(c)sa(ded)lem,(e/fgf/eeof/ded) (,) ci(f)to(gh) vé(hg)ni(ge/fvEDe)et(ed) (,) sa(f)lus(fg) tu(ghggoFEf)a:(fe) (;) qua(h)re(ixg/ivHGhffoe) mœ(ef)ró(g)re(ixhg/hih) (,) con(fssfd~)sú(f)me(efED/ewfef)ris?(ed) (:) Num(dc~)quid(goh) con(g)si(hih/i!jo)li(i)á(j)ri(ih)us(h) (,) non(hggof) est(gh) ti(ghGFEf)bi,(fe) (;) qui(e!fo)a(e) in(e)no(e)tá(e!fwgFE)vit(g) te(ghghGF) do(e!fgffs)lor?(ed) †(:) Sal(e/fssfd~)vá(dfe)bo(f) te,(ghhg) (;) et(gd~) li(g)be(h!iwj)rá(jg)bo(hf) te,(hg/ffd/gv) (,) no(ixhg/hih)li(f) ti(d!ewf)mé(egFE)re.(e) (::)
+(c4) Je(eeof|sa)rú(c|ta)sa(ded|//to)lem,(e/fgf/eeof/ded|vi-toS2hisahitohm) *(,) ci(f|vihg)to(gh|pehg) vé(hg|cl-)ni(ge/fvEDe|cl-ci-vi)et(ed|cl-) (,) sa(f|vi)lus(fg|pe) tu(ghggoFEf|tolse4pisu1vi-)a:(fe|cl-) (;) qua(h|vi)re(ixg/ivHGhffoe|////ta-cicl!pilsc2lst3) mœ(ef|peS)ró(g|vi)re(ixhg/hih|/////clto) (,) con(fssfd~|//ts>)sú(f|vi)me(efED/ewfef|peSsut2qihg!pohg)ris?(ed|cl-) (:) Num(dc~|``vi>lse4)quid(goh|pqlst2lss3) con(g|ta)si(hih/i!jo|tovshg)li(i|ta)á(j|vi)ri(ih|cllsc3)us(h|ta) (,) non(hggof|cl!pilsc2) est(gh|pe) ti(ghGFEf|toSsu2vi)bi,(fe|cl-) (;) qui(e!fo|vslsc3)a(e|ta) in(e|ta)no(e|ta)vá(e!fwgFE|ql-ppu1su2)vit(g|vi) te(ghghGF|to/ci-hg) do(e!fgffs|pohhpp22)lor?(ed|cl-) †(:) Sal(e/fssfd~|vi-/ts>hi)vá(dfe|//to)bo(f|vi) te,(ghhg|pe-cl-hg) (;) et(gd~|vi>) li(g|vi)be(h!iwj|vi-hgqlhk)rá(jg|cl-)bo(hf|clM-) te,(hg/ffd/gv|cl-vi-`cl-`vi-) (,) no(ixhg/hih|//////clto)li(f|vi-) ti(d!ewf|qlppt1)mé(egFE|pe-1su2)re.(e|ta) (::)
 
-<sp>V/</sp> E(h)go(gf!gwhghGEfe) e(gh)nim(g) sum(g) Dó(g)mi(g)nus,(gf) De(gh)us(gf) tu(e!fwgf)us,(fe) (;) Sanc(f)tus(de) Is(e!fo)ra(e)ël,(e) Red(e!fwgFE)émp(g)tor(ghghGF) tu(e!fgffs)us.(ed) (::)
-†() Sal(e/fssfd~)vá(dfe)bo.(f) (::)
+<sp>V/</sp> E(h|vi)go(gf!gwhg/hvGEfe|cl-`ql!cl-ci-hhcl-hh) e(gh|pe)nim(g|ta) sum(g|ta) Dó(g|ta)mi(g|ta)nus,(gf|cllsc3) De(gh|pe)us(gf|cllsc3) tu(e!fwgf|ql!cl-ppt1)us,(fe|cl-) (;) Sanc(f|vi)tus(de|pe) Is(e!fo|vshe)ra(e|ta)ël,(e|ta) Red(e!fwgFE|ql-ppt1su2)émp(g|vi)tor(ghghGF|////tr-1su2) tu(e!fgffs|//popp2)us.(ed|cl-) (::)
+†() Sal(e/fssfd~|vi-/ts>hi)vá(dfe|//to)bo(f|vi) te.(ghhg|pe-cl-hg) (::)
