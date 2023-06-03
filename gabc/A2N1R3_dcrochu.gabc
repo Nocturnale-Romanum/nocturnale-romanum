@@ -2,6 +2,7 @@ name:Civitas Jerusalem V Ecce Dnus in fortitudine V Gloria;
 office-part:re;
 mode:1;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Civitas Jerusalem;
@@ -9,11 +10,12 @@ mode: 1;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: i;
+nabc-lines: 1;
 %%
-(c4) Ci(hj)vi(gh)tas(g) *() Je(f)rú(g)sa(h)lem,(hjHG/FHjvHGhffod) (,) no(f)li(e) fle(egFEfvED/ewfef)re:(ed) (;) quó(df!g!ho)ni(g)am(gh~) dó(hg)lu(gf)it(f) Dó(f!goh)mi(h)nus(ixhg/ivHGivHG) su(f)per(fggf) te:(f) †(:) Et(h) áu(ixhj/kj/hi~)fe(h)ret(ixhv//GHjssgiHG//fhgh//FHigfssded) (,) a(f) te(f) om(fe~)nem(fggf) tri(f)bu(fg)la(gffoe)ti(f)ó(feeod/ev)nem.(ed) (::)
+(c4) Ci(hj|peS)vi(gh|pehg)tas(g|vi-he) *() Je(f|ta)rú(g|vi)sa(h|vi)lem,(hjHG/fh!jvHGhffod|////pelsc2su1suu1cihipp2clhilsc2pihilst3) (,) no(f|vi)li(e|ta) fle(egFEfvED/ewfef|////toS2sut1vi-sut2qihg!pohg)re:(ed|cl-) (;) quó(df!g!ho|``vshhpp2lse4)ni(g|ta)am(gh~|ta>) dó(hg|cl-)lu(gf|cl)it(f|ta) Dó(f!goh|sa)mi(h|vi)nus(ixhg/ivHGivHG|////////cllsc2cilsl2cilsl2lsc3) su(f|ta)per(fggf|pe-cl-hg) te:(f|ta) †(:) Et(h|vi) áu(ixhj/kj/hi~|////pehhclShi`ta>)fe(h|vi)ret(ixhv//gh!jssgiHG|////vi-ds-hjpp2pehjsu2lsc3|//fhgh|tr-1hj|//f@h@igfssded|////clShjpp2ds-hktohk) (,) a(f|vilse3) te(f|vi) om(fe~|vi>lsal3)nem(fggf|pe-cl-hg) tri(f|vi)bu(fg|pe)la(gffoe|clSpilst2)ti(f|vi)ó(feeod/ev|cl!pivi)nem.(ed|cl-) (::)
 
-<sp>V/</sp> Ec(h)ce(hg/hggof) Dó(gh)mi(g)nus(g) in(g) for(g)ti(g)tú(hf)di(gh)ne(gh) vé(h)ni(ixh/iioh)et:(h) (;) et(hf) brá(gh)chi(h)um(h) e(ixhi)jus(h) do(hg/hg)mi(hf)ná(ixf!gwhg/hih)bi(hvGFE/fwg/hv)tur.(gf) (::)
-†() Et.(h) (::)
+<sp>V/</sp> Ec(h|vi)ce(hg/hggof|pflsc2`pihhlst2) Dó(gh|pe)mi(g|ta)nus(g|ta) in(g|ta) for(g|ta)ti(g|ta)tú(hf|cllsc3)di(gh|pe)ne(gh|oe) vé(h|ta)ni(ixh/iioh|////ta-pr)et:(h|ta) (;) et(hf|cllse2lsc3) brá(gh|pe)chi(h|ta)um(h|ta) e(ixhi|////pe)jus(h|ta) do(hg/hg|pflsc2)mi(hf|cllsc3)ná(ixf!gwhg/hih|////ql!clppt1tohmlsc3)bi(hvGFE/fwg/hv|vi-su1sut2qi-vihl)tur.(gf|cl-) (::)
+†() Et.(h|vi) (::)
 
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggof) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iioh)o,(h) (;) et(h) Spi(h)rí(hg/hg)tu(hf)i(ixf!gwhg/hih) Sanc(hvGFE/fwg/hv)to.(gf) (::) 
-†() Et.(h) (::)
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh/iioh|////ta-pr)o,(h|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pf1lsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohmlsc3) Sanc(hvGFE/fwg/hv|vi-su1sut2ql-vihl)to.(gf|cl-) (::) 
+†() Et.(h|vi) (::)
