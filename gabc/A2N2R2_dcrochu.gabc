@@ -2,6 +2,7 @@ name:Sicut mater V Dabo in Sion;
 office-part:re;
 mode:8;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Sicut mater;
@@ -9,8 +10,9 @@ mode: 8;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: viii;
+nabc-lines: 1;
 %%
-(c4) Sic(d)ut(d) ma(f/gh)ter(g) *() con(g)so(g)lá(gh)tur(g) fí(h)li(gf)os(ffoe) su(fd!ewfEDCd)os,(dc) (;) i(DFgh)ta(g) con(g)so(g)lá(h)bor(gf~) vos,(g!hwji/jkj) (,) di(jvjvIH)cit(i!jwkJIH/iwjIH) Dó(g)mi(gh!ivHGh)nus:(hg) (;) et(jkj) de(jh) Je(jkj)rú(jk)sa(ki/jkh//iv)lem(hhog) (,) ci(f)vi(ixhih)tá(hg)te(iyi) quam(j) e(ji/jvIHG)lé(hg/hvGF~)gi,(gf) (;) vé(f)ni(gh)et(h) vo(h)bis(ghGE) au(g>)xí(f!goh)li(fe)um:(dec//d!ewfd/fvED) †(;) Et(d) vi(d)dé(f/gh)bi(g)tis(ixg/hig/hv/ggof) (,) et(h) gau(j)dé(ji/jvIH/i!jo)bit(i) cor(i!jwkJIH/iwjIH) ve(gh!ivHGh)strum.(hg) (::)
+(c4) Sic(d|ta)ut(d|ta) ma(f/gh|scM1)ter(g|ta) *() con(g|ta)so(g|ta)lá(gh|pe)tur(g|ta) fí(h|vi)li(gf|cllsc3)os(ffoe|prlst3) su(fd!ewfEDCd|cl-`ql!po)os,(dc|cl-) (;) i(df!gh|``pehhpp2lsl1)ta(g|ta) con(g|ta)so(g|ta)lá(h|vi)bor(gf~|vi>) vos,(g!hwji/jkj|////ql!clppt1tohm) (,) di(jvjvIH|bv-su2)cit(i!jwkJIH/iwjIH|////qlhh!vshhppt1sut2qi-hjsu2) Dó(g|ta)mi(gh!ivHGh|//ci-hhpp2vihi)nus:(hg|cl-) (;) et(jkj|//tohhlsl2) de(jh|clhhlsc3) Je(jkj|//tohi)rú(jk|pehi)sa(ki/jkh//iv|//clhilsc2toS2hivi-hi)lem(hhog|pr) (,) ci(f|ta)vi(ixhih|//////to)tá(hg|cl)te(iyi|////vi) quam(j|vi) e(ji/jvIHG|cl-hhvi-hhsut1su2)lé(hg/hvGF~|cl-cl>)gi,(gf|cl-) (;) vé(f|``talse4)ni(gh|pe)et(h|vi) vo(h|vi)bis(ghGE|pe-1su2) au(g>|vi>)xí(f!goh|sa)li(fe|cl)um:(dec//d!ewfd/fvED|//toM1ql!clppt1ci-hj) †(;) Et(d|ta) vi(d|ta)dé(f/gh|scM1)bi(g|ta)tis(ixg/hig/hv/ggof|////////ta-toS2vi-hh``prhh) (,) et(h|``vihelsl4) gau(j|vi)dé(ji/jvIH/i!jo|cl-ci-vshe)bit(i|ta) cor(i!jwkJIH/iwjIH|////qlhh!vshhppt1sut2qi-hisu2) ve(gh!ivHGh|//ci-hhpp2vi-hh)strum.(hg|cl-) (::)
 
-<sp>V/</sp> Da(ji)bo(jkj/iji/hhog) in(hi) Si(ih)on(ij) sa(hi)lú(g!hwih)tem,(hg) (;) et(g) in(fg) Je(g)rú(gh)sa(g)lem(g) gló(ixhiHG/hih)ri(ghf)am(gh) me(iyh!iwji/jkJIH)am.(hiHGhg) (::)
-†() Et(d) vi(d)dé(f/gh)bi(g)tis.(ixg/hig/hv/ggof) (::)
+<sp>V/</sp> Da(ji|cllsc3)bo(jkj/iji/hhog|//tohhtohiprhi) in(hi|pe) Si(ih|cllsc3)on(ij|pe) sa(hi|pe)lú(g!hwih|ql!cl-ppt1)tem,(hg|cl-) (;) et(g|vi) in(fg|pe) Je(g|ta)rú(gh|pe)sa(g|ta)lem(g|ta) gló(ixhiHG/hih|////pe-su2tohh)ri(ghf|//toM1)am(gh|peS) me(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)am.(hiHGhg|pe-1su2cl-) (::)
+†() Et(d|ta) vi(d|ta)dé(f/gh|scM1)bi(g|ta)tis.(ixg/hig/hv/ggof|////////ta-toS2vi-hh``prhh) (::)
