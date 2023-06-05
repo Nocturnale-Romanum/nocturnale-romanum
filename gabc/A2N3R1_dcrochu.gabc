@@ -2,6 +2,7 @@ name:Egredietur Dominus de Samaria V Et praeparabitur;
 office-part:re;
 mode:3;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Egredietur Dominus de Samaria;
@@ -9,11 +10,9 @@ mode: 3;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: iii;
+nabc-lines: 1;
 %%
-(c4) E(ed)gre(g)di(hi)é(ih)tur(hiHG) Dó(g!hwihi/jv)mi(i)nus(i) *() de(f#ggfg) Sa(ef)ma(hi)rí(ikjjs)a(ji) (,) a(g) por(ighsjsskjjs)ta,(iioj) (`) quæ(h) ré(g)spi(g)cit(ge/gvFEfvEDed) ad(fh~) O(ixhv/f!goh)ri(hiGFghg)én(egffs)tem,(fe) (:) et(ef) vé(g)ni(f)ens(gffs) in(fd~) Béth(fv/egffs)l{ee}m(ed) (,) ám(h)bu(j)lans(hhog) su(h)per(j) a(jh!iwj)quas(kjjvHGjvHGhih) (,) red(gf)emp(g)ti(h!iwj)ó(jvjvIG)nis(jk) Ju(ixjh/hwihi)dæ ;(hhog) †(:) Tunc(fg!hvhggoe~) sal(gffd~)vus(f) e(efEDe)rit(d/efe/fv) (,) om(d)nis(e) ho(ixg!hoi)mo;(hg/hih) (;) qui(g)a(g) ec(iyi/jvjvjv/HG/ig/hi)ce(h) (,) vé(h/jvIGhv//ixfg!hv/ig/hg)ni(egffs)et.(fe) (::)
+(c4) E(ed|cllscm3)gre(g|vi)di(hi|pe)é(ih|cl-)tur(hiHG|pe-1su2) Dó(g!hwihi/jv|ql!po-1ppt1vihmlsal3)mi(i|vi)nus(i|vi) *() de(f#ggfg|/////ta-lse2po) Sa(ef|peShe)ma(hi|peS)rí(ikjjs|//tohisthk)a(ji|cl-) (,) a(g|talsi6) por(ighsjsskjjs|////cltsMpohj)ta,(iioj|sa) (`) quæ(h|vi) ré(g|ta)spi(g|ta)cit(ge/gvFEfvEDed|cllsc2ciSci-cl-) ad(fh~|ta>) O(ixhv/f!goh|////vi-sahg)ri(hiGFghg|////pesu2tohh)én(egffs|//tosthh)tem,(fe|cl-) (:) et(ef|``peSlse4) vé(g|vi)ni(f|ta)ens(gffs|po) in(fd~|vi>) Béth(fv/egffs|vi-trhj)l{ee}m(ed|cl-) (,) ám(h|vi)bu(j|vihh)lans(hhog|pr) su(h|vi)per(j|vi) a(jh!iwj|cl-`qlhg)quas(kjjvHGjvHGhih|////cl-hhvi-hhsut2vi-hhsut2toShj) (,) red(gf|cllsc3)emp(g|vihe)ti(h!iwj|viqlhj)ó(jvjvIG|bv-su2)nis(jk|peShi) Ju(ixjh/hwihi|//////cl-`qi!po)dæ;(hhog|pr) †(:) Tunc(fg!hvhggoe~|vi-pp2clhkorhm) sal(gffd~|clsthg)vus(f|vi) e(efEDe|pe-1su2vi)rit(d/efe/fv|ta-toS2hhvi-hh) (,) om(d|ta)nis(e|vi) ho(ixg!hoi|////saM1)mo;(hg/hih|cllsc2tohg) (;) qui(g|ta)a(g|ta) ec(iyi/jvjvjv/HG/ig/hi|////vi-bv-hgvi-hhsuu2cl-hhpeShi)ce(h|ta) (,) vé(h/jvIGhv|////ta-hgcihglsc3vi-hg|ixfg!hv/ig/hg|////vi-hhpp2clShlcl-hm)ni(egffs|//tosthh)et.(fe|cl-) (::)
 
-<sp>V/</sp> Et(i) præ(i)pa(i)rá(ikjjs)bi(h!iwji)tur(hhog) in(i) mi(i)se(i)ri(i)cór(i!jo)di(h)a(h) só(hg)li(h)um(j) e(ikjjs)jus,(ji) (;) et(ig) se(hi)dé(i)bit(i) su(i)per(i) il(i!jo)lud(i) in(ikjjvIH/iwji) ve(hg)ri(gh!iwj)tá(jiioh/ivHGh)te.(hg) (::)
-†() Tunc.(fg!hvhggoe~) (::)
-
-<sp>V/</sp> Gló(ikjjs)ri(h!iwji)a(hhg) Pa(hg)tri,(h) et(j) Fí(i)li(ikjjs)o,(ji) (;) et(i) Spi(i)rí(ikjjvIH/iwji)tu(hg)i(gh!iwj) Sanc(jiioh/ivHGh)to.(hg) (::) 
-†() Tunc.(fg!hvhggoe~) (::)
+<sp>V/</sp> Et(i|vi) præ(i|vi)pa(i|vi)rá(ikjjs|//tohhsthj)bi(h!iwji|ql!clppt1)tur(hhog|pr) in(i|vi) mi(i|vi)se(i|vi)ri(i|vi)cór(i!jo|vshe)di(h|ta)a(h|ta) só(hg|cllsc3)li(h|vi)um(j|vihh) e(ikjjs|//tohhsthj)jus,(ji|cl-) (;) et(ig|cllsc3) se(hi|pe)dé(i|ta)bit(i|ta) su(i|ta)per(i|ta) il(i!jo|vshe)lud(i|ta) in(ikjjvIH/iwji|////toShivi-hksut2qihk!clhk) ve(hg|cllsc3)ri(gh!iwj|``qlhhppt2)tá(jiioh/ivHGh|///cl!pivi-hgsu1sut1vihg)te.(hg|cl-) (::)
+†() Tunc.(fg!hvhggoe~|vi-pp2clhkorhm) (::)
