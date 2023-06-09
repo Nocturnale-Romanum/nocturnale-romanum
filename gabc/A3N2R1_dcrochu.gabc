@@ -2,6 +2,7 @@ name:Aegypte noli flere V Ecce veniet Dnus exercituum;
 office-part:re;
 mode:3;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Aegypte noli flere;
@@ -9,9 +10,9 @@ mode: 3;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: iii;
+nabc-lines: 1;
 %%
-(c4) Æ(f)gýp(fg)te(d) *() no(exd!eo)li(d) fle(df!ghhgh)re,(eyhe) (,) qui(e)a(fsss) Do(fd)mi(g)ná(gh!i!jo)tor(i) tu(i!jo)us(i) (,) vé(ijok)ni(j)et(iioh) ti(jh!iwjIHGh)bi,(hg) (;) an(ixhi~)te(h) cu(ixhi~)jus(h) con(hg~)spéc(ixh/igh)tum(e) (,) mo(e)ve(e)bún(ef~)tur(e) a(EFgf)býs(e!fo)si(d) †(;) Li(e)be(c)rá(ded/e!fo)re(e) pó(f)pu(e!fo)lum(d) suum(dgf!gwhg/hhog) (,) de(e) ma(f)nu(d!ewfEC) pot(d!ewf)én(f<)ti(egFE)um.(e) (::)
+(c4) Æ(f|vi)gýp(fg|pe)te(d|ta-) *() no(exd!eo|////vshe)li(d|ta) fle(df!ghhgh|pe-hhpp2lss2pohj)re,(eyhe|////cl-) (,) qui(e|ta)a(fsss|ts) Do(fd|clhe)mi(g|vi)ná(gh!i!jo|vshgpp2lsc2)tor(i|ta) tu(i!jo|vshe)us(i|ta) (,) vé(i!jok|``salsc4)ni(j|vi)et(iioh|prlst3) ti(jh!iwjIHGh|cl-qi!vssu2vi)bi,(hg|cl-) (;) an(ixhi~|////ta>)te(h|ta) cu(ixhi~|////ta>)jus(h|ta) con(hg~|vi>)spéc(ixh/igh|////trM)tum(e|ta) (,) mo(e|ta)ve(e|ta)bún(ef~|ta>)tur(e|ta) a(e!fgf|clhhpp2lsc3)býs(e!fo|vslsc3)si(d|ta) †(;) Li(e|``vilss2)be(c|ta)rá(ded/e!fo|//tovs)re(e|ta) pó(f|vi-)pu(e!fo|vslsc3)lum(d|ta) suum(dgf!gwhg/hhog|//toSqlhj!clhjprhk) (,) de(e|ta) ma(f|vi)nu(d!ewfEC|ql-ppt1su2) pot(d!ewf|qlppt1)én(f<|ta>)ti(egFE|pe-1su2)um.(e|ta) (::)
 
-<sp>V/</sp> Ec(ikjjs)ce(h!iwji/hhog) vé(i!jo)ni(h)et(h) Dó(hi)mi(h)nus(hg) ex(h)er(j)cí(i)tu(ikjjs)um,(ji) (;) De(ig)us(hi) tu(i!jo)us(i) cum(i) pot(i)e(ikjjvIH/iwji)stá(hg)te(gh!iwj) ma(jiioh/ivHGh)gna.(hg) (::)
-†() Li(e)be(c)rá(ded/e!fo)re(e) pó(f)pu(e!fo)lum(d) suum(dgf!gwhg/hhog) (,) de(e) ma(f)nu(d!ewfEC) pot(d!ewf)én(f<)ti(egFE)um.(e) (::)
-
+<sp>V/</sp> Ec(ikjjs|//tohhsthj)ce(h!iwji/hhog|ql!cl-ppt1``prhi) vé(i!jo|vs)ni(h|ta)et(h|ta) Dó(hi|pe)mi(h|ta)nus(hg|cllsc3) ex(h|vi)er(j|vi)cí(i|ta)tu(ikjjs|//tohhsthj)um,(ji|cl-) (;) De(ig|cllsc3)us(hi|pe) tu(i!jo|vs)us(i|ta) cum(i|ta) pot(i|ta)e(ikjjvIH/iwji|toShhvi-hjsut2qlhk!clhk)stá(hg|cl)te(gh!iwj|``qlhhppt2) ma(jiioh/ivHGh|//cl!pici-vi)gna.(hg|cl-) (::)
+†() Li(e|``vilss2)be(c|ta)rá(ded/e!fo|//tovs)re.(e|ta) (::)
