@@ -2,6 +2,7 @@ name:Prope est ut veniat V Revertere;
 office-part:re;
 mode:3;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Prope est ut veniat;
@@ -9,8 +10,9 @@ mode: 3;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: iii;
+nabc-lines: 1;
 %%
-(c4) Pro(gh!i!jo)pe(i) est(i) *() ut(i) vé(j)ni(ih)at(h) tem(hggof~)pus(fg) e(gh>)jus,(e) (,) et(e) di(e)es(g) e(fg>)jus(e) non(e) e(e)lon(fssfd~)ga(f)bún(fg~)tur,(eeof) †(:) Mi(d)se(e)re(gh)bi(gihi/jv)tur(i) Dó(j)mi(ij)nus(hjghg) Ja(fg)cob(gv/fssded) (,) et(dc) Is(f)ra(gh)ël(ixh/ifg) sal(g)vá(gf/gffs)bi(fv/df!gvFEf)tur.(fe) (::)
+(c4) Pro(gh!i!jo|vshhpp2lsc3)pe(i|ta) est(i|ta) *() ut(i|ta) vé(j|vi)ni(ih|cllsc3)at(h|ta) tem(hggof~|clor>)pus(fg|pe) e(gh>|pe>1)jus,(e|ta) (,) et(e|ta) di(e|ta)es(g|vi) e(fg>|pe>1)jus(e|ta) non(e|ta) e(e|ta)lon(fssfd~|//ts>)ga(f|vi)bún(fg~|ta>)tur,(eeof|sa) †(:) Mi(d|ta)se(e|vi)re(gh|peS)bi(gihi/jv|//tr-3vihj)tur(i|ta) Dó(j|vi)mi(ij|////pe)nus(hjghg|////to!cllsm3) Ja(fg|pe)cob(gv/fssded|vi-/ds-hitohi) (,) et(dc|cllsc3) Is(f|vi)ra(gh|//pe)ël(ixh/ifg|////trM) sal(g|vi)vá(gf/gffs|clpo)bi(fv/df!gvFEf|vi-//ci-hkpp2vihk)tur.(fe|cl-) (::)
 
-<sp>V/</sp> Re(i)vér(ikjjs)te(h!iwji)re,(hhO1!g) vir(h)go(j) Is(i)ra(ikjJs)ël,(ji) (;) re(ig)vér(hi~)te(i)re(i) ad(i) ci(i)vi(ikjjvIH/iwji)tá(hg)tes(gh!iwj) tu(jiioh/ivHGh)as.(hg) (::)
-†() Mi(d)se(e)re(gh)bi(gihi/jv)tur(i) Dó(j)mi(ij)nus(hjghg) Ja(fg)cob(gv/fssded) (,) et(dc) Is(f)ra(gh)ël(ixh/ifg) sal(g)vá(gf/gffs)bi(fv/df!gvFEf)tur.(fe) (::)
+<sp>V/</sp> Re(i|vi)vér(ikjjs|tohhsthj)te(h!iwji|ql!clppt1)re,(hho!g|pr) vir(h|vi)go(j|vi) Is(i|ta)ra(ikjjs|tohhsthj)ël,(ji|cl-) (;) re(ig|cllsc3)vér(hi~|ta>)te(i|ta)re(i|ta) ad(i|ta) ci(i|ta)vi(ikjjvIH/iwji|toShhvi-hjsut2qlhk!clhk)tá(hg|cllsc3)tes(gh!iwj|``qlhhppt2) tu(jiioh/ivHGh|//cl!pilsc2ci-vi)as.(hg|cl-) (::)
+†() Mi(d|ta)se(e|vi)re(gh|peS)bi.(gihi/jv|tr-3vihj)tur(i|ta) (::)
