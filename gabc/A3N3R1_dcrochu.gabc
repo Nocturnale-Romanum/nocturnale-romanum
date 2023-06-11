@@ -2,6 +2,7 @@ name:Veni Domine V Excita;
 office-part:re;
 mode:5;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Veni Domine et noli;
@@ -9,8 +10,9 @@ mode: 5;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: v;
+nabc-lines: 1;
 %%
-(cb3) Ve(h)ni,(f) Dó(hi)mi(h)ne,(fgf) *() et(fg) no(h)li(g) tar(f)dá(d/ege/fv)re; (ed) (;) re(f)lá(de!f!go)xa(f) fa(f)cí(g)no(eg!hvGFg)ra(gf) ple(hg)bis(g!hoi) tu(hiHGFg)æ;(gf) †(;) Et(fg) ré(h)vo(g)ca(gf) dis(e)pér(e!fwg/hvGF/gwhgh)sos(hg) (,) in(g) ter(g)ram(hgge!fwgF!Es>) su(de!fvEDe)am.(ed) (::c3)(gy)
+(cb3) Ve(h|vi)ni,(f|ta) Dó(hi|pelsal3)mi(h|vi)ne,(fgf|//toSlsi7) *() et(fg|peS) no(h|vihh)li(g|vihg) tar(f|vi)dá(d/ege/fv|ta-/toS2hgvi-hh)re;(ed|cl-) (;) re(f|vi)lá(de!f!go|vshgpp2lsc3)xa(f|ta) fa(f|ta)cí(g|vi)no(eg!hvGFg|//ci-hhpp2vihh)ra(gf|cl-) ple(hg|cl-)bis(g!hoi|sa) tu(hiHGFg|toSsu2vi)æ;(gf|cl-) †(;) Et(fg|``peSlse7) ré(h|vi)vo(g|ta)ca(gf|cllsc3) dis(e|ta)pér(e!fwg/hvGF/gwhgh|ql-ppt1vi-hjsut2qlhj!pohj)sos(hg|cl-) (,) in(g|ta) ter(g|ta)ram(hgge!fwgF!Es>|pflst2qi-hgsu1sux1) su(de!fvEDe|//ci-hhpp2vihh)am.(ed|cl-) (::c3)(gy)
 
-<sp>V/</sp> Ex(h)ci(h)ta,(hi/hssfgf) Dó(hi)mi(h)ne,(h) pot(h)én(hi)ti(h)am(h) tu(hf)am,(fi) et(gh) ve(hg!hwihi)ni,(ih) (;) ut(h) sal(h)vos(hg/hg) fá(gf)ci(hi)as(gxhg!hwiHGFg) nos.(gf) (::cb3)
-†() Et(fg) ré(h)vo(g)ca.(gf) (::)
+<sp>V/</sp> Ex(h|vi)ci(h|vi)ta,(hi/hssfgf|pe-ds-hjtohj) Dó(hi|pe)mi(h|ta)ne,(h|ta) pot(h|ta)én(hi|pe)ti(h|ta)am(h|ta) tu(hf|cl)am,(fi|pe) et(gh|pe) ve(hg!hwihi|cl-`qihg!pohg)ni,(ih|cl-) (;) ut(h|vi) sal(h|vi)vos(hg/hg|pflsc2) fá(gf|cl)ci(hi|peS)as(gxhg!hwiHGFg|////cl-`qlhg!vshgsu2vi-hh) nos.(gf|cl-) (::cb3)
+†() Et(fg|``peSlse7) ré(h|vi)vo(g|ta)ca.(gf|cllsc3) (::)
