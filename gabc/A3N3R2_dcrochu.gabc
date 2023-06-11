@@ -2,6 +2,7 @@ name:Ecce radix Jesse V Dabit ei;
 office-part:re;
 mode:8;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Ecce radix Jesse;
@@ -9,8 +10,9 @@ mode: 8;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: viii;
+nabc-lines: 1;
 %%
-(c3) Ec(ef)ce(e) ra(ef)dix(e) Jes(e!foh/GHihi/jv)se(i) *(,) a(i)scén(ij!kwlKJI~)det(ji) in(i>) sa(ihhg)lú(hf!gwhGFEf)tem(fe) po(ef)pu(fd!ewfEDe)ló(ef!gvFEf)rum,(fe) (:) ip(hg)sum(giHGhvGFEfe) gen(f)tes(hih) de(gxfgFD)pre(d!eof)ca(ge!fwgf)bún(efED~)tur;(ed) †(;) Et(df) e(hhi)rit(h) no(h)men(h) e(h)jus(ihhf/heeod) glo(e)ri(EFhvFDe)ó(ef!gvFEf)sum.(fe) (::)
+(c3) Ec(ef|pe)ce(e|ta) ra(ef|pe)dix(e|ta) Jes(e!foh/g!hihi/jv|sa-po-1hjpp2vihp)se(i|ta) *(,) a(i|``talse4)scén(ij!kwlK~J~I~|``ql-hmppt2su1sux1lss3)det(ji|cl-) in(i>|``vi>lse4) sa(ihhg|clScl-)lú(hf!gwhGFEf|cl-`qihg!vshgsu2vihg)tem(fe|cl-) po(ef|peS)pu(fd!ewfEDe|cl-`ql-su2```vi)ló(ef!gvFEf|//ci-hhpp2vihh)rum,(fe|cl-) (:) ip(hg|`cllsal2lsc3)sum(giHGhvGFEfe|//toS2sut1vi-suu1su2cl-hh) gen(f|vi)tes(hih|toS3lsl3) de(gxfgFD|pe-1su1suw1lsi8)pre(d!eof|sa)ca(ge!fwgf|cl-`qlhg!clhg)bún(efE~D~|to>2)tur;(ed|cl-) †(;) Et(df|pe) e(hhi|scM1)rit(h|ta) no(h|ta)men(h|ta) e(h|ta)jus(ihhf/heeod|pflst2clhgpihh) glo(e|vi)ri(ef!hvFDe|//cihhpp2vihh)ó(ef!gvFEf|//ci-hhpp2vihh)sum.(fe|cl-) (::)
 
-<sp>V/</sp> Da(hg)bit(hih/ghg/ffoe) e(fg)i(g) Dó(g)mi(g)nus(gf) De(hi)us(h) (,) se(h)dem(h) Da(hg)vid,(gf) pa(gh)tris(fg) e(e!fwgf)jus,(fe) (;) et(e) re(de)gná(ef)bit(e) in(e) do(e)mo(e) Ja(e)cob(gxfgFE/fgf) in(efd) æ(ef)tér(gyf!gwhg/hiHGF)num.(fgFEfe) (::)
+<sp>V/</sp> Da(hg|cllsc3)bit(hih/ghg/ffoe|to/tohhprhh) e(fg|pe)i(g|vi) Dó(g|vi)mi(g|vi)nus(gf|cl) De(hi|``pelss4)us(h|ta) (,) se(h|ta)dem(h|ta) Da(hg|cllsc3)vid,(gf|cllsc3) pa(gh|pe)tris(fg|pe) e(e!fwgf|ql!cl-ppt1)jus,(fe|cl-) (;) et(e|vi) re(de|pe)gná(ef|pe)bit(e|ta) in(e|ta) do(e|ta)mo(e|ta) Ja(e|ta)cob(gxfgFE/fgf|////pe-su2tohg) in(efd|//toM1) æ(ef|peS)tér(gyf!gwhg/hiHGF|////ql!clppt1toS2hmsu2)num.(fgFEfe|pe-1su2cl-) (::)
 †() Et(df) e(hhi)rit.(h) (::)
