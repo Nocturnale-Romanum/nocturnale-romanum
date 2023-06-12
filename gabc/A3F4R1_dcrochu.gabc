@@ -2,6 +2,7 @@ name:Clama in fortitudine V Super montem;
 office-part:re;
 mode:6;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Clama;
@@ -9,8 +10,9 @@ mode: 6;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: vi;
+nabc-lines: 1;
 %%
-(cb4) Cla(fig/hv)ma(gf) *() in(fc~) for(fg~)ti(f)tú(gh/io)di(h)ne(h) (,) qui(h) an(h)nún(i)ti(h)as(g) pa(f!gwhgh)cem(gf) in(ffoe~) Je(ghgh)rú(hg/hg)sa(fg!hvGFg)lem;(gf) †(:) Dic(fg!hih) ci(h)vi(h)tá(i)ti(h)bus(g) Ju(f!gwhgh)dæ(gf) (,) et(f) ha(f)bi(f)ta(f)tó(g)ri(fe)bus(f!goh) Si(ig!hwiHG)on:(ghGFgf) (;) Ec(h)ce(fgf) De(g)us(fg) no(f)ster(fvfvgvDCded) (,) quem(f) ex(f)spec(c)ta(f)bá(ffoe)mus(g) ad(g!h/jvHG/hwiHG)vé(f)ni(fg!hvGFg)et.(gf) (::)
+(cb4) Cla(fig/hv|toS2vi-)ma(gf|cl-) *() in(fc~|vi>lsi6) for(fg~|ta>)ti(f|ta)tú(gh/io|pe-orhi)di(h|ta)ne(h|ta) (,) qui(h|ta) an(h|ta)nún(i|vi)ti(h|cl)as(g|vi) pa(f!gwhgh|ql!poppt1)cem(gf|cl-) in(ffoe~|vs>lsal3) Je(ghgh|//tr)rú(hg/hg|//pfS)sa(fg!hvGFg|//ci-hhpp2vihh)lem;(gf|cl-) †(:) Dic(fg!hih|tohhpp2) ci(h|vi)vi(h|vihg)tá(i|vihh)ti(h|vihg)bus(g|vi) Ju(f!gwhgh|qi!poppt1)dæ(gf|cl-) (,) et(f|``talse4) ha(f|ta)bi(f|ta)ta(f|ta)tó(g|vi-)ri(fe|cllsc3)bus(f!goh|sa) Si(ig!hwiHG|cl-qi-hgsu2)on:(ghGFgf|pe-1su2cl-) (;) Ec(h|vihg)ce(fgf|//to) De(g|vi)us(fg|pe) no(f|vi)ster(fvfvgvDCded|bv-vi-hisuu2toShj) (,) quem(f|vi) ex(f|vi-)spec(c|ta)ta(f|vi)bá(ffoe|pr)mus(g|vi) ad(gh!jvHG/hwiHG|vi-hhppt2sut2qi-hisu2)vé(f|ta)ni(fg!hvGFg|//ci-hhpp2vihh)et.(gf|cl-) (::)
 
-<sp>V/</sp> Su(f)per(f) mon(f!goh)tem(ih/ivHGhg) ex(h)cél(h!iwj/k>)sum(j) a(jh)scén(ij>)de(ih) qui(h) e(h)van(h)gé(h)li(hg)zas(i) Si(gh)on,(f!gwhg) ex(gf)ál(f)ta(df~) ion(f) for(f)ti(f)tú(f)di(f)ne(ghf) vo(gf)cem(f!goh) tu(ig!hwiHG)am.(ghGFgf) (::)
-*() Dic.(fg!hih) (::)
+<sp>V/</sp> Su(f|ta)per(f|ta) mon(f!goh|sa)tem(ih/ivHGhg|cl-ci-cl-) ex(h|vi)cél(h!iwj/k>|``ql-ppt1vi>hi)sum(j|ta) a(jh|cl)scén(ij>|pe>)de(ih|cl) tu(h|ta) (,) qui(h|ta) e(h|ta)van(h|ta)gé(hg|cl-)li(i|vi)zas(gh|pe) Si(f!gwhg|ql!clppt1)on,(gf|cl-) (;) e(f|vi-)xál(df~|ta>)ta(f|vi) in(f|vi) for(f|vi)ti(f|vi)tú(f|vi)di(f|vi)ne(ghf|//to) vo(gf|cllsc3)cem(f!goh|sa) tu(ig!hwiHG|cl-qi-hgsu2)am.(ghGFgf|pe-1su2cl-) (::)
+*() Dic.(fg!hih|tohhpp2) (::)
