@@ -2,6 +2,7 @@ name:Modo veniet V Orietur in diebus V Gloria;
 office-part:re;
 mode:6;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Modo veniet;
@@ -9,11 +10,12 @@ mode: 6;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: vi;
+nabc-lines: 1;
 %%
-(c2) Mo(g)do(exe) vé(f)ni(e)et(evev/fgf) *() Do(ec)mi(f)ná(f!goh)tor(i) Dó(hhog)mi(iggof/gv)nus,(gf) †(;) Et(f<) no(h)men(f) e(g>)jus(fvfvgvDCded) (,) Em(f)má(c)nu(f)el(ffoe) vo(g!hjvHG/hwiHG)cá(f)bi(fg!hvGFg)tur.(gf) (::)
+(c2) Mo(g|vi)do(exe|////ta) vé(f|vihe)ni(e|ta)et(evev/fgf|bv-toShi) *() Do(ec|cllsc3lsi8)mi(f|vi)ná(f!goh|sa)tor(i|vi) Dó(hhog|pr)mi(iggof/gv|cl!pivi)nus,(gf|cl-) †(;) Et(f<|ta>he) no(h|vi)men(f|ta) e(g>|vi>he)jus(fvfvgvDCded|bv-vi-hisuu2toShj) (,) Em(f|vi-)má(c|ta)nu(f|vi)el(ffoe|pr) vo(gh!jvHG/hwiHG|`vi-hhppt2suu2lsl4qi-hisu2)cá(f|ta)bi(fg!hvGFg|//ci-hhpp2vihh)tur.(gf|cl-) (::)
 
-<sp>V/</sp> Ec(f!goh)ce(ih/ivHGhg) Do(h!iwj/kv)mi(jh)ná(i)tor(gh>) Dó(f)mi(f!gwhg)nus(gf) (;) cum(f) vir(f)tú(ghf)te(gf) vé(f!goh)ni(ig!hwiHG)et.(ghGFgf) (::)
+<sp>V/</sp> Ec(f!goh|sa)ce(ih/ivHGhg|cl-ci-cl-) Do(h!iwj/kv|ql-ppt1vihl)mi(jh|cllsc3)ná(i|vi)tor(gh>|pe>) Dó(f|ta)mi(f!gwhg|ql!clppt1)nus(gf|cl-) (;) cum(f|ta) vir(f|ta)tú(ghf|//to)te(gf|cl) vé(f!goh|sa)ni(ig!hwiHG|cl-ql-hgsu2)et.(ghGFgf|pe-1su2cl-) (::)
 *() Et(f<) no(h)men.(f) (::)
 
-<sp>V/</sp> Gló(f!goh)ri(h)a(ih/ivHGhg) Pa(h!iwj/kv)tri,(j) et(jh~) Fí(ij)li(ih)o,(h) (,) et(h) Spi(h)rí(hg)tu(i)i(gh) Sanc(f!gwhg)to.(gf) (::) 
+<sp>V/</sp> Gló(f!goh|sa)ri(h|vi)a(ih/ivHGhg|cl-ci-cl-) Pa(h!iwj/kv|ql-ppt1vihl)tri,(j|ta) et(jh~|vi>) Fí(ij|pe)li(ih|cllsc3)o,(h|ta) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(i|vi)i(gh|pe) Sanc(f!gwhg|ql!clppt1)to.(gf|cl-) (::) 
 *() Et(f<) no(h)men.(f) (::)
