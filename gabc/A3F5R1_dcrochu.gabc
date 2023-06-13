@@ -2,15 +2,17 @@ name:Egredietur Dominus et proeliabitur V Et elevabitur;
 office-part:re;
 mode:4;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
-name: Egredietur Dominus et praeliabitur;
+name: Egredietur Dominus et proeliabitur;
 mode: 3;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: iii;
+nabc-lines: 1;
 %%
-(c4) E(ed)gre(g)di(hi)é(ih)tur(hiHG) *() Dó(g!hwihi/jv)mi(i)nus(i) (,) et(f#ggfg) prœ(e)li(f#f)á(hi)bi(ikjjs)tur(ji) (,) con(g)tra(g) gen(ighsjsskjjs)tes,(ji) †(;) Et(g) sta(i)bunt(j>) pe(hg)des(hi) e(hgh>)jus(ef//egFEfvEDed) (;) su(d)pra(e) mon(ixg!hig~)tes(hg/hih) o(fe)li(d)vá(ef)rum(ixg!hwihhog) (,) ad(fh~) O(hv/f!goh)ri(ixhiGFghg)én(egffs)tem.(fe) (::)
+(c4) E(ed|``cllsi4lsc3)gre(g|vi)di(hi|pe)é(ih|cl-)tur(hiHG|pe-1su2) *() Dó(g!hwihi/jv|ql!po-1ppt1vihl)mi(i|vi)nus(i|vi) (,) et(f#ggfg|////ta-/po) prœ(e|ta)li(f#f|vi)á(hi|peS)bi(ikjjs|//tohhsthj)tur(ji|cl-) (,) con(g|ta)tra(g|ta) gen(ighsjsskjjs|//cltsMlsc2clhksthl)tes,(ji|cl-) †(;) Et(g|ta) sta(i|vi)bunt(j>|vi>lsal3) pe(hg|cllsc3)des(hi|pe) e(hgh>|//po>lsi3)jus(ef//egFEfvEDed|pe-1lsi7toS2hhsut1ci-hhcl-hh) (;) su(d|ta)pra(e|vi) mon(ixg!hig~|////vi>ppt2lsl4)tes(hg/hih|//cltohg) o(fe|clhe)li(d|ta)vá(ef|peS)rum(ixg!hwihhog|////ql!clppt1lst3`````pihk) (,) ad(fh~|ta>) O(hv/f!goh|vi-sahg)ri(ixhiGFghg|//////pesu2tohh)én(egffs|//tosthh)tem.(fe|cl-) (::)
 
-<sp>V/</sp> Et(i) e(i)le(i)vá(ikjjs)bi(h!iwji)tur(hhog) su(h)pra(ig) om(h)nes(j) col(ikjjs)les,(ji) (;) et(ig) flu(hi)ent(i) ad(i) e(i)um(ikjjvIH/iwji) om(hg~)nes(gh!iwj) gen(jiioh/ivHGh)tes.(hg) (::)
-†() Et(g) sta(i)bunt.(j>) (::)
+<sp>V/</sp> Et(i|vi) e(i|vi)le(i|vi)vá(ikjjs|//tohhsthj)bi(h!iwji|ql!clppt1)tur(hhog|pr) su(h|vi)pra(ig|cllsc3) om(h|vi)nes(j|vihh) col(ikjjs|//tohhsthj)les,(ji|cl-hh) (;) et(ig|cllsc3) flu(hi|pe)ent(i|ta) ad(i|ta) e(i|ta)um(ikjjvIH/iwji|toShhci-hiqihj!clhj) om(hg~|vi>)nes(gh!iwj|qlhhppt2) gen(jiioh/ivHGh|////cl!pici-vi)tes.(hg|cl-) (::)
+†() Et(g|ta) sta(i|vi)bunt.(j>|vi>lsal3) (::)
