@@ -2,9 +2,11 @@ name:Christus natus est;
 office-part:in;
 mode:4g;
 submitter:marteo;
+nabc-lines:1;
 %%
-(cb4) Chri(de_@fw_@gh_)stus(g) 
-na(hg__@hw_@ij_)tus(h) est(gh) 
-nó(hv/hgh)bis,(ffe/fog.) <sp>*</sp>(;) 
-Ve(d@e@fog)ní(g)te,(gh/hg/he__) ad(df@gwh)o(g)ré(fg!hv/hgh)mus.(e.) (::)  
+(cb4) Chri(de_@fw_@gh_|ql-hhppt2vihl)stus(g|ta) 
+na(hg__@hw_@ij_|////cl-`ql-vihk)tus(h|vi) est(gh|ta>) 
+nó(hv/hgh|vi-pohi)bis,(ffe/fog.|ta-clpqhg) <sp>*</sp>(;) 
+Ve(de@fog|sapp1)ní(g|vi)te,(gh/hg/he__|pe-pf-hi) a(d_f@gwh|qlhhppt2)do(g|vi)ré(fg!hv/hgh|vi-pp2pohi)mus.(e.|ta) (::)  
 <nlba>Ve(dh)ní(hi)te. <c><i>pag. <v>\pageref{M-ORIP4g}</v>.</i></c></nlba>(h ::)
+
