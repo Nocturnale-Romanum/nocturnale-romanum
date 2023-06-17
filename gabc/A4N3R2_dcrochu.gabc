@@ -3,14 +3,11 @@ office-part:re;
 mode:8;
 submitter:dcrochu;
 %%
-initial-style: 1;
-name: Non discedimus a te;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-%%
-(c4) Non(d) di(d)scé(f/gh)di(g)mus(gh) a(h) te,(ixhg/higgf) *(;) vi(gh)vi(g)fi(g)cá(gh)bis(g) nos,(gh!iwjIH/iwjIH) Dó(g)mi(gh!ivHGh)ne,(g!h!ih) (;) et(fh) no(jkj)men(jok) tuum(ki/jkh/iv/hhpg) in(h/jvIG)vo(jvjv)cá(kvJIjvIHG)bi(hg/hvGFg)mus;(gf) †(:) Os(f)tén(gh)de(h) no(h)bis(g) fá(g)ci(e)em(g) tu(fef)am,(dec/d!ewfe/fvED) (;)et(g) sal(g/hvGFgh>)vi(g) é(gh!iwjIH/iwjIH)ri(gh!ivHGh)mus.(hg) (::)
+(c4) Non(d) di(d)scé(f/gh)di(g)mus(gh) a(h) te,(ixhg/higgf) <sp>*</sp>(;) vi(gh)vi(g)fi(g)cá(gh)bis(g) nos,(gh!iwjIH/iwjIH) Dó(g)mi(gh!ivHGh)ne,(g!h!ih) (;) 
+et(fh) no(jkj)men(jok) tuum(ki/jkh/iv/hhog) in(h/jvIG)vo(jvjv)cá(kvJIjvIHG)bi(hg/hvGFg)mus;(gf) (:) 
+<sp>+</sp> Os(f)tén(gh)de(h) no(h)bis(g) fá(g)ci(e)em(g) tu(fef)am,(dec/d!ewfe/fvED) (;) 
+et(g) sal(g/hvGFgh>)vi(g) é(gh!iwjIH/iwjIH)ri(gh!ivHGh)mus.(hg) (::)
 
-<sp>V/</sp> Me(j)mén(ji)to(jkj/iji/hhog) no(hi)stri,(ih) Dó(jk)mi(j)ne,(j) (,) in(j) be(j)ne(j)plá(jk)ci(j)to(ji) pó(ih)pu(ij)li(hi) tu(g!hwih)i:(hg) (;) ví(g)si(fg)ta(g) nos(g) in(g) sa(g)lu(ixhiHG/hih)tá(ghf)ri(gh) tu(iyh!iwji/jkJIH)o.(hiHGhg) (::)
-†() Os(f)tén(gh)de.(h) (::)
+<sp>V/</sp> Me(j)mén(ji)to(jkj/iji/hhog) no(hi)stri,(ih) Dó(jk)mi(j)ne,(j) (,) in(j) be(j)ne(j)plá(jk)ci(j)to(ji) pó(ih)pu(ij)li(hi) tu(g!hwih)i:(hg) (;) 
+ví(g)si(fg)ta(g) nos(g) in(g) sa(g)lu(ixhiHG/hih)tá(ghf)ri(gh) tu(iyh!iwji/jkJIH)o.(hiHGhg) (::)
+<sp>+</sp> Os(f)tén(gh)de.(h) (::)
