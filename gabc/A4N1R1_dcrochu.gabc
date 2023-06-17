@@ -2,6 +2,7 @@ name:Canite tuba V Annuntiate;
 office-part:re;
 mode:1;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Canite tuba;
@@ -9,8 +10,9 @@ mode: 1;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: i;
+nabc-lines: 1;
 %%
-(cb4) Cá(e)ni(c)te(d) tu(dh/iv)ba(h) *(`) in(hggof~) Si(ghgh/iv)on,(hggo) (,) vo(f!gwhg)cá(h)te(g) Gen(fd!ewfef)tes ;(ed) (;) an(d)nun(fgf)ti(fd)á(f)te(gh) pó(hg/hfg)pu(fe!fwgfg)lis(gf) †(;) Et(h) di(hgh)ci(f)te:(d) (:) Ec(f)ce(f) De(f)us(dfddc) Sal(dc~)vá(f)tor(gh>) no(hvGFE/fwgfg)ster(f) ad(fssghffoe)vé(d)ni(de!fvEDe)et.(ed) (::)
+(cb4) Cá(e|vilsam2)ni(c|ta)te(d|vi) tu(dh/iv|scG-1)ba(h|ta) *(`) in(hggof~|cllsc2or>) Si(ghgh/iv|//tr-3vihj)on,(hggo|clor>) (,) vo(f!gwhg|ql!clppt1lsc3)cá(h|vihh)te(g|vi) Gen(fd!ewfef|cl-`qlhg!pohg)tes;(ed|cl-) (;) an(d|ta)nun(fgf|//to)ti(fd|cl)á(f|vi)te(gh|pe) pó(hg/hfg|cllsc2pohg)pu(fe!fwgfg|cl-`qihg!pohg)lis(gf|cl-) †(;) Et(h|vilss3) di(hgh|//po)ci(f|vi)te:(d|ta) (:) Ec(f|```vilsal2lsew3)ce(f|vi) De(f|vi)us(dfddc|toS2cl-) Sal(dc~|vi>)vá(f|vi)tor(gh>|pe>) no(hvGFE/fwgfg|vi-sut3qi!po)ster(f|ta) ad(fssghffoe|ds/toS2pihglst2)vé(d|ta)ni(de!fvEDe|//ci-hhpp2vihh)et.(ed|cl-) (::)
 
-<sp>V/</sp> An(h)nun(h)ti(h)á(hg/hggo1f)te,(g) et(g) au(hf~)dí(gh)tum(gh) fá(h)ci(ixh/iio1h)te:(h) (;) lo(hf)quí(gh)mi(h)ni,(hg/hg) et(hf) cla(ixf!gwhg/hih)má(hvGFE/fwg/hv)te.(gf) (::)
-†() Et(h) di(hgh)ci(f)te.(d) (::)
+<sp>V/</sp> An(h|vi)nun(h|vi)ti(h|vi)á(h|vi)te,(hg/hggof|pflsc2`pihglst2) et(g|vi) au(hf~|vi>)dí(gh|pe)tum(gh|pe) fá(h|ta)ci(ixh/iioh|////ta-pr)te:(h|ta) (;) lo(hf|cllsc3)quí(gh|pe)mi(h|vi)ni,(hg/hg|pflsc2) et(hf|cllsc3) cla(ixf!gwhg/hih|////ql!clppt1tohm)má(hvGFE/fwg/hv|vi-su1sut2ql-vihk)te.(gf|cl-) (::)
+†() Et(h|vilss3) di(hgh|//po)ci(f|vi)te.(d|ta) (::)
