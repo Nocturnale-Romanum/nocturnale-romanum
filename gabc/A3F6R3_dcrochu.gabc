@@ -2,6 +2,7 @@ name:Germinaverunt campi eremi V Ex Sion V Gloria;
 office-part:re;
 mode:1;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Germinaverunt campi;
@@ -9,11 +10,12 @@ mode: 1;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: i;
+nabc-lines: 1;
 %%
-(c4) Ger(de>)mi(c)na(d)vé(fg)runt(gf~) *() cam(ghgh>)pi(ge) e(fg)ré(efEDe)mi(ed) (,) ger(f)men(fe) od(d)ó(f!goh)ris(fefog) Is(gffvED)ra(c!dwfEDe)ël,(ed) (;) qui(d)a(d) ec(f/gh)ce(g) De(g)us(g) no(gfg)ster(fg/ffod) (,) cum(d) vir(d)tú(fgf)te(fd) vé(f!goh)ni(hvGFE/fwgfg)et,(f!ghg) †(;) Et(d) splen(fe~)dor(fg) e(g>)jus(gffvED) cum(cd) e(de!fvEDe)o.(ed) (::)
+(c4) Ger(de>|pe>1lsi6)mi(c|ta)na(d|vi)vé(fg|`peSlse3)runt(gf~|/vi>lsal3) *() cam(ghgh>|//tr>)pi(ge|cllsc3) e(fg|peS)ré(efEDe|pe-1su2vi)mi(ed|cl-) (,) ger(f|vi)men(fe|cl) od(d|ta)ó(f!goh|vi-pqhi)ris(fefog|cllsi2/pqhg) Is(gffvED|clSci-)ra(c!dwfEDe|ql-ppt1su2vi)ël,(ed|cl-) (;) qui(d|ta)a(d|ta) ec(f/gh|scM1)ce(g|ta) De(g|vi)us(g|vi) no(gfg|//po)ster(fg/ffod|peS``pr) (,) cum(d|ta) vir(d|ta)tú(fgf|//to)te(fd|cllsc3) vé(f!goh|sa)ni(hvGFE/fwgfg|vi-suu3qihg!pohg)et,(f!ghg|cl-ppt2) †(;) Et(d|talsi8) splen(fe~|vi>)dor(fg|pe) e(g>|vi>)jus(gffvED|clSci-) cum(cd|pe) e(de!fvEDe|//ci-hhpp2vihh)o.(ed|cl-) (::)
 
-<sp>V/</sp> Ex(h) Si(h)on(hg/hggof) spé(gh)ci(g)es(g) de(hf)có(gh)ris(gh) e(ixh/iioh)jus:(h) (;) De(hf)us(gh) no(ixhi)ster(h) ma(h)ni(h)fé(hg/hg)ste(gf) vé(ixf!gwhg/hih)ni(hvGFE/fwg/hv)et.(gf) (::)
-†() Et(d) splen(fe~)dor.(fg) (::)
+<sp>V/</sp> Ex(h|vi) Si(h|vi)on(hg/hggof|pflsc2`pihhlst2) spé(gh|pe)ci(g|ta)es(g|ta) de(hf|cllsc3)có(gh|pe)ris(gh|pe) e(ixh/iioh|////ta-pr)jus:(h|ta) (;) De(hf|cllsc3)us(gh|pe) no(ixhi|////pe)ster(h|ta) ma(h|ta)ni(h|ta)fé(hg/hg|pf1lsc2)ste(gf|cl) vé(ixf!gwhg/hih|////ql!clppt1tohm)ni(hvGFE/fwg/hv|vi-su1sut2qi-vihk)et.(gf|cl-) (::)
+†() Et(d|talsi8) splen(fe~|vi>)dor.(fg|pe) (::)
 
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggof) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iioh)o,(h) (;) et(h) Spi(h)rí(hg/hg)tu(hf)i(ixf!gwhg/hih) Sanc(hvGFE/fwg/hv)to.(gf) (::) 
-†() Et(d) splen(fe~)dor.(fg) (::)
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh/iioh|////ta-pr)o,(h|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pf1lsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohmlsc3) Sanc(hvGFE/fwg/hv|vi-su1sut2ql-vihk)to.(gf|cl-) (::) 
+†() Et(d|talsi8) splen(fe~|vi>)dor.(fg|pe) (::)
