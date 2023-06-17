@@ -2,6 +2,7 @@ name:Rorate V Emitte Agnum Dne Dominatorem;
 office-part:re;
 mode:2;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Rorate caeli;
@@ -9,8 +10,9 @@ mode: 2;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: ii;
+nabc-lines: 1;
 %%
-(f3) Ro(c)rá(e/fg)te(f) *() cæ(f)li(h) dé(hgh)su(fg)per,(ffoe) (,) et(e) nu(f)bes(h) plu(hvGFEf)ant(f!gwh/ihhog>) Ju(fg!hvGFg)stum;(gf) †(;) A(h)pe(kxh!iwji/jkj)ri(ih)á(hhog)tur(hi>) ter(hig/hvGFg)ra,(gf) (,) et(e/fh~) gér(hhog~)mi(hi)net(ihhg) Sal(f>)va(e!fog)tó(hf!gwhGFg)rem.(gf) (::)
+(f3) Ro(c|ta)rá(e/fg|scM1)te(f|ta) *() cæ(f|ta)li(h|vi) dé(hgh|po)su(fg|pe)per,(ffoe|pr) (,) et(e|``talse4) nu(f|ta)bes(h|vi) plu(hvGFEf|vi-suu1su2vihh)ant(f!gwh/ihhog>|qlppt1clhjpi>hk) Ju(fg!hvGFg|//ci-hhpp2vihh)stum;(gf|cl-) †(;) A(h|vi)pe(kxh!iwji/jkj|////vi-hgqlhk!clhktohp)ri(ih|cl)á(hhog|prlst2)tur(hi>|pe>) ter(hig/hvGFg|toSci-hivihi)ra,(gf|cl-) (,) et(e/fh~|ta-ta>hh) gér(hhog~|vs>)mi(hi|pe)net(ihhg|clScl-) Sal(f>|vi>)va(e!fog|sa)tó(hf!gwhGFg|cl-`qi-hgsu2vihg)rem.(gf|vl-) (::)
 
-<sp>V/</sp> E(f)mít(ef!gwhhi)te(h) A(ij~)gnum,(i>) Dó(hi)mi(h)ne,(h) (,) Do(h)mi(h)na(hg)tó(hi)rem(gh) ter(f!gwhg)ræ,(gf) (;) de(f) pe(ef)tra(f) de(f)sér(fg~)ti(f) (,) ad(f) mon(fg~)tem(f) fí(f!gwhGFE)li(f)æ(hg/hih) Si(hvGFg)on.(ffoe) (::)
-†() A(h)pe(kxh!iwji/jkj)ri(ih)á(hhog)tur(hi>) (::)
+<sp>V/</sp> E(f|vi)mít(ef!gwhhi|qlhhppt2pehj)te(h|ta) A(ij~|ta>lsl3)gnum,(i>|vi>) Dó(hi|pe)mi(h|ta)ne,(h|ta) (,) Do(h|ta)mi(h|ta)na(hg|cl)tó(hi|pe)rem(gh|pe) ter(f!gwhg|ql!clppt1)ræ,(gf|cl-) (;) de(f|vi) pe(ef|pe)tra(f|vi) de(f|vi)sér(fg~|ta>)ti(f|ta) (,) ad(f|ta) mon(fg~|ta>)tem(f|ta) fí(f!gwhGFE|ql-ppt1su1suu2)li(f|vi)æ(hg/hih|//cltohgh) Si(hvGFg|ci-vi)on.(ffoe|pr) (::)
+†() A(h|vi)pe(kxh!iwji/jkj|////vi-hgqlhk!clhktohp)ri(ih|cl)á(hhog|prlst2)tur.(hi>|pe>) (::)
