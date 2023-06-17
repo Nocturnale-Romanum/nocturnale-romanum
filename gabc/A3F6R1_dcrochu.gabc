@@ -2,6 +2,7 @@ name:Emitte Agnum Dne, Dominatorem V Ostende;
 office-part:re;
 mode:2;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Emitte Agnum;
@@ -9,8 +10,9 @@ mode: 2;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: ii;
+nabc-lines: 1;
 %%
-(f3) E(c)mít(e/fg)te(f) *() A(f)gnum,(h) Dó(hgh)mi(fg)ne,(ffoe) (,) Do(e)mi(f)na(h)tó(hvGFEf)rem(f!gwh/ihhog>) ter(fg!hvGFg)ræ,(gf) †(;) De(h) pe(h!ioj)tra(jiiog) de(hi)sér(hig/hvGFg)ti(gf) (,) ad(e/fh~) mon(hhog~)tem(hi) fí(ihhg)li(f)æ(hf!gwhg) Si(fg!hvGFg)on.(gf) (::)
+(f3) E(c|talsc9)mít(e/fg|scM1)te(f|ta) *() A(f|ta)gnum,(h|vi) Dó(hgh|po)mi(fg|pe)ne,(ffoe|pr) (,) Do(e|``talse4)mi(f|ta)na(h|vi)tó(hvGFEf|vi-suu1su2vihh)rem(f!gwh/ihhog>|qlppt1clhklsc2pi>hl) ter(fg!hvGFg|//ci-hhpp2vihh)ræ,(gf|cl-) †(;) De(h|vi) pe(h!ioj|sa)tra(jiiog|cl!pilsc2) de(hi|pe)sér(hig/hvGFg|toSci-hgvi-hg)ti(gf|cl-) (,) ad(e/fh~|ta-ta>hh) mon(hhog~|vs>)tem(hi|pe) fí(ihhg|clScl-)li(f|ta)æ(hf!gwhg|cl-`ql!cl-) Si(fg!hvGFg|//ci-hhpp2vihh)on.(gf|cl-) (::)
 
-<sp>V/</sp> Os(f)tén(ef!gwhhi~)de(h) no(ij)bis,(i) Dó(hi)mi(h)ne,(h) (,) mi(h)se(h)ri(h)cór(hg)di(hi)am(gh) tu(f!gwhg)am,(gf) (;) et(f) sa(ef)lu(f)tá(fg)re(f) tu(f!gwhGFE)um(f) da(hg/hih) no(hvGFg)bis.(ffoe) (::)
-†() De(h) pe(h!ioj)tra.(jiiog) (::)
+<sp>V/</sp> Os(f|vi)tén(ef!gwhhi~|qlhhppt2pehj)de(h|ta) no(ij|pelsl3)bis,(i|vi) Dó(hi|pe)mi(h|ta)ne,(h|ta) (,) mi(h|ta)se(h|ta)ri(h|ta)cór(hg|cl)di(hi|pe)am(gh|pe) tu(f!gwhg|ql!clppt1)am,(gf|cl-) (;) et(f|vi) sa(ef|pe)lu(f|ta)tá(fg|pe)re(f|ta) tu(f!gwhGFE|ql-ppt1su1sut2)um(f|vi) da(hg/hih|//cltohg) no(hvGFg|//ci-vi)bis.(ffoe|pr) (::)
+†() De(h|vi) pe(h!ioj|sa)tra.(jiiog|cl!pilsc2) (::)
