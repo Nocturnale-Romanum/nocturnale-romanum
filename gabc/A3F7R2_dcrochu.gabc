@@ -2,6 +2,7 @@ name:Radix Jesse qui esxurget V Super ipsum;
 office-part:re;
 mode:8;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Radix Jesse;
@@ -9,8 +10,9 @@ mode: 8;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: viii;
+nabc-lines: 1;
 %%
-(c4) Ra(g)dix(gffd!ewfED) Jes(cd)se,(ixf!gwhGFg!hwihhg) *(,) qui(jvjv) ex(j)súr(jk~)get(kvJIjvIHGhg) ju(h)di(ji)cá(j)re(hjIHi) gen(ghg)tes:(g) (:) in(fh) e(hfg)um(hggof~) gen(jvjv)tes(kvJIjvIHG) spe(gh)rá(hg/hvGFg)bunt;(gf) †(:) Et(f) e(gh)rit(h) no(hggoe)men(g) e(fef>)jus(dec/d!ewfe/fvED) (,) be(d)ne(d)díc(f/gh)tum(ixg/hig/hv/ggof) in(iyfh!iwj/kvJIH/iwjI!Hs>) sǽ(g)cu(gh!ivHGh)la.(hg) (::)
+(c4) Ra(g|vi)dix(gffd!ewfED|pflst2ql-hgsu2) Jes(cd|peS)se,(ixf!gwhGFg!hwihhg|////qi-ppt1sut2qihg!clhgppt1lst3````pihm) *(,) qui(jvjv|bv-) ex(j|vi)súr(jk~|ta>hh)get(kvJIjvIHGhg|////clShhsut1vi-hhsuu1su2cl-hi) ju(h|vi)di(ji|cllsc3)cá(j|vi)re(hjIHi|//pesu2lsc3`vihe) gen(ghg|//toS)tes:(g|vi) (:) in(fh|peS) e(hfg|//po)um(hggof~|cllsc2orhg) gen(jvjv|bv-)tes(kvJIjvIHG|clShhsut1vi-hhsuu1su2) spe(gh|pe)rá(hg/hvGFg|cl-ci-vi)bunt;(gf|cl-) †(:) Et(f|``talse4) e(gh|pe)rit(h|vi) no(hggoe|cl!pilsc2)men(g|vi) e(fef>|//po>)jus(dec/d!ewfe/fvED|toqlhg!cl-hgppt1`ci-hj) (,) be(d|ta)ne(d|ta)díc(f/gh|scM1)tum(ixg/hig/hv/ggof|////ta-toS2hgvi-hg``prhg) in(iyfh!iwj/kvJIH/iwjI!Hs>|////ql-hhppt2vi-hlsut3qi-hksu1sux1) sǽ(g|ta)cu(gh!ivHGh|//ci-hhpp2vihh)la.(hg|cl-) (::)
 
-<sp>V/</sp> Et(h) re(h)qui(h)é(h)scet(hg/hggof) su(g)per(g) e(gh)um(g) spí(hf)ri(gh)tus(gh) Dó(h)mi(ixh/iioh)ni:(h) (;) spí(hf)ri(gh)tus(h) sa(h)pi(h)én(h)ti(h)æ,(h) et(h) in(h)tel(h)léc(ixhi)tus:(h) (,) spí(h)ri(h)tus(h) con(h)sí(ixhi)li(h)i,(h) et(h) for(hg/hg)ti(hf)tú(ixf!gwhg/hih)di(hvGFE/fwg/hv)nis.(gf) (::)
-*() Et(f) e(gh)rit.(h) (::)
+<sp>V/</sp> Et(j|vi) re(j|vi)qui(j|vi)é(ji|cllsc3)scet(jkjijihhog|////tohh/tohiprhi) su(hi|pe)per(ih|cllsc3) e(jk|``pehhlss4)um(ji|cllsc3) spí(ih|cllsc3)ri(ij|pe)tus(hi|pe) Dó(g|ta)mi(g!hwih|ql!cl-ppt1)ni:(hg|cl-) (;) spí(g|vi)ri(fg|pe)tus(g|ta) sa(g|ta)pi(g|ta)én(g|ta)ti(g|ta)æ,(g|ta) et(g|ta) in(g|ta)tel(g|ta)léc(gh|pe)tus:(g|ta) (,) spí(g|ta)ri(g|ta)tus(g|ta) con(g|ta)sí(gh|pe)li(g|ta)i,(g|ta) et(g|ta) for(ixhiHGhih|////pe-su2/tohg)ti(ghf|//toM1)tú(gh|peS)di(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)nis.(hiHGhg|pe-1su2cl-) (::)
+*() Et(f|``talse4) e(gh|pe)rit.(h|vi) (::)
