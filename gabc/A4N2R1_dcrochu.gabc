@@ -2,6 +2,7 @@ name:Nascetur vobis parvulus V In ipso benedicentur;
 office-part:re;
 mode:7;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Nascetur nobis parvulus;
@@ -9,8 +10,9 @@ mode: 7;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: vii;
+nabc-lines: 1;
 %%
-(c4) NA(g)scé(gvffog)tur(cd>) no(fg)bis(FGhhg/jhhg) *() pár(i/jkj)vu(jh!iwjIHGh)lus,(hg) (;) et(gji) vo(jk)cá(kg/h!iwjIH)bi(gf!gwhgh)tur(hg) (,) De(ggoh)us,(d!ewf/gv) For(gffEDevD~C~)tis;(dc) †(:) Ip(f/gh)se(ixg/hig/hvggof) se(g)dé(iyighsjsskjjs)bit(ji) (,) su(kjjs)per(hvG~F~) thro(g!hwihi)num(hg) Da(d)vid(fog) pa(gffvED)tris(fd!ewfED) su(cd!evDCd)i(dc) (;) et(c) im(cfe~)pe(fg)rá(ixgvfgFEfgf/g!hwihi)bit,(hg) (:) cu(jkJI/jwkj~)jus(kj) pot(g)é(gh!iwjIHi)stas(hg) (,) su(gffvEDgh!iwjIH)per(hkj/kl) hú(kl)me(k)rum(ki!jwkJIH/iwjIH) e(g!ho!ivH~G~)jus.(hg) (::)
+(c4) Na(g|vi)scé(gvffog|vi-sa1)tur(cd>|pe>1lsi7) no(fg|```peSlsal4)bis(f!ghhg/jhhg|//tgpp2lsc2/clS-cl-) *() pár(i/jkj|vi-/tohj)vu(jh!iwjIHGh|cl-qihg!vshgsu2vihg)lus,(hg|cl-) (;) et(gji|//to) vo(jk|pehi)cá(kg/h!iwjIH|clM-hiql-hippt1su2)bi(gf!gwhgh|//cl-`qihg!pohg)tur(hg|cl-) (,) De(ggoh|``salse4)us,(d!ewf/gv|``ql-ppt1lsi7vihm) For(gffEDevD~C~|clS-ci-cl>-)tis;(dc|cl-) †(:) Ip(f/gh|scM1)se(ixg/hig/hvggof|//////ta-/to-1hgvi-hh``prhh) se(g|vi)dé(iyighsjsskjjs|//////cltsMlsc2clhksthm)bit(ji|cl-) (,) su(kjjs|clhhlslc2sthj)per(hvG~F~|cl>-) thro(g!hwihi|ql!poppt1)num(hg|cl-) Da(d|talsi7)vid(fog|pq) pa(gffvED|clS-ci-)tris(fd!ewfED|cl-ql-hgsu2) su(cd!evDCd|//ci-hhpp2vihh)i(dc|cl-) (;) et(c|``talse4) im(cfe~|pe>)pe(fg|pe)rá(ixgvfgFEfgf/g!hwihi|////vi-/pehisu2lsc3toS2hgqihi!pohippt1)bit,(hg|cl-) (:) cu(jkJI/jwkj~|``pe-1hisut2lss4qi>hj)jus(kj|/cl-hi) pot(g|ta)é(gh!iwjIHi|ql-hhppt2su2``vihh)stas(hg|/cl-) (,) su(gffvED|clSci-|gh!iwjIH|``ql-hjppt2su2lsl1)per(hkj/kl|//tohklss2/pehm) hú(kl|pehm)me(k|tahi)rum(ki!jwkJIH/iwjIH|cl-hiqihi!vshisut2qi-hisu1sux1) e(g!ho!ivH~G~|sa1!cl->)jus.(hg|cl-) (k+::c3)
 
-<sp>V/</sp> In(i) ip(i!jwkJI)so(hi/hho1g) be(h)ne(h)di(h)cén(hi~)tur(h) om(h)nes(ig) tri(hi)bus(hi) ter(i!jwkj)ræ,(ji) (;) om(hi/hhog~)nes(hih) Gen(ij)tes(i) sér(ijijIH)vi(ih)ent(h!iwji/jkj) e(ih!iwjij)i.(ivHGhg) (::)
-*() Ip(f/gh)se.(ixg/hig/hvggof) (::)
+<sp>V/</sp> In(i|vi) ip(i!jwkJI|viql-hjsu2)so(hi/hhog|peS``pr) be(h|vi)ne(h|vi)di(h|vi)cén(hi~|ta>)tur(h|ta) om(h|ta)nes(ig|cl) tri(hi|pe)bus(hi|pe) ter(i!jwkj|ql!clppt1)ræ,(ji|cl-) (;) om(hi/hhog~|peS`vs>)nes(hih|//to) Gen(ij|pe)tes(i|ta) sér(ijijIH|//tr-1su2)vi(ih|cl)ent(h!iwji/jkj|qi!clppt1tohm) e(ih!iwjij|cl-`qihg!pohg)i.(ivHGhg|ci-cl-) (d+::c4)
+*() Ip(f/gh|scM1)se.(ixg/hig/hvggof|//////ta-/to-1hgvi-hh``prhh) (::)
