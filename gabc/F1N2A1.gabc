@@ -1,6 +1,8 @@
+name:Quam admirabile;
+office-part:an;
 mode:1g;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) QUam(e>) ad(c)mi(d)rá(ixdh!iv)bi(h)le(h) <sp>*</sp>( )               
-est(h) no(h)men(g) tu(h)um,(gf~) Dó(g)mi(gh)ne,(h) (,)
-in(f) u(e)ni(f)vér(g>)sa(fe) ter(d)ra.(d) (::)
-<eu> E(h) U(h) O(g) U(f) A(gh) E.(g) </eu> (::)
+(c4) Quam(e>|vi>) ad(c|ta)mi(d|vi)rá(ixdh_//iv|////scG-1)bi(h|vi)le(h|orhg) est(h_|vi-) <sp>*</sp> no(h|vi)men(g|ta) tu(h|vi)um,(gf~|vi>) Dó(g|vi)mi(gh|pe)ne,(h_|vi-) (,) in(f|vi) u(e|ta)ni(f|vi)vér(g>|vi>hh)sa(fe|cllsc3) ter(d.|ta-)ra.(d.|ta-) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.</eu>(g) (::)
