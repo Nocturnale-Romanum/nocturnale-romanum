@@ -2,6 +2,7 @@ name:Juravi dicit Dnus ut ultra V Juxta est salus;
 office-part:re;
 mode:8;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Juravi Dicit Dominus;
@@ -9,8 +10,9 @@ mode: 8;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: viii;
+nabc-lines: 1;
 %%
-(c4) Ju(h)rá(hg)vi,(gf) *() di(h)cit(hji) Dó(g)mi(ghhg)nus,(g) (,) ut(f) ul(gh)tra(h) jam(ge) non(g) i(f)rás(fe)car(d) (`) su(fe)per(fg~) ter(g!hwihi)ram:(hg) (;) mon(jjh~)tes(ixih) e(ixh/jvIG)nim(gf) et(fh~) col(ixhiH~G~)les(hg) (,) su(f)cí(gh)pi(hg)ant(g>) ju(f)stí(gh)ti(gf)am(f) me(fd!ewfEDCd)am,(de!f!gwhhg) †(:) Et(g) te(d)sta(g)mén(gf)tum(gffe>) pa(f!gwhgh)cis(hg) (,) e(jvjv)it(kvJIjvIHGhg) in(ih~) Je(j)rú(h)sa(g)lem.(fvEDf!gwhhg) (::)
+(c4) Ju(h|vi)rá(hg|``cl-lse1)vi,(gf|cl-) *() di(h|vi)cit(hji|//cllsc3) Dó(g|ta)mi(ghhg|pe-`cl-hh)nus,(g|vi) (,) ut(f|ta) ul(gh|pe)tra(h|vi) jam(ge|clM-) non(g|vi) i(f|ta)rás(fe|cl)car(d|ta) (`) su(fe|cl)per(fg~|ta>) ter(g!hwihi|ql!po>ppt1)ram:(hg|cl-) (;) mon(jjh~|vi-`vi>)tes(ixih|////cl-) e(ixh/jvIG|ta-cilsc3)nim(gf|cl-) et(fh~|ta>) col(ixhiH~G~|////to>2)les(hg|cl-) (,) su(f|ta)cí(gh|pe)pi(hg|cl)ant(g>|vi>) ju(f|ta)stí(gh|pe)ti(gf|cl)am(f|ta) me(fd!ewfEDCd|cl-`qi!vssu2vi-)am,(de!f!gwhhg|qi-hippt3cl-hj) †(:) Et(g|vi-) te(d|ta)sta(g|vi)mén(gf|cl-)tum(gffe>|clScl>-) pa(f!gwhgh|ql!poppt1)cis(hg|cl-) (,) e(jvjv|bv-)rit(kvJIjvIHGhg|clShhsut1vi-hhsuu1su2cl-hh) in(ih~|vi>) Je(j|vi)rú(h|vi)sa(g|vi)lem.(fvEDf!gwhhg|vi-hhsut2ql-hgppt1`cl-hi) (::)
 
-<sp>V/</sp> Jux(j)ta(ji) est(jkj/iji/hhog) sa(hi)lus(i) me(ih)a,(ij) ut(hi) vé(g)ni(g!hwih)at:(hg) (;) et(g) ju(fg)stí(g)ti(g)a(g) me(gh)a,(g) ut(ixhiHGhih) re(ghf)ve(gh)lé(iyh!iwji/jkJIH)tur.(hiHGhg) (::)
-†() Et(g) te(d)sta(g)mén(gf)tum.(gffe>) (::)
+<sp>V/</sp> Jux(j|vi)ta(ji|cl) est(jkj/iji/hhog|//tohhtohiprhi) sa(hi|pe)lus(i|vi) me(ih|cllsc3)a,(ij|pe) ut(hi|pe) vé(g|ta)ni(g!hwih|ql!cl-ppt1)at:(hg|cl-) (;) et(g|vi) ju(fg|pe)stí(g|ta)ti(g|ta)a(g|ta) me(gh|pe)a,(g|ta) ut(ixhiHGhih|////pe-su2tohg) re(ghf|//toM1)ve(gh|peS)lé(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)tur.(hiHGhg|pe-1su2cl-) (::)
+†() Et(g|vi-) te(d|ta)sta(g|vi)mén(gf|cl-)tum.(gffe>|clScl>-) (::)
