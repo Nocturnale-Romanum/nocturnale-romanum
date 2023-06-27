@@ -2,12 +2,17 @@ name:Non discedimus a te V Memento nostri Dne;
 office-part:re;
 mode:8;
 submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Non(d) di(d)scé(f/gh)di(g)mus(gh) a(h) te,(ixhg/higgf) <sp>*</sp>(;) vi(gh)vi(g)fi(g)cá(gh)bis(g) nos,(gh!iwjIH/iwjIH) Dó(g)mi(gh!ivHGh)ne,(g!h!ih) (;) 
-et(fh) no(jkj)men(jok) tuum(ki/jkh/iv/hhog) in(h/jvIG)vo(jvjv)cá(kvJIjvIHG)bi(hg/hvGFg)mus;(gf) (:) 
-<sp>+</sp> Os(f)tén(gh)de(h) no(h)bis(g) fá(g)ci(e)em(g) tu(fef)am,(dec/d!ewfe/fvED) (;) 
-et(g) sal(g/hvGFgh>)vi(g) é(gh!iwjIH/iwjIH)ri(gh!ivHGh)mus.(hg) (::)
+initial-style: 1;
+name: Non discedimus a te;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Non(d|ta) di(d|ta)scé(f/gh|scM1)di(g|ta)mus(gh|pe) a(h|vi) te,(ixhg/higgf|////cltoS2cl-) *(;) vi(gh|pe)vi(g|ta)fi(g|ta)cá(gh|pe)bis(g|ta) nos,(gh!iwjIH/iwjIH|``ql-hhppt2sut2qi-hisu2) Dó(g|ta)mi(gh!ivHGh|//ci-hhpp2vihh)ne,(ixg!hih|////cl-ppt2) (;) et(fh|peS) no(jkj|//tohh)men(jok|pqhi) tuum(ki/jkh/iv/hhog|clhitoS2hivi-hipr) in(h/jvIG|vi-cihilsc3)vo(jvjv|bv-)cá(kvJIjvIHG|clShhsut1vi-hhsuu1su2)bi(hg/hvGFg|cl-ci-vi)mus;(gf|cl-) †(:) Os(f|``talse4)tén(gh|pe)de(h|vi) no(h|vihh)bis(g|ta) fá(g|vi)ci(e|ta)em(g|vi) tu(fef|//po)am,(dec/d!ewfe/fvED|toS2ql!cl-ppt1`ci-hj) (;)et(g|vi) sal(g/hvGFgh>|vi-cihipe>1hi)vi(g|ta) é(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hisu2)ri(gh!ivHGh|//ci-hhpp2vihh)mus.(hg|cl-) (::)
 
-<sp>V/</sp> Me(j)mén(ji)to(jkj/iji/hhog) no(hi)stri,(ih) Dó(jk)mi(j)ne,(j) (,) in(j) be(j)ne(j)plá(jk)ci(j)to(ji) pó(ih)pu(ij)li(hi) tu(g!hwih)i:(hg) (;) 
-ví(g)si(fg)ta(g) nos(g) in(g) sa(g)lu(ixhiHG/hih)tá(ghf)ri(gh) tu(iyh!iwji/jkJIH)o.(hiHGhg) (::)
-<sp>+</sp> Os(f)tén(gh)de.(h) (::)
+<sp>V/</sp> Me(j|vi)mén(ji|cl)to(jkj/iji/hhog|tohh/tohiprhi) no(hi|pe)stri,(ih|cl) Dó(jk|``pehhlsl4)mi(j|ta)ne,(j|ta) (,) in(j|ta) be(j|ta)ne(j|ta)plá(jk|pehh)ci(j|tahh)to(ji|cllsc3) pó(ih|cllsc3)pu(ij|pe)li(hi|pe) tu(g!hwih|ql!cl-ppt1)i:(hg|cl-) (;) ví(g|vi)si(fg|pe)ta(g|ta) nos(g|ta) in(g|ta) sa(g|ta)lu(ixhiHG/hih|////pe-su2tohg)tá(ghf|//toM1)ri(gh|peS) tu(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)o.(hiHGhg|pe-1su2cl-) (::)
+†() Os(f|``talse4)tén(gh|pe)de.(h|vi) (::)
