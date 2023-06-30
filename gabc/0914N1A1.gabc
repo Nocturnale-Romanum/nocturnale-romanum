@@ -1,7 +1,9 @@
-mode:1a;
+name:Nobile lignum exaltatur;
+office-part:an;
+mode:1g;
+submitter:marteo;
 %%
-(c4) No(f)bi(c)le(d) li(ixdh!i>)gnum<sp>*</sp>(h) ex(h)al(gf)tá(gh)tur,(h) (,)
-Chri(f)sti(g) fi(h)des(gf) rú(g)ti(fe)lat,(f) (;)
-dum(c) Crux(df) ab(f) ó(fe)mni(f)bus(gh) ve(g)ne(fe)rá(d)tur.(d) (::) 
-<eu> E(h) U(h) O(g) U(f) A(gh) E.(h) </eu> (::) 
-
+(c4) No(f)bi(c)le(d) li(ixdh_//iv)gnum(h) <sp>*</sp>(,) ex(h)al(gf)tá(gh)tur,(h.) (,)
+Chri(h)sti(f) fi(g)des(h) rú(g)ti(fe)lat,(d.) (;)
+dum(c) Crux(d) ab(d) ó(f)mni(f)bus(e_f) ve(g)ne(fe)rá(d.)tur.(d.) (::) 
+<eu> E(h) U(h) O(g) U(f) A(gh) E.(g) </eu> (::)
