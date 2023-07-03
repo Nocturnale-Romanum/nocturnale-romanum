@@ -1,8 +1,11 @@
+name:Confido in Domino;
+office-part:an;
 mode:8g;
+submitter:marteo;
 %%
-(c4) Con(g)fí(hj)do(h) in(gf~) Dó(ghg)mi(fg)no<sp>*</sp>(g) (,)
-quod(ij) fí(k)li(j)a(hj~) me(j)a,(i) (;)
-pré(j)ci(j)bus(j) tu(iiO1h)is,(g) (,)
-red(i)dén(i)da(g) sit(h) sa(j)ni(i)tá(g)ti.(g)  (::)
-<eu>  E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::) 
-
+(c4) Con(g)fí(gj_)do(h) in(gf~) Dó(ghg___)mi(fg)no(g_) 
+<sp>*</sp>(,) 
+quod(i_j) fí(k)li(j)a(hj) me(j)a,(i.) (;)
+pré(j)ci(j)bus(j) tu(iioh)is,(g_) (,)
+red(i)dén(h)da(g) sit(h_) sa(j)ni(i)tá(g.)ti.(g.) (::)
+<eu>  E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::)
