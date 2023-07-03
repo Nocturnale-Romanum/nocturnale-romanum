@@ -1,7 +1,11 @@
+name:Ego signo crucis non clypeo;
+office-part:an;
 mode:7c;
+submitter:marteo;
 %%
-(c3) E(i)Go(g) si(i)gno(j) cru(i)cis,<sp>*</sp>(i) (,)
-non(i) clý(ij)pe(i)o(i) pro(i)téc(gh)tus(i) aut(f) gá(e)le(e)a,(e) (;)
-hó(h)sti(h)um(h) cú(f)ne(h)os(g) pe(e)ne(f)trá(h)bo(g) se(f)cú(e)rus.(e) (::) 
-<eu>  E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::) 
-
+(c3) E(i)go(g) si(i)gno(j) cru(i_)cis,(i_) 
+<sp>*</sp>(,)
+non(i) clí(ij)pe(i)o(i) pro(i)téc(g_h)tus(i) aut(f) gá(e)le(e)a,(e.) (;)
+hó(g_)sti(g)um(h) cú(f)ne(h)os(g_) (,)
+pe(e)ne(f)trá(f_)bo(h) se(g)cú(e.)rus.(e.) (::) 
+<eu> E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
