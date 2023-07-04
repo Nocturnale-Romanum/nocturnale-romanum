@@ -1,4 +1,12 @@
-mode:1a;
+name:Inventae Crucis festa recolimus;
+office-part:an;
+mode:1f;
+submitter:marteo;
 %%
-(c4)In(dc~)vén(f)tæ(g) Cru(fg!hv)cis(h) *(,) fe(hj)sta(h) re(hg)có(f)li(gh)mus,(g) (;) cu(ixih)jus(g) præ(g)có(f)ni(h)um(g) (,) u(h)ni(g)vér(fe~)sum(fg) per(fe~) or(d)bem(d) (:) mi(f)cán(de~)ti(f) lú(gh)mi(g)ne(f) ful(fe)get,(dc) (,) al(d)le(efe)lú(d)ja.(d) (::) E(h) U(h) O(g) U(f) A(g) E.(h) (::)
-
+(c4)In(dc~)vén(f)tæ(g) Cru(fg!hv)cis(h_) <sp>*</sp>(,) 
+fe(hj)sta(h) re(gf)có(g)li(gh)mus,(h.) (;) 
+cu(h)jus(g) præ(hj)có(ji)ni(hg)um(g_) (,) 
+u(h)ni(g)vér(fe~)sum(fg) per(fe) or(d.)bem(d.) (;) 
+mi(fd)cán(e<)ti(f) lú(gh)mi(g)ne(f) ful(fe)get,(dc__) 
+al(d)le(fe)lú(d.){ia}.(d.) (::) 
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu>(::)
