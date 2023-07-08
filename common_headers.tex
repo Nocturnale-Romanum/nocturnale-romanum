@@ -37,6 +37,12 @@
 
 %\setdefaultlanguage[variant=ecclesiastic, hyphenation=liturgical, usej=true, babelshorthands=false]{latin}
 \setdefaultlanguage[variant=french, frenchitemlabels=false]{french}
+\setotherlanguage{english}
+%% this latin option basically boils down to French with slightly thinner pre-punctuation spaces 
+%% and slightly different hyphenation (but how different?)
+%% for some reason, it produces more underfull hboxes in two-col psalms, than French; and about 0.5% more pages.
+%% French is therefore to be kept until further notice.
+%\setotherlanguage[variant=ecclesiastic, hyphenation=liturgical, usej=true]{latin}
 
 %%%%%%%%%%%%%%% GEOMETRY %%%%%%%%%%%%%%%
 
@@ -69,7 +75,12 @@ headsep=3mm,
 
 %%%%%%%%%%%%%%% GREGORIO CONFIG %%%%%%%%%%%%%%%
 
-\usepackage[autocompile]{gregoriotex}
+\usepackage[forcecompile]{gregoriotex}
+
+%% this limits how much scores can stretch vertically
+%% when they are forced to adhere to the bottom of a page (i.e followed by \pagebreak)
+%\grechangedim{baselineskip}{55pt plus 1pt minus 5pt}{scalable}
+%% this however has been found to break the page layout of the psalterium festivum, somehow
 
 %% text above lines shall be of color gregoriocolor
 \grechangestyle{abovelinestext}{\color{gregoriocolor}\footnotesize\itshape}
@@ -91,6 +102,9 @@ headsep=3mm,
 %% however, we restrict drastically the deviation of the text from the position of the bar.
 \grechangedim{maxbaroffsettextleft}{0.5mm}{scalable}
 \grechangedim{maxbaroffsettextright}{0.5mm}{scalable}
+
+%% in case we show NABC, font selection
+\gresetnabcfont{gresgmodern}{12} 
 
 %% \officepartannotation converts a letter (IHARPT) into the office part to be printed as annotation,
 %% storing the result into \result.
@@ -158,6 +172,11 @@ headsep=3mm,
   \vspace{1mm}
 }
 \makeatother
+
+%%% We select if we want to show NABC. Here, we don't.
+
+\gresetnabc{1}{invisible}
+\gresetnabc{2}{invisible}
 
 %%%%%%%%%%%%%%% FONTS %%%%%%%%%%%%%%%
 
