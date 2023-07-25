@@ -1,11 +1,15 @@
 name:Gaude et laetare ... filia Jerusalem;
 office-part:an;
 mode:4e;
-submitter:marteo;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Gau(e)de(dc) et(d) læ(fe)tá(de)re,(e_) <sp>*</sp>(,)
-fi(e)li(f)a(gh) Je(e)rú(eg)sa(fe)lem:(e.) (,)
-ec(e)ce(g) Rex(h) tu(hi)us(h) vé(h)ni(g)et(gf~) ti(ghGE)bi:(e.) (;)
-Si(f)on,(d) no(f)li(g) ti(h)mé(e_)re,(e_) (,)
-qui(f)a(fv_ED) ci(e)to(f) vé(gh)ni(g)et(gf~) sa(gh)lus(gh) tu(e.)a.(e.) (::)
-<eu> E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu> (::)
+initial-style: 1;
+name: Gaude et laetare filia Jerusalem;
+mode: 4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iv e;
+nabc-lines: 1;
+%%
+(c4) Gau(e|vi)de(dc|cllsc3) et(d|vi) læ(fe|cllsc3)tá(de|pe)re,(e_|ta-) <sp>*</sp>(,) fi(e|``talse4)li(f|vi)a(gh|pe) Je(e|ta)rú(eg|pe)sa(fe|cllsc3)lem:(e.|ta) (,) ec(e|``talse4)ce(g|vihe) Rex(h|vi) tu(ixhi|////pe)us(h|vi) vé(h|vi)ni(g|vihe)et(gf~|vi>he) ti(g_h_GE|pe-1su2)bi:(e.|ta-) (;) Si(f|vi)on,(d|ta) no(f|vi)li(g|vihg) ti(h|vihh)mé(e_|ta-)re,(e_|ta-) (,) qui(f|vi)a(fv_ED|ci-) ci(e|vihe)to(f|vi) vé(gh|pe)ni(g|ta)et(gf~|vi>lsi6) sa(gh|pe)lus(gh|pe) tu(e.|ta)a.(e.|ta) (::) <eu> E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu> (::)
