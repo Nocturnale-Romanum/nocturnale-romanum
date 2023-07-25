@@ -1,7 +1,15 @@
 name:Gabriel Angelus ... Ave;
 office-part:an;
 mode:7d;
-submitter:marteo;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3)Gá(e)bri(ei)el(i) An(hg~)ge(hi)lus(i_) <sp>*</sp>(,) lo(i)cú(jk)tus(j) est(i) Ma(hv_GF)rí(g)æ(fgf) di(e.)cens:(e.) (:) A(e)ve,(ei) grá(i)ti(h)a(g) ple(h_i)na,(i.) (,) Dó(i)mi(j)nus(k) te(j)cum;(i.) (;) be(i)ne(ij)díc(j)ta(ih) tu(hho) in(fe~)ter(f) mu(fgf)lí(e)e(de)res.(e.) (::)
-<eu>E(i) U(i) O(j) U(i) A(h) E.</eu>(gi) (::)
+initial-style: 1;
+name: Gabriel Angelus locutus est Mariae;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii d;
+nabc-lines: 1;
+%%
+(c3) Gá(e|ta)bri(ei|pelsl3)el(i|vihh) An(hg~|vi>lsi6)ge(hi|pe)lus(i_|ta-) <sp>*</sp>(,) lo(i|``talse4)cú(jwk|`qlhi)tus(j|vihh) est(i|vihe) Ma(hv_GF|ci-)rí(g|vi)æ(fgf|//to) di(e.|ta)cens:(e.|ta) (:) A(e|``talse4)ve,(ei|pe) grá(i|vi)ti(h|vihe)a(g|ta) ple(h_i|peS)na,(i.|ta) (,) Dó(i|``talse4)mi(j|vi)nus(k|vihh) te(j|or)cum;(i.|ta-) (;) be(i|``talse4)ne(ij|pe)díc(j|vi)ta(ih|cllsc3) tu(hho|vshe) in(fe~|vi>lsi6)ter(f|vi) mu(fgf|//to)lí(e|vi)e(de|pe)res.(e.|ta) (::) <eu>E(i) U(i) O(j) U(i) A(h) E.(gi) </eu> (::)
