@@ -2,14 +2,29 @@ name:In principio Deus antequam V Quando praeparabat;
 office-part:re;
 mode:1;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4)In(c) prin(d)cí(dhgh)pi(ixig__hwihi)o(hg__) <sp>*</sp>(`) De(f)us(g) án(hj~)te(j/kjjo~)quam(g) ter(ixhi)ram(g) fá(ixhi)ce(GH__iv)ret,(h) (,)
-prí(hjvjv__kj__/jkh___)us(h)quam(h) a(j)býs(ij)sos(g) con(h)sti(j)tú(jv_IHih__)e(ixGH__iv)ret,(h) (;)
-prí(h)us(gh)quam(f) pro(ghg)dú(h)ce(g)ret(f) fon(h>)tes(f) a(gh)quá(gvFE___fwgfg)rum,(fg__/ffod) (:)
-<sp>+</sp> An(d)te(dfe)quam(f) mon(h>)tes(g_/hgh) col(f)lo(ixhih)ca(g)rén(gjh___/hwihi)tur,(ih__) (;) an(h)te(jhhog) om(g>)nes(fe__) col(f!gwh>)les(hvGF___/egFEfv__EDed__) (;) ge(fe)ne(f)rá(h)vit(goh) me(EFgfgvFE___) Dó(ed)mi(d!ewfef)nus.(ed__) (::)
+(c4)In(c|ta) prin(d|vi)cí(dhgh|tr)pi(g|vi)o(f_g|peS) 
+De(ixi_g!hwihi)us(hg..) <sp>*</sp>(,) 
+án(f|ta)te(g|vi)quam(hj~|pe~) 
+ter(j_0//kj/j>|vi-pf~)ram(g) 
+fá(ixh_i)ce(g_h!iv)ret,(h.) (;)
+prí(hjv_jv_|bv-ppt1|kj__|cl-|jkh___|toS)us(h|vi)quam(h|vi) 
+a(j|vi)býs(ij|pe)sos(g|ta) 
+con(h|vi)sti(j|vi)tú(jvIH|ci-|ih|cl-)e(ixg_h!iv|vippt2)ret,(h.|vi) (,)
+prí(h|vi)us(gh|pe)quam(f|ta) 
+pro(ghg|to)dú(h|vi)ce(g|vi)ret(f|ta) 
+fon(h>|vi>)tes(f|ta) 
+a(gh|pe)quá(gvFE___|vi-sut2|fwgfg|ql!po)rum,(f_g|peS|ffod.|pr) (:)
 
-<sp>V/</sp>
-Quan(h)do(hg/hg/gof) præ(g)pa(g)rá(g)bat(hf) cœ(gh)los,(gh) ád(h)e(ixh_/iioh)ram,(h) (;)
-cum(gf~) e(gh)o(h) cun(hg/hg)cta(gf) com(ixf!gwhg/hih)pó(hv_GFE__fwg!hv_)nens.(gf__) (::)
+<sp>+</sp> An(d|ta)te(dfe|toS3)quam(f|vi) 
+mon(h>|vi>)tes(g_0//hgh|poppu1) 
+col(f|vi)lo(ixhih|to)ca(g|ta)rén(gjh___|toS|hwihi|qlhj!pohj)tur,(ih..|cl-) (;) 
+an(h|ta)te(jhhog|cl!pi) om(g>|vi>)nes(fe__|cl-) 
+col(f!gwh>|vihdql>hh)les(hvGF___|vi-sut2|egFE__|toS2sut1|fv_ED|ci-|ed..|cl-) (;) 
+ge(fe|cllsc2)ne(f|vi)rá(h|vi)vit(goh_|pq-) me(ef/gf|clpp2|gvFE___|vi-sut2) 
+Dó(ed|cllsc2)mi(d!ewfef|ql!poppt1)nus.(ed..|cl-) (::)
 
-<sp>+</sp> An(d)te(dfe)quam.(f) (::)
+<sp>V/</sp> Quan(h|vi)do(hg/hggof|clcl!pi) præ(gh|pe)pa(g)rá(g)bat(hf|cllsc3) cæ(gh|pe)los,(gh|pe) ád(h|ta)e(ixh/iioh|////ta/pr-)ram,(h.|ta-) (;) cum(hf~|cl~) e(gh|pe)o(h) cunc(hg/hg|pflsc2)ta(hf|cllsc3) com(ixf!gwhg/hih|////ql!clppt1tohh)pó(hv_GF_Efwg_@hv|vi-su1sut2ql-vihj)nens.(gf..|cl-) (::) 
+
+<sp>+</sp> An(d|ta)te(dfe|toS3)quam.(f|vi) (::)
