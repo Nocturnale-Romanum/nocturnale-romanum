@@ -2,6 +2,7 @@ name:Sanctificamini hodie V Hodie scietis;
 office-part:re;
 mode:7;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Sanctificamini hodie;
@@ -9,8 +10,9 @@ mode: 7;
 office-part: Responsorium;
 annotation: Resp.;
 annotation: vii;
+nabc-lines: 1;
 %%
-(c2) Sanc(c)ti(cfe)fi(f)cá(g)mi(f)ni(df) *() hó(fefog)di(d!ewfEDCd)e,(dc) (,) et(e) es(e)tó(fe)te(d) pa(fe)rá(cd!evDCd)ti,(dc) †(;) Qui(g)a(hf) di(g)e(gj) crás(j)ti(i)na(ij!kvJIHivHGhg) (,) vi(gh!iwj)dé(j)bi(ig!hwihi)tis(hg) (;) Ma(hg~)je(fh)stá(hih)tem(ffog) De(ge!fwg)i(ghGFfvED/dgFE) in(fvED/ewfEDdo) vo(cd!evDCd)bis.(dc) (::)
+(c2) Sanc(c|ta)ti(cfe|//to)fi(f|vi)cá(g|vihh)mi(f|vi)ni(df|peS) *() hó(fefog|cllsc2pq)di(d!ewfEDCd|qi!vsppt1su2vi-)e,(dc|cl-) (,) et(e|vilsal3lse8) es(e|vi)tó(fe|cllsc3)te(d|ta) pa(fe|cllsc3)rá(cd!evDCd|//ci-hhpp2vihh)ti,(dc|cl-) †(;) Qui(g|``vilsl2)a(hf|cllss2lsc3) di(g|vi)e(gj|pelsl3) crás(j|vi)ti(i|ta)na(ij!kvJIHivHGhg|vihhpp2su1sut2lsc3ci-hhcl-hh) (,) vi(gh!iwj|qihhppt2)dé(j|vi)bi(ig!hwihi|cl-qi!po)tis(hg|cl-) (;) ma(hg~|vi>-lsi3)jes(fh|pe)tá(hih|//to)tem(ffog|sa) De(ge!fwg|cl-ql)i(ghGFfvED/dgFE|pesu1suu1ciSpe-1sut2) in(fvED/ewfEDdo|vi-suu2qi-su2or>) vo(cd!evDCd|//ci-hhpp2vihh)bis.(dc|cl-) (::)
 
-<sp>V/</sp> Hó(g!hwiHG)di(fe)e(fg/ffoe) sci(f)é(fg)tis(f) qui(f)a(f) vé(ge)ni(fg)et(fg) Dó(g)mi(g!hwih)nus,(hg) (;) et(fg/ffoe~) ma(fgf)ne(g) vi(g)dé(gh)bi(g)tis(g) gló(ghghGF)ri(gf)am(f!gwhg/hih) e(gf!gwhgh>)jus.(gvFEfe) (::)
-*() Qui(g)a(hf) di(g)e.(gj) (::)
+<sp>V/</sp> Hó(g!hwiHG|ql-ppt1su2)di(fe|cl)e(fg/ffoe|peS``pr) sci(f|ta)é(fg|pe)tis(f|ta) qui(f|ta)a(f|ta) vé(ge|cllsc3)ni(fg|pe)et(fg|pe) Dó(g|ta)mi(g!hwih|ql!clppt1)nus,(hg|cl-) (;) et(fg/ffoe~|peS`vs>) ma(fgf|//to)ne(g|vi) vi(g|vi)dé(gh|pe)bi(g|ta)tis(g|ta) gló(ghghGF|////to-ci-hh)ri(gf|cl)am(f!gwhg/hih>|ql!clppt1to>hm) e(gf!gwhgh>|////cl-qi!po>)jus.(gvFEfe|ci-cl-) (::)
+*() Qui(g|``vilsl2)a.(hf|cllss2lsc3) (::)
