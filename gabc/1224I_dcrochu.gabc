@@ -2,7 +2,15 @@ name:Hodie scietis quia veniet;
 office-part:in;
 mode:4;
 submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Ho(dfe)di(e)e(e) sci(e)é(e!fo)tis(e) (,) qui(e)a(fsss) vé(fd)ni(dfe)et(fg~) Dó(g)mi(gf!gwhgh)nus:(hg) *(;) Et(ef) ma(g)ne(f) vi(fe)dé(d)bi(dc)tis(dsfssgddc) (,) gló(eeof)ri(fd)am(f) e(fg~)jus.(e) (::)
- Ve(dh)ní(ixhi)te(h) (::)
-
+initial-style: 1;
+name: Hodie scietis quia veniet;
+mode: 4;
+office-part: Invitatorium;
+annotation: Inv.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) Hó(dfe|//to)di(e|ta)e(e|ta) sci(e|ta)é(e!fo|vshelsc3)tis(e|ta) (,) qui(e|ta)a(fsss|ts) vé(fd|cllsc3)ni(dfe|//to)et(fg~|ta>lsal3) Dó(g|vi)mi(gf!gwhgh|cl-qi!po)nus:(hg|cl-) *(;) Et(ef|peSlsi7) ma(g|vihh)ne(f|vi) vi(fe|cllsc3)dé(d|ta)bi(dc|cllsc3)tis(dsfssgddc|stdshjclShjcl-hj) (,) gló(d!ewfED|ql-ppt1su2)ri(fg|pq)am(gv//fg!h/ig/hg|vi-vi-hgpp2clhlclhl) e(egffs|//tosthi)jus.(fe|cl-) (::)
+Ve(dh)ní(ixhi)te(h) (::)
