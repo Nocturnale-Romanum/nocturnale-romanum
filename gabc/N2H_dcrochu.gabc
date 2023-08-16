@@ -1,0 +1,40 @@
+name:Jesu Rex admirabilis;
+office-part:hy;
+mode:1;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Jesu Rex admirabilis;
+mode: 1;
+office-part: Hymnus;
+annotation: Hymn.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) Je(h|vi)su,(h|vihg) Rex(h|vihh) ad(h|vihh)mi(d|``talsi4)rá(f|vihh)bi(e|vi)lis,(d|ta-) (,)
+Et(h|vi) tri(h|vi)um(i|vihh)phá(g|ta)tor(h|vi) nó(j|vihh)bi(i|vi)lis,(h.|ta-) (;)
+Dul(h|``talse4)cé(i|vi)do(j|vihh) in(k|vihilsal3)ef(j|vihh)fá(h|ta)bi(j|vi)lis,(ivHG|ciS) (,)
+To(h|vi)tus(h|vi) de(i|vihh)si(g|vi)de(e|ta)rá(g|vihe)bi(h|vi)lis.(h.|vi-) (::)
+
+<c>2.</c> Quan(h|vi)do(h|vihg) cor(h|vihh) nos(h|vihh)trum(d|``talsi4) ví(f|vihh)si(e|vi)tas,(d|ta-) (,)
+Tunc(h|vi) lu(h|vi)cet(i|vihh) e(g|ta)i(h|vi) vé(j|vihh)ri(i|vi)tas,(h.|ta-) (;)
+Mun(h|``talse4)di(i|vi) vi(j|vihh)lé(k|vihilsal3)scit(j|vihh) vá(h|ta)ni(j|vi)tas,(ivHG|ciS) (,)
+Et(h|vi) in(h|vi)tus(i|vihh) fer(g|vi)vet(e|ta) cá(g|vihe)ri(h|vi)tas.(h.|vi-) (::)
+
+<c>3.</c> Je(h|vi)su(h|vihg) dul(h|vihh)cé(h|vihh)do(d|``talsi4) cór(f|vihh)di(e|vi)um,(d|ta-) (,)
+Fons(h|vi) vi(h|vi)vus,(i|vihh) lu(g|ta)men(h|vi) mén(j|vihh)ti(i|vi)um,(h.|ta-) (;)
+Ex(h|``talse4)cé(i|vi)dens(j|vihh) om(k|vihilsal3)ne(j|vihh) gáu(h|ta)di(j|vi)um,(ivHG|ciS) (,)
+Et(h|vi) om(h|vi)ne(i|vihh) de(g|vi)si(e|ta)dé(g|vihe)ri(h|vi)um.(h.|vi-) (::)
+
+<c>4.</c> Je(h|vi)sum(h|vihg) om(h|vihh)nes(h|vihh) a(d|``talsi4)gnó(f|vihh)sci(e|vi)te,(d|ta-) (,) 
+A(h|vi)mó(h|vi)rem(i|vihh) e(g|ta)jus(h|vi) pó(j|vihh)sci(i|vi)te:(h.|ta-) (;)
+Je(h|``talse4)sum(i|vi) ar(j|vihh)dén(k|vihilsal3)ter(j|vihh) quǽ(h|ta)ri(j|vi)te,(ivHG|ciS) (,)
+Quæ(h|vi)rén(h|vi)do(i|vihh) i(g|vi)nar(e|ta)dé(g|vihe)sci(h|vi)te.(h.|vi-) (::)
+
+<c>5.</c> Te(h|vi) nos(h|vihg)tra,(h|vihh) Je(h|vihh)su,(d|``talsi4) vox(f|vihh) so(e|vi)net,(d|ta-) (,)
+Nos(h|vi)tri(h|vi) te(i|vihh) mo(g|ta)res(h|vi) éx(j|vihh)pri(i|vi)mant,(h.|ta-) (;)
+Te(h|``talse4) cor(i|vi)da(j|vihh) nos(k|vihilsal3)tra(j|vihh) dí(h|ta)li(j|vi)gant,(ivHG|ciS) (,)
+Et(h|vi) nunc,(h|vi) et(i|vihh) in(g|vi) per(e|ta)pé(g|vihe)tu(h|vi)um.(h.|vi-) (::)
+A(hih|poS)men.(gh|pq-) (::)
+
