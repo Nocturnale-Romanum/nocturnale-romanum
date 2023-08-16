@@ -1,0 +1,16 @@
+name:In nomine Jesu omne;
+office-part:an;
+mode:1g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 0;
+name: In nomine Jesu omne;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g 2;
+nabc-lines: 1;
+%%
+(c4) In(cd|pe) nó(ixdh/iv|scG-1)mi(h|vi)ne(h|vi) Je(h|vi)su(ixhg/hih|////cllsc2tohg) <sp>*</sp>(,) om(h|``vilse4)ne(g|vihe) ge(ef|peS)nu(g|vi) flec(fe|cllsc3)tá(d.|ta)tur(d.|ta) (;) cæ(f|vi)lés(h|vihh)ti(g|ta)um,(h|vihh) ter(f|ta)rés(g|vihg)tri(f|vi)um,(e|ta) et(f|vi) in(gh|peS)fer(fe|cllsc3)nó(d|ta)rum.(d|ta) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
