@@ -1,0 +1,16 @@
+name:Confitemini Domino et invocate;
+office-part:an;
+mode:8g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 0;
+name: In nomine Jesu omne;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g 2;
+nabc-lines: 1;
+%%
+(c4) Con(g|ta)fi(g|ta)té(gj|pe)mi(h|vi)ni(gf|cllsc3) Dó(ghg|//to)mi(fg|pe)no,(g_|ta-) <sp>*</sp>(,) et(g|``talse4) in(g|ta)vo(g|ta)cá(h|vi)te(gf|cllsc3) no(g|vi)men(gh|pe) e(f.|ta)jus:(f.|ta) (;) me(f|``talse4)men(g|vi)tó(h|vihh)te,(g|ta) quó(h|vihh)ni(g|vi)am(gf|cllsc3) ex(h|vi)cél(jk|``peShhlss4)sum(j|ta) est(ji/jkj|cllsc2toS2) (`) no(h_j|peS)men(i|vi) e(g.|ta)jus.(g.|ta) (::)
+<eu>E(j) U(j) O(i) U(j) A(h) E.(g) </eu>(::)
