@@ -1,15 +1,39 @@
-name:Domine pater et Deus V Ne derelinguas;
+name:Domine pater et Deus V Ne derelinquas;
 office-part:re;
 mode:5;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c3)Dó(h)mi(hsss)ne,(hf__) Pa(f!gwhivHG___!hwihi)ter(ih__) (,) et(h) De(h!iwjijkv)us(j) vi(ijIH____i)tæ(h) meæ,(hi_/ih__) (;) ne(f) de(f)re(f)lín(gxffog)quas(EG!hv_GFg) me(gf__) (,) in(f) co(f)gi(h)tá(gxhggs)tu(e!fwg) ma(gxfhGFE_____!fwg_FE)lí(DE!fv_EDe)gno ;(ed__) (:)
-ex(f)tol(d)lén(gxd!ewf/go)ti(f)am(f) o(f)cu(f)ló(fh__)rum(gxg) me(f)ó(ed!ewfef)rum(fe__) (,) ne(gxf!goh) dé(gxhvv_GE)de(fe)ris(hi__) mi(gxhf__/fwgfg)hi,(gf__) (;) et(f_) de(d)si(f)dé(hi__)ri(h)um(h_hog) ma(f)lí(f!gwh_/ivHG___!hwihi)gnum(ih__) (,) a(h)vér(h)te(ij) a(ji/jh) me,(ij) Dó(ji/jhi)mi(hg__!hwihi)ne ;(ih__) (;)
-au(h)fer(hg) a(f) me(EF!gv_/gf__) con(f)cu(d)pi(f!gwh)scén(hv_GFgf__)ti(e!fwh_GFg)am,(gf__) (;)
+(c3) Dó(h|vi)mi(hsss|ts)ne,(hf__|cl-) 
+Pa(f!gwhivH__G/hwihi|qlppt1vi-hjsut2qlhi!pohi)ter(ih..|cl-lse6) <sp>*</sp>(,) 
+et(h|ta) De(h!iwjijkv|ql!poppt1vihj)us(j|ta) 
+vi(i_j_IHi|//pe-1su2vi)tæ(h|ta) meæ,(hi_/ih..|pe-cl-) (;) 
+ne(f|ta) de(f|ta)re(f|ta)lín(gxffog|//////sa)quas(eg@hv_GFg|////ci-pp2vi) 
+me(gf__|cl-) (,) 
+in(f|talsew2) co(f|ta)gi(h|vi)tá(gxhggs|//////po)tu(e!fwg|qlppt1) 
+ma(gxfhGF____E/fwg_FE|//////pe-1sut3ql-su2)líg(DE!fv_EDe|////ci-pp2vi)no;(ed..|cl-) (:) 
+ex(f|vi)tol(d|ta)lén(gxd!ewf/go|qippt1orhj)ti(f|ta)am(f|ta) 
+o(f|ta)cu(f|ta)ló(f_h|peS)rum(gxg|vi) me(f|vi)ó(ed!ewfef|clql!po)rum(fe__|cl-) (,) 
+ne(gxf!goh|sa) dé(gxhvv_GE|vi-`vi-su2)de(fe|cllsc2lss1)ris(h_i|peS) 
+mi(gxh_f/fwgfg|cl-ql!po)hi,(gf..|cl-) (;) 
+et(f_|vi-) de(d|ta)si(f|vi)dé(h_i|peS)ri(h|ta)um(h_hog|pr-) 
+ma(f|ta)<nlba>lí(f!gwh_/ivH__G/hwihi|ql-ppt1vi-sut2ql!po)</nlba>gnum(ih__|cl-) (,) 
+a(h|vi)vér(h|vi)te(ij|pe) a(ji/jh|pflsc2) me,(ij|pe) 
+Dó(ji/jhi|clpo)mi(h_g!hwihi|cl-ql!po)ne;(ih..|cl-) (;) 
+au(h|vilse4)fer(hg|cllsc2) a(f|vi) me(ef@gv_/gf__|vi-pp2cl-) 
+con(f|vi)cu(d|ta)pis(f!gwh|viqlhi)cén(hv_GF|//ci-|gf__|cl-)ti(e!fwh_GFg|ql-ppt1su2vi)am.(gf..|cl-) (:) 
 
-<sp>+</sp> Et(f) á(gxf!gwh)ni(e)mo(d) ir(f)re(d)ve(f)rén(h)ti(hg) et(f) in(fh)fru(h)ní(ih_/hv_GF)to(fshshs_hv_GF/he_/fv/eeod) (,) ne(d!eof) tra(gxgv_gvFE)das(f!gwh_hv_) me,(gyivHGF____ivHGE____gxfhFE____!fwg_FE) Dó(d)mi(DE!fv_EDe)ne.(ed__) (::)
+<sp>+</sp> Et(f|vi) á(gxf!gwh|viqlhi)ni(e|vi)mo(d|ta) 
+ir(f|vi)re(d|ta)ve(f|vi)rén(h|vihj)ti(hg|cllsc2) et(f|gr) 
+in(fh|pe~)fru(h|vi)ní(ih_/hv_GF|clS-ci-)to(fshshs_|tsM-|hv_GF|//ci-|he_/fv/eeod|//clSvipr) (,) 
+ne(d!eof|sa) tra(gxgv_gvFE|//////vi-`ci)das(f!gwhhv_|qlppt1vi-) 
+me,(gyivHGF____|//////vi-hhsut3|ivHGE____|vi-hhsut3|gxfhFE____!fwg_FE|//////pe-1sut2ql-su2) 
+Dó(d|ta)mi(de@fv_EDe|//ci-pp2vi)ne.(ed..|cl-) (::) 
 
-<sp>V/</sp> Ne(h) de(h)re(h)lín(h)quas(h) me,(hi/hshs_fgf) (,) Dó(h)mi(h)ne,(h) ne(h) ac(h)cré(hi)scant(h) in(h)gno(h)rán(hf~)ti(fi)æ(gh) me(hg!hwihi)æ,(ih__) (;)
-nec(d) mul(f)ti(h)pli(h)cén(hi~)tur(h) de(hg/hg)lí(gf)cta(hi) me(gxhg!hwiHGFg)a.(gf__) (::)
+<sp>V/</sp> Ne(h) de(h)re(h)lín(h|vi)quas(h|vi) me,(hi/hshs_fgf|//pe-ds-to) (,) 
+Dó(hi|pe)mi(h|ta)ne,(h|ta) ne(h|pe) ac(h|ta)crés(hi|ta)cant(h|ta) 
+in(h|ta)gno(h)rán(hf~|cl)ti(fi|pe)æ(gh|pe) me(hg!hwihi|clql!po)æ,(ih..|cl) (;) 
+nec(d) mul(f)ti(h)pli(h)cén(hi~)tur(h) de(hg/hg|clcl)líc(gf|cl)ta(hi|peS) 
+me(gxhg!hwiHGFg|//////clql!vssu2vi)a.(gf..|cl-) (::)
 
-<sp>+</sp> Et(f) á(gxf!gwh)ni(e)mo.(d) (::)
+<sp>+</sp> Et(f|vi) á(gxf!gwh|viqlhi)ni(e|vi)mo.(d|ta) (::)
