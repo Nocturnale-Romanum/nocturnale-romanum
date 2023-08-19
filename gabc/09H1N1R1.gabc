@@ -2,12 +2,27 @@ name:Si bona suscepimus V Nudus egressus sum;
 office-part:re;
 mode:2;
 submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Si(c) bo(efg)na <sp>*</sp>(f) sus(h)cé(hgh)pi(fg)mus(ffO1e) de(fvhvGE) ma(hvv)nu(ihhO1g) Dó(f)mi(FGhvGFg)ni,(gf) (;)
-ma(h)la(ij) au(jvIHGhih/ij~)tem(f) qua(fg)re(f) non(f) su(FGhvGFE)stin(f)e(hg/hih)á(hvGFg)mus?(ffO1e) (:)
-<sp>+</sp> Dó(f!gwh)mi(f)nus(f) de(fg)dit,(f) Dó(f!gwh)mi(f)nus(f) áb(f)stu(e)lit;(hvv) (,)
-si(e)cut(fh~) Dó(h)mi(hg)no(f) plá(g)cu(f)it,(fe) i(fg)ta(g) fa(fg)ctum(e) est(dxcd/ced@cdvCBcb) (;)
-sit(f) no(f)men(f) Dó(fvhvGE)mi(f)ni(hvv) be(h)ne(ihhg)dí(FGhvGFg)ctum.(gf) (::)
-<sp>V/</sp> Nu(EFgwhhi)dus(f) e(f)grés(ij)sus(i) sum(h) de(h) ú(hi)te(h)ro(hg) ma(hi)tris(gh) me(f!gwhg)æ(gf) (;)
-et(f) nu(ef)dus(f) re(f!gwhGF)vér(f)tar(hg/hih) il(hvGFg)luc.(ffO1e) (::)
-<sp>+</sp> Dó(f!gwh)mi(f)nus.(f) (::)
+(f3) Si(c|gr) bo(e_0//fg|vi-/pehi)na(f|ta) 
+sus(h|vi)cé(hgh|po)pi(fg|cl)mus(f_1foe|pr-) (`) 
+de(f_0//hvGE|vi-/vihisut2) ma(hv_hv_|bv-)nu(ihhog|clSpihhlsco2) 
+Dó(f|ta)mi(fg@hv_GFg|//ci-pp2vi)ni,(gf..|cl-) (;) 
+ma(h|vi)la(ij|pe) au(jvIHG____hih/ij~|////vi-hjsuu3tohhlstm2pe~hh)tem(f|ta) (`) 
+qua(fg|pe)re(f|ta) non(f|ta) 
+sus(fg@hvGFE|ci1pp2lsc2)ti(f|vi)ne(hg/hih|clto)á(hv_GFg|//ci-vi)mus?(f_1foe.|pr-) (:) 
+
+<sp>+</sp> Dó(f!gwh|viqlhi)mi(f|vi)nus(f|vi) de(fg|pe)dit,(f|ta) (,) 
+Dó(f!gwh|qlppt1)mi(f|ta)nus(f|ta) ábs(f_|vi-)tu(e|ta)lit:(hv_hv_|bv-) (;) 
+si(e|vi)cut(fh~|pe~) Dó(h|vi)mi(hg|cllsc2)no(f|ta) plá(g|vi)cu(f|vi)it,(fe|cllsc2) (`) 
+i(fg|pe)ta(f|vi) fac(f_g|peS)tum(e|vi) est;(dxc_d/ceDCdv___CBcb..|////peSto-1suu1ci-cl-) (;) 
+sit(f|vi) no(f|vi)men(f|vi) Dó(f_0/hvGE_0|vivihjsu1suu1lsc2)mi(f|vi)ni(hv_hv_|bv-) 
+be(h|vi)ne(ih/hg__|clScl-)díc(fg@hv_GFg|ci-pp2vi)tum.(gf..|cl-) (::) 
+
+Nu(e_f!gwh/hi|````qlppt2pehh)dus(h|ta) e(h|ta)grés(ij|pe)sus(i|vi) sum(h|ta) 
+de(h|ta) ú(hi|pe)te(h|ta)ro(hg|cl) ma(hi|pe)tris(gh|pe) 
+me(f!gwhg|ql!clppt1)æ(gf..|cl-) (;) 
+et(f|vi) nu(ef|pe)dus(f|ta) re(f!gwh_GFE|ql-ppt1su3)vér(f|vi)tar(hg/hih|clto) 
+il(hv_GFg|ci-vi)luc.(f_1foe.|pr-) (::) 
+
+<sp>+</sp> Dó(f!gwh|viqlhi)mi(f|vi)nus.(f|vi) (::)
