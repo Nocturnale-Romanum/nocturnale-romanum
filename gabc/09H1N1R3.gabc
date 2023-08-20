@@ -1,14 +1,27 @@
+name:Quare detraxistis V Quod justum est judicate V Gloria;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Qua(d!ewffvEDC)re(d!ewf) de(d)tra(e)xí(gh)stis(hg/hih)
-<sp>*</sp> ser(gh)mó(h!iwji/jkj)ni(h)bus(hg/hvGE) ve(fe)ri(fg)tá(gffvED)tis?(ed) (:)
-ad(f) in(c)ce(d)pán(f)dum(e) ver(fe~)ba(d) com(cf)pó(e/fgfEDewfED)ni(c!dwfEDe)tis(ed) (;)
-et(d) sub(e)vér(g!h>)te(g@hwihi)re(ih) ni(j)tí(jvIHih)mi(h!iwjIHi)ni(ih) a(gh)mí(jh/i/j!ko1@lv)cum(ji>) ve(HIjvIHi)strum:(ih) (;)
-<sp>+</sp> Ve(f)rúm(g!h>)ta(hvf!go1!hv)men(hvGFegfEDewf) quæ(d) co(fe)gi(fg)tá(gffs)stis,(d!ewf) ex(gffO1e)plé(DEfvEDe)te.(ed) (::)
-<sp>V/</sp> Quod(hg/hggO1f) jus(g)tum(g) est,(hf) ju(gh)di(gh)cá(ixh/iiO1h)te;(h) (;)
-et(gf~) non(gh) in(h)ve(h)ni(h)é(ixhi)tis(h) in(h) lin(h)gua(h) me(h)a(h) i(hg/hg)ni(gf)qui(ixf!gwhg/hih)tá(hvGFEfwg!hv)tem.(gf) (::)
-<sp>+</sp> Ve(f)rúm(g!h>)ta(hvf!go1!hv)men.(hvGFegfEDewf) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iiO1!h)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf) (::)
-<sp>+</sp> Ve(f)rúm(g!h>)ta(hvf!go1!hv)men.(hvGFegfEDewf) (::)
+(c4) Qua(d!ewfgvF__ED|qlppu1vi-hisuu1su2)re(d!ewf|qlppt1) de(d|talsc3)tra(e|vi)xís(g_h|peS)tis(ixhg/hih|//////cllsc2to) (`) 
+ser(g_h|peS)mó(h!iwji/jkj|ql!clppt1tohj)ni(h|vi)bus(hghvGE|cllsc2ci) ve(fe|cllsc2)ri(fg|pe)tá(gefv___ED|cl-ci-)tis?(ed..|cl-) (;) 
+Ad(e|vi) in(c|ta)cre(d|vi)pán(f|vihh)dum(e|ta) ver(fe~|vi>lsi8)ba(d|vi) com(c_e|peSlsi7)pó(e_0/fgFE__Dewf_ED|vi-to-1sut2ql-su2)ni(c!ewf_EDe|ql-ppt1su2vi)tis,(ed..|cl-lse6) (;) 
+et(d|gr) sub(e|vi)vér(g_0!h>|pe>1)te(g!hwihi|ql!poppt1)re(ih__|cl-) ni(j|vi)tí(jv_IHih__|ci-cl-)mi(g!hwj_IHi|ql-ppt1su2vi)ni(ih__|cl-) (,) 
+a(g_h|peS)mí(jh__/jv_//j@kol|cl-hhvi-hhsahl)cum(j_i>|//cl->hh) ves(hi@jv_IHi|//ci-hhpp2vihh)trum;(ih..|cl-) (:) 
 
+<sp>+</sp> Ve(f|ta)rúm(ghg~|pe>)ta(hv_f@goh|vi-sa)men(hvGF___egFE__Dewf|vi-sut2toS2sut2ql) (,) 
+quæ(d|ta) co(fe|cllsc2)gi(fg|pe)tás(gffs|clsthh)tis,(d!ewf|viqlhi) ex(ge_/foe|clS-pihhlsco2)plé(de!fv_EDe|ci-pp2vi)te.(ed..|cl-) (::) 
+
+<sp>V/</sp> Quod(h|vi) jus(h|vi)tum(h|vi) est(hg/hggof|cl//cl!pi), ju(hf|cllsc2)di(gh|pe)cá(ixh_0/iioh|//////vi-pr)te;(h.|vi) (;) 
+et(hf~|vi>) non(gh|pe) in(h|ta)ve(h|ta)ni(h|ta)é(ixhi|////pe)tis(h|ta) in(h|ta) lin(h|ta)gua(h|ta) me(ixhi|////pe)a(h|ta) (,) 
+i(hg/hg|//pf)ni(hf|cl)qui(ixf!gwhg|////ql!clppt1|hih|tohj)tá(hv_GF_E|vi-su1sut2|fwg__//hv|qlvihj)tem.(gf..|cl-) (::)
+
+<sp>+</sp> Ve(f|ta)rúm(ghg~|pe>)ta(hv_f@goh|vi-sa)men.(hvGF___egFE__Dewf|vi-sut2toS2sut2ql) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) 
+et(gh|pe) Fí(h|ta)li(ixh_0/iioh|////ta/pr-)o,(h.|ta-) (;) 
+et(h|vi) Spi(h|vi)rí(hg/hg|pf)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohj) 
+Sanc(hv_GF_E/fwg_//hv|vi-su1sut2ql-vihk)to.(gf..|cl-) (::) 
+
+<sp>+</sp> Ve(f|ta)rúm(ghg~|pe>)ta(hv_f@goh|vi-sa)men.(hvGF___egFE__Dewf|vi-sut2toS2sut2ql) (::)
