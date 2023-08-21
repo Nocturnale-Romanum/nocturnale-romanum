@@ -1,13 +1,28 @@
+name:Paucitas dierum meorum V Manus tuae Domine;
+office-part:re;
 mode:6;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Pau(ffg~)ci(f)tas(f) di(f)é(fg)rum(gf@efvEDCdc) 
-<sp>*</sp> me(f)ó(f!gwhgh)rum(gf) fi(ffO1e)ni(gvh!iwj)tur(g>) bre(fgf)vi;(f) (:)
-di(fh)mí(hjjk)te(j) me,(j) Dó(jh/jgh)mi(gvFEfwgfg)ne,(gf) (;)
-si(fg)ne(f) plan(fg~)gam(f) páu(fe/fo0!g>)lu(d!ewfeDCd)lum(dc) do(ffO1e)ló(gvh!iwj)rem(g>) me(fgf)um,(f) (:)
-<sp>+</sp> An(f)te(g)quam(hj~) va(j)dam(ji/jhivHGhg) ad(h) ter(ixhjiis)ram(ih) ten(g)e(f)bró(fd!ewfeDCd)sam(CDed) (;)
-et(c) o(d)pér(ffg~)tam(f) mor(ghf)tis(fe) ca(f!go1!hv)li(ixhjhivvvGFEfwgFEf)gi(fggf)ne.(f) (::)
-<sp>V/</sp> Ma(f!go1!hv)nus(ixihivHGhg) tu(ixhi)æ,(h) Dó(h)mi(jh)ne,(ixi) fe(gh)cé(f)runt(f!gwhg) me,(gf) (;)
-et(h) plas(h) ma(ixi)vé(h!iwj!ko~)runt(j) me(j) to(j)tum(jh~) in(ixi) cir(gh~)cú(f)i(f!gwhg)tu;(gf) (;)
-et(f) sic(df~) re(f)pén(fg~)te(f) præ(ghf)cí(fe)pi(f!go1!hv)tas(ixig!hwiHG) me?(ghGFgf) (::)
-<sp>+</sp> An(f)te(g)quam(hj~) (::)  
+(c4) Páu(f_0//fg~|vi-lsl2pe~hhlse2)ci(f|ta)tas(f|ta) di(f|ta)é(f_g|peS)rum(gvFE__fvE__DCdc__|clS-suu1vi-suu1su2cl-) 
+<sp>*</sp> me(f|vi)ó(f!gwhgh|viqlhi!pohi)rum(gf__|cl-) (,) 
+fi(f_1foe|pr-)ní(ixg_h!iwj|vi-lsl2qlhkppt1)tur(gf~|vi>) bre(fgf___|toS)vi;(f.|ta) (;) 
+di(fh|pelsc2)mít(hj_/jk|pe-hipehi)te(j|//tahi) me,(j|ta) 
+Dó(jh/jgh|clpo)mi(gvF__E/fwgfg|vi-sut2ql!po)ne,(gf..|cl-) (;) 
+ut(f|ta) plan(fg~|pe~)gam(f|talse6) páu(fe/fog>|clpq)lu(d!ewfEDCd|ql!vsppt1su2vi)lum(dc__|cl-) (`) 
+do(f_1foe|pr-)ló(ixg_h!iwj|vilsl2qlhkppt1)rem(gf~|vi>) me(fgf___|toS)um,(f.|talse6) (;) 
 
+<sp>+</sp> An(f|ta)te(g|vi)quam(hj~|pe~) 
+va(j|vi)dam(ixjh__/ih__/iv_HGhg__|//////clM-hhcl-hhci-hhcl-hh) 
+ad(h|vi) ter(ixhjiis|////tohhsthj)ram(ih__|cl-) (`) 
+te(f|vi)ne(f|vi)bró(f_d!ewfEDCd|cl-ql!vssu2vi)sam,(c@de___d.|cl-hhdppt2) (;) 
+et(c|ta) o(d|vi)pér(f_0//fg~|vi-pe~hh)tam(f|ta) mor(ghf|to)tis(fe|cllsc2) 
+ca(f!goh|sa)lí(ixhji/iv_iv_|/////toShhbv-hh|ivGF___EfwgFEf|//vi-hjsuu3ql-su2vi)gi(fg_/gf__|pe-cl-)ne.(f.|ta) (::) 
+
+<sp>V/</sp> Ma(f!goh|sa)nus(ixih__/iv_HGhg__|////cl-ci-cl-) tu(ixh!iwj!kv|////viqihivihl)æ,(j|vihh) 
+Dó(jh|cllsc2)mi(ixij|////pe)ne,(ih|cllsc2) fe(h|ta)cé(ixhi|pe)runt(h|ta) me,(h|ta) (,) 
+et(h) plas(h)ma(h)vé(ixhi)runt(h) me(h) to(h)tum(ixig) 
+in(h) cir(gh|pe)cú(f|ta)i(f!gwhg|qi!clppt1)tu;(gf..|cl-) (;) 
+et(f|vi) sic(df|pe) re(f)pén(fg|pe)te(f|ta) præ(ghf|to)cí(gf|cl)pi(f@goh|sa)tas(ixighwi_HG|////clql-su2) me?(g_h_GFgf..|pe-1su2cl-) (::)
+
+<sp>+</sp> An(f|ta)te(g|vi)quam.(hj~|pe~) (::)
