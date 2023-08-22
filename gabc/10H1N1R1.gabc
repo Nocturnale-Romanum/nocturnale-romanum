@@ -1,12 +1,33 @@
+name:Adaperiat V Exaudiat Dominus;
+office-part:re;
 mode:3;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) A(g)Da(h)pé(jij)ri(hg)at(ghfssded)
-<sp>*</sp> Dó(fg)mi(gffvEDe)nus(d/efe/f) (;)
-cor(d!e>) ve(gh)strum(go0!hv) in(gf~) le(e!fg~)ge(h) su(gf!gwh!io~)a(h) et(h) in(-hjjo~) præ(g)cé(hggO1f)ptis(FGhvig!@hg) su(egffs)is(fe) (:)
-et(e) fá(e!fwg!ho~)ci(g)at(gh~) pa(h)cem(gf/ghhg) in(ggf~) dí(g)e(hj)bus(jkj) no(jh!iwjiHGh)stris:(hg) (;)
-<sp>+</sp> Con(h)cé(hi)dat(hg~) vo(hi)bis(h) sa(hg)lú(high)tem,(EFgwh/igfssded) (,)
-et(dc~) ré(f)di(gh)mat(hihGFgh) vos(g) a(GHiwjIHjghwiHG) ma(egffs)lis.(fe) (::)
-<sp>V/</sp> Ex(i)áu(ikjjs)di(h!iwji)at(hhO1g) Dó(i!jo1)mi(i)nus(i) o(i)ra(i)ti(i)ó(i)nes(i) ve(ij)stras(h) et(h) re(h)con(h)ci(h)li(hg)é(h)tur(j) vo(ikjjs)bis(ji) (;)
-nec(hg) vos(hi) dé(i!jo1)se(i)rat(i) in(i) tém(ikjIHiwji)po(hg)re(GHiwj) ma(jiiO1hivHGh)lo.(hg) (::)
-<sp>+</sp> Con(h)cé(hi)dat.(hg~) (::)
+(c4) Ad(g|gr)a(h|vi)pé(jij|po)ri(hg|cl)at(gh_/gss/efe|pe-lsx6``ds-to) 
+<sp>*</sp> Dó(f_g|peS)mi(gf_/fv_EDe|clSci-hgvihh)nus(d_0//efe_//fv|ta/to-1vihg) (,) 
+cor(d_e>|pe>1) ve(g_h|peS)strum(goh|pq) in(h>|vi>lsal3) 
+le(e/fg~|sc~)ge(h|vilsal3) su(ixg_f!gwh_//iv|//////cl-qi-hhvihm)a(h|vi) (,) 
+et(h|``vilse4) in(hj_jo|pe-hhorhl) 
+præ(g|ta)cép(hggof|clpihg)tis(ixfg@hv_ig/hg__|vi-pp2pf-hi) 
+su(egffs|tosthh)is,(fe..|cl-) (;) 
+et(e|``talse4) fá(e!fwg/ho|qippt1orhj)ci(g|ta)at(gh~|ta>) 
+pa(h|vi)cem(gf/gh_/hg__|cllsc3pe-hh`cl-hh) (`) 
+in(ggod~|vs>) di(g|vi)é(hi|pelss3)bus(ikj|//tohj) 
+no(j_h!iwjIHGh|cl-hhqlhh!vshhsu2vihg)stris:(hg..|cl-) (:)
 
+<sp>+</sp> Con(h|vi)cé(ixhi|////pe)dat(hg~|vi>he) no(ixhi|////pe)bis(h|tahe) 
+sa(hg|cllsc3)lú(ixh_0/igh|////vi-po)tem(ixe_f!gwh/ig_/fss/ded.|////qlhgppt2clS-hjds-hktohm) (;) 
+et(dc~|``vi>lse4) réd(f|vi)i(gh|pe)mat(ixh_iH__GFg_h|////toSsu2peShg) 
+nos(g|ta) a(iyg_h!iwjIH___i_gixhwi_HG|////ql-hjppt2sut2cl-hjqi-hksu2) 
+ma(egffs|//tosthh)lis.(fe..|cl-) (::)
+
+<sp>V/</sp> Ex(i|vi)áu(ikjjs|//tohisthk)di(h!iwji|ql!clppt1)at(h_1hog|pr-) 
+Dó(i!jo|vslsc3)mi(h|ta)nus(h|ta) o(h|ta)ra(h|ta)ti(h|ta)ó(h|ta)nes(h|ta) ve(hi|pe)stras(h|ta) (,) 
+et(h|ta) re(h|ta)con(h|ta)ci(h|ta)li(hg|cllsc3)é(h|vi)tur(j|vihh) 
+vo(ikjjs|tohilsi7sthk)bis,(ji..|cl-) (;) 
+nec(ig~|vi>) vos(hi|pe) dé(i!jo|vshdlsc3)se(i|ta)rat(i|ta) 
+in(i|ta) tém(ikjjvI__H/iwji|trS-hh````tahk`tahi/qlhk!clhk)po(hg|cllsc3)re(g_h!iwj|qlhhppt2) 
+ma(jiiohiv_HGh|////cl!pici-hhvihi)lo.(hg..|cl-) (::)
+
+<sp>+</sp> Con(h|vi)cé(ixhi|////pe)dat.(hg~|vi>he) (::)
