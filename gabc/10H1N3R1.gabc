@@ -1,9 +1,30 @@
+name:Refulsit sol in clypeos V Erat enim exercitus;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Re(c)fúl(e!f!g>)sit(f) sol<sp>*</sp>(f) in(f) clý(f)pe(f)os(gwh) au(hgh)re(fg)os,(ffO1e) (;)
-et(e) re(f)splen(h)du(h)é(hi)runt(h) mon(hvGFEf!g>)tes(f) ab(f!gwh/ihhO1g) e(FGhvGFg)is:(gf) (:)
-<sp>+</sp> Et(e!fh~) for(hhg~)ti(hi)tú(hhO1g)do(hi) gén(h!i>)ti(ghGFg)um(gf) dis(ghg)si(e!fo1h)pá(hf!gwhGF)ta(f!gwhGFg) est.(gf) (::)
-<sp>V/</sp> E(EFgwhhi)rat(h) e(ij)nim(i>) ex(h)ér(hi~)ci(h)tus(h) ma(hi~)gnus(h) val(hg~)de(hi) et(gh) for(f!gwhg)tis:(gf) (;)
-et(f) ap(ef)pro(f)pi(f)á(f)vit(f) Ju(fg)das(f) et(f) ex(f)ér(fg~)ci(f)tus(f) e(f)jus(f!gwhGFE) in(f) prœ(hg/hih)li(hvGFg)o(ffO1e) (::)
-<sp>+</sp> Et.(e!fh~) (::)
+(f3) Re(c|gr)fúl(e_0//fg>|vi-hdpe>hg)sit(f|ta) sol(f|ta) 
+<sp>*</sp> in(f|ta) clý(f|ta)pe(f_0|ta)os(gwh|ql) 
+áu(hgh|po)re(fg|pe)os,(f_1foe|pr-) (,) 
+et(e|``tahdlse1) re(f|vi)splen(h|vi)du(h|vi)é(hi|pe)runt(h|ta) 
+mon(hvG__FEf_g>|vi-suu1su2pe>1hg)tes(f|ta) 
+ab(f!gwh/ih_hog|qlppt1clShipihjlsco2) 
+e(fg!hv_GFg|//ci-pp2vihg)is;(gf..|cl-) (:)
 
+<sp>+</sp> Et(e/fh~|sc~) 
+for(hhog~|vs>he)ti(hi|pe)tú(h_1hog|pr-)do(hi|pehg) 
+gén(h_i>|pe>1)ti(g_h_GFg|pe-1su2vihg)um(gf__|cl-) (,) 
+dis(ghg|tolss2)si(e!fog|sa)pá(h_f!gwh_GF|cl-ql-hhsu2)ta(e!fwh_GFg|ql-su2ppt1vihg) 
+est.(gf..|cl-) (::)
+
+<sp>V/</sp> E(e_f!gwh/hi|qlppt2pehj)rat(h|ta) 
+e(ij|pe)nim(i>|vi>) ex(h|ta)ér(hi~|ta>)ci(h|ta)tus(h|ta) 
+ma(hi~|ta>)gnus(h|ta) val(hg~|vi>)de(hi|pe) et(gh|pe) 
+for(f!gwhg__|ql!cl-ppt1)tis,(gf..|cl-) (;) 
+et(f|vi) ap(ef|pe)pro(f|ta)pi(f|ta)á(f|ta)vit(f|ta) 
+Ju(fg|ta)das(f|ta) et(f|ta) ex(f|ta)ér(fg|ta>)ci(f|ta)tus(f|ta) 
+e(f|ta)jus(f!gwhGFE|qlsu3ppt1) in(f|vi) 
+prǽ(hg/hih|cllsc2tohg)li(hv_GFg|ci-vihg)o.(f_1foe.|pr-) (::)
+
+<sp>+</sp> Et.(e/fh~|sc~) (::)
