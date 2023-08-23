@@ -1,11 +1,35 @@
+name:Congregatae sunt gentes V Tu scis quae cogitant;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Con(d)gre(d)gá(f!gh)tæ(g) sunt<sp>*</sp>(g) Gen(gh~)tes(g) in(g) mul(g)ti(g!ho1!iv)tú(h)di(h)ne,(hg/h!iwjg/h/ggO1f) (;)
-ut(hf~) di(g)mi(ghg)cá(g)rent(hfGHiwjIHiwjihs>) con(g)tra(GHivHGh) nos,(GHih) (:) et(fh) i(jki>)gno(jk)rá(ki/jkh/i)mus(hhO1g) quid(f) á(hih)ge(hg)re(j) de(j)be(jijvIHG)á(hghvGFg)mus:(gf) (;)
-<sp>+</sp> Dó(FGhjg)mi(g)ne,(g) De(g)us,(e) ad(g) te(fef) sunt(dec/d!ewfefvED) ó(f!gh)cu(g)li(gh) no(h)stri,(hg/higgf) (,)
-ne(gh) pe(g)re(GHiwjIHiwjIH)á(GHivHGh)mus.(hg) (::)
-<sp>V/</sp> Tu(ji) scis(jkj/iji/hhO1g) quæ(i) có(ih)gi(ij)tant(hi) in(g!hwih) nos:(hg) (;) 
-quó(g)mo(hi)do(i) po(ih)té(ij)ri(i)mus(i) sub(i)sí(ij)ste(i)re(i) an(i)te(i) fá(i)ci(i)em(ij) il(hi)ló(h!iwji)rum,(hg) (;)
-ni(g)si(fg) tu(hiHGhih) á(ghf)ju(gh)ves(h!iwji/jkjIH) nos?(hiHGhg) (::)
-<sp>+</sp> Dó(FGhjg)mi(g)ne.(g) (::)  
+(c4) Con(d|ta)gre(d|ta)gá(f_0//gh|scM1)tæ(g|ta) 
+sunt(g|ta) gen(gh~|ta>)tes(g|ta) <sp>*</sp> in(g|ta) 
+mul(g|ta)ti(ixg!hoi|////saM1)tú(h|vi)di(h|vi)ne,(hg__/h!iwjg|cl-qlhg!clhgppt1|hv_ggof.|vi-hlprhm) (;) 
+ut(hf~|vi>) 
+di(g|vi)mi(hjh|to)cá(g|ta)rent(hf__/g_h!iwjI__H/iwj_IH>|cl-ql-hhsut2ppt2ql-hjsu1sux1) 
+con(g|ta)tra(gh!iv_HGh|//ci-pp2vihg) nos,(ixg@hi___h.|////cl-ppt2) (;) 
+et(f_h|``peSlsi7lsl3) 
+i(jkJ~H~|////to>hk)gno(j_k|peShj)rá(ki/jkh_iv|clhito-1hkvihl)mus(h_1hog|pr-) (`) 
+quid(f|ta) á(ixhih|////to)ge(hg|cllsc3)re(iyi|////vi) 
+de(j|vi)be(ji__/jvI__HG|cl-hivi-hksuu1su2)á(hghv_GFg|clci-hgvihh)mus.(gf..|cl-) (:) 
 
+<sp>+</sp> Dó(fg!hjh|tohgpp2lss3)mi(g|vi)ne(g|vi) De(g|vi)us(e|ta) 
+ad(g|vi) te(fef|po) sunt(dec_/d!ewfefv_ED|to-1ql!clppt1ci-hj) 
+ó(f_0//gh|vi-pe)cu(g|vi)li(gh|pe) 
+no(h|vi)stri,(ixhg/hig_/gf..|////cllsc2to-1cl-hh) (;) 
+ne(gh|pe) 
+per(g|ta)<nlba>e(g_h!iwjI__H/iwj_IH|ql-hhsut2ppt2ql-hksu2)</nlba>á(gh!iv_HGh|//ci-pp2vihg)mus.(hg..|cl-) (::)
+
+<sp>V/</sp> Tu(ji|cllsc3) scis(jkj/iji/hho1g|tohitohiprhh) quæ(hi|pe) 
+có(i|vi)gi(i|vi)tant(ih|cllsc3) in(jk|pehilss2) nos:(j_|ta-) (,) 
+quó(jk|pehi)mo(j|ta)do(j|ta) pot(j|ta)é(j|ta)ri(j|ta)mus(j|ta) 
+sub(j|ta)sí(jk|pehi)ste(j|ta)re(j_|ta-) (,) 
+an(j|ta)te(j|vi)  fá(ji|cllsc3)ci(ih|cllsc3)em(ij|pe) 
+il(hi|pe)ló(g!hwih|ql!clppt1)rum,(hg..|cl-) (;) 
+ni(g|ta)si(g|ta) tu(ixhiHGhih|////pesu2tohg) 
+ád(ghf|to)ju(g_h|peS)ves(iyh!iwji/jkJ_IH|////ql!clppt1to-1hlsu2) 
+nos?(h_i_HGhg..|pe-1su2cl-hg) (::)
+
+<sp>+</sp> Dó(fg!hjh|tohgpp2lss3)mi(g|vi)ne.(g|vi) (::)
