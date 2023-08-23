@@ -1,12 +1,34 @@
+name:Impetum inimicorum V Mementote mirabilium;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Im(f>)pe(efEC)tum(EFgwhf/ghg)
-<sp>*</sp> in(fe)i(f)mi(h)có(hvGFg)rum(ffO1e) (;)
-ne(f) ti(ge)mu(f)é(hf!gwhg)ri(FGhvGFg)tis:(gf) (:)
-mé(fi)mo(h)res(g) e(g)stó(gih@ghvGFgwhgh)te(gf) quó(fg)mo(f)do(f) sal(fg~)vi(f) fa(fg)cti(f) sunt(FGhvGF) pa(f)tres(hg/hih) no(hvGFg)stri:(ffO1e) (;)
-<sp>+</sp> Et(ef) nunc(fihi>) cla(f)mé(fi)mus(h) in(g) cœ(gih!ghvGFgwhgh)lum(gf) (,)
-et(f) mi(hg)se(hi)ré(i)bi(h)tur(HIjvIH) no(hvGFg)stri(fvEDefef) De(f)us(ed!ewfef) no(f!gwhgh)ster.(gf) (::)
-<sp>V/</sp> Me(f)men(e)tó(EFgwhhi)te(h) mi(ij)ra(i)bí(hg)li(hi)um(gh) e(f!gwhg)jus,(gf) (;)
-quæ(f) fe(ef)cit(f) pha(f)ra(f)ó(fg)ni(f) et(f) ex(f)er(f)cí(fg)tu(f)i(f) e(fg~)jus(f) in(f!gwhGFes) Ma(f)ri(hg/hih) Ru(HvGFg)bro.(ffO1e) (::)
-<sp>+</sp> Et.(ef) (::)
+(f3) Im(f>|vi>)pe(e_f_EC|pe-1su2)tum(e_f!gwhf/ghg|ql!clppt2tohj) 
+in(fe|cllsc3)i(f|vi)mi(h|vi)có(hv_GFg|ci-vi)rum(f_1foe|pr-) <sp>*</sp>(,) 
+ne(f|vi) 
+ti(ge|cllsal2lsc3)mu(f|vi)é(h_f!gwhg|cl-heql!cl)ri(fg!hv_GFg|//ci-pp2vihg)tis:(gf..|cl-) (;) 
+mé(f_i|``peSlse1)mo(h|vi)res(g|talse9) 
+e(g|ta)stó(giHGhvG____F/gwhgh|to-1suu1vi-hhsut2qlhj!pohj)te,(gf__|cl-hd) (,) 
+quó(fg|pe)mo(f|tahg)do(f|tahg) sal(fg~|ta>)vi(f|ta) 
+fac(fg|pe)ti(f|ta) sunt(fg!hvG~F~E~|//ci>pp2lsc2) 
+pa(f|vihe)tres(hg/hih|cltohg) no(hv_GFg|ci-vihg)stri;(f_1foe.|pr-lse9) (:) 
 
+<sp>+</sp> Et(e_f|peS) nunc(fih_//i>|toS2vi>hg) 
+cla(f|ta)mé(f_i|peS)mus(h|vi) in(g|talse9) 
+<nlba>cæ(giHGhvG____F/gwhgh|to-1suu1vi-hhsut2qlhj!pohj)</nlba>lum,(gf..|cl-) (;) 
+et(f|``talse1) mi(hg|cllsc3)se(hi|pe)ré(i|vi)bi(h|ta)tur(hi@jvIH_|ciShhpp2) 
+no(hv_GFg|ci-vihg)stri(fvED___efef|vi-suu2trhh) (`) 
+De(f|vi)us(e_d!ewfef|cl-qlhg!pohg) 
+no(fg!hv_GFg|////ci-pp2vihg)ster.(gf..|cl-) (::)
+
+<sp>V/</sp> Me(f|vi)men(e|ta)tó(e_f!gwh_//hi|ql-ppt2pehh)te(h|ta) 
+mi(ij|``pehhlsl1)ra(i|ta)bí(hg|cl)li(hi|pe)um(gh|pe) 
+e(f!gwhg|ql!clppt1)jus(gf..|cl-) (;) 
+quæ(f|vi) fe(ef|pe)cit(f|ta) Pha(f|ta)ra(f|ta)ó(fg|pe)ni(f|ta) 
+et(f|ta) ex(f|ta)er(f|ta)cí(fg|pe)tu(f|ta)i(f|ta) e(fg~|ta>)jus(f|ta) 
+in(f!gwh_G~F~E~|ql-su1sux1ppt1) Ma(f|vi)ri(hg/hih|cl/tohh) 
+Ru(hv_GFg|ci-vihg)bro.(f_1foe.|pr-) (::)
+
+<sp>+</sp> Et(e_f|peS) nunc(fih_//i>|toS2vi>hg) 
+cla(f|ta)mé(f_i|peS)mus.(h|vi) (::)
