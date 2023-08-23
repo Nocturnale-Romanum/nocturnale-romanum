@@ -1,13 +1,37 @@
+name:Tua est potentia V Creator omnium V Gloria;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Tu(e!fg)a(f) est(f) po(h)tén(hgh)ti(fg)a,<sp>*</sp>(ffO1e) (;)
-tu(f)um(gwh) re(hvGFEf)gnum(f!gwh/ihhO1gs>) Dó(f)mi(FGhvGFg)ne:(gf) (:)
-tu(fiHGhvGFg) es(gf) su(fg)per(f) o(hg~)mnes(hih) gen(hvGFg>)tes:(ffO1e) (;)
-<sp>+</sp> Da(h) pa(hg)cem,(f) Dó(ghg)mi(EFgvFEf)ne,(ef/eeO1c) (,) 
-in(f) dí(fvhvGE)e(hvv)bus(ihhO1g) no(FGhvGFg)stris.(gf) (::)
-<sp>V/</sp> Cre(f)á(EFgwhhi)tor(h) ó(ij~)mni(i)um,(h) De(hi)us,(h) ter(h)rí(h)bi(hg)lis(hi) et(gh) for(f!gwhg)tis,(gf) (;)
-ju(f)stus(ef) et(f!gwhGFE) mi(f)sé(hg/hih)ri(hvGFg)cors.(ffO1e) (::)
-<sp>+</sp> Da.(h) (::)
-<sp>V/</sp> Gló(EFgwhhi)ri(h)a(h) Pa(hg)tri,(hi) et(gh) Fí(f)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(f!gwhGFE)tu(f)i(hg@hih) San(hvGFg>)cto.(ffO1!e) (::)
-<sp>+</sp> Da.(h) (::)
+(f3) Tu(e_0//fg|gr-pehg)a(f|ta) est(f|ta) 
+pot(h|vi)én(hgh|po)ti(fg|pe)a,(f_1foe|pr-he) (,) 
+tu(f_0|vi)um(gwh|ql) 
+re(hvG__FEf|vi-suu1su2vihg)gnum,(f!gwh/ih_hog>|qlppt1clS-hhpi>hilsco2) 
+Dó(f|ta)mi(fg!hv_GFg|ci-pp2vihg)ne,(gf..|cl-lse6) (;) 
+tu(f_iHGhv____GFg|pe-1sut2ci-hgvihh) es(gf__|cl-) 
+su(fg|pe)per(f|ta) om(g>|vi>he)nes(hih|to) 
+gen(hv_GFg>|ci-vi>)tes;(f_1foe|pr-) (;)
+<sp>+</sp> Da(h|vi) pa(hg|cllsc3)cem,(f|ta) 
+Dó(ghg|tolss2)mi(ef!gv_FEf|///ci-pp2vihg)ne,(ef/eeoc|pq-prlsi8) (`) 
+in(f|vi) 
+di(f_/hv_GE_0|vi-vihksu1suu1)é(hv_hv_|bv-)bus(ih_hog|clS-pi>hglsco2) 
+no(fg!hv_GFg|//ci-pp2vihg)stris.(gf..|cl-) (::)
+
+<sp>V/</sp> Cre(f|vi)á(e_f!gwh/hi|qlhgppt2pehj)tor(h|ta) 
+óm(ij~|ta>)ni(i|vi)um,(h|ta) (`) 
+De(hi|pe)us(h|ta) ter(h|ta)rí(h|ta)bi(hg|cl)lis(hi|pe) 
+et(gh|pe) for(f!gwhg|ql!clppt1)tis,(gf..|cl-) (;) 
+ju(f|ta)stus(ef|pe) et(f!gwh_GFE|ql-ppt1su3) 
+mi(f|vi)sé(hg/hih|cltohh)ri(hv_GFg|ci-vihg)cors.(f_1foe.|pr-) (::)
+
+<sp>+</sp> Da.(h|vi) (::)
+
+<sp>V/</sp> Gló(e_f!gwh/hi|qlhgppt2pehj)ri(h|ta)a(h|ta) 
+Pa(hg|cllsc3)tri,(hi|pe) et(gh|pe) 
+Fí(f|ta)li(f!gwhg|ql!clppt1)o,(gf..|cl-) (;) 
+et(f|ta) 
+Spi(f|ta)ri(f!gwh_GFE|ql-ppt1su3)tu(f|vi)i(hg/hih|cllsc2tohg) 
+Sanc(hv_GFg>|ci-vi>hg)to.(f_1fe.|pr-) (::)
+
+<sp>+</sp> Da.(h|vi) (::)
