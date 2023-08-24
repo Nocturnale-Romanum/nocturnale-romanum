@@ -1,11 +1,33 @@
+name:Vidi Dominum sedentem V Seraphim stabant;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Vi(h)di(f) Dó(g)mi(f)num<sp>*</sp>(ffe) se(dc)dén(d!ewfef>)tem(ed) (;)
-su(fe)per(f) só(gh)li(ge)um(g) e(fe)cél(fge/fec~)sum(dc) et(ecdv) e(DEfo1!gvhv)le(fe)vá(DEfvEDe)tum,(ed) (:)
-et(h!iwjIHho~) ple(g)na(h) e(JKlv)rat(k) o(k>)mnis(k!lwm) ter(j!k>)ra(h) ma(h>)je(hk)stá(j)te(ij) e(ixhvGFgwhihg~)jus:(hg) (;)
-<sp>+</sp> Et(f!go1!hv) e(hvf!go1!hv)a,(hvGEfgfEDewf) quæ(fe) sub(d) i(e)pso(fg)e(g/hfg)rant,(fg/ffd<) (,)
-re(ec/d)plé(DEfo1!gvf!go1!hv)bant(hg/hfgvFEs<) tem(d!ewfef)plu.(ed) (::)
-<sp>V/</sp> Sé(h)ra(h)phim(hg/hggf~) sta(g)bant(hf~) su(gh)per(gh) il(ixh/iiO1h)lud:(h) (;)
-sex(gf) a(gh)læ(h) u(ixhi)ni,(h) et(h) sex(h) a(hg/hg)læ(gf) ál(ixf!gwhg/hih)te(hvGFEfwg!hv)ri.(gf) (::)
-<sp>+</sp> Et.(f!go1!hv) (::)
+(c4) Vi(h|vi)di(f|ta) Dó(g|vi)mi(f|ta)num(fvfe___|vi-cl-) 
+se(dc|cllsc2)dén(d!ewfef>|vi-qlhi!po>hilsi9)tem(ed..|cllss2) <sp>*</sp>(;) 
+su(fe|cllsc2)per(f|vi) só(g_h|peS)li(ge|clMlsc2)um(g|vilsal2) 
+ex(fe|cllsc2)cél(fge___|toS|fvE~C~|ci~)sum(dc__|cl-) (,) 
+et(ecd___|cl-vi-) 
+e(de@fog_//hv|sahdpp1vihl)le(fe__|cl-)vá(de@fv_EDe|//ci-pp2vi)tum,(ed..|cl-) (;)
+et(h!iwjjvIHho|vilsl2qlhici-hjorhi) ple(g|ta)na(h|vi) 
+e(j_k@lv|scShmlsl4lsal3)rat(k|vihk) om(k>|vi>hk)nis(k!lwm|```````vi-hjqlhmlss3) 
+ter(j_kj~|pe>1hhlsal3)ra(h|ta) (,) 
+ma(h>|``vi>lse4)je(hk|pehk)stá(j|vi)te(ij|pe) 
+e(ixhvG__F/gwh/ih__g~|//////vi-hhsut2qihhcl->hl)jus:(hg..|cl-) (:)
 
+<sp>+</sp> Et(f@goh|sa) 
+e(hv_f@goh|vi-sa)a(hvGF___|vi-sut2|e_gF__ED/ewf|to-1sut2ql) (`) 
+quæ(fe__|cl-lse4) sub(d|ta) i(e|vi)pso(fg|pe) 
+e(g_0//hfg|vi-po)rant(f_g/f_1fod<|``peSvs-pe~hh) (,_) 
+re(e_cd|//clM-vi)plé(de@fog/f@goh|sapp1`sahj)bant(hg/hf|pflsc2|gvF__E<|vi-sut1sux1) 
+tem(d!ewfef_|ql!po-1ppt1)plum.(ed..|cl-) (::)
+
+<sp>V/</sp> Sé(h|vi)ra(h|vi)phim(hg/hg/gof~|cl/clor>hd) 
+sta(g|vi)bant(hf~|vi>) su(gh|pe)per(gh|pe) 
+il(ixh_1/i_1ioh|//////vi-pr-)lud,(h.|vi) (;)
+sex(hf|cllsc2) a(gh|pe)læ(h|ta) u(ixhi|/////pe)ni(h|ta) 
+et(h|ta) sex(h|ta) a(hg/hg|pf)læ(hf|cllsc2) 
+ál(ixf!gwhg/hih|//////ql!clppt1tohi)te(hv_GF_E/fwg_//hv|//vi-su1sut2qlvihi)ri.(gf..|cl-) (::)
+
+<sp>+</sp> Et(f@goh|sa) e(hv_f@goh|vi-sa)a.(hvGF___|vi-sut2|e_gF__ED/ewf|to-1sut2ql) (::)
