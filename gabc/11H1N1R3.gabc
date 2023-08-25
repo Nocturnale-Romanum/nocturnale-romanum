@@ -1,14 +1,37 @@
+name:Aspice Domine quia facta est V Plorans ploravit V Gloria;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) A(f)Spi(fe)ce, <sp>*</sp>(d!ewfe) Dó(fd!ewfED)mi(d!ewfEDe)ne,(ed) (;)
-qui(c)a(d) fa(ffO1e)cta(gf) est(fge/fvEDed) de(f)so(d!ewfe)lá(f)ta(d!ewfe) ci(f)vi(de)tas(ddO1c) ple(dvfvEC)na(fvv) di(gffO1e) vi(d)t<e>i</e>( )is,(dEfvEDeeO1d) (:)
-se(ffg)det(f) in(ffe~) tri(fg)stí(fg)ti(efEDe)a(ed) dó(ffO1e)mi(g)na(ixGHivGF) Gén(f)ti(fggf)um:(f) (:)
-<sp>+</sp> Non(ixf!gwhgh!iv) est(h) qui(h) con(g>)so(f)lé(ffO1e)tur(fg) e(fge/fvEDE)am,(ed) (,)
-ni(d)si(fe) tu,(fd/eeO1dEFgffvDCd!ewfED) De(d!ewfef)us.(ed) (::)
-<sp>V/</sp> Plo(h)rans(hg//hggf~) plo(g)rá(hf)vit(gh) in(gh~) no(ixh/iiO1h)cte,(h) (;)
-et(gf~) lá(gh)cri(h)mæ(h) e(ixhi~)jus(h) in(h) ma(hg/hg)xíl(gf)lis(ixf!gwhg/hih) e(hvGFEfwg!h>)jus.(gf) (::)
-<sp>+</sp> Non.(ixf!gwhgh!iv) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iiO1!h)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf) (::)
-<sp>+</sp> Non.(ixf!gwhgh!iv) (::)
+(c4) A(f|vi)spi(fe|cllsm2)ce,(d!ewfe|ql!clppt1) 
+Dó(f_d!ewf_ED|cl-ql-su2)mi(c!dwf_EDe|ql-ppt1su2vi)ne,(ed..|cl-) 
+<sp>*</sp>(;) 
+qui(c|```grlsi4)a(d|vi) fa(f_1foe|pr-)cta(ge|cllss2lsc2) 
+est(fge___fv_EDed__|//toSci-cl-) 
+de(f|vi)so(d!ewfe|ql!clppt1)lá(f|vi)ta(d!ewfe|ql!cl-ppt1) (,) 
+cí(f|vi)vi(de|pe)tas(d_1doc|pr-) 
+ple(d_//fvEC|vi-ci)na(fv_fv_|bv-) 
+di(gefoe|clS-`pihhlsco2)ví(d|ta)tiis,(de@fv_EDe_1eod.|//ci-pp2pr-) (;)
+se(f_0//fg|vi-lsl2pe)det(f|ta) in(ffoe~|vs>) 
+tri(fg|pe)stí(f_g|peS)ti(e_f_EDe|pe-1su2vi)a(ed__|cl-) (,) 
+dó(f_1foe|pr-)mi(g|vilsl2)na(ixgh@ivHG|//cipp2lsc2lse4) 
+gén(f|vi)ti(fg_/gf__|pe-cl-)um;(f.|talse6) (:)
 
+<sp>+</sp> Non(ixf!gwhghiv|//////qlhh!pohhppt1vihl) est(h|ta) 
+qui(h|vilse4) con(g>|vi>)so(f|vi)lé(f_1foe|pr-)tur(fg|pe) 
+e(fge___|toS|fvE__DCd|vi-suu1su2vi)am,(dc..|cl-) (;) 
+ni(d|vi)si(fe|cllsc2) tu,(fd__|cl-|e_eod|pr-|df/gf_|clSpp2|fvEC___/d!ewf_ED|vi-hcsut2ql-ppt1su2) 
+De(d!ewfef|ql!poppt1)us.(ed..|cl-) (::)
+
+<sp>V/</sp> Plo(h|vi)rans(hg/hggof~|clclor>) plo(g|vi)rá(hf|cl)vit(gh|pe) in(gh~|pe~) no(ixh_1/i_1ioh|//////vi-pr-)cte,(h.|vi) (;)
+et(hf~|vi>) lá(gh|pe)cri(h|vi)mæ(h|vi) e(ixhi~|//////pe~)jus(h|ta) in(h|ta) ma(hg/hg|pf)xíl(hf~|vi>)lis(ixf!gwhg/hih|//////ql!clppt1tohi) e(hv_GF_E/fwg!h>|vi-su1sut2qivi>hj)jus.(gf..|cl-) (::)
+
+<sp>+</sp> Non(ixf!gwhghiv|//////qlhh!pohhppt1vihl) est(h|ta) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) 
+et(gh|pe) Fí(h|ta)li(ixh_0/iioh|////ta/pr-)o,(h.|ta-) (;) 
+et(h|vi) Spi(h|vi)rí(hg/hg|pf)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohj) 
+Sanc(hv_GF_E/fwg_//hv|vi-su1sut2ql-vihk)to.(gf..|cl-) (::)
+
+<sp>+</sp> Non(ixf!gwhghiv|//////qlhh!pohhppt1vihl) est(h|ta) (::)
