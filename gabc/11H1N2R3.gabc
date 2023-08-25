@@ -1,16 +1,37 @@
+name:Sustinuimus pacem V Peccavimus impie gessimus V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Su(d)sti(d)nú(fg)i(hghvFDewfEC)mus(d) pa(fwgfg!hv)cem,<sp>*</sp>(g) (,)
-et(hvf!gwhjvIH) non(ji~) ve(h/jgh)nit:(hg) (;)
-quæ(f)sí(gh)vi(h)mus(h) bo(gf/go0!hv)na,(hd) (,)
-et(d) ec(f!gh)ce(g/hjg/h/ggO1f) tur(FHjh/ih>)bá(g)ti(ghhg)o:(g) (:)
-co(f/hj~)gnó(jjO1i)vi(jvhih)mus,(ijiHGhg) Dó(gh)mi(g)ne,(gvFGHjhivHGhg) pec(fg)cá(gjjv)ta(hg) no(hiHGhi)stra:(hggo~) (;)
-<sp>+</sp> No(f!go1!hv)li(h) in(hggf~) per(g>)pé(f!go1!hv) tu(fe)um(dec/d!ewfe/fvED) o(fe)bli(fg)ví(ghGF)sce(fg)re(g!hwihi) nos.(hg) (::)
-<sp>V</sp> Pec(j)cá(j)vi(ji)mus,(jkj/iji/hhO1g) im(hi~)pi(i)e(i) gés(ij)si(i)mus,(i) (,)
-in(i)i(i)qui(i)tá(ij)tem(i) fé(ih)ci(ij)mus,(hi) Dó(g)mi(g!hwih)ne,(hg) (;)
-in(g) o(fg~)mnem(g) ju(g)stí(hiHGhih)ti(ghf)am(gh) tu(h!iwji/jkjIH)am.(hiHGhg) (::)
-<sp>+</sp> No(f!go1!hv)li.(h) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hVg)  (::)
-<sp>+</sp> No(f!go1!hv)li.(h) (::)
+(c4) Sus(d|ta)ti(d|ta)nú(f_g|peS)i(hg__//hvF__D/ewf_ED|cl-vi-sut2ql-su2)mus(d|vi) 
+pa(dgfghv|qlhd!pohdvihh)cem,(g|vi) 
+<sp>*</sp> et(ixg_h!iwj_jv_IH|vi-ql-ppt1ci-hk) non(j>|vi>hhlsi8) 
+ve(h_0//jgh|poppu1lss2)nit,(hg..|cl-) (;) 
+quæ(f|ta)sí(gh|pe)vi(h|vi)mus(g|vi) bo(gf/goh|clpq)na(hd__|cl-) (,) 
+et(d|gr) ec(f_0//gh|vi-/pehi)ce(ixg_0//hig_|//////to-1ppt1|hvggof|vipr) 
+tur(ixfh/jh/ih>|//////clpp2ci~hi)bá(g|ta)ti(gh/hg__|pecl-)o;(g.|vi) (;) 
+cog(f_0//hj~|pe~ppu1lss2)nó(j_1joi|pr-)vi(jv_hih|vi-tohh)mus,(ijI___HGhg__|toShhsu2cl-hh) (`) 
+Dó(gh|pe)mi(g|vi)ne(ixgv_//f@g@hjh_____ivHG___hg__|////////vi-hhcl-hmppt3lsi7vi-hjcl-hj) (,) 
+pec(fg|pe)cá(gj_jv_|pe-vi-)ta(hg__|cl-) 
+nos(ixhiHGh_i|pesu2lss4peS)tra:(hg__go|cl-or) (:) 
+
+<sp>+</sp> Non(f!goh|sa) in(hggoe~|clor>) 
+per(g>|vi>)pé(f@goh|sa)tu(fe|cl)um(dec_/d!ewfefv_ED|toS2ql!clppt1ci-hj) (,) 
+o(fe|cllsc2)bli(fg|pe)vis(g_h_GE|pe-1su2)cá(fg|pe)ris(g!hwihi|ql!clppt1) 
+nos.(hg) (::) 
+
+<sp>V/</sp> Pec(j|vi)cá(j|vi)vi(ji|cl)mus,(jkj_/iji_/hhog|to-1to-1pr) 
+ím(hi|pe)pi(i)e(i) gés(ij|pe)si(i)mus,(i_) (,) 
+i(i)ni(i)qui(i)tá(ij)tem(i) fé(ih|cl)ci(ij|pe)mus,(hi|pe) 
+Dó(g)mi(g!hwih|qi!clppt1)ne,(hg..|cl-) (;) 
+in(g) om(fg~)nem(g|ta) 
+jus(g|ta)tí(ixhi_HGhih|//////pe-hisu2tohi)ti(ghf|to)am(g_h|peS) 
+tu(iyh!iwji/jkJ_IH|//////ql!clppt1to-1hjsu2)am.(h_i_HGhg..|pe-1su2cl-) (::)
+
+<sp>+</sp> Non(f!goh|sa) in.(hggoe~|clor>) (::)
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|tohitohjprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|pe-su2tohg)tu(ghf|to)i(gh|peS) Sanc(h!iwji/jkJ_IH|//////qlhi!clhippt1to-1hmsu2)to.(h_i_HGhg..|pe-1su2cl-) (::)
+
+<sp>+</sp> Non(f!goh|sa) in.(hggoe~|clor>) (::)
 
