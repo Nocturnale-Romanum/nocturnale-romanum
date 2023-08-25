@@ -1,10 +1,29 @@
+name:Super muros tuos V Praedicabunt;
+office-part:re;
 mode:6;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Su(f)per(gh~) mu(gh)ros(hg) tu(gh)os,<sp>*</sp>(hf) Je(g) rú(ffO1e)sa(f)lem,(ixghg/hih) (;)
-con(f)stí(h)tu(iwj)i(hhO1g) cu(gh)stó(hvGFEfwgfg)des;(gf) (:) 
-<sp>+</sp> To(f)ta(ghg) di(gh)e(hf) et(gh) no(gfg)cte(fg/ffO1d) non(fe~) ta(fgf)cé(d!ewfeDCd)bunt(CDed) (;)
-lau(c!df~)dá(fgFE)re(ixgigi) no(ig!hwih)men(ixig!hwiHGs>) Dó(f)mi(FGhvGFg)ni.(gf) (::)
-<sp>V/</sp> Præ(f)di(f)cá(f!go1!hv)bunt(ixih/ivHGhg) pó(ixhi)pu(h)lis(h) for(h)ti(h)tú(hf)di(ixi)nem(gh) me(f!gwhg)am,(gf) (;)
-et(f) an(df~)nun(f)ti(f)á(fg)bunt(f) Gén(fg~)ti(f)bus(f) gló(ghf)ri(fe)am(f!go1!h>) me(ixig!hwiHG)am.(ghGFgf) (::)
-<sp>+</sp> To(f)ta.(ghg) (::)
+(c4) Su(f|vi)per(gh>|pe>) mu(gh|pe)ros(gf|cl) 
+tu(gh|pe)os(hf|cl), 
+Je(g|vi)rú(f_1foe|pr-)sa(f|vi)lem,(ixghg/hih|//////to/tohh) 
+<sp>*</sp>(,) con(f|ta)stí(h_|vi)tu(hwj|`ql)i(h_1hog|/pr-) 
+cus(gh|pe)tó(hvGF___E/fwgfg|vi-sut3ql!po)des.(gf..|cl-) (:) 
 
+<sp>+</sp> To(f|ta)ta(ghg|toS3) di(gh|pe)e(hf|cllsc2) 
+et(gh|pe) noc(gfg|po)te (f_g/f_fod|peSpr-) (`) 
+non(fe~|vi>) 
+ta(fgf|to)cé(d!ewfEDCd|ql!vsppt1su2vi)bunt(c@ded____|cl-ppt2) (,) 
+lau(c/df~|sc~)dá(f_g_FE|pe-1su2)re(ghgh|tr) 
+no(ixh_g!hwih|//////cl-ql!cl)men(h_g!hwi_HG>|/cl-ql-su1sux1) 
+Dó(f|ta)mi(fg@hv_GFg|//ci-pp2vi)ni.(gf..|cl-) (::) 
+
+<sp>V/</sp> Præ(f@goh|sa)di(ixih|//////cl-)cá(iv_HG|ci-)bunt(hg__|cl-) 
+pó(ixh!iwj_//kv_|vihdqlhhvi-hk)pu(j|vi)lis(jh|cllsc2) 
+for(ixij|/////pe)ti(ih|cllsc3)tú(hg|cllsc3)di(ixhi|/////pe)nem(ghg|to) 
+me(fg@hv_GFg|////ci-pp2vi)am,(gf..|cl-) (;) 
+et(f|ta) an(f)nun(f)ti(df)á(fg|pe)bunt(f) 
+gén(fg|pe)ti(f|ta)bus(f|ta) gló(ghf|to)ri(gf|cl)am(f@goh|sa) 
+me(ixig!hwi_HG|////clql-hgsu2)am.(g_h_GFgf..|pe-1su2cl-) (::)
+
+<sp>+</sp> To(f|ta)ta.(ghg|toS3) (::)
