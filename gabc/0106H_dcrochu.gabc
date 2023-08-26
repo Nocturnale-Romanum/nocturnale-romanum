@@ -1,0 +1,39 @@
+name:Hostis Herodes;
+office-part:hy;
+mode:3;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Hostis Herodes impie;
+mode: 3;
+office-part: Hymnus;
+annotation: Hymn.;
+annotation: iii;
+nabc-lines: 1;
+%%
+(c4)HOs(d|ta)tis(e|vi) He(f|vihg)ró(gh|pehg)des(d|ta) ím(e!fwg|qlppt1)pi(fe|cllsc3)e,(e|ta-) (;)
+Chris(g|vi)tum(hj|pe) ve(j|vi)ní(ji|clhglsc3)re(hg|cllsc3) quid(hi|pe) ti(i|vi)mes?(i|vi-) (:)
+Non(h|ta) é(hj!kv|sa)ri(j|vi)pit(ji|cllsc3) mor(hg|clhelsc3)tá(hih|to)li(gf|cl)a,(e!fw!gh|qlhdppt1vi-hk) (;) 
+Qui(d|ta) re(e|vi)gna(f|vihg) dat(h|vihh) cæ(hih|//tohh)lés(gfg|po)ti(fe|cllsc3)a.(e|ta-) (::)
+
+2. I(d|ta)bant(e|vi) Ma(f|vihg)gi,(gh|pehg) quam(d|ta) ví(e!fwg|qlppt1)de(fe|cllsc3)rant,(e|ta-) (;)
+Stel(g|vi)lam(hj|pe) se(j|vi)quén(ji|clhglsc3)tes(hg|cllsc3) prǽ(hi|pe)vi(i|vi)am:(i|vi-) (:)
+Lu(h|ta)men(hj!kv|sa) re(j|vi)quí(ji|cllsc3)runt(hg|clhelsc3) lú(hih|to)mi(gf|cl)ne:(e!fw!gh|qlhdppt1vi-hk) (;)
+De(d|ta)um(e|vi) fa(f|vihg)tén(h|vihh)tur(hih|//tohh) mú(gfg|po)ne(fe|cllsc3)re.(e|ta-) (::)
+
+3. La(d|ta)vá(e|vi)cra(f|vihg) pu(gh|pehg)ri(d|ta) gúr(e!fwg|qlppt1)gi(fe|cllsc3)tis(e|ta-) (;)
+Cæ(g|vi)lés(hj|pe)tis(j|vi) A(ji|clhglsc3)gnus(hg|cllsc3) át(hi|pe)ti(i|vi)git:(i|vi-) (:)
+Pec(h|ta)cá(hj!kv|sa)ta,(j|vi) quæ(ji|cllsc3) non(hg|clhelsc3) dé(hih|to)tu(gf|cl)lit,(e!fw!gh|qlhdppt1vi-hk) (;)
+Nos(d|ta) a(e|vi)blu(f|vihg)én(h|vihh)do(hih|//tohh) sús(gfg|po)tu(fe|cllsc3)lit.(e|ta-) (::)
+
+4. No(d|ta)vum(e|vi) ge(f|vihg)nus(gh|pehg) pot(d|ta)én(e!fwg|qlppt1)ti(fe|cllsc3)æ:(e|ta-) (;)
+A(g|vi)quæ(hj|pe) ru(j|vi)bés(ji|clhglsc3)cunt(hg|cllsc3) hý(hi|pe)dri(i|vi)æ,(i|vi-) (:)
+Vi(h|ta)núm(hj!kv|sa)que(j|vi) ius(ji|cllsc3)sa(hg|clhelsc3) fún(hih|to)de(gf|cl)re,(e!fw!gh|qlhdppt1vi-hk) (;)
+Mu(d|ta)tá(e|vi)vit(f|vihg) un(h|vihh)d<i>a</i>() o(hih|//tohh)rí(gfg|po)gi(fe|cllsc3)nem.(e|ta-) (::)
+
+5. Je(d|ta)su(e|vi) ti(f|vihg)bi(gh|pehg) sit(d|ta) gló(e!fwg|qlppt1)ri(fe|cllsc3)a,(e|ta-) (;)
+Qui(g|vi) te(hj|pe) re(j|vi)vé(ji|clhglsc3)las(hg|cllsc3) gén(hi|pe)ti(i|vi)bus,(i|vi-) (:)
+Cum(h|ta) Pa(hj!kv|sa)tr<i>e</i>,() et(j|vi) al(ji|cllsc3)mo(hg|clhelsc3) Spí(hih|to)ri(gf|cl)tu,(e!fw!gh|qlhdppt1vi-hk) (;)
+In(d|ta) sem(e|vi)pi(f|vihg)tér(h|vihh)na(hih|//tohh) sǽ(gfg|po)cu(fe|cllsc3)la.(e|ta-) (::)
+A(efe|toS)men.(de|pq-) (::)
