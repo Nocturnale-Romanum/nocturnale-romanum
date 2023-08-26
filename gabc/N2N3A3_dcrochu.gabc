@@ -1,0 +1,16 @@
+name:Cantate Deo psalmum dicite;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 0;
+name: Cantate Deo psalmum dicite;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi f;
+nabc-lines: 1;
+%%
+(c4) Can(f|ta)tá(g|vi)te(f|ta) De(ixg!hwi|////qlppt1)o,(h|ta-) <sp>*</sp>(,) psal(ixi|////vi)mum(h|ta) dí(ixi|////vihh)ci(h|vihg)te(g|vi) nó(fe|cllsc3)mi(g|vi)ni(gh|pe) e(f.|ta)jus:(f.|ta) (;)i(f|``talse4)ter(gh|pe) fá(ixi|////vi)ci(ih|cllsc3)te(gh|pe) e(h|ta-)i,(h|ta-) (`) qui(h|``talse4) as(h|ta)cén(jk>|pe>1hh)dit(j|ta) su(j|vi)per(ixih|////cllsc3) oc(gh|pe)cá(hg|cllsc3)sum,(ffoddoc.|ta-cl!pilsc2) (,) Dó(f|vi)mi(fg|pe)nus(gf|cllsc3) no(g|vi)men(ghg|//to) il(f.|ta)li.(f.|ta) (::)
+<eu>E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
