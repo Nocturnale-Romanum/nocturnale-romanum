@@ -1,0 +1,16 @@
+name:Cantate Domino et benedicite;
+office-part:an;
+mode:2d;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 0;
+name: Cantate Domino et benedicite;
+mode: 2;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: ii d;
+nabc-lines: 1;
+%%
+(f3) Can(f|ta)tá(h|vi)te(g|ta) Dó(h|vihh)mi(g|vi)no(f.|ta) <sp>*</sp>(,) et(f|``talse4) be(h|vi)ne(g|ta)dí(h|vihh)ci(g|vi)te(f|ta) nó(f|vi)mi(e|ta)ni(f|vi) e(hi>|pe>1)jus:(h|ta-) (;) an(h|``talse4)nun(j>|vi>)ti(i|ta)á(j|vihh)te(i|vi) de(h|ta) di(i|vi)e(h|ta) in(h|ta) di(hg|cllsc3)em(fe|cl-) (,) sa(f|vi)lu(fe|cllsc3)tá(f|vi)re(gh|pe) e(f|ta)jus.(f|ta) (::)
+<eu>E(h) U(h) O(h) U(g) A(ef) E.(f) </eu>(::)
