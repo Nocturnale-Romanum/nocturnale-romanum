@@ -1,0 +1,16 @@
+name:Psallite Deo nostro;
+office-part:an;
+mode:1f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Psallite Deo nostro;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g;
+nabc-lines: 1;
+%%
+(c4) Psál(dd>|vs>)li(c|ta)te(d|vi) De(f|vi-)o(e|vi) nos(d|ta)tro,(d|ta) <sp>*</sp> psál(e>|vi>)li(d|vi)te:(c.|ta-lsx9) (;) psál(f|vi)li(gh|pe)te(h|vi-) Re(g>|vi>)gi(e|ta) no(f|ta-)stro,(g|vi-) psál(f|vi)li(e|vi)te(c|ta) sa(d|vi)pi(fe|cllsc3)én(d.|ta)ter.(d.|ta) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
