@@ -1,0 +1,17 @@
+name:Afferte Domino;
+office-part:an;
+mode:7a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Afferte Domino;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii a;
+nabc-lines: 1;
+%%
+(c3) Af(e|ta)fér(g|vihe)te(h|vi) Dó(i|vihg)mi(j|vihh)no,(i|ta) <sp>*</sp> fí(hg|cllsc3)li(f|ta)i(f|ta) De(hhi|vi-pehg)i,(h.|ta-) (;) ad(h|ta)o(i|vi)rá(g|ta)te(h|vi) Dó(f|vi)mi(e|ta)num(f|vi) (,) in(ed|cllsc3) au(e|vihg)la(f|vihh) sanc(g|vihi)ta(f|vihg) e(e.|tahg)jus.(e.|tahg) (::) 
+<eu>E(i) U(i) O(j) U(i) A(h) E.(gf) </eu>(::)
+
