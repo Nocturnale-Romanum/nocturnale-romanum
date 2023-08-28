@@ -2,7 +2,11 @@ name:Toni Communes Ad Gloria Patri (Modo IV);
 office-part:or;
 mode:4;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) <sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf) Fí(e)li(e!fwgf)o,(fe) (;)
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(-ghghGF) San(e!fgffs<)cto.(ed)
-<sp>+</sp>(::)
+(c4) ~() <sp>V/</sp> 
+Gló(h|vi)ri(gh|pe)a(g_f!gwhg/hv_GEfe__|cl-`ql!clci-hhcl-hh) 
+Pá(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) 
+Fí(e|ta)li(e!fwgf__|ql!cl-ppt1)o,(fe..|cl-) (;)
+et(e|ta) Spi(e|ta)rí(e!fwg_FE|ql-ppt1su2)tu(g|vi)i(ghgh_GF|to/ci-hg) 
+Sanc(ef/gffs|//pohhpp2)to.(ed..|cl-) <sp>+</sp>(::)
