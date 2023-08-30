@@ -1,18 +1,29 @@
+name:Angelus Domini locutus est mulieribus V Jesum quaeritis;
+office-part:re;
 mode:5;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)An(f)ge(d)lus(f) Dó(fhivHFhshshsij)mi(hghwihi)ni(ih) (,) 
-lo(h)cú(h)tus(FGH/EfvEDe) est(ed) mu(d)li(f)é(ho1!iv)ri(f)bus,(hi) 
-di(ki!jwkjIHi)cens:(ih) (:) 
-Quem(h>) qu<sp>'ae</sp>(FGH/E)ri(feeO1de)tis?(ed) an(gxffog) 
-Je(f)sum(gxf!gwhgFE!fwgF!es) qu<sp>'ae</sp>(d)ri(DEfvEDe)tis?(ed) (,) 
-Jam(f>) sur(e)ré(gxevgvFE)xit:(feeO1d) (;) 
+(c3) An(f|vi)ge(d|ta)lus(f|vi) 
+Dó(fh_//ivHF_0//|pe-/vihjsu1sut1lsc2|hshshsi_j|ts/peS)mi(h_g!hwihi|cl-ql!po)ni(ih__|cl-) <sp>*</sp>(,) 
+lo(h|ta)cú(h|vi)tus(fhshses_/fv_EDe|tgSppu1ci-vi) est(ed__|cl-) 
+mu(d|ta)li(f|vi)é(hoi|pqlss3)ri(f|ta)bus,(h_i|peSlsal3) 
+di(k_i!jwkJIHi|cl-hjqlhj!vshjsu2vihj)cens:(ih..|cl-hh) (;) 
+Quem(h>|vi>lss3) quǽ(f_0//hshses_0|tgSppt1)ri(feeod/ev|cl!pilsc2vi)tis?(ed..|cl-) (,) 
+an(gxffog|//////sa) Je(e|ta)sum(gxf!gwhGF__E/fwg_FE|//////ql!vsppt1sut2/ql-hhsu1sux1) 
+quǽ(d|ta)ri(de@fv_EDe|ci-pp2vi)tis?(ed..|cl-) (;) 
+Jam(f>|vi>) sur(e|ta)ré(gxe_0//gvFE|//////cippt1lsc2)xit:(feeod.|cl!pilsc1lst3) (:) 
 
-+ 
-Ve(f)ní(h)te,(hi) et(hhg~) vi(f)dé(gf)te,(e) (,) 
-al(hi>)le(h)lú(hggO1fg)ja,(gf) (,) 
-al(f>)le(gxevgvFE)lú(feeO1de)ja.(ed) (::) 
+<sp>+</sp> Ve(f|vi)ní(h|vi)te,(h_i_|pe-1) 
+et(hhof~|vs>) vi(gxg|//////ta)dé(gf|cllsc3)te,(e|ta) (,) 
+al(h_i>|pe>1)le(h|ta)lú(gxhggof/gv|//////cl!pilsc2/vihg)ia,(gf__|cl-) (,) 
+al(f>|vi>)le(gxe_0//gvFE|//////cippu1lsc3)lú(feeod/ev|cl!pi/vihg)ia.(ed..|cl-) (::) 
 
-<sp>V/</sp>. 
-Je(h)sum(hi/hshsfgf) qu<sp>'ae</sp>(hi)ri(h)tis(h) Na(h)za(h)ré(h)num(hf~) 
-cru(fi)ci(gh)fí(hghwihi)xum?(ih) (;) 
-Sur(h)ré(hg/hg)xit,(gf) non(hi~) est(hg!hwihGFg) hic.(gf) (::)
+<sp>V/</sp> Je(h|vi)sum(hi_/hshs_fgf|pe-ds-hhtohh) 
+quǽ(h|vi)ri(h|vi)tis(h|vi) Na(h|vi)za(h|vi)ré(hi|pe)num(hf|vi>) 
+cru(fi|pe)ci(gh|pe)fí(h_g!hwihi|cl-ql!po)xum?(ih..|cl-) (;) 
+Sur(h|vi)ré(hg/hg|pflsc2)xit,(gf|cllsc3) non(h_i|peS) 
+est(gxh_g!hwiHGFg|//////cl-ql!vssu2vi) hic.(gf..|cl-) (::)
+
+<sp>+</sp> Ve(f|vi)ní(h|vi)te,(h_i_|pe-1) 
+et(hhof~|vs>) vi(gxg|//////ta)dé(gf|cllsc3)te.(e|ta) (::)
