@@ -1,23 +1,42 @@
+name:Maria Magdalene et altera Maria V Et valde;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Ma(d)rí(fgh)a(g) <v>\greheightstar</v>() 
-Mag(g)da(gh)lé(h)ne,(hg/higgf) (,) 
-et(hf) ál(ghg)te(h)ra(iwj) Ma(hg)rí(hvGFgh)a(g) (;) 
-i(g)bant(gj>) di(j)lú(k)cu(j)lo(ji) ad(hi~) mo(i)nu(i)mén(ihhO1gh)tum:(hg) (:)
+(c4)Ma(d|ta)rí(f_0//gh|vi-/pehj)a(g|ta) 
+Mag(g|ta)da(gh|pe)lé(h|vi)ne,(ixhg/hig_/gf__|//////cl/toS2/cl-) <sp>*</sp>(,) 
+et(hf|cllsc2) ál(ghg|to)te(h|vi)ra(hwj|ql) 
+Ma(hg|cllsc2)rí(hv_GFg_h|ci-/peS)a(g|ta) (;) 
+i(g|ta)bant(gji~|pe>) di(j|vi)lú(k|vihj)cu(j|tahh)lo(ji|clhhlsc2) 
+ad(hi~|pe~) mo(i|vilse6)nu(i|vi)mén(ihhog/hv_|clhh!pihhlsc2vi-)tum:(hg..|cl-) (:)
 
-+ 
-Je(g)sum(ghGE) quem(g>) qu<sp>'ae</sp>(f!goh)ri(fe)tis,(dec/d!ewfefvED) non(fvED) est(ef) hic,(ghhg) (,) 
-sur(gh)ré(h)xit(hg/higgf) si(hf)cut(g) lo(h!iwj)cú(jvIH)tus(gf!gwhghiv) est,(h) (;) 
-præ(h)cé(hk)det(j) vos(ji) in(hi~) Ga(i)li(i)l<sp>'ae</sp>(ihhO1gh)am,(hg) (:) 
-i(gh)bi(g) e(gh)um(g) vi(g)dé(h)bi(g)tis,(iioj) (;) 
-al(hg>)le(fg)lú(gh>)ja,(g) (,) al(g)le(i!jo!kvi!jolKJjvIH)lú(g!hwiHGh)ja.(hg) (::)
+<sp>+</sp> Je(h|vi)sum(g_h_GE|pe-1su2) quem(g>|vi>) 
+quǽ(f@goh|sa)ri(fe|cllsc3)tis,(dec//d!ewfe/fv_ED|toM1ql!clppt1ci-hh) (,) 
+non(fv_ED|ci-) est(e_f|peS) hic,(gh_/hg..|pe-cl-) (;) 
+sur(gh|pe)ré(h|vi)xit(ixhg/hig_/gf__|//////cllsc2/toS2/cl-) 
+si(hf|cllsc2)cut(g|vi) 
+lo(h!iwj|vi-lss2qlhi)cú(jv_IH|ci-hh)tus(ixg_f!gwhgh_//iv|//////cl-ql!po-1/vihj) 
+est,(h.|ta) (;) 
+præ(h|tahh)cé(h_k|peShhlsal3)det(j|tahh) vos(ji|clhhlsc3) in(hi~|pe~hh) 
+Ga(i|tahh)li(i|tahh)lǽ(ihhog/hv|clhh!pihhlsc2/vihj)am,(hg..|cl-) (;) 
+i(gh|pe)bi(g|ta) e(gh|pe)um(g|ta) 
+vi(g|ta)dé(h|vi)bi(g|ta)tis,(iioj|sahhlss4) (,) 
+al(hg__f~|cl->)le(g_h|peS)lú(g_h>|pe>1)ia,(g|ta) (`) 
+al(g|ta)le(i@jok_//|saM-1hjlss1|ij!lvKJ_jv_IH|vihnsu1suu1pp2lsc3ci-hk)lú(h!iwjIH/ivH~G~|ql-ppt1su2/ci~)ia.(hg..|cl-) ( k+::c3)
 
-<sp>V/</sp>. 
-Et(j) val(ji)de(jkj/ijihhO1g) ma(hi)ne(i) u(i)na(i) sab(i)ba(i)tó(ij)rum(i) (,) 
-vé(ij)ni(i)unt(i) ad(i) mo(i)nu(i)mén(ij~)tum,(i) or(ih)to(ij) jam(hi~) so(g!hwih)le:(hg) (;) 
-et(g) in(fg)tro(g)ë(g)ún(gh~)tes(g) vi(g)dé(gh)runt(g) 
-jú(g)ve(g)nem(g) se(g)dén(gh~)tem(g) in(g) dex(gh)tris,(g) 
-qui(hiHGhih) di(ghf)xit(gh) il(h!iwji/jkjIH)lis.(hiHGhg) (::)
+<sp>V/</sp> Et(i) val(i!jwk_J~I~|ql-hlppt1su2)de(h_i/hhog|peSpr) 
+ma(h|ta)ne(h|ta) u(h)na(h) sab(h|ta)ba(h|ta)tó(hi|pe)rum(h|ta) 
+vé(hi|pe)ni(h|ta)unt(h|ta) ad(h|ta) 
+mo(h|ta)nu(h|ta)mén(hi~|pe~)tum,(h_) (,)
+or(ig|cllsc2)to(hi|pe) jam(hi|pe) 
+so(i!jwkj__|qlhi!cl-hippt1)le:(ji..|cl-hh) (;) 
+et(h_i/hhog) 
+in(hih)tro(i)ë(i)ún(ij~)tes(i) 
+vi(i)dé(i)runt(i) jú(ij)ve(i)nem(i) 
+se(i)dén(i)tem(i) in(i) dex(ij|pe)tris,(i_) (,) 
+qui(ijij_IH|///to/ci-) 
+di(ih|cllsc3)xit(h!iwji/jkj|////qlhg!clhgppt1/tohj) 
+il(i_h!iwjij|////cl-hhqihi!pohi)lis.(iv_HGhg..|//ci-cl-hg) ( f+::c4)
 
-+ 
-Je(g)sum.(ghGE) (::)
+<sp>+</sp> Je(h|vi)sum.(g_h_GE|pe-1su2) (::)
