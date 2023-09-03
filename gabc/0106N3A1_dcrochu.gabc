@@ -1,0 +1,16 @@
+name:Venite adoremus eum qui ipse est;
+office-part:an;
+mode:8g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Venite adoremus quia ipse est;
+mode: 8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: viii g;
+nabc-lines: 1;
+%%
+(c4) Ve(g|vihe)ni(j|vi-)te,(ig|cllsc3) ad(i|vihg)o(j|vihh)ré(h|vihg)mus(g|ta) e(hg|cl-)um:(f|ta) (;) qui(gf|cl-)a(gh|peS) ip(j|vihg)se(j|vihh) est(i|vihg) Dó(g|ta)mi(i|vihg)nus(j|vihi) De(h|ta)us(h|vi) nos(g|ta)ter.(g|ta) (::) 
+<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::)
