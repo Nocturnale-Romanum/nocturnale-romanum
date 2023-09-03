@@ -1,0 +1,16 @@
+name:Adorate Dominum alleluia in aula;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Adorate Dominum alleluia in aula;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi f;
+nabc-lines: 1;
+%%
+(c4) Ad(f|vi)o(f|vi)rá(f|vi)te(e|vi) Dó(g|vihh)mi(g|vihi)num,(h|vihk) <sp>*</sp>(,) al(f|vihg)le(f|vihg)lú(d>|vi>he){ia}:(c|ta) (;) in(f|vi) au(f|vihg)la(f|vihh) sanc(f|vihi)ta(e|ta) e(g|ta)jus,(h|vihg) (,) al(h|vihh)le(hg|cl-hg)lú(g>|vi>hg){ia}.(f|ta) (::) 
+<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
