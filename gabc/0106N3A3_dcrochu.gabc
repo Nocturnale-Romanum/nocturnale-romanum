@@ -1,0 +1,16 @@
+name:Adorate Deum alleluia omnes;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Adorate Dominum alleluia omnes;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi f;
+nabc-lines: 1;
+%%
+(c4) Ad(f|vi)o(f|vi)rá(f|vi)te(e|vi) Dó(g|vihh)mi(g|vihj)num,(h|vihl) <sp>*</sp>(,) al(f|vi)le(f|vihh)lú(d>|vi>){ia}:(c|ta) (;) om(f|vi)nes(f|hg) An(f|vihh)ge(f|vihj)li(e|tahj) e(g|vihj)jus,(h|vihk) (,) al(h|vihk)le(hg|cl-hj)lú(g>|vi>hg){ia}.(f|ta) (::) 
+<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu> (::)
