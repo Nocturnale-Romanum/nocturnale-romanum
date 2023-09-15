@@ -1,26 +1,28 @@
+name:Audivi vocem in caelo Angelorum V Vidi Angelum Dei;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) AU(g)dí(g)vi<sp>*</sp>(hf)
-vo(gh)cem(g) in(GHiwjIHiwjIH) cae(GHivHGh)lo(GHih) (;) 
-An(f)ge(ghg)ló(h)rum(g) mul(g)tó(gh)rum(g) 
-di(h!iwj)cén(jvIHih)ti(h!iwjIHi)um:(ih) (:) 
+(c4) Au(f|ta)dí(g|vi)vi(hf|cl) vo(gh|pe)cem(g|ta) <sp>*</sp> 
+in(g_h!iwjI__H/iwjIH<|ql-hhppt2sut2/qi-hksu1sux1) 
+cæ(gh@iv_HGh|////ci-pp2vi)lo(g_h/ih__|cl-hhppt2) (;) 
+An(f|ta)ge(ghg|to)ló(h|vi)rum(g|ta) mul(g|ta)tó(gh|pe)rum(g|ta) 
+di(h!iwj|vi-qlhi)cén(jv_IHih__|///ci-hhcl-hh)ti(g!hwj_IHi|ql-hhppt1su2vihh)um:(ih..|cl-hh) (:)
 
-<sp>+</sp> 
-Ti(g)mé(j)te(k) Dó(lkl)mi(ji)num,(h) 
-et(h) da(h)te(g) cla(h)ri(g)tá(hj)tem(ji) il(HI!jv)li,(ih) (;) 
-et(h) a(f)do(ghg)ra(h)te(g) e(gh)um(g) (,) 
-qui(g) fe(gh)cit(g>) cœ(gh)lum(g) et(f) ter(EFgfg>)ram,(fgf/fO1ED) (;) 
-ma(f)re(fvED) et(ef) fon(g>)tes(fe) a(d)quá(d)rum,(fvv) (,) 
-al(ef)le(hg)lú(hi>)ia,(iV!h!ghvGFEfe) (,) 
-al(d!ewf)le(fvEDewf/gf/fe)lú(DEfvEDe)ia.(ed) (::)
+<sp>+</sp> Ti(h|ta)mé(j|vihh)te(k|vihk) Dó(lkl|pohm)mi(ji|clhh)num,(h_|ta) (,) 
+et(h|ta) da(h|vi)te(g|ta) cla(h|vi)ri(g|ta)tá(h_j|peShhlsal2)tem(ji__|cl-hhlse2) 
+il(h_i@jv|scS)li,(ih..|cl-) (;) 
+et(h|vilsal2) a(f|ta)do(ghg|to)rá(h|vi)te(g|ta) e(gh|pe)um,(g|vi) (,) 
+qui(f|ta) fe(gh|pe)cit(hf~|vi>) cæ(g_h|peS)lum(g|vi) 
+et(f|vi) ter(ef/gfg>|//po>pp2)ram,(fgf___foED.|toSpihgsu1) (;) 
+ma(f|vi)re(fv_ED|ci-) et(e_f|peS) fon(g>|vi>)tes(fe__|cl-) a(d|ta)quá(d|ta)rum,(fv_fv_|bv-) (;) 
+al(c_d|peS)le(fe|cl)lú(f_g>|pe>1)ia,(gvFE__fvE__DCdc..|clSsut1/vi-sut1su2//cl-) (,) 
+al(d!ewf|viqlhi)le(fvED/ewf/gf/fe__|visut2ql/clS/cl-)lú(de@fv_EDe|////ci-pp2vi)ia.(ed..|cl-) (::) 
 
-<sp>V/</sp>
-Vi(h)di(hg/hg/gO1f) An(gh~)ge(g)lum(g) De(gh)i(g) for(gh~)tem,(g) (,) 
-vo(g)lán(gh~)tem(g) per(g) mé(hf)di(gh)um(gh) cae(ixh/iiO1h)li,(h) (;) 
-vo(gf)ce(gh) ma(ixhi~)gna(h) 
-cla(h)mán(h)tem(hg/hg) 
-et(gf) di(ixf!gwhg/hih)cén(hvGFEfwgh>)tem.(gf) (::)
+<sp>V/</sp> Vi(h|ta)di(hg/hggof|cl/cl!pi) An(gh~|pe~)ge(g|ta)lum(g|ta) De(g)i(g) for(gh|pe)tem,(g_|ta) (,) 
+vo(g|ta)lán(gh~|pe~)tem(g|ta) per(g|ta) mé(hf|cllsc3)di(gh|pe)um(gh|pe) cæ(ixh_0//iioh|//////vi-pr)li,(h.|ta) (;) 
+vo(hf|cllsc3)ce(gh|pe) mag(ixhi~|pe~)na(h|ta) cla(h|ta)mán(h|ta)tem(hg/hg|clcl) et(hf~|vi>) 
+di(ixf!gwhg/hih|//////ql!clppt1tohi)cén(hv_GF_E/fwg_//h>|vi-su1sut2/ql-/vi>hj)tem.(gf..|cl-) (::)
 
-<sp>+</sp> 
-Ti(g)mé(j)te.(k) (::)
-
+<sp>+</sp> Ti(h|ta)mé(j|vihh)te.(k|vihk) (::)
