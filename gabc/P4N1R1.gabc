@@ -1,21 +1,27 @@
+name:Si oblitus fuero tui V Super flumina;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Si(d) o(d)blí(f!gwh)tus(g) fú(g)e(g)ro(g) <v>\greheightstar</v>()
-tu(g)i,(h) (,) al(g>)le(f)lú(hih>)ja,(g) (;) 
-o(ghg)bli(f)vi(g)scá(h!iwji/jkj)tur(hihg~) me(hg) 
-déx(h!iwji/jkj)te(h)ra(hg) me(g!hwihi)a:(hg) (:)
+(c4) Si(d|ta) o(d|ta)blí(f_0//gh|vi-/pehi)tus(g|ta) fú(g|ta)e(g|ta)ro(g|ta) tu(g|ta)i,(h_|vi) (,) 
+al(g>|vi>)le(f|ta)lú(ixhih>|//////to>lsl2)ja,(g.|ta) (;) 
+o(ghg___|toS)bli(f|ta)vis(g|vi)cá(g!hwji/jkj|ql!clppt1tohj)tur(h_iH~G~|to>2) me(hg__|cl-) (,) 
+déx(g!hwji/jkj|ql!clppt1tohj)te(h|vi)ra(gf|cl) me(g!hwihi|ql!poppt1)a:(hg..|cl-) (:) 
 
-+
-A(g)dhǽ(iwj)re(hg)at(g) lin(gh~)gua(g) me(gh)a(g) fáu(gh)ci(fe)bus(dg) me(ghFED)is,(dfd!c/ded) (;)
-si(c) non(d) me(fe)mí(f)ne(g)ro(g) tu(g)i,(gh) (,) 
-al(d)le(d)lúj<e>a</e>(fg) 
-al(gfgvFEfwg!h>)le(g)lú(g!hwihi>)ja.(hg) (::)
+<sp>+</sp> Ad(g_0|ta)hǽ(iwj|``qlhh)re(hg|/cl)at(g|ta) 
+lin(gh~|pe~)gua(g|ta) me(gh|cl)a(g|ta) fáu(g_h|peS)ci(fe|cl)bus(d_g|peS) 
+me(ghFED|pesu3)is,(dfDC__ded___|toS2sut1toS) (,) 
+si(c|ta) non(d|vi) me(fe|cllss2lsc3)mí(f|vi)ne(g|vi)ro(g|vilse6) tu(g|vi)i,(gh_|pe-) (;) 
+al(d|ta)le(d|ta)lú(f_g|peS)ia,(gf__|cl-) (,_) 
+al(gvF__E/fwg_//hf~|vi-sut2ql/vi>hi)le(g|ta)lú(g!hwihi>|ql!po>ppt1)ia.(hg..|cl-) (::) 
 
-<sp>V/</sp>. 
-Su(ji)per(jkj/iji/hhO1g) flú(hi)mi(i)na(i) Ba(i)by(ih)ló(ij)nis(i) 
-il(ij~)lic(i) sé(ji)di(ih)mus(ij) et(hi) flé(g)vi(g!hwih)mus,(hg) (;)
-dum(g) re(fg)cor(g)da(g)ré(g)mur(hiHGhih) 
-tu(ghf)i,(gh) Si(h!iwji/jkjIH)on.(hiHGhg) (::)
+<sp>V/</sp> Su(ji|clhh)per(jkj/iji/hhog|tohi/tohi/pr) flú(hi|pe)mi(i|vi)na(i|vi) 
+Ba(i|vi)by(ih|cl)ló(jk|pehh)nis(j_|tahh) (,) 
+il(jk|pe~hh)lic(j|tahh) sé(ji|clhh)di(ih|cl)mus(ij|pe) et(hi|pe) 
+flé(g|ta)vi(g!hwih__|ql!cl-ppt1)mus,(hg..|cl-) (;) 
+dum(g|vi) re(fg|pe)cor(g|vi)da(g|vi)ré(g|vi)mur(ixhi_HGhih|//////pe-su2tohh) tu(ghf|to)i,(g_h|peS) 
+Si(iyh!iwji/jkJ_IH|//////ql!clppt1//////toS2hjsu2)on.(h_i_HGhg..|pe-1hhsu2cl-) (::)
 
-+
-A(g)dhǽ(iwj)re(hg)at.(g) (::)
+<sp>+</sp> Ad(g_0|ta)hǽ(iwj|``qlhh)re(hg|/cl)at(g|ta) lin(gh~|pe~)gua.(g|ta) (::)
+
