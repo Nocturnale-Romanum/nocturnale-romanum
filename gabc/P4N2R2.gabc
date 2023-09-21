@@ -1,13 +1,23 @@
+name:In toto corde meo V Benedictus es tu;
+office-part:re;
 mode:3;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)IN(e) to(eeo1!fv)to(fd) cor(-dfe~)de(f) me(ghf)o,(e) <v>\greheightstar</v>(,)
-al(f!gw!h>)le(hg)lú(ge/fe>)ja,(edewf) (;)
-ex(d)qui(e)sí(g)vi(h) te,(g) al(h!iw!j>)le(h)lú(hg~)ja:(gjvIGh) (:)
+(c4) In(e|ta) to(eeof|sa)to(fd|cllsc3) cor(dfe~|pe>)de(f|vi) me(ghg|to)o,(e.|ta) <sp>*</sp>(,) 
+al(f!gwh>|vihdql>hh)le(hg__|cl-)lú(gf_fvE~D~|clSci~)ia,(e_d!ewf.|cl-ql) (;) 
+ex(d|ta)qui(e|vi)sí(g|vi)vi(h|vi) te,(g|ta) (`) 
+al(ixh!iwj>|////vihdql>hh)le(h|ta)lú(h>|vi>)ia:(g_iHG_0h.|ciSppu1vi) (:) 
 
-+ Ne(g) re(h)pél(j)las(i) me(g) a(h) man(g)dá(h)tis(iwj) tu(g)is,(e) (;)
-al(f!gw!h>)le(hg)lú(ge/fe>)ja,(ed) (,) al(f!gw!h>)le(hvGFgEFhvGFghg)lú(egffs)ja.(fe) (::)
+<sp>+</sp> Ne(g|ta) re(h|vi)pél(i|vihg)las(j|vihh) me(h|ta) 
+a(h|vi) man(g|ta)dá(h_0|vi)tis(iwj|qlhh) tu(g|vi)is,(e|ta) (;) 
+al(f!gwh>|vihdql>hh)le(hg__|cl-)lú(gf_fvE~D~|clSci~)ia,(ed..|cl-) (,) 
+al(f!gwh>|vihdql>hh)le(hv_GFg_/ef!hv_GFghg|ci-vi-//ci-hhpp2/tohh)lú(egffs|tosthh)ia.(fe..|cl-) (::) 
 
-<sp>V/</sp>. 
-Be(i)ne(i)dí(ikjjs)ctus(h!iwjih/hO1g) es(h) tu,(j) Dó(i)mi(ikjjs)ne,(ji) (;) do(hg)ce(hi) me(i) ju(i)sti(i)fi(i)ca(i)ti(ikjIHiwji)ó(hg)nes(GHiwj) tu(jiiO1hivHGh)as.(hg) (::)
+<sp>V/</sp> Be(i|ta)ne(i|ta)díc(ikjjs|tohhsthj)tus(h!iwji__/hhog|qlhh!cl-hhppt1prhh) es(hg|cllsc3) 
+tu,(h_j|`vi/vihh) Dó(i|tahh)mi(ikjjs|tohhsthj)ne,(ji..|cl-hg) (;) 
+do(ig|cl)ce(hi|pe) me(i|ta) 
+jus(i|ta)ti(i)fi(i)ca(i)ti(ikj___jvI__H/iwji__|////toShkvi-hlsut2qihl!cl-hl)ó(hg|cl)nes(g_h!iwj|`qlhhppt2) 
+tu(jiioh/iv_HGh|////clhh!pihhci-hhvihi)as.(hg..|cl-) (::)
 
-+ Ne.(g) (::)
+<sp>+</sp> Ne(g|ta) re(h|vi)pél(i|vihg)las.(j|vihh) (::)
