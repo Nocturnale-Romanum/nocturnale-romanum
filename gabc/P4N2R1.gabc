@@ -1,16 +1,23 @@
+name:In Ecclesiis benedicite Deo V Psalmum dicite;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)IN(f) Ec(de)clé(e)s<e>i</e>is(eg/fssded) <v>\greheightstar</v>()
-be(fe)ne(f)dí(g)ci(f)te(e) De(fvEDe)o,(ed) (,)
-al(gh>)le(g)lú(gf/fO1e/f)ja,(fe) (:) 
+(c4) In(f|`vilsal3) ec(de|/pe)clé(e|vi)siis(eg_fsfs_ded|pe-ds-to) <sp>*</sp>(,) 
+be(fe|cllsc2)ne(f|vi)dí(g|vi)ci(f|vi)te(e|ta) De(fv_EDe|ci-vi)o,(ed..|cl-) (;) 
+al(gh>|pe>1lss4)le(g|ta)lú(gffoe/fv|cl!pivi)ia:(fe..|cl-) (:) 
 
-+ 
-Dó(h)mi(hg/hjg/gO1FEf)no(fe) 
-de(ef) fón(g>)ti(f)bus(efEDed) Is(fe)ra(f)ël,(g!hwih/hO1g) (;)
-al(gh>)le(hg)lú(ge/fe>)ja,(ed) (,) al(f!gwh>)le(hg)lú(ge/fe>)ja,(ed) (,) al(f!gwh>)le(hvGFgEFhvGFghg)lú(egffs)ja.(fe) (::)
+<sp>+</sp> Dó(h|vi-lsl2)mi(ixhg/higgoFEf|//////cl/tohhpisu1/vi)no(fe__|cl-) (,) 
+de(e_f|peS) fón(g>|vi>)ti(f|vi)bus(e_f_EDed__|pe-1su2cl-) 
+Is(fe|cl)ra(f|vi)ël,(ixg!hwihhog.|//////vi-hdqlhh!clhhpihj) (;) 
+al(gh>|pe>1)le(hg__|cl-)lú(gf_/fvE~D~|clSci~)ia,(ed..|cl-) (,) 
+al(f!gwh>|vi-hdql>hh)le(hg__|cl-)lú(gf_/fvE~D~|clSci~)ia,(ed..|cl-) (,) 
+al(f!gwh>|vi-hdql>hh)le(hv_GFg_1//ef!hvGFghg|//ci-vi-/cipp2//tohh)lú(egffs|tosthh)ia.(fe..|cl-) (::) 
 
-<sp>V/</sp>. 
-Psal(h)mum(gf!gwhghvGEfe) dí(gh)ci(g)te(g) nó(gf)mi(gh)ni(gf) e(e!fwgf)jus,(fe) (;)
-da(f)te(de) gló(e)ri(e)am(e!fwgFE) lau(g)di(ghghvGF) e(EFgef)jus.(ed) (::)
+<sp>V/</sp> Psal(h|vi)mum(g_f!gwhg/hv_GEfe__|cl-qi!clci-cl-) 
+dí(gh|pe)ci(g|ta)te(g|ta) nó(gf|cl)mi(gh|pe)ni(gf|cl) e(e!fwgf__|ql!cl-ppt1)jus,(fe..|cl-) (;) 
+da(f|vi)te(de|pe) gló(e|ta)ri(e|ta)am(e!fwg_FE|ql-ppt1su2) 
+lau(g|vi)di(ghgh_GF|toci-) e(ef/gffs|clpp2sthh)jus.(ed..|cl-) (::)
 
-+ Dó(h)mi(hg/hjg/gO1FEf)no.(fe) (::)
+<sp>+</sp> Dó(h|vi-lsl2)mi(ixhg/higgoFEf|//////cltohhpisu1vi)no.(fe__|cl-) (::)
