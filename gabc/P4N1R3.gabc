@@ -1,27 +1,32 @@
+name:Narrabo nomen tuum V Confitebor tibi populis V Gloria;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3)NAr(c)rá(efg)bo(f) <v>\greheightstar</v>()
-no(fg)men(f) tu(fg)um(f) (;) 
-frá(f!gwh)tri(f)bus(e) me(f!gwh!ivHGhwihi)is,(ih)
-al(hi>)le(ivhhf/hihivHG)lú(f!gwhgh)ja:(gf) (:)
+(f3) Nar(c|ta)rá(e_0//fg|vi-/pehi)bo(f|ta) 
+<sp>*</sp> no(fg|pe)men(f|ta) tu(fg|pe)um(f|ta) frá(f!gwh|qlppt1)tri(f|vi)bus(f|ta) 
+me(f!gwh/ivH__G/hwihi|vihdqlhg/vi-hisut2/qihi!pohi)is,(ih..|cl-hh) (;) 
+al(h_i>|pe>1)le(ih__/hf__/hih_/ivHG___|vi-hhvi-hhcl-hh/toS2hhvi-hhsut3)lú(f!gwhgh|qi!poppt1)ia:(gf..|cl-) (:) 
 
-+ 
-In(h) mé(h!io1!jv)di(jiiO1g)o(g) Ec(i)clé(h!io1!jv)si(hg)æ(f) 
-lau(eh~)dá(ggo1!hv)bo(hfgvFEf) te,(fe) (;)
-al(hf~)le(h)lú(hg/gO1f/g)ja,(gf) (,) 
-al(c)le(efEFgwhghvGFgwhGF)lú(f!gwhgh)ja.(gf) (::)
+<sp>+</sp> In(h|vilsl2lse3) mé(h@ioj|sa)di(jiiog|cl!pi)o(g|ta) Ec(i|vi)clé(h@ioj|sa)si(hg|cl)æ(f|vi) 
+lau(eg~|pe~lsi7)dá(ggoh|sa)bo(hf__/gv_FEf|cl-ci-vi) te,(fe..|cl-) (;) 
+al(gf~|vi>)le(h|vi)lú(hggof/gv|/cl/pi/vi)ia,(gf__|cl-) (,) 
+al(c|ta)le(e_f_/e_f!gwhg/hvGE__/f!gwh_GF|pe-1/ql!clppt2//vi-sut2/ql-hipp1su2)lú(f!gwhgh|ql!poppt1)ia.(gf..|cl-) (::)
 
-<sp>V/</sp>. 
-Con(f>)fi(e)té(EFgwhhi)bor(h) ti(h)bi(h) 
-pó(hg)pu(hi)lis,(gh) Dó(f)mi(f!gwhg)ne,(gf) (;)
-et(f) psal(ef~)mum(f) di(fg)cam(f) ti(f)bi(f!gwhGFE) 
-in(f) Gén(hg/hih)ti(hvGFg)bus.(ffO1e) (::)
+<sp>V/</sp> Con(f|`vi)fi(e|``ta)té(e_f!gwh_/hi|````ql-ppt2/pehi)bor(h|ta) ti(ij|pe)bi(i|vi) 
+in(h|ta) pó(hg|cl)pu(hi|pe)lis,(gh|pe) Dó(f)mi(f!gwhg__|ql!cl-ppt1)ne,(gf..|cl-) (;) 
+et(f|vi) psal(ef~|pe~)mum(f|ta) di(f|ta)cam(f|ta) ti(fg|pe)bi(f!gwh_GFE__|ql-ppt1su1sut2) 
+in(f|vi) gén(hg/hih|cl//tohi)ti(hv_GFg|ci-vi)bus.(ffoe.|pr) (::)
 
-+ In.(h) (::)
+<sp>+</sp> In.(h|vilsl2lse3) (::)
 
-<sp>V/</sp>. 
-Gló(EFgwhhi)ri(h)a(h) Pa(hg)tri(hi) 
-et(gh) Fí(f)li(f!gwhg)o,(gf) (;)
-et(f) Spi(f)rí(f!gwhGFE)tu(f)i(hg/hih) San(hvGFg>)cto.(ffO1e) (::)
+<sp>V/</sp> Gló(e_f!gwh/hi|qlhgppt2pehj)ri(h|ta)a(h|ta) 
+Pa(hg|cllsc3)tri,(hi|pe) et(gh|pe) 
+Fí(f|ta)li(f!gwhg|ql!clppt1)o,(gf..|cl-) (;) 
+et(f|ta) 
+Spi(f|ta)ri(f!gwh_GFE|ql-ppt1su3)tu(f|vi)i(hg/hih|cllsc2tohg) 
+Sanc(hv_GFg>|ci-vi>hg)to.(f_1fe.|pr-) (::)
 
-+ In.(h) (::)
+<sp>+</sp> In.(h|vilsl2lse3) (::)
+
