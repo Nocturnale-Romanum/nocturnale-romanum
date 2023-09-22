@@ -1,23 +1,27 @@
+name:Bonum est confiteri V In decachordo V Gloria;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)Bo(e)num(hvv) est(hi) <v>\greheightstar</v>()
-con(i)fi(i)té(i)ri(ih/ih/hg) Dó(i/kik)mi(j/klk)no,(jij) (,)
-al(ji~)le(jvIHiGHjvIHiji)lú(gihhs)ja:(hg) (;)
+(c3) Bo(f|ta)num(hv_hv_|bv-) est(hoi|pqS) con(i|vi)fi(i|vi)té(i|vi)ri(ih/ih_hg__|cllsc2/clS/cl-) <sp>*</sp>(,) 
+Dó(ijij|trhhlss7)mi(j_0//klk|vi-hh/tohl)no,(kjk.|pohj) (;) 
+al(j>|vi>)le(jv_IHi_1|ci-hhvi-hh|//gh!jvIHiji|cihjpp2lsc2tohk)lú(gihhs|tosthh)ia:(hg..|cl-) (:) 
 
-+ 
-Et(ig)  psál(HIjvji)le(ih/ijh/hg)re,(fe) (,) 
-al(DFgwh!i>)le(hvGFg/egf/ge)lú(efe)ja.(e) (::)
+<sp>+</sp> Et(i_g|cl-lss2) psál(gi@jv_ji__|vi-pp2`cl-hg)le(ih__/ijg_/hg__|cl-lss6toS2cl-)re,(fe__|cl-) (:) 
+al(d_f!gwh!i>|qlppt2vi>hi)le(hv_GFg//|ci-vi|egf/ge|tocl)lú(efe___|toS)ia.(e.|ta) (::) 
 
-<sp>V/</sp>. 
-In(i) de(i)ca(i)chór(i!jwkJI)do(hi/hhO1g) psal(hi)té(i)ri(i!jwkj)o,(ji) (;)
-cum(hi/hhg~) cán(hih)ti(i)co(ijijvIH) et(hg~) cí(h!iwji/jkj)tha(ih!iwjij)ra.(ivHGhg) (::)
+<sp>V/</sp> In(i|tahh) de(i!jwk_JI|ql-hkppt1su2)ca(h_i/hhog|peS`pr)chór(hi|pe)do(ig|cl) 
+psal(hi|pe)té(hi|pe)ri(i!jwkj__|qlhj!cl-hjppt1)o,(ji..|cl-) (;) 
+cum(h_i/hhog~|peSvs>) cán(hih|to)ti(i|vi)co(iji/j_IH|///tohici-hh) et(ih~|vi>) 
+cí(h!iwji/jkj|qlhi!clhippt1tohl)tha(i_h!iwjij|cl-hiqihi!pohi)ra.(iv_HGhg..|ci-hhcl-) (::)
 
-+ Et.(ig) (::)
+<sp>+</sp> Et.(i_g|cl-lss2) (::)
 
-<sp>V/</sp>. 
-Gló(i!jwkJI)ri(hg)a(hi/hhO1g)  
-Pa(ig)tri(hi) et(hi) Fí(i)li(i!jwkj)o(ji) (;) 
-et(i) Spi(i)rí(i!@jijIH)tu(hg)i(h!iwji/jkj)
-San(ih!iw!@jij)cto.(ivHGhg) (::)
+<sp>V/</sp> Gló(i!jwk_JI|ql-hjppt1su2)ri(hg|cllsc3)a(h_ihog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) 
+et(hi|pe) Fí(i|ta)li(i!jwkj__|qlhi!cl-hippt1)o,(ji..|cl-) (;) 
+et(i|ta) Spi(i|ta)rí(ijijv_IH|////tr-1su2)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) 
+Sanc(i_h!iwjij|////cl-`qi!po)to.(iv_HGhg..|//ci-cl-) (::)
 
-+ Et.(ig) (::)
+<sp>+</sp> Et.(i_g|cl-lss2) (::)
+
