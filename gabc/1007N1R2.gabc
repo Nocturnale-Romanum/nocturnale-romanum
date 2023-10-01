@@ -1,4 +1,35 @@
+name:Vidi speciosam sicut V Astitit Regina;
+office-part:re;
 mode:3;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Vi(e)di(egfss/ded) <v>\greheightstar</v>() spe(ef)ci(g)ó(hgh!iv)sam(h) si(h)cut(h) co(hg)lúm(hvigh)bam,(hggo~/efe) (;) de(f)scen(gh>)dén(h>)tem(g) dé(gh)su(g)per(g) ri(gh)vos(gf) a(df)quá(e!fgf/fs)rum:(fe) (:) cu(e)jus(egfss/ded) in(dc)æ(gh)sti(g)má(hjjo~)bi(i)lis(i) o(i)dor(ikjjs/hih/hg) e(h)rat(j) ni(ikjjs)mis(ji) (;) in(i) ve(g)sti(h!iwj)mén(jij>)tis(h!iwj) e(jvIHiV@hg~)jus:(hg) †(:) Et(e) si(ghi)cut(h) di(h)es(hg~) ver(hvigh)ni(hggo~/efe) (,) cir(f)cúm(gh>)da(h)bant(g) e(gh)am(g) flo(gh)res(gf) ro(df)sá(e!fgf/fs)rum,(fe) (;) et(g) lí(hsjss)li(ih)a(ho0j) con(g>)vál(ffog)li(fvDF!gvFEf)um.(fe) (::)
-<sp>V/</sp>. A(ikj)sti(h!iwji)tit(hhO1g) Re(i)gí(i)na(i) a(i) dex(i)tris(i) tu(i@jo1)is(h) in(h) ve(h)stí(h)tu(hg) de(h)au(j)rá(ikjjs)to,(ji) (;) cir(hg~)cúm(hi~)da(i)ta(i) va(ikjIH!iwji)ri(hg)e(GH!iwj)tá(jiiO1h/ivHGh)te.(hg) †(::) Et.(e) (::)
+(c4) Vi(e|vi)di(eg_|pe-|fss|//ds-|ded|to) <sp>*</sp> 
+spe(e_f|peS)ci(g|vi)ó(ixhg/h_i|//////po-1vihj)sam(h|vi) (,) 
+si(h|vi)cut(h|vi) 
+co(hg|cllsc2)lúm(ixh_0//igh|////////vi-pohi)bam,(hg|cllsc2|go|or|efe|to) (,) 
+as(f|vi)cen(ghg~|pe>)dén(h|vi>)tem(g|ta) 
+dé(g_h|peS)su(g|ta)per(g|ta) 
+ri(gh_|pe-lst3)vos(gf|cl) 
+a(de|pe)quá(e_0//fgef|////toppt1sthh)rum,(ed..|cl-) (;) 
+cu(e|vi)jus(eg_|pe-|fss|//ds-|ded|tolse6) 
+i(dc|cl)næs(gh|pe)ti(g|ta)má(hi/jo|peorhh)bi(i|ta)lis(i|ta) 
+o(i|ta)dor(ik|pehh|jss|//ds-|hih|to|hg__|cl-) 
+e(h|vi)rat(j|vihhlse6) ni(ikjjs|tohhsthj)mis(ji..|cl-) (;) 
+in(i>_|vi>lst2lsi9) ves(g|ta)ti(h!iwj|viqlhi)mén(jijg~|po>lsi6)tis(h!iwj|viqlhi) 
+e(jv_IH_|vi-su1sut1lse4|iv_H~G~|cl->)jus.(hg..|cl-) (:) 
+
+<sp>+</sp> Et(e|grlsc2lsi6) si(ixg_0//hi|//////vipe)cut(h|ta) 
+di(h|ta)es(hg~|cl~) ver(ixh_0//igh|//////vi-pohi)ni(hg|cl|go|or|efe|to) (,) 
+cir(f|vi)cum(ghg~|pe>)dá(h|vi)bant(g|ta) 
+e(gh|pe)am(g|ta) flo(gh_|pe-)res(gf|cl) 
+ro(de|pe)sá(e_0/fgffs|//to-1ppu1sthh)rum(ed..|cl-) (;) 
+et(g|vi) lí(gsjss|tsM)li(ih|cl)a(hoi_|pq-) 
+con(g>_|vi>lst2)vál(eeof|sa)li(fv_//df!gv_FEf|vi-////ci-pp2vi)um.(fe..|cl-) (::) 
+
+<sp>V/</sp> A(ikjjs|//tohhsthj)sti(h!iwji|ql!clppt1)tit(hhog|pr) 
+Re(i|vi)gí(ij|pe)na(i|ci) a(i) dex(i)tris(i) tu(ij|pe)is(h|ta) 
+in(h|ta) ve(h|ta)stí(h|ta)tu(hg|cl) de(h|ta)au(j|vi)rá(ikjjs|//tohhsthj)to,(ji..|cl-) (;) 
+cir(hg~|cl~)cúm(hi~|pe~)da(i|vi)ta(i|vi) va(ikjjvI_____H|////trShjsut2|iwji|qlhh!clhh)ri(hg|cl)e(g_h!iwj|qlhhppt2)tá(jiioh|cl!pi|iv_HGh|vi-su1suu1vi)te.(hg..|cl-) (::)
+
+<sp>+</sp> Et.(e|grlsc2lsi6) (::)
