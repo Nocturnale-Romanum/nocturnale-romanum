@@ -1,18 +1,34 @@
+name:Beati eritis cum maledixerint V Cum vos oderint;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Be(e)á(ef)ti(e) é(e)ri(fd/ewfef)tis(fe) (,)
-<sp>*</sp> cum(e) ma(ef)le(e)dí(ef)xe(e)rint(e>) vo(e)bis(EFgwh) hó(hihhg)mi(h!iwjij)nes,(ji) (;)
-et(i) per(i>)se(i)cú(h/ijhhg)ti(EFgwhefveeO1d) (,)
-vos(DFgwh!ivHGFgwhGF) fú(e)e(EFgvFEf)rint;(fe) (:)
-et(e) dí(ef)xe(e)rint(e>) o(ef~)mne(e) ma(ef)lum(e) ad(e)vér(e)sum(EFgwhf/gfe~) vos;(fe) (;)
-men(i/kjk)ti(ih)én(i)tes(k) prop(kvJIji)ter(hi~) me:(ijiio~ghg) (;)
-<sp>+</sp> Gau(f>)dé(i)te(ji) et(hg) ex(f)sul(i>)tá(h)te,(gvFE) (;)
-quó(EFgwhGF)ni(efEDe)am(ed) mer(f>)ces(ed~) ve(e)stra(f!gwh) (,)
-co(hg)pi(fi)ó(j)sa(ig/hjIHghf!e) est(ef) in(fd!ewfEDe)  cœ(EFgvFEf)lis.(fe) (::)
-<sp>V/</sp> Cum(i!jwkJIs<) vos(hihhO1g) ó(h)de(h)rint(h) hó(hi)mi(h)nes,(h) (,)
-et(h) cum(h) se(h)pa(h)rá(hi)ve(h)rint(h) vos,(h) (,)
-et(ig) ex(hi)pro(hi)brá(i)ve(i!jwkj)rint,(ji) (;)
-et(hi/hhO1g) e(hih)jé(ij)ce(i)rint(i) no(i)men(i) ve(ij)strum(i) tam(i)quam(i) ma(ij)lum(i) (,)
-prop(i)ter(i) Fí(i)li(ijijIH)um(hg) hó(h!iwji/jkj)mi(ih!iwjij)nis.(ivHGhg) (::)
-<sp>+</sp> Gau(f>)dé(i)te.(ji) (::)  
+(c3) Be(e|ta)á(e_f|peS)ti(f|vi) é(f|vi)ri(f_d!ewfef|cl-ql!po)tis(fe__|cl-) <sp>*</sp>(,) 
+cum(e|ta) ma(ef|pe)le(e|ta)dí(ef|pe)xe(e|ta)rint(e>|vi>) vo(e|ta)bis(e_f!gwh|``qlppt2) 
+hó(hihhg|to!cl)mi(h!iwjij|qlhh!pohhppt1)nes(ji..|cl-) (;) 
+et(i|vi) per(i>|vi>lse6)se(h|ta)cú(h_0//ijg/hg|to!clppt1)ti(e_f!gwhe/fv/eeod|ql!clppt2vipr) 
+vos(d_f!gwh/ivHG__F/gwh_GF|qlppt2//vihisut3ql-su2) 
+fú(e|ta)e(e_f!gv_FEf|ci-ppt2vi)rint,(fe..|cl-) (;) 
+et(e|ta) dí(ef|pe)xe(e|ta)rint(e>|vi>) om(ef~|pe~)ne(e|ta) ma(ef|pe)lum(e|ta) 
+ad(e|ta)vér(e|ta)sum(e_f!gwhf/gvF~E~|ql!clppt2ci~) vos,(fe..|cl-) (;) 
+men(i_0//kjk|vi-hilss2pohj)ti(jh|clhh)én(i|vi)tes(k|vihj) 
+prop(kv_JIji__|///ci-hjcl-hh)ter(hi~|pe~) me;(ijiio/ghg.|//tohhorhjtohh) (:) 
 
+<sp>+</sp> Gau(g>|vi>lsi2)dé(i|vilss2)te(ji|cllss2lsc3) et(ih|cl) 
+ex(f|``talsi1)sul(i>|vi>)tá(h|vi)te,(gv_FE.|ci-lsi3) (;) 
+quó(e_f!gwh_GF|ql-ppt2su2)ni(e_f_EDe|pe-1su2lsi7vi)am(ed__|cl-) 
+mer(f>|vi>lss2)ces(ed~|vi>) ves(e|vi)tra(f!gwh|vihdqlhh) 
+co(hf__|cl-)pi(fi|pe)ó(i|vi)sa(ig__/hjIH__ghFE__|cl-peSsut2toS2sut1) est(e_f|peS) 
+in(f_d!ewf_EDe|cl-ql-su1sut1vi) cæ(e_f!gv_FEf|ci-ppt2vi)lis.(fe..|cl-) (::) 
+
+<sp>V/</sp> Cum(i!jwk_JI<|//ql-hjppt1su1sux1) vos(h_i/hhog|peSpr) 
+ó(h|ta)de(h|ta)rint(h|ta) hó(hi|pe)mi(h|ta)nes(h|ta) (,) 
+et(h|ta) cum(h|ta) se(h|ta)pa(h|ta)rá(hi|pe)ve(h|ta)rint(h|ta) vos(h|ta) (,) 
+et(ig|cl) ex(hi|pe)pro(hi|pe)brá(i|ta)ve(i!jwkj|ql!clppt1)rint,(ji..|cl-) (;) 
+et(h_i/h/hog|peSpr) e(hih|to)jé(ij|pe)ce(i|ta)rint(i|ta) 
+no(i|ta)men(i|ta) ves(ij|pe)trum(i|ta) tam(i|ta)quam(i|ta) 
+ma(ij|pe)lum(i|ta) (,) prop(i|ta)ter(i|ta) Fí(i|ta)li(ijij_IH|tr-1su2)um(ih|cl) 
+hó(h!iwji/jkj|qlhh!clhhppt1tohk)mi(i_h!iwjij|cl-hhqlhh!pohh)nis.(iv_HGhg..|ci-hhclhh) (::)
+
+<sp>+</sp> Gau(g>|vi>lsi2)dé(i|vilss2)te.(ji|cllss2lsc3) (::)
