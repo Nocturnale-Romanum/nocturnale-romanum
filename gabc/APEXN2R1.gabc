@@ -1,12 +1,28 @@
+name:Vidi conjunctos viros V Vidi Angelum Dei volantem;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Vi(e)di(egFssded)
-<sp>*</sp> con(fd~)jún(ef)ctos(g) vi(hghjv)ros(h) (;)
-ha(h)bén(hJsss<)tes(hgFssded) splen(hf~)di(gh)das(ghFDf/gf) ve(egfFs)stes;(fe) (:)
-et(f) An(gh>)ge(gf)lus(f) Dó(FGhgh)mi(f)ni(feFs) lo(d)cú(fgf)tus(fe) est(ghgh) ad(gf~) me,(f) di(EFgfFs)cens:(dE2F2D2fv) (;)
-<sp>+</sp> I(c)sti(df) sunt(f) vi(f)ri(f) san(EFgfg!h>)cti,(g) (,)
-fa(c)cti(df) a(fefd)mí(fo0!gv)ci(gvFGh/ighg) De(egfFs)i.(fe) (::)
-<sp>V/</sp> Vi(h)di(gf/gwhghvGEfe) An(gh~)ge(g)lum(g) De(g)i(g) vo(g)lán(gh~)tem(g) per(g) mé(gf)di(gh)um(gf~) cœ(e!fwgf)lum,(fe) (;)
-vo(f)ce(de) ma(ef~)gna(e) cla(e)mán(e)tem(e!fwgFE) et(g) di(ghghGF)cén(EFgfFs)tem.(dE2F2D2fv) (::)
-<sp>+</sp> I(c)sti.(df) (::)
+(c4) Vi(e|ta)di(eg_fssded__|pe-ds/to-) <sp>*</sp> 
+con(fd~|vi>lsi9)jún(e_f|peS)ctos(g|vi) vi(ixhgh/iv|//////po/vihj)ros(h|talse6) (,) 
+ha(h|ta)bén(jhjsjsjg~|cllsl2ts>)tes(hgfsfs_ded|clSds-to) (`) 
+splén(h_f~|vi>lsi9lst2)di(gh|pe)das(ghFDdfOg|pesu2lse3sa) 
+ves(egffs|tosthh)tes,(fe..|cl-) (;) 
+et(f|vi) An(g!h>|pe>)ge(gf|cllsc2)lus(f|ta) Dó(fg/hgh|popp2)mi(f|ta)ni(gffs|clsthh) (,) 
+lo(d|ta)cú(fgf|to)tus(fe|cl) est(ghgh|trlss2) ad(gd~|vi>lss2lsi9) me,(f|ta) 
+di(e_f/gffs|clppt2sthj)cens:(d_0//fsfsdsfv.|tgppu1vi-) (:) 
 
+<sp>+</sp> Is(c|ta)ti(de|pe) sunt(e|vi) 
+vi(f|vi)ri(e|vi) san(d_f/gfg_/h>|po-1ppt2/vi>hj)cti(g|vi) (,) 
+fac(c|ta)ti(de|pe) a(fefd|pf)mí(fog|pq)ci(ixgv_fg!hv/ig/hg|//////viscpf) 
+De(egffs|tosthh)i.(fe..|cl-) (::)
+
+<sp>V/</sp> Vi(h|vi)di(g_f!gwhghv_GEfe|cl-ql!clci-cl) 
+An(gh~|pe~)ge(g|ta)lum(g|ta) De(gh|pe)i(g|ta) 
+(,) vo(g|ta)lán(gh~|pe~)tem(g|ta) per(g|ta) 
+mé(gf|cl)di(gh|pe)um(gf~|vi>) cæ(e!fwgf|ql!clppt1)lum,(fe..|cl-) (;) 
+vo(f|vi)ce(de|pe) mag(ef~|pe~)na(e|ta) cla(e|ta)mán(e|ta)tem(e!fwg_FE|ql-su2ppt1) 
+et(g|vi) di(ghgh_GF|tr-1su2)cén(ef/gffs|clppt2st)tem.(d_0//fsfsdsfv.|tgppu1vi) (::)
+
+<sp>+</sp> Is(c|ta)ti.(de|pe) (::)
