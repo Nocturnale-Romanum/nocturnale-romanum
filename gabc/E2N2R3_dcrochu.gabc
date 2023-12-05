@@ -1,0 +1,23 @@
+name:Domini est terra et plenitudo V Ipse super maria V Gloria;
+office-part:re;
+mode:8;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Domini est terra;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Dó(f/gh|scG)mi(g|ta)ni(g|ta) est(ixg!hoi|////tapq) ter(h|ta)ra(ixhg/hiwjg/hv/ggof|//////cl-ql!cl-ppt1vi-hkprhk) (,) et(hf~|vi>) ple(ghg|//to)ni(h|vi)tú(hjHG|toS2sut1)do(hf/gh!iwjIH/iwjIH|cl-ql-hhppt2sut2qi-hisu2) e(gh!ivHGh|//ci-hhpp2vihh)jus,(hg|cl-) (;)
+<sp>+</sp> Or(jkj|tohilslc2)bis(jh|clhilsc3) ter(jk|peShi)rá(ki/jkh/iv|clhilsc2toS2hivi-hi)rum,(hhog|pr) (,) et(h/jvIG|vi-cihjlsc3) u(jvjv|bv-)ni(kvJIjvIHG|clShjsut1vi-hjsuu1su2)vér(hg/hvGF~|cl-cl>lst3)si(gf|cl-) (;) qui(hf|cllslc2) há(ghg|//to)bi(h|vi)tant(hjHG|//toS2sut1) in(hf/gh!iwjIH/iwjIH|cl-ql-hhppt2sut2qi-hhsu2) e(gh!ivHGh|//ci-hhpp2vihh)o.(hg|cl-) (::)
+
+<sp>V/</sp> Ip(ji|cllsc3)se(jkj/iji/hhog|tohhtohiprhi) su(hi|pe)per(ih~|vi>) má(jk|pehh)ri(j|vihh)a(ji|clhhlsc3) fun(ih|vi>)dá(ij|pe)vit(hi|pe) e(g!hwih|ql!clppt1)um,(hg|cl-) (;) et(g|vi) su(fg|pe)per(g|ta) flú(gh|pe)mi(g|ta)na(g|ta) præ(g|ta)pa(ixhiHG/hih|//////pe-su2tohg)rá(ghf|//to)vit(gh|peS) e(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)um.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp>() Or(jkj|tohilslc2)bis.(jh|clhilsc3) (::)
+
+<sp>V/</sp>. Gló(j|vi)ri(ji|clhhlsc3)a(jkj/iji/hhog|tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|//////pe-su2tohg)tu(ghf|//toM1hg)i(gh|peS) Sanc(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp>() Or(jkj|tohilslc2)bis.(jh|clhilsc3) (::)
+
