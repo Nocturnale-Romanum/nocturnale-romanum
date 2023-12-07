@@ -1,18 +1,33 @@
+name:Tulerunt Dominum meum V Cum ergo fleret;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Tu(f)lé(f!gh)runt(g) <v>\greheightstar</v>() Dó(gh)mi(g)num(gh~) me(h)um,(hg/hig/gf) (;) 
-et(hf~) né(gh)sci(g)o(g) u(gh)bi(g) po(g)su(g)é(g)runt(GHiwjIHiwjI!hs<) e(GHivHGh)um(hg) (:) 
-a(jkj)it(jh) e(jkj)i(jk) An(kijok)ge(h!iwjIHGh)lus:(hg) (;) 
-No(FGhih)li(hg) fle(j)re(j) Ma(ji/jvIHG)rí(hg/hvGFg)a?(gf) (:) 
-sur(f)ré(gh)xit(h) si(hggO1e)cut(g) di(fef)xit:(dec/d!ewfe/fvED) (;) 
+(c4) Tu(d|ta)lé(f_0//gh|``vi-/pehh)runt(g|ta) <sp>*</sp> Dó(gh|pe)mi(g|ta)num(gh~|pe~) 
+me(h|vi)um,(ixhg/hig/gf..|//////cltoS2cl-) (;) 
+et(hf~|vi>) nés(gh|pe)ci(g|ta)o(g|ta) u(gh|pe)bi(g|ta) 
+po(g|ta)su(g|ta)é(g|ta)runt(g_h!iwjI__H/iwj_IH<|ql-hippt2sut2qi-hksu1sux1) 
+e(gh!iv_HGh|//ci-hipp2vihi)um.(hg..|cl-) (;) 
+A(jkj|tohj)it(jh|clhjlsc3) il(jkj|tohjlss7)li(jk|pehj) 
+An(ki/jok|clhj/pq>hj)ge(h!iwjIHGh|qlhh!vshhppt1su2vihh)lus:(hg..|cl-) (;) 
+No(ixfg/hih|//////topp2)li(hg|cllsc2) fle(iyi|vihhlss3)re,(j|vihh) 
+Ma(ji__/jvI__HG|cl-hj/vi-hjsut1su2)rí(hg__/hv_GFg|cl-vi-su2vi)a:(gf..|cl-) (;) 
+sur(f|ta)ré(gh|pe)xit(h|vi) si(hggoe|cl!pilsc2)cut(g|vi) 
+di(fef|po)xit:(dec/d!ewfe__fv_ED.|to/ql!cl-ppt1ci-) (:) 
 
-† Præ(d)cé(f/gh)det(g) vos(g) in(g) Ga(g)li(gh)lǽ(h)am:(hg/higgf) 
-i(gh)bi(g) e(gh)um(g) vi(g)dé(h)bi(g)tis,(hg/hih) (;) 
-al(fe~)le(d)lú(fg~)ja,(gf/gvFEfwg!h>) <i>al</i>-le(  h)lú(g!hwihi>)ja.(hg) (::)
+<sp>+</sp> Præ(d|ta)cé(f_0//gh|vi-/pehh)det(g|ta) vos(g|ta) 
+in(g|ta) Ga(g|ta)li(gh|pe)lǽ(h|vi)am:(ixhg/hig/gf..|//////cltoS2cl-) (;) 
+i(gh|pe)bi(g|ta) e(gh|pe)um(g|ta) vi(g|ta)dé(h|vi)bi(g|ta)tis,(ixhg/hih|//////cllsc2to) (;) 
+al(fe~|vi>lsi6)le(d|ta)lú(fg~|pe~)ia,(gf__|cl-) (,_) 
+al(gvF__E/fwg_/hf~|vi-sut2ql-/vi>hj)le(g|vi)lú(g!hwihi>|ql!po>ppt1)ia.(hg..|cl-) (::) 
 
-<sp>V/</sp>. Cum(gj~) er(j)go(j) fle(ji)ret,(jkjijihhO1g) in(hi~)cli(i)ná(ij)vit(i) se,(i) (,) 
-et(i) pro(i)spé(ij)xit(i) in(ih~) mo(ij)nu(hi)mén(g!hwih>)tum:(hg) (;) 
-et(g) vi(fg)dit(g) du(g)os(g) An(gh~)ge(g)los(g) in(g) al(gh)bis,(g) se(g)dén(gh~)tes,(g) (,) 
-qui(hiHGhih) di(ghf)cunt(gh) e(h!iwji/jkjIH)i.(hiHGhg) (::)
+<sp>V/</sp> Cum(j) er(ji|clhh)go(jkj/iji/hhog|tohk/tohk/prhi) fle(hi|pe)ret,(i|vi) 
+in(i|vi)cli(i|vi)ná(ij)vit(i) se,(i) (,) 
+et(i|vi) pros(i|vi)pé(i|vi)xit(i|vi) in(ih~|vi>) 
+mo(ij|pehh)nu(hi|pehh)mén(g!hwih__|qlhg!cl-hgppt1)tum:(hg..|cl-) (;) 
+et(g) vi(fg)dit(g) du(g)os(g) An(g)ge(g)los(g) in(g) al(gh)bis,(g) se(g)dén(gh~)tes,(g) (,) 
+qui(ixhi_HG/hih|//////pe-hhsu2tohi) di(ghf|to)cunt(g_h|peS) 
+e(h!iwji/jkJ_IH|qlhh!clhhppt1toS2hmsu2)i.(h_i_HGhg..|pe-1hisu2cl-hh) (::)
 
-† Præ(d)cé(f/gh)det(g) (::)
+<sp>+</sp> Præ(d|ta)cé(f_0//gh|vi-/pehh)det(g|ta) vos.(g|ta) (::)
