@@ -1,28 +1,31 @@
+name:Ostendit mihi angelus V Postquam audissem V Gloria;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)O(ef)stén(ef>)dit(e) mi(e)hi(EFgwh) An(hih/hg>)ge(h!iwjij)lus(ji) <v>\greheightstar</v>(;) 
-fon(iig~)tem(i) a(h/ijh/hg)quæ(efe) vi(DFgwhivHGhwihi)væ,(ih) (,) 
-et(h) di(i)xit(h) ad(hg~) me,(f) al(gh)le(gf)lú(ef>)ja:(e) (:) 
+(c3) Os(ef|pe)tén(ef>|pe>)dit(e|ta) mi(e|``ta)hi(e_f!gwh|``qlppt2) 
+An(hih/hg>|/tocl>lsm2lsco2)ge(h!iwjij|qihh!pohhppt1)lus(ji__|cl-hh) (,) 
+<sp>*</sp> fon(iiog~|vs>)tem(i|vi) a(h_0//ijg/hg|toppu1clhhlsm1)quæ(efe|toS3) 
+vi(d_f!gwh_//ivH__G/hwihi|ql-hhppt2/vi-hksut2/qihk!pohk)væ,(ih..|cl-) (;) 
+et(h|ta) di(i|vi)xit(h|vi) ad(g>|vi>) me,(f|ta) (,_) 
+al(g_h|peS)le(gf__|cl-)lú(e_f>|pe>1)ia:(e|ta) (:) 
 
-+ 
-Hic(i!jwkJIjwki) De(il)um(k) á(jk)do(ihiwji)ra,(iji/io~/ghg) (;) 
-al(g>)le(h)lú(i)ja,(i) al(ij>)le(hf)lú(hgh>)ja,(fe) al(ef~)le(fvdfe)lú(efe)ja.(e) (::)
+<sp>+</sp> Hic(i!jwkJ__I/jwki__|````vi-ql-hksut2/qihj!cl-hj) De(i_l|peShl)um(k|vihj) 
+a(jk|pehj)dó(i_h!iwji__|cl-hj/qihj!cl-hj)ra,(ijiio/ghg.|tohhorhhtohh) (;) 
+al(g>|vi>)le(h|vi)lú(i|vi)ia,(i|vi) (,) al(i_j>|pe>1hh)le(hf__|cl-)lú(hgh>|po>)ia,(fe__|cl-) (,) 
+al(ef~|pe~)le(fv_//dfe|vi-/tohh)lú(efe___|toS)ia.(e.|ta) (::) 
 
-<sp>V/</sp>. 
-Post(i!jwkJI/[0.5])quam(hi/hhO1g) au(h)dís(hi)sem(h) et(h) vi(h)dís(hi)sem,(h) (,) 
-cé(h)ci(h)di(h) ut(h) a(h)do(h)rá(hi)rem(h) an(h)te(ig) pe(hi)des(hi) An(i)ge(i!jkj)li,(ji) (;) 
-qui(hi/hhO1g) mi(hih)hi(i) hæc(i) o(i)sten(i)dé(ij)bat,(i) 
-et(ijijvIH) di(hg)xit(h!iwji/jkj) mi(ih!iwjij)hi.(ivHGhg) (::)
+<sp>V/</sp> Pos(i!jwk_JI|ql-hjppt1su2)tquam(h_i/hhog|peS/pr) 
+au(h|ta)dís(h|ta)sem(h|ta) et(h|ta) vi(h|ta)dís(hi|pe)sem,(h|ta) (,) 
+cé(h)ci(h)di(h) ut(h) a(h)do(hg)rá(hi)rem(h) an(h|ta)te(ig|cl) 
+pe(hi|pe)des(hi|pe) An(i)ge(i!jwkj__|qlhi!cl-hippt1)li,(ji..|cl-hi) (;) 
+qui(h_i/hhog|peS/pr) mi(hi)hi(i) hæc(i) os(i)ten(ih|cl)dé(ij|pe)bat,(i|ta) (,) 
+et(ijij_IH|tohici-hi) di(ih|cl)xit(h!iwji/jkj|qlhh!clhhppt1/tohj) 
+mi(i_h!iwjij|cl-hh/qihh!pohh)hi:(iv_HGhg..|ci-hicl-hh) (::)
 
-+ 
-Hic.(i!jwkJIjwki) (::)
+<sp>+</sp> Hic(i!jwkJ__I/jwki__|````vi-ql-hksut2/qihj!cl-hj) De(i_l|peShl)um.(k|vihj) (::)
 
-<sp>V/</sp>. 
-Gló(i!jwkJI)ri(hg)a(hi/hhO1g)  
-Pa(ig)tri(hi) et(hi) Fí(i)li(i!jwkj)o(ji) (;) 
-et(i) Spi(i)rí(i!@jijIH)tu(hg)i(h!iwji/jkj)
-San(ih!iw!@jij)cto.(ivHGhg)  (::)
+<sp>V/</sp> Gló(i!jwk_JI|ql-hjppt1su2)ri(hg|cllsc3)a(h_ihog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj__|qlhh!cl-hhppt1)o,(ji..|cl-) (;) et(i|ta) Spi(i|ta)rí(ijijv_IH|////tr-1su2)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) Sanc(i_h!iwjij|////cl-`qi!po)to.(iv_HGhg..|//ci-cl-) (::)
 
-+ 
-Hic.(i!jwkJIjwki) (::)
-
+<sp>+</sp> Hic(i!jwkJ__I/jwki__|````vi-ql-hksut2/qihj!cl-hj) De(i_l|peShl)um.(k|vihj) (::)
