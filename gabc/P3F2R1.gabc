@@ -1,18 +1,30 @@
+name:Vidi portam civitatis V Vidi caelum novum;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)Vi(e)di(e) por(e/fhf/gf>)tam(fe) ci(ed/dc)vi(d)tá(gxdfgvFEf)tis(fe) <v>\greheightstar</v>(;)
-ad(e) O(d)ri(ef)én(fe)tem(gxf!gwhgFEfwgFE>) pó(d)si(DEfvEDe)tam,(ed) (:) 
-et(d) A(d)po(d)sto(efe)ló(f)rum(e) nó(f)mi(e)na(efED) 
-et(d) A(gxd!ewfef!g>)gni(f) su(d)per(f!gwh) e(hvvGFE)am(fe/fo0i>) scrip(gxhvf!go1!hv)ta:(gf) (;)
+(c3) Vi(e|ta)di(e|ta) por(e_0//fhf/g_1fe~|toS2ppu1/cl->)tam(fe__|cl-) <sp>*</sp> 
+ci(ed/dc__|clScl-)vi(d|vi)tá(gxdf_!gv_FE|////pe-`ci-)tis(fe__|cl-) (,) 
+ad(e|vi) O(d|ta)ri(ef|pe)én(fe__|cl-)tem(gxf!gwhGF___E/fwg_FE<|ql!vsppt1sut2/qi-su1sux1) 
+pó(d|ta)si(de!fv_EDe|//ci-pp2vi)tam,(ed..|cl-) (;) 
+et(d|ta) A(d|ta)pos(d|ta)to(efe|to)ló(f|vi)rum(e|ta) nó(f|vi)mi(e|ta)na(e_f_ED|pe-1su2) 
+et(d|ta) Ag(gxd!ewfef_//g>|///qlhe!po-1heppt1/vi>hj)ni(f|vi) (,) 
+su(d|ta)per(f!gwh|vi-/qlhi) e(hv_hv_G_FE|vi-sut1su2)am(hg/hoi>|cl/pq>) 
+scrip(gxhv_//f@goh|vi-sa)ta:(gf..|cl-) (:) 
 
-+ 
-Et(f) su(f)per(fi~) mu(i)ros(h) e(ge/fefs!hssihh)jus(hg) (,) 
-An(hg~)ge(hi)ló(i)rum(ihhvGF) cu(h)stó(f/hef)di(edewfef)am,(fe) (,) 
-al(f>)le(ehe/f/eeO1dDFgwh/ihhvGFgwhg/fgFE)lú(e!fwgfg>)ja.(fe)  (:)
+<sp>+</sp> Et(f|ta) su(f|ta)per(hi~|pe~) mu(i|vi)ros(h|ta) 
+e(ge/fe/fshshsihhs|cl/cl/tsM/po)jus(hg__|cl-) (,) 
+An(hg~|vi>)ge(hi|pe)ló(i|vi)rum(ih/hv_GF|clSci-) 
+cus(h|vi)tó(f_0//hef|poppu1)di(e_d!ewfef|cl-qi!po)am,(fe..|cl-) (;) 
+al(f>|vi>)le(ege_/fv|toS2vi|eeod/e_f!gwh/ih__/hvGF/gwhg__/fg_FE|pr/qlhhppt2/cl-hi/vihisut2/qihg!cl-hg/pe-1su2)lú(e!fwgfg>|qi!po>ppt1)ia.(fe..|cl-) (::) 
 
-<sp>V/</sp>. 
-Vi(i!jwkJI)di(hi/hhO1g) cæ(h)lum(h) no(hi)vum,(h) et(ig~) ter(hi)ram(hi) no(i!jkj)vam,(ji) (;) 
-et(hi/hhO1g) ci(hih)vi(i)tá(i)tem(i) no(ij)vam(i) de(i)scen(i)dén(ijijvIH)tem(hg) de(h!iwji/jkj) cæ(ih!iwjij)lo.(ivHGhg) (::)
+<sp>V/</sp> Vi(i!jwk_JI|ql-hjppt1su2)di(h_i/hhog|peShhprhh) 
+cæ(h|ta)lum(h|ta) no(hi|pe)vum,(h|ta) et(ig~|vi>) 
+ter(hi|pe)ram(hi|pe) no(i!jwkj|qlhh!clhhppt1)vam,(ji..|cl-hi) (;) 
+et(h_i/hhog~|peSvs>) ci(hi)vi(i)tá(i)tem(i|vi) no(i|vi)vam(i|vi) 
+Je(ig|cl)rú(hi|pe)sa(i|vi)lem(i|vi) (`) 
+des(i|vi)cen(i|vi)dén(ijij_IH|tohjci-hi)tem(ih|cl) de(h!iwji/jkj|qlhh!clhhppt1tohj) 
+cæ(i_h!iwjij|cl-hhqihh!pohh)lo.(iv_HGhg..|ci-hicl-hh) (::)
 
-+ 
-Et(f) su(f)per.(fi~) (::)
+<sp>+</sp> Et(f|ta) su(f|ta)per.(hi~|pe~) (::)
