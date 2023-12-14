@@ -1,14 +1,31 @@
+name:Jam non dicam V Vos amici mei estis V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Jam(f!g!h>) non(g) di(gh)cam<sp>*</sp>(g) vos(g!ho1!iv) ser(h)vos,(hg!h!iwjg/h/ggO1f) (,) 
-sed(h) a(j)mí(ji/jh)cos(gf!gwhGFg) me(GHivHGh)os;(g!ho1!ih) (;)
-qui(f)a(h) ó(j)mni(j)a(kjjs) co(hi>)gno(hg)ví(g!hwi!jv)stis,(hg) (,)
-quæ(g) o(f)pe(ghg)rá(h)tus(g) sum(g) in(g>) mé(gh)di(g)o(g) ve(gd!ewfef)stri,(ed) (,)
-al(g)le(ghfg)lú(g!hwihi)ja:(hg) (:)
-<sp>+</sp> Ac(g)cí(gji/jo0!kv)pi(h!iwjiHGh)te(hg) Spí(gh)ri(g)tum(g) Sanc(gh~)tum(g) in(g) vo(hg/h!iwjIHi)bis(ih) Pa(h)rá(hhgh)cli(FGhvGFg)tum;(fg/ffO1d) (;)
-il(f!g!h>)le(g) est,(hjg/h/ggO1f) quem(hg~) Pa(ghg)ter(hj~) mit(jjO1i)tet(g!ho1!iv) vo(ihhO1gh)bis,(ggO1f) (,)
-al(h>)le(hvGFg/hih/ig)lú(ghg)ja.(g) (::)
-<sp>V/</sp> Vos(j) a(j)mí(ji)ci(jkj/iji/hhO1g) me(ij)i(hi) e(g!hwih)stis,(hg) (;)
-si(g) fe(fg)cé(g)ri(g)tis(g) quæ(g) e(gh)go(g) præ(g)cí(hiHGhih)pi(ghf)o(gh) vo(h!iwji/jkjIH)bis.(hiHGhg) (::)
-<sp>+</sp> Ac(g)cí(gji/jo0!kv)pi(h!iwjiHGh)te.(hg) (::)
+(c4) Jam(f_0//gh>|pe>ppu1) non(g|ta) di(gh|pe)cam(g|ta) <sp>*</sp> vos(ixg!hoi|/////sa1) 
+ser(h|ta)vos,(ixhg__/h!iwjg__hv_ggof.|//////cl-qihh!cl-hhppt1/vi-hhpr) (;) 
+sed(h|vi) a(j|vihh)mí(jijh|pflsc2)cos(gf!gwhGFg|cl-/ql-su2vi) me(gh!ivHGh|//ci-hhpp2vi)os:(gh/ih..|cl-pp2) (;) 
+qui(f|ta)a(h|vi) óm(j|vihi)ni(i|ta)a(kjjs|clhisthj) cog(hi>|pe>)no(hg|cl)vís(g!hwihi|ql!poppt1)tis,(hg..|cl-) (;) 
+quæ(g|vi) o(f|ta)pe(ghg|to)rá(h|vi)tus(g|ta) sum(g|ta) (`) 
+in(g>|vi>) mé(gh|pe)di(g|ta)o(g|ta) ves(g_d!ewfef|cl-qi!po)tri,(ed..|cl-) (;) 
+al(g|vi)le(g_0//hfg|````vi-lse4/pohi)lú(g!hwihi>|ql!po>ppt1)ia.(hg..|cl-) (:) 
 
+<sp>+</sp> Ac(g|````talse4)cí(gji/jok|to/pq)pi(h!iwjIHGh|qlhh!vshhppt1su2vihh)te(hg__|cl-) (,) 
+Spí(gh|pe)ri(g|ta)tum(g|ta) San(gh~|pe~)ctum(g|ta) in(g|ta) vo(hg__/h!iwj_IHi|cl-hhql-hippt1su2vihh)bis(ih__|cl-hi) (,) 
+Pa(h|```vilse6)rá(h_//hgh|vi-/pohh)cli(fg!hv_GFg|//ci-pp2vi)tum:(f_g/ffod.|peSpr) (;) 
+il(f_0//g!h>|vi-/pe>hi)le(g|ta) est,(ixhighv_//ggof|//////toS2/vi-pr) (`) 
+quem(hf~|vi>) Pa(ghg|to)ter(h<|pe~) mit(jjoi|prhh)tet(g@hoi|sa) vo(ih/hog/hv|clpivi)bis,(hhog.|pr) (;)  
+al(h>|vi>)le(hv_GFgv_//hihig|ci-vi-/tohh!clhh)lú(ghg___|toS)ia.(g.|ta) (::) 
+
+<sp>V/</sp> Vos(g_j) a(j)mí(j)ci(j) me(j)i(j) es(ji|clhi)tis,(jkj/iji/hhog|tohj/tohk/prhj) (`) 
+si(ij|pehh) fe(hi|pe)cé(g|ta)ri(g!hwih__|qihh!cl-hhppt1)tis(hg..|cl-) (;) 
+quæ(g|ta) e(fg|pe)go(g|ta) præ(g|ta)cí(ixhi_HGhih|//////pe-hjsu2tohj)pi(ghf|to)o(g_h|peS) 
+vo(h!iwji/jkJ_IH|qihh!clhhppt1//////toS2hksu2)bis.(h_i_HGhg..|pe-1hjsu2cl-hj) (::)
+
+<sp>+</sp> Ac(g|````talse4)cí(gji/jok|to/pq)pi(h!iwjIHGh|qlhh!vshhppt1su2vihh)te.(hg__|cl-) (::)
+
+<sp>V/</sp> Gló(g_j)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(g_h|peS) Sanc(h!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)to.(h_i_HGhg..|pe-1su2/cl-) (::)
+
+<sp>+</sp> Ac(g|````talse4)cí(gji/jok|to/pq)pi(h!iwjIHGh|qlhh!vshhppt1su2vihh)te.(hg__|cl-) (::)
