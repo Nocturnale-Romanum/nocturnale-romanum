@@ -1,23 +1,27 @@
-mode:1;
+name:Cantate Deo alleluia V Afferte V Gloria;
+office-part:re;
+mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Can(d)ta(-dfe)te(f) <v>\greheightstar</v>() De(gf/hg)o,(g) (,) 
-al(gh>)le(fd)lú(fe/f>)ja:(dc) (;)
+(f3) Can(f|ta)tá(fhg|to)te(h|vi) De(ihji|pf)o,(i|ta) (,) 
+al(i_j>|pe>1)le(hf__|cl-)lú(hghe~|clvi>)ia:(fe..|cl-) (;) 
+<sp>+</sp> Psal(h>|vi>)mum(h|vi) dí(ig__|cl-)ci(ij|pe)te(h|vi) e(f_g_FE|pe-1su2)i,(e.|ta) (;) 
+al(e_0//fh~|pe~ppu1)le(hv_//gh/ijHGh|vi-pepp2su2vi)lú(fgf___|toS)ia.(f.|ta) (::) 
 
-+ Psal(fe~)mum(f) dí(ge)ci(gh)te(f) e(deDC)i,(c) (,) 
-al(c!df~)le(fvEFghFEf)lú(ded)ja.(d) (::)
+<sp>V/</sp> Af(f|vi)fér(e_f!gwh/hi|````qlppt2/pehi)te(h|//ta) 
+Dó(ij|``pehilsl4)mi(i|vi)no(h|ta) gló(h|ta)ri(h|ta)am(hg|cl) 
+et(hi|pe) ho(gh|pe)nó(f!gwhg__|ql!cl-ppt1)rem,(gf..|cl-) (;) 
+af(f|vi)fér(ef|pe)te(f|vi) Dó(fg|pe)mi(f|vi)no(f|vi) gló(f|vi)ri(f|vi)am(f|vi) 
+nó(f!gwh_GFE|ql-ppt1su3)mi(f|vi)ni(hg/hih|cllsc2/to) e(hv_GFg|ci-vi)jus.(ffoe.|pr) (::)
 
-<sp>V/</sp>. 
-Af(h)fér(h)te(hg/hg/gO1f) Dó(g)mi(g)no(g) gló(gh)ri(g)am(hf~) 
-et(gh) ho(gh)nó(ixh/iiO1h)rem,(h) (;)
-af(gf)fér(gh~)te(h) Dó(ixhi)mi(h)no(h) gló(ixhi)ri(h)am(h) 
-nó(hg/hg)mi(gf)ni(ixf!gwhg/hih) e(hvGFEfwg!h>)jus.(gf) (::)
+<sp>+</sp> Psal(h>|vi>)mum.(h|vi) (::)
 
-+ Psal(fe~)mum.(f) (::)
+<sp>V/</sp> Gló(e_f!gwh/hi|qlhgppt2pehj)ri(h|ta)a(h|ta) 
+Pa(hg|cllsc3)tri,(hi|pe) et(gh|pe) 
+Fí(f|ta)li(f!gwhg|ql!clppt1)o,(gf..|cl-) (;) 
+et(f|ta) 
+Spi(f|ta)ri(f!gwh_GFE|ql-ppt1su3)tu(f|vi)i(hg/hih|cllsc2tohg) 
+Sanc(hv_GFg>|ci-vi>hg)to.(ffoe.|pr) (::)
 
-<sp>V/</sp>. 
-Gló(h)ri(h)a(hg/hg/gO1f) 
-Pa(hf)tri,(gh) et(gh) Fí(ixh)li(h/iiO1h)o,(h) (;)
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih)
-San(hvGFEfwg!h>)cto.(gf) (::)
-
-+ Psal(fe~)mum.(f) (::)
+<sp>+</sp> Psal(h>|vi>)mum.(h|vi) (::)
