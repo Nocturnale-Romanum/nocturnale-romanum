@@ -1,9 +1,23 @@
+name:Praebe fili cor tuum V Attende fili mi;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)  Præ(hhg)be,(hf) fí(gh)li,<sp>*</sp>(d) cor(ef) tu(g)um(fe) mi(DEfvEDe)hi,(ed) (;)
-et(d) ó(f)cu(gh)li(g) tu(gfg)i(fg/ffO1d) vi(fe)as(f) me(ghf)as(fe) cu(f!go!hv)stó(hg/hfg)di(fe!fwgfg)ant:(gf) (;)
-<sp>+</sp> Ut(f) ad(g!h>)dá(hjij)tur(hvf!go1!h>) grá(gh)ti(fvED)a(dfddc) cá(fgFD)pi(f!go1!hv)ti(hg/hfgvFE) tu(d!ewfef)o.(ed) (::)
-<sp>V/</sp> At(h)tén(h)de,(hg/hggO1f) fí(gh)li(g) mi,(g) sa(g)pi(g)én(hf~)ti(gh)am(gh) me(ixh/iiO1h)am(h) (;)
-et(gf) ad(gh) e(h)ló(ixhi)qui(h)um(h) me(ixhi)um(h) in(h)clí(h)na(hg/hg) au(gf~)rem(ixf!gwhg/hih) tu(hvGFEfwg!hv)am.(gf) (::)
-<sp>+</sp> Ut.(f) (::)
+(c4) Præ(h_hg__|vi-cl-)be,(hf|cl-lss2) fi(goh|pq)li,(d|ta) <sp>*</sp> 
+cor(e_f|peS) tu(g|vi)um(fe|cllsc2) mi(de@fv_EDe|/ci-pp2vi)hi,(ed..|cl-) (;) 
+et(d|````talse4) ó(f|vi)cu(fg|pe)li(g|vi) tu(gfg|po)i(f_g_/ffod|pe-1pr) (`) 
+vi(fe|cllsc2)as(f|vi) me(ghf_|to-1)as(fe|cllsc2) 
+cus(f@goh|sa)tó(hg/hfg|cl/po)di(f_e!fwgfg|cl-ql!po)ant,(gf..|cl-) (:) 
 
+<sp>+</sp> Ut(f|````vilse4) ad(ghg~|pe>)dá(h_0//jij|vi-/pohi)tur(hv_//f@goh>|vi-sa>) 
+grá(g_h|peS)ti(fv_ED|ci-)a(dfd_/dc__|to-1cl-) (,) 
+cá(f_g_FE|pe-1su2)pi(f@goh|sa)ti(hg/hfgvFE___|clclhhvi-sut2) tu(d!ewfef|ql!poppt1)o.(ed..|cl-) (::) 
+
+<sp>V/</sp> At(h|vi)tén(h|vi)de,(hg/hggof|cl/cl!pi) fi(gh|pe)li(g|ta) mi,(g|ta) (,) 
+sa(g|ta)pi(g|ta)én(hf~|vi>)ti(gh|pe)am(gh|pe) me(ixh_0/iioh|//////vi-pr)am,(h.|ta) (;) 
+et(hf|cllsc2) ad(gh|pe) e(h|vi)ló(ixhi|/////pehh)qui(h|ta)um(h|ta) me(h|ta)um(h|ta) 
+in(h|ta)clí(h|ta)na(hg/hg|pf) au(hf~|vi>)rem(ixf!gwhg/hih|//////ql!clppt1tohh) 
+tu(hv_GF_E/fwg_//hv_|vi-su1sut2qi-/vi-hj)am.(gf..|cl-) (::)
+
+<sp>+</sp> Ut.(f|````vilse4) (::)
