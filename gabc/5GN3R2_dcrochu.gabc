@@ -1,0 +1,19 @@
+name:Factus est sermo Domini V Ego enim sum;
+office-part:re;
+mode:7;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Factus est sermo Domini;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Fac(ggh|scM1)tus(g|vi) est(g|vi) <sp>*</sp> ser(f!goh|sa)mo(fe|cllsc3) Dó(d/gfg|//ta-po)mi(ixgh!ivHGh|//////ci-hhpp2vihh)ni(g!hih|cl-hhppt2) (,) ad(gf|cllsc3) A(g|vi)bra(g|vi)ham,(gh!ivjh!iwjIH|vi-pp2cl-hiql-hjsu2) di(gh!ivHGh|//ci-hhpp2vihh)cens:(hg|cl-) (:)
+<sp>+</sp> No(g|```vilse4)li(goh|pq) ti(dg|peS)mé(g|vi)re,(f!gwhGFg|ql-ppt1su2vi) A(g|vi)bra(ixgh!ivHGh|//////ci-hhpp2vihh)ham:(g!hih|cl-hhppt2) (,) e(g|ta)go(g|ta) pro(g|ta)téc(gh!ivjh|vi-hhpp2cl-hk)tor(i>|vi>) tuus(ghhg|pe-cl-hg) sum,(g|ta) (:) et(jv//ijHGF|vi-/toS2hksu1sut1|g!hjkkj|//pe-hjpp2cl-hk) mer(jijh~|//po>hhlsi9)ces(j|vihh) tu(kj|cl-hi)a(ijhig|////to!cllsi7lsc2) mag(iv//ghgfssded|vi-to-1hhlsi7ds-hhtohh)na(gh!iwjIH/iwjIH|ql-hippt2sut2qi-hksu2) ni(gh!ivHGh|//ci-hhpp2vihh)mis.(hg|cl-) (::)
+
+<sp>V/</sp> E(ji|clhhlsc3)go(jkj/iji/hhog|////tohitohjprhj) e(hi|pe)nim(i|vi) sum(i|vi) Dó(i|vi)mi(i|vi)nus(ih|clhhlsc3) De(ij|pehh)us(hi|pehh) tu(g!hwih|ql!cl-ppt1)us,(hg|cl-) (;) qui(g|vi) e(fg|pe)dú(gh|pe)xit(g|vi) te(g|vi) de(g|vi) Ur(ixhiHGhih|////pe-su2tohg) Chal(ghf|toM1hh)dæ(gh|peS)ó(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)rum.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> No(g|```vilse4)li(goh|pq) ti(dg|peS)mé(g|vi)re.(f!gwhGFg|ql-ppt1su2vi) (::)
