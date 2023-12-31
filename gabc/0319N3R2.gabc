@@ -1,14 +1,30 @@
+name:Descendit Jesus V Proficiebat sapientia V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)  De(g)scén(gffd!ewfE!Ds<)dit(cd) Je(fg)sus(FGhvhg/jhhO1g)
-<sp>*</sp> cum(ji~) e(hg)is,(gh/ggO1f) (:)
-et(fg~) ve(gjj)nit(jk) Ná(k)za(ji)reth,(hjg/hhO1g) (;)
-<sp>+</sp> Et(f) e(gh)rat(h!iwjIHih) súb(ghGFgh)di(g)tus(GHiwjIHiwjIH) il(GHivHGh)lis.(hg) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(g>)le(ghfg)lú(g!hwihi)ja.(hg) (::)
-<sp>V/</sp> Pro(j)fi(j)ci(j)é(ji)bat(jkj/iji/hhO1g) sa(hi)pi(i)én(i)ti(i)a,(ih) et(ij) æ(hi)tá(g!hwih)te,(hg) (;)
-et(g) grá(fg)ti(g)a(g) a(gh)pud(g) De(g)um(hiHGhih) et(ghf) hó(gh)mi(h!iwji/jkjIH)nes.(hiHGhg) (::)
-<sp>+</sp> Et.(f) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Et.(f) (::)
+(c4) Des(g|vi)cén(gf__fd__!ewf_E~D~|cl-cl-ql-su1sux1)dit(c_d|peS) 
+Je(f_g|peS)sus(fg@hvhg/jhhog|scclclhipihi) <sp>*</sp>(,) 
+cum(ji|clhh) e(hg|cl)is,(g_h/ggof.|peSpr) (;) 
+et(fg|pe) ve(gj_j_|pe-hivi-hi)nit(jk|pehj) Ná(k|vihj)za(ji|cl)reth,(hjg___/hhog.|toShjprhj) (;) 
 
+<sp>+</sp> Et(f|ta) e(gh|`pe)rat(h!iwj_IHih__|ql-hippt1su2cl-hi) 
+súb(g_hGFg_h>|peSsu2pe>1)di(g|ta)tus(g_h!iwjI__H/iwj_IH|ql-hippt2sut2ql-hisu2) 
+il(gh@iv_HGh|/ci-hhpp2vihh)lis.(hg..|cl-) (::) 
+<c><i>T.P.</i></c> {A}l(g|ta)le(ghfg|tr)lú(g!hwihi|ql!poppt1)ia.(hg..|cl-) (::) 
+
+<sp>V/</sp> Pro(j|vihh)fi(j|vihh)ci(j|vihh)é(ji|clhhlsc3)bat(jkj|tohk|iji|tohk|hhog|prhi) 
+sa(hi|pe)pi(ih|clhh)én(jk~|pe~hj)ti(j|tahj)a,(j_|tahj) (,) 
+et(j|vihh) æ(ji|clhh)tá(ih|cl)te(ij|pehh) et(hi|pehh) grá(g|ta)ti(g!hwih__|qlhh!cl-hhppt1)a(hg..|cl-) (;) 
+a(g|vi)pud(fg|pe) De(g|vi)um(ixhi_HG/hih|/////pe-hjsu2/tohi) et(ghf|tohh) 
+hó(g_h|peS)mi(h!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)nes.(h_i_HGhg..|pe-1hisu2/cl-) (::)
+
+<sp>+</sp> Et.(f|ta) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) 
+et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) 
+et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(g_h|peS) 
+San(h!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)cto.(h_i_HGhg..|pe-1su2/cl-) (::)
+
+<sp>+</sp> Et.(f|ta) (::)
