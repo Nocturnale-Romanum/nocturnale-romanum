@@ -1,11 +1,25 @@
+name:Apparuerunt apostolis V Et coeperunt loqui;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Ap(e)pa(e)ru(feh)é(g!ho1)runt<sp>*</sp>(g) A(g)pó(hif)sto(hi)lis(i) dis(hg)per(hi~)tí(i)tæ(hgh/fhg) lin(efe)guæ(e) (;)
-tam(h)quam(h) i(f/ghf)gnis,(f) (,) al(hg~)le(hih/fhe/fgfg)lú(efe)ja:(e) (:)
-<sp>+</sp> Se(e)dít(fg)que(f) su(hg)pra(h) sín(ijij>)gu(hvGFgh)los(g) e(h)ó(hggO1f/gh)rum(g)  Spí(i)ri(h)tus(gfgwh) Sanc(efe)tus,(e) (;)
-al(fh~)le(h)lú(hih>)ja,(e) (,) 
-al(fg~)le(gvfhg)lú(efe)ja.(e) (::)
-<sp>V/</sp> Et(i) cœ(i)pé(i!jwkJI)runt(hi/hhO1g) lo(h)qui(h) vá(ig)ri(hi)is(hi) lin(i!jwkj)guis,(ji) (;)
-pro(hi/hhO1g)ut(hih) Spí(i)ri(i)tus(i) Sanc(ij~)tus(i) da(i)bat(i) é(ijijvIH)lo(hg)qui(h!iwji/jkj) il(ih!iwjij)lis.(ivHGhg) (::)
-<sp>+</sp> Se(e)dít(fg)que.(f)  (::)
+(c3) Ap(e|``vilslm3)pa(e|vi)ru(feg|po)é(g!ho1|vslsc2)runt(g|ta) <sp>*</sp> 
+a(g|ta)pós(hig|tolsl2lsi9)to(h_i|peS)lis(i|vi) (,) 
+dis(hg|cl)per(hi~|pe~)tí(i|vi)tæ(hgh/fhg|potolsi7) lin(efe___|toS)guæ(e|ta) (,) 
+tam(g|vi)quam(g|vi) ig(f_0//ghf|toS2ppt1)nis,(f.|ta) (;) 
+al(g>|vi>)le(hih___//gih_//fhgh//fhe___|toShitoS2hhtrhgtoS)lú(efe___|toS)ia,(e.|ta) (:) 
 
+<sp>+</sp> Se(e|ta)dít(fg|pe)que(g|ta) su(hg|cllss2)pra(h|vi) 
+sín(ijij>|tr>hhlsl2)gu(iv_HG_h_i|vi-su1sut1lscm2peS)los(h|talse3) 
+e(h|talss2)ó(hg/gof/g_h|cl!pipeS)rum(g|ta) (`) 
+Spí(i|vi)ri(h|vi)tus(g_f!gwh|cl-ql) San(efe___|toSlsi7)ctus,(e.|ta) (;) 
+al(fh~|pe~lssm2)le(h|vilsl2)lú(gih>|to>lsi7lsi9)ia,(f|vi) (`) 
+al(eg~|``pe~lss1)le(gv_//fhg|vilss2to)lú(efe___|toS)ia.(e.|ta) (::) 
+
+<sp>V/</sp> Et(i|vi) cœ(i|vi)pé(i!jwk_JI|`viql-hlsu2)runt(h_i/hhog|peSpr) 
+lo(hi|pe)qui(h|ta) vá(ig|cl)ri(hi|pe)is(hi|pe) lin(i!jwkj|qlhi!clhippt1)guis,(ji..|cl-) (;) 
+pro(h_i/hhog|peSpr)ut(hih|//to) Spí(i|vi)ri(i|vi)tus(i|vi) San(ij>|pe>)ctus(i|vi) (`) da(i|vi)bat(i|vi) 
+é(ijij_IH|tr-1su2)lo(ih|cl)qui(h!iwji/jkj|qlhh!clhhppt1tohk) il(i_h!iwjij|cl-hjqlhh!pohh)lis.(iv_HGhg..|ci-cl-) (::)
+
+<sp>+</sp> Se(e|ta)dít(fg|pe)que(g|ta) su(hg|cllss2)pra.(h|vi) (::)
