@@ -1,11 +1,28 @@
+name:Disciplinam et sapientiam V Repentino namque;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)  Di(d)sci(d)plí(f!gh)nam<sp>*</sp>(g) et(g) sa(g)pi(gh)én(h)ti(h)am(hg/higgf) (;)
-dó(hf)cu(ghg)it(h) e(hjh!g)os(hfGHiwjIHiwjIH) Dó(g)mi(GHivHGh)nus,(hg) (,) al(g)le(ghgh)lú(g!hwihi)ja:(hg) (:)
-fir(h)má(jkj)vit(jh) in(jvkv) il(ki/jkh/i>)lis(hhO1g) grá(f)ti(hih)am(hg~) Spí(j)ri(j)tus(ji/jvIHG) su(hghvGFg)i,(gf) (;)
-<sp>+</sp> Et(f) in(f)tel(g!h>)léc(h)tu(g) im(gf~)plé(gh)vit(g) cor(gh~)da(g) e(g)ó(gd/efef)rum,(ed) (,)
-al(d)le(d)lú(fvgv/[4])j<e>a</e>, al(gfgvFEfwg!h>)le(g)lú(g!hwihi>)ja.(hg) (::)
-<sp>V/</sp> Re(j)pen(j)tí(ji)no(jkj/iji/hhO1g) nam(ij)que(hi) só(g)ni(g!hwih)tu(hg) (;)
-Spí(g)ri(fg)tus(g) Sanc(gh~)tus(g) su(g)per(hiHGhih) e(ghf)os(gh) vi(h!iwji/jkjIH)vit.(hiHGhg) (::)
-<sp>+</sp> Et.(f) (::)
+(c4) Dis(d|ta)ci(d|ta)plí(f_0//gh|vi-/pehi)nam(g|ta) <sp>*</sp>() 
+et(g|ta) sa(g|ta)pi(gh|pe)én(h|vi)ti(h|vi)am(ixhg/hig/gf__|//////cltoS2cl-) (,) 
+do(hf|cl)cé(ghg|to)bat(h|vi) e(hjHG__|toS2sut1)os(hf__/g_h_!iwjI__H/iwj_IH|cl-ql-hjppt2sut2qi-hjsu2) 
+Dó(g|ta)mi(gh@iv_HGh|/ci-pp2vi)nus,(hg..|cl-) (;) 
+al(g|``talse6)le(g_0//hfg|/ta-po)lú(g!hwihi>|vi-qlhj!po>hj)ia;(hg..|cl-) (;) 
+fir(h|vilsl2)má(jkj|tohjlss2)vit(jh|```clhhlsi9) 
+in(j_k_|``vi-hi/vi-hm) il(ki/jkh_//i>|//clhjto-1hivi>hi)lis(h_hog|pr-) (,) 
+grá(f|talsi2)ti(ixhih|//////to)am(hg~|vi>) 
+Spí(iyi|/////vi)ri(j|vihh)tus(ji__jvI_HG|cl-hivihksut1su2) su(hg__hv_GFg|cl-ci-vi)i,(gf..|cl-) (:) 
 
+<sp>+</sp> Et(f|ta) in(f|ta)tel(ghg~|pe>)léc(h|vi)tu(g|ta) a(g|ta)dim(g>|vi>)plé(gh|pe)vit(g|ta) 
+cor(gh~|pe~)da(g|ta) e(g|ta)ó(g_d!ewfef|clql!po)rum,(ed..|cl-) (;) 
+al(d|```talse4)le(d|`ta)lú(f_g_|``vi-/vi-hj)ia,(gf__|//cl-) 
+al(gvF_E/fwg/hf~|/visut2ql/vi>hj)le(g|vihe)lú(g!hwihi>|viheqlhi!po>hi)ia.(hg..|cl-) (::) 
+
+<sp>V/</sp> Re(g_j|peShh)pen(j|vihh)tí(ji|clhh)no(jkj/iji/hho1!g|tohjtohjprhi) 
+nam(ij|pe)que(hi|pe) só(g|ta)ni(g!hwih|ql!clppt1)tu(hg..|cl) (;) 
+Spí(g|vi)ri(fg|pe)tus(g|vi) San(gh~|pe~)ctus(g|ta) 
+su(g|ta)per(ixhi_HGhih|/////pe-hisu2tohj) e(ghf|to)os(g_h|peS) 
+ve(iyh!iwji/jkJ_IH|/////qlhh!clhhppt1toS2hmsu2)nit.(h_i_HGhg..|pe-1hisu2clhi) (::)
+
+<sp>+</sp> Et.(f|ta) (::)
