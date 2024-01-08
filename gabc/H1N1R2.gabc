@@ -2,20 +2,25 @@ name:Benedictus Dominus Deus Israel V Replebitur maiestate;
 office-part:re;
 mode:2;
 submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Be(f)ne(f)dí(f)ctus(e_fEC___eeof) <sp>*</sp>(,) 
-Dó(fg)mi(f)nus(ffoe) De(f!gwhiv_GFhhof)us(f) Is(gf)ra(ef)ël,(fhf/fe..) (;)
-qui(h_i) fa(i_h!iwji)cit(h_) 
-mi(hg)ra(fe)bí(fg)li(f)a(f_hv_hv_hf__foefv.) (,) ma(h!iwj)gna(jjoIGF__hv_hv_hvGF) 
-so(f!goh)lus:(gf..) (:)
+(f3) Be(f|vi)ne(f|vi)díc(f|vi)tus(e_fEC___eeof|pe-1sut2/sa) <sp>*</sp>(,) 
+Dó(fg|pe)mi(f|ta)nus(ffoe|pr) De(f!gwhiv_GFhhof|```qlppt1lsal1/ci-hjprhj)us(f|ta) 
+Is(gf|cllsc3)ra(ef|pe)ël,(fhf/fe..|toS2/cl-) (;) 
+qui(h_i|```peSlsal1) fa(i_h!iwji|cl-ql!cl)cit(h_|ta-) 
+mi(hg|cllsc2)ra(fe|cllsc2lsi1)bí(fg|pe)li(f|ta)a(f_hv_hv_hf__foefv_|ta-//bv-/cl-/pi/vi-) (,) 
+mag(h!iwj|```qlppt1lsal1)na(jjoIGF__|vssu1sut2|hv_hv_hvGF|/bv-cilsc2) so(f_g@hv|vippt2)lus:(gf..|cl-) (:) 
 
-<sp>+</sp> Et(f<)  be(fv_EC)ne(ef)dí(hv_hv_)ctum(f!gwhGFEfe__) no(h!iwj_IHi)men(ih__) (,) 
-ma(hg~)je(hi)stá(ihhog)tis(feg_) e(g_//hig/hv_G~F~)jus(gf..) (;) 
-in(ef) æ(f_//hhoi_h!iwji)tér(gf__/f!g!h!iv_hjijHGFe!go@hf~)num.(f.) (::)
+<sp>+</sp> Et(f<|pe~) be(fv_EC|vi-su1suw1)ne(ef|pe)díc(hv_hv_|bv-)tum(f!gwhGFEfe__|ql!vsppt1su2cl-) 
+no(h!iwj_IHi|```ql-ppt1su2lsal1vi)men(ih__|cl-) (,) 
+ma(hg~|vi>)jes(hi|pe)tá(ihhog|cl!pilsc2)tis(feg_|po-1) e(g_//hig/hv_G~F~|```vi-lse4toS2cl->)jus(gf..|cl-) (;) 
+in(ef|``pelsi4) 
+æ(f_//hhoi_/h!iwji|ta-/sa!cl-/ql!cl)tér(gf__/f_g_!h_i_/hjijHGFe!go@hf~|cl-lse9vi-ppt3/toS2su2//sa>lsi6)num.(f.|ta) (::) 
 
-<sp>V/</sp> Re(f)plé(e_f!gwhhi)bi(h)tur(h) ma(h)je(h)stá(ij)te(i) 
-e(h)jus(hg) om(hi>)nis(gh) ter(f!gwhg)ra:(gf..) (;)
-fi(fe)at,(fhvhv___hf__foefv_//h!iwjjoIGFhvhv____hvGF) 
-fi(f_g@hv)at.(gf..) (::)
+<sp>V/</sp> Re(f|vi)plé(e_f!gwhhi|``qlppt2/pehi)bi(h|ta)tur(h|ta) ma(h|ta)jes(h|ta)tá(ij|pe)te(i|vi) 
+e(h|ta)jus(hg|cl) om(hi>|pe>)nis(gh|pe) ter(f!gwhg|ql!clppt1)ra:(gf..|cl-) (;) 
+fi(fe|```cllse4lsc3)at,(fhvhv___|vi-/bv-hi|hf__foefv_|cl-pilsc2vi-|//h!iwjjoIGF__|``qlppt1lsal1lsl2pisut2|hvhv__hvGF|bv-cilsc3) 
+fi(f_g@hv|scS)at.(gf..|cl-) (::) 
 
-<sp>+</sp> Et(f<)  be(fv_EC)ne(ef)dí(hv_hv_)ctum.(f!gwhGFEfe__) (::)
+<sp>+</sp> Et(f<|pe~) be(fv_EC|vi-su1suw1)ne(ef|pe)díc(hv_hv_|bv-)tum.(f!gwhGFEfe__|ql!vsppt1su2cl-) (::)
+
