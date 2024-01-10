@@ -1,14 +1,21 @@
+name:Qui venturus est V Deponet V Gloria;
+office-part:re;
 mode:6;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(cb4) Qui(f) ven(f)tú(f!gwh!io~)rus(h) est,(h) (;)
-<sp>*</sp> vé(i)ni(hg)et,(gh) et(ge~) non(FGhwi) tar(i)dá(ighvGFg)bit:(gf) (:)
-jam(FGhih) non(i) e(ihhO1g/h)rit(hg) ti(g!hwihi)mor(hg) (;)
-in(g) fí(i)ni(i)bus(hhO1g) no(ivHGhvGFg)stris:(gf) (:)
-<sp>+</sp> Quó(fc)ni(f)am(gi) i(hho1!iv)pse(f) est(gfGsIssjiiO1h) Sal(i)vá(ihhO1g)tor(h) no(ighvGFg)ster.(gf) (::)
-<sp>V/</sp> De(f)pó(f!go1!hv)net(ixihivHGhg) o(h)mnes(h) i(h)ni(h)qui(jh)tá(i)tes(gh) no(f!gwhg)stras,(gf) (;)
-et(f) pro(df)jí(f)ci(f)et(f) in(f) pro(f)fún(fg~)dum(f) ma(f)ris(f) ó(fg~)mni(f)a(f) pec(ghf)cá(fe)ta(f!go1!hv) no(ig!hwiHG)stra.(ghGFgf) (::)
-<sp>+</sp> Quó(fc)ni(f)am.(gi) (::)
-<sp>V/</sp> Gló(f!go@hv)ri(h)a(ixihivHGhg) Pa(ixh!iwj!kv)tri,(j) et(jh) Fí(gh)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(ghf)tu(fez)i(f!go@hv) San(ixig!hwiH!gs<)cto.(ghGFgf) (::)
-<sp>+</sp> Quó(fc)ni(f)am.(gi) (::)
+initial-style: 1;
+name: Qui venturus est;
+mode: 6;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vi;
+nabc-lines: 1;
+%%
+(cb4) Qui(f|ta) ven(f|ta)tú(f!gwh/io|ql-ppt1orhk)rus(h|ta) est(h|ta) *(,) vé(i|vi-)ni(hg|cllsc3)et(gh|pe) et(gf~|vi>) non(fg!hwi|``qlhhppt2) tar(i|vi)dá(ig/hvGFg|cl-ci-vi-)bit;(gf|cl-) (;) jam(fg!hih|//tohhpp2) non(i|vi) e(ihhgh|//cl!pivi)rit(hg|cl-) ti(g!hwihi|ql!poppt1)mor(hg|cl-) (,) in(f|ta) fí(h|vi)ni(i|vi)bus(hhog|pr) no(ivHGhvGFg|//ci-ci-vi)stris:(gf|cl-) †(;) Quón(fc|``cllse4lsc2lsi8)i(f|vi)am(gh|pe) ip(hhoi|sa)se(f|ta) est(hfgsissjiioh|cltsMclShjlsc2pihklst2) Sal(i|vi)vá(ihhog|cl!pilsc2)tor(i|vi-) no(ig/hvGFg|cl-ci-vi)ster.(gf|cl-) (::)
 
+<sp>V/</sp> De(f|ta)pó(f!go1!hv|sa)net(ihivHGhg|cl-ci-cl-) om(h!iwj/kv|ql-ppt1vihm)nes(j|vi) in(j|)i(j|vi)qui(jh|cllsc3)tá(i|vi)tes(gh|pe) no(f!gwhg|ql!cl-ppt1)stras,(gf|cl-) (;) et(f|vi) pro(df|pe)jí(f|ta)ci(f|ta)et(f|ta) in(f|ta) pro(f|ta)fún(f|ta)dum(f|ta) ma(fg|pe)ris(f|ta) (,) óm(f|ta)ni(f|ta)a(f|ta) pec(ghf|//to)cá(gf|cl)ta(f!goh|sa) no(ig!hwiHG|cl-qi-hgsu2)stra.(ghGFgf|pe-1su2cl-) (::)
+†() Quón(fc|``cllse4lsc2lsi8)i(f|vi)am.(gh|pe) (::)
+
+<sp>V/</sp> Gló(f!goh|sa)ri(h|vi)a(ih/ivHGhg|cl-ci-cl-) Pa(h!iwj/kv|ql-ppt1vihm)tri,(j|vi) et(jh~|vi>lsi6) Fí(ij|pe)li(ih|cllsc3)o,(h|vi) (,) et(h|vi) Spi(h|vi)rí(hg|cllsc3)tu(i|vi)i(gh|pe) Sanc(f!gwhg|ql!cl-ppt1)to.(gf|cl-) (::) 
+*() Quón(fc|``cllse4lsc2lsi8)i(f|vi)am.(gh|pe) (::)

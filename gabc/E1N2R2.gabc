@@ -1,10 +1,19 @@
-mode:6;
+name:Vulpes foveas V Pauper sum ego;
+office-part:re;
+mode:2;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c2) Vul(dc~)pes(f) fó(-hig)ve(hih)as<sp>*</sp>(hg) ha(h/iji)bent,(hihGFgf) (;) 
-et(fg~) vó(g!hwih)lu(g)cres(f) cœ(gV@fgf)li(exfe) ni(exdfeEs)dos,(ddo0!ev) (:)
-<sp>+</sp> Fí(dc)li(f)us(gi) au(h!io1!j>)tem(hg~) hó(hj)mi(g)nis(fe) non(fg~) ha(f)bet(FGhig/hih) (;)
-u(gf)bi(gh!ivHG) ca(ge)put(gh) re(ghg)clí(FGhvGFg)net.(gf) (::)
-<sp>V/</sp> Pau(f!go1!h>)per(ihivHGhg) sum(gh~) e(f!gwhg)go,(gf) (;)
-et(f) in(df~) la(f)bó(fg)ri(f)bus(f) a(f) ju(f)ven(ghf)tú(fe)te(f!go1!hv) me(ig!hwiHG)a.(ghGFgf) (::)
-<sp>+</sp> Fí(dc)li(f)us.(gi) (::)
+initial-style: 1;
+name: Vulpes foveas;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines: 1;
+%%
+(f3) Vul(f|vi)pes(efEC|pe-1su2) <sp>*</sp> fó(efe|//to)ve(fh|pe)as(hvGFgf|ci-cllsc3) ha(ef|pe)bent,(fhffe|toS2cl-) (,) et(f|vihe) vó(h|vi)lu(hg|cllsc3)cres(ef|pe) cæ(f|ta)li(f!gwh/ihhog|ql-ppt1clhg!pihg) ni(fg!hvGFg|//ci-hhpp2vihh)dos,(gf|cl-) (;)
+<sp>+</sp> Fí(h|vi)li(ij|pe)us(j|vihg) au(i|vi)tem(hhog|pr) hó(hi|pe)mi(ghGFg|pe-1su2vi)nis(gf|cl-) (,) non(e|ta) ha(fh|pe)bet(h|vi) u(h|vi)bi(hvGF|ci-) ca(e!fg|scS)put(f|ta) re(h!ijhhog|clSpp2pi)clí(fg!hvGFg|//ci-hhpp2vihh)net.(gf|cl-) (::)
 
+<sp>V/</sp> Pau(ef!gwhhi|ql-hhppt2pehj)per(h|ta) sum(h|ta) e(ij|``pelsl4)go,(i|vi) (,) et(hg|cllsc3) in(hi|pe) la(gh|pe)bó(f|ta)ri(f!gwhg|ql!cl-ppt1)bus(gf|cl-) (;) a(f|ta) ju(f|ta)ven(f!gwhGFE|ql-ppt1su1sut2)tú(f|vi)te(hg/hih|cllsc2tohg) me(hvGFg|//ci-vi)a.(ffoe|pr) (::)
+<sp>+</sp> Fí(h|vi)li(ij|pe)us.(j|vihg) (::)

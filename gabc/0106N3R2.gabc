@@ -1,19 +1,22 @@
+name:Videntes stellam Magi V Stella quam viderant V Gloria;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  Vi(e)dén(e)tes<sp>*</sp>(Fsssded) stel(ef)lam(g) Ma(hgh!i>)gi,(h) (;)
-ga(h)ví(jhJsss)si(g) sunt(e!fh~) gáu(h>)di(gh)o(hiGFghg) ma(egf)gno:(eeo0!fv) (:)
-<sp>+</sp> Et(d) in(g)trán(hi~)tes(h) do(hhgh)mum,(f)  in(e>)ve(g)né(gh)runt(gf~) pú(gh)e(ghgFEf)rum(fe) (,)
-cum(e>) Ma(f)rí(gh)a(g) ma(h/jij)tre(h) e(gh>)jus,(g) (;)
-et(gh~) pro(h)ci(hg)dén(hhgh>)tes(e) (,)
-a(e)do(gh)ra(gf)vé(ghGF)runt(g>) e(efEDe)um:(d/efefv) (:)
-<v>\ddag\ </v> Et,(d) a(e)pér(GHig~)tis(hg/hih) the(fd)sáu(ef)ris(g) su(hg!hwihi)is,(ih) (,)
-ob(h)tu(h)lé(jhJsss)runt(ghg) e(f)i(gh) mú(g)ne(gefvEDe)ra,(ed) (;)
-au(e)rum,(ghg~) thus(hhfg) et(GHig/hg) myr(egfFs)rham.(fe) (::)
-<sp>V/</sp> Stel(h)la,(gh) quam(gf!gwhghvGEfe) ví(gh)de(g)rant(g) Ma(gh)gi(g) in(g) O(g)ri(g)én(gh~)te,(g) (,)
-an(g)te(g)ce(gf)dé(gh)bat(gf) e(e!fwgf)os,(fe) (;)
-us(f)que(de) dum(e) vé(e!fo1)ni(e)ens(e) sta(e!fo1)ret(e) su(e)pra(e) u(e)bi(e!fwgFE) e(g)rat(ghghvGF) pu(EFgef)er.(ed) (::)
-<sp>+</sp> Et.(d) (::)
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;) 
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(ghghGF) San(E/0Fgef>)cto.(ed) (::)
-<sp>+</sp> Et.(d) (::)
+initial-style: 1;
+name: Videntes stellam Magi;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) Vi(e|vilsew3)dén(e|vi)tes(fsssded|////tstolsi7) (,) <sp>*</sp>() stel(ef|peS)lam(g|vihh) Ma(ixhgh/i>|////po-1vi>hklsl2)gi,(h|ta) (,) ga(h|ta)ví(jhjsss|//cllss2lsc3tshh)si(g|vi) sunt(e/fh~|ta-ta>lsl3) gáu(hf~|vi>)di(gh|pe)o(ixhiGFghg|//pesu2lse4tohg) ma(egffs|//tosthh)gno,(eeof|sa) (:)
+<sp>+</sp> Et(d|`talsi7) in(g|vi)trán(ixhi~|////ta>lsal2)tes(h|ta) do(hhgh|vi-`pohg)mum,(e|ta) (,) in(e>|vi>)ve(f|vi)né(gh|pe)runt(gf~|vi>) Pú(gh|pe)e(ghGFEf|toSsu2vihg)rum(fe|cl-) (,) cum(e>|vi>) Ma(f|vi)rí(gh|``peSlsl1)a(g|ta) Ma(h/jij|vi-pohilss2)tre(h|vi) e(gh>|pe>1)jus,(g|ta) (;) et(gh~|``ta>lse4) pro(h|vi)ci(hg|cllsc3)dén(hhgh>|//vi-`po>)tes(e|ta) (,) ad(f|vi)o(gh|pe)ra(gf|cllsc3)vé(ghGF|pe-1su2)runt(g>|vi>) e(efEDe|pe-1su2vi)um(d/efe/fv|ta-toS2hgvi-hh) (:) Et(d|talsi7lsc3) a(g|vi)pér(ixg!hoi|vi>hippt2lsal7lsi3)tis(hg/hih|////cllsc2tohg) the(fd|`clhelsi2lsc3)sáu(ef|peS)ris(g|vi) su(ixhg!hwihi|////cl-qihg!pohg)is,(ih|cl-) (;) ob(h|``vilsew2)tu(h|vi)lé(jhjsss|//cllsl2lsc3ts-hg)runt(ghg|//tolsi7) e(f|ta)i(gh|pe) mú(g|ta)ne(ge/fvEDe|cl-ci-vi)ra,(ed|cl-) (;) au(f|vilsl2)rum(ghg~|pe>lss3) (`) thus(ixh/ifg|//////vi-pohjlsal2lsi8) et(ixg!hig/hg|////sflss2lsc3`cl-hh) myr(egffs|//tosthh)rham.(fe|cl-) (::)
 
+<sp>V/</sp> Stel(h|vi)la,(gf!gwhg/hvGEfe|cl-qi!clci-cl-) quam(g|vi) ví(g|vi)de(g|vi)rant(g|vi) Ma(g|vi)gi(g|vi) in(g|vi) O(g|vi)ri(g|vi)én(gh|pe)te,(g|ta) (,) an(g|ta)te(g|ta)ce(gf|cllsc3)dé(gh|pe)bat(gf|cllsc3) e(e!fwgf|ql!clppt1)os,(fe|cl-) (;) us(f|vi)que(de|pe) dum(e|ta) vé(e!fo|vshe)ni(e|ta)ens(e|ta) (,) sta(e!fo|vshe)ret(e|ta) su(e|ta)pra(e|ta) u(e|ta)bi(e!fwgFE|ql-ppt1su2) e(g|vi)rat(ghghGF|toci-) pu(e!fgffs|popp2)er.(ed/efe/fv|//cllsc2toS2vi-hg) (::)
+<sp>+</sp> Et(d|`talsi7) in(g|vi)trán(ixhi~|////ta>lsal2)tes.(h|ta) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-qi!clci-cl-) Pá(gf|cllsc3)tri,(gh|pe) et(gf~|vi>) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;)et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|trsu2) Sanc(e!fgffs|popp2)to.(ed/efe/fv|//cllsc2toS2vi-hg) (::)
+<sp>+</sp> Et(d|`talsi7) in(g|vi)trán(ixhi~|////ta>lsal2)tes.(h|ta) (::)

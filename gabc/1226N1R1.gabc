@@ -1,10 +1,19 @@
+name:Stephanus autem V Surrexerunt;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Sté(f)pha(de)nus<sp>*</sp>(e) au(e)tem(EFgfFs>) ple(d)nus(dg!hv) grá(gh)ti(g)a(g) (;) et(g) ve(g)ri(ge!fwg)tá(egfFs)te(fe) (:)
-<sp>+</sp> Fá(dg)ci(g)é(hiHGhwi!jo~)bat(i) si(i!jo1!k>)gna(jvvIH) ma(h!iwjijh~)gna(hg/hih) (;)
-et(Fsss) pro(fd)dí(efe)gi(fg)a(g) in(ghGFghgf~) pó(e)pu(egfFs)lo.(fe) (::)
-<sp>V/</sp> Sur(h)re(h)xé(gh)runt(gf!gwhghvGE) qui(g)dam(g) de(g) sy(g)na(g)gó(gh)ga(g) dis(g)pu(g)tán(g)tes(gf) cum(gh~) Sté(gf)pha(e!fwgf)no:(fe) (;)
-et(f) non(de) pó(e)te(e)rant(e) re(e)sí(e!fo1)ste(e)re(e) sa(e)pi(e)én(e!fo1)ti(e)æ,(e) (,)
-et(e) Spi(e)rí(e!fo1)tu(e)i(e) qui(e!fwgFE) lo(g)que(ghghvGF)bá(EFgef)tur.(ed) (::)
-<sp>+</sp> Fá(dg)ci(g)é(hiHGhwi!jo~)bat.(i) (::)
+initial-style: 1;
+name: Stephanus autem;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp. ;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) Sté(f|vi)pha(de|pe)nus(e|vi) au(e|vi)tem,(e!fgffs|clpp2sthh) *(,) ple(d|ta)nus(dg/hv|scG-1) grá(gh|pe)ti(g|ta)a(g|ta) et(g|ta) ve(g|ta)ri(gd!ewf|cl-`qlhg)tá(egffs|//tosthg)te,(eeof|sa) †(;) Fa(dg|peS)ci(g|vi)é(hiHG/hwi/jo|pe-su2ql-hgorhl)bat(i|ta) si(i!jo!k>|sa>)gna(jvjvIH|bv-su2) ma(h!iwjijg~|ql!po>ppt1lsi3)gna(ixhg/hih|//////cllsc2to) (;) et(fsss|//ts) prod(fd|cllsc3)í(dfe|to)gi(fg|pe)a(g|vi) in(ghGFghg>|//pe-su2/to>hg) pó(e|ta)pu(egffs|tosthg)lo.(fe|cl-) (::)
 
+<sp>V/</sp>. Sur(h|vi)re(h|vi)xé(gh|pe)runt(gf!gwhghvGEfe|cl-qihg!cl-hgci-hh/cl-hi) qui(dg|pe)dam(g|ta) de(g|ta) sy(g|ta)na(g|ta)gó(ixhi|////pe)ga(h|vi-) (,) dis(g|ta)pu(g|ta)tán(gf|cllsc3)tes(gh|pe) cum(gf~|vi>lsi6) Sté(e|ta)pha(e!fwgf|ql!cl-ppt1)no:(fe|cl-) (;) et(f|vi) non(de|pe) pót(e|ta)e(e|ta)rant(e|ta) re(e|ta)sí(e!fo|vshe)ste(e|ta)re(e|ta) sa(e|ta)pi(e|ta)én(e!fo|vshe)ti(e|ta)æ,(e|ta) (,) et(e|ta) Spi(e|ta)rí(e!fo|vshe)tu(e|ta)i(e|ta) qui(e!fwgFE|ql-ppt1su2) lo(g|vi)que(ghghvGF|to-ci-hg)bá(e!fgffs|clpp2sthh)tur.(ed|cl-) (::)
+
+†() Fa(dg|peS)ci(g|vi)é(hiHG/hwi/jo|pe-su2ql-hgorhl)bat(i|ta) (::)

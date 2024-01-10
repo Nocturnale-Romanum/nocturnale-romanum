@@ -1,6 +1,19 @@
+name:Omnes de Saba (Resp.) V Reges Tharsis;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3)Om(if!gwh!i>)nes(ih/iji) <v>\greheightstar</v>() de(h) Sa(k)ba(kj/kvJH) vé(ik)ni(jkJIj)ent,(ji) (;) au(i!jwkji~)rum(ji) et(gh~) thus(ig) de(ighvGF)fe(g/hih)rén(hvGFh)tes,(EF!gwhe!f!eeO1d) (:) et(fd~) lau(e)dem(f!gwh) Dó(hg/ho0!iv)mi(f!gwhgFEf)no(fe) an(e)nun(-ehg!hwi!j>)ti(hg)an(EFgfe~)tes,(fe)  
-†(;) Al(ei>)le(ihi)lú(ig!hwihi)ja,(hg) (,) al(ef)le(efe!d)lú(efe/fg)ja,(f) (,) al(ij>)le(ih/hvGF!gwhGFgvFE)lú(EF!gwhfg)ja.(fe) 
-<sp>V/</sp>(::) Re(i!jwkJI)ges(hi/hhO1g) Thar(hi~)sis(h) et(h) in(hi~)su(h)læ(h) mú(ig)ne(hi)ra(hi) óf(i)fe(i!jwkj)rent,(ji) (;) re(hi/hhO1g)ges(hih) A(ij)ra(i)bum(i) et(i) Sa(i)ba(i) do(iji/jvIH)na(hg) ad(h!iwji/jkj)dú(ih!iwjij)cent.(ivHGhg) †(::) Al(ei>)le(ihi)lú(ig!hwihi)ja.(hg) (::)
+initial-style: 1;
+name: Omnes de Saba;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines: 1;
+%%
+(c3) OM(gxhf!gwh/i>|////cl-ql-hgvi>hi)nes(jxih/iji|//////cllsc2to) <sp>*</sp> de(jyh|////ta) Sa(j|vi)ba(kj/kvJH|//cl-hici-hilsi8) vé(jk|``peShilsl1)ni(jkJIj|pe-1hisu2vihh)ent,(ji|cl-) (;) au(i!jwkJ~I~|``qlhi!cl>hippt1lse4)rum(ji|cl-) et(gi~|ta>) thus(ig|cl-) de(ihhvGF|//clSci-)fe(g/hih|vi-/tohj)rén(hvGFg|//ci-vi)tes,(ef!gwhe/fv/eeod|qlhh!clhhppt2vi-hj``prhj) *(;) Et(fd~|vi>) lau(e|ta)dem(f!gwh|qlhgppt1) Dó(hghoi|clpq)mi(f!gwhGFEf|ql!vsppt1su2vi)no(fe|cl-) an(e|ta)nun(ehg!hwi/j>|to/ql-hivi>hl)ti(ih|cllsc3)án(ef!gvF~E~|cl>hhppt2)tes.(fe|cl-) (:)
+<sp>+</sp> Al(ei|peS)le(ihi|po)lú(ki!jwkjk|cl-hhqihi!pohi)ia,(ih|cl-) (,) al(ef>|pe>1lsi7)le(efED|pe-1su2)lú(gxefef/g>|//////tr-3vi>hj)ia,(f|ta) (,) al(fiwj>|ql>ppt1)le(ihhvGF!gwhg//fgFE|////clSvi-sut2qihh!cl-hhpe-1hksu2)lú(e!fwgfg>|ql!po>ppt1)ia.(fe|cl-) (::)
 
+<sp>V/</sp> Re(i!jwkJ!Is>|ql-hhppt1su1sux1)ges(hi/hhog|pe-1``pr) Thar(hi~|ta>)sis(h|ta) et(h|ta) ín(hi~|ta>)su(h|ta)læ(h|ta) (,) mú(ig|cl)ne(hi|pe)ra(hi|pe) óf(i|ta)fe(i!jwkj|ql!clppt1)rent,(ji|cl-) (;) re(hi/hhog~|peSvs>)ges(hih|//to) A(ij|pe)ra(i|ta)bum(i|ta) et(i|ta) Sa(i|ta)ba(i|ta) do(ijijIH|//tr-1su2)na(ih|cl) ad(h!iwji/jkj|ql!clppt1tohm)dú(ih!iwjij|cl-ql!po)cent.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Al(ei|peS)le(ihi|po)lú(ki!jwkjk|cl-hhqihi!pohi)ia.(ih|cl-) (::)

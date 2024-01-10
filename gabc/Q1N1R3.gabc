@@ -1,14 +1,21 @@
+name:In jejunio et fletu V Inter vestibulum V Gloria;
+office-part:re;
 mode:5;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(cb3) In(d) je(f)jú(hi)ni(h)o<sp>*</sp>(hhO1g) et(f) fle(f!gwh!ivHGhwihi)tu(ih) o(i)rá(hfgwh)bunt(ih/hf/he/f/eeO1d) (;)
-sa(d)cer(eg>)dó(gvvfe/f!go1)tes,(f) di(f!gwhgFEfwgFE)cén(DEfvEDe)tes:(ed) (:)
-<sp>+</sp> Par(fg)ce,(fe) Dó(fg)mi(f)ne,(d!eo!fv) par(hhg~)ce(f) pó(h)pu(ih)lo(gh) tu(hg!hwihi)o;(ih) (;)
-et(g) ne(i) des(hhO1g) he(fe)re(f)di(hi)tá(ggO1f)tem(ef) tu(f!gwhghwihi)am(ih)  (,)
-in(d) per(e!foh)di(fvgvFE)ti(f!gwhgFEfwgFE)ó(DEfvEDe)nem.(ed) (::c3)
-<sp>V/</sp> In(h)ter(hiHs!Hsfgf) ves(h)tí(hi)bu(h)lum(hf) et(fi) al(gh)tá(hg!hwihi)re(ih) (;)
-plo(d)rá(f)bunt(h) sa(h)cer(h)dó(hg@h@g)tes,(gf) di(hi)cén(hghwihGFg)tes.(gf) (::)
-<sp>+</sp> Par(gxfg)ce.(fe) (::) 
-<sp>V/</sp> Gló(h)ri(h)a(hihs!hsfgf) Pa(hf)tri,(fi) et(gh) Fí(h)li(hg!hwihi)o,(ih) (;) 
-et(h) Spi(h)rí(hg/0hg)tu(gf)i(hi) San(hg!hwihGFg)cto.(gf) (::)
-<sp>+</sp> Par(gxfg)ce.(fe) (::)
+initial-style: 1;
+name: In jejunio et fletu;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines:1;
+%%
+(c3) In(d|ta) je(f|vi)jú(hi|peS)ni(h|ta)o(hhog|pr) <sp>*</sp> et(f|ta) fle(f!gwh/ivHG/hwihi|////qlppu1vi-hjsut2qihi!pohi)tu(ih|cl-) (,) o(i|vi)rá(hf!gwh|cl-`ql)bant(ihhf/he/fv/eeod|pflst2clM-hgvi-``pr) (`) sa(d|``talse4)cer(efe~|pe>)dó(gxf/gvge/fog|////vi-vi-hgcl-hhvshh)tes,(f|ta) di(gxf!gwhGFE/fwgFE|////ql!vsppt1sut2qi-hhsu2)cén(de!fvEDe|//ci-hhpp2vihh)tes:(ed|cl-) (:)
+<sp>+</sp> Par(gxfg|////peS)ce,(fe|cllsc3) Dó(gxfg|peS)mi(f|vi)ne,(d!eof|sa) (`) par(hh>|vi-vi>)ce(f|ta) pó(h|vi)pu(ih|cllsc3)lo(gh|pe) tu(hg!hwihi|//cl-qlhg!pohg)o,(ih|cl-) (;) et(f|``talsi4) ne(i|vi) des(hhog|pr) he(fe|cllsc3)re(f|vi)di(gxfh|pe)tá(hhog|prlss6)tem(ef|peSlsi7) tu(gxf!gwhf/fwgfg|////ql!cl-ppt1``qihk!pohk)am(gf|cl-) (,) in(d|talsi8) per(d!eof|sa)di(gxgvgvFE|////bv-su2)ti(f!gwhGFE/fwgFE|//ql!vsppt1sut2qi-hgsu2)ó(de!fvEDe|//ci-hhpp2vihh)nem.(ed|cl-) (::)
 
+<sp>V/</sp> In(h|ta)ter(hi/hssfgf|pe-ds-hhtohh) ves(h|vi)tí(hi|pe)bu(h|ta)lum(hf|cllsc3) et(fi|pe) al(gh|pe)tá(hg!hwihi|//cl-`qlhg!pohg)re,(ih|cl-) (;) plo(d|``talsi7)rá(f|vihe)bunt(h|vi) sa(h|vi)cer(h|vi)dó(hg/hg|//pf1lsc2)tes,(gf|cllsc3) di(hi|peS)cén(gxhg!hwiHGFg|//////cl-`qihg!vshgsu2vihg)tes.(gf|cl-hg) (::)
+<sp>+</sp> Par(gxfg|////peS)ce,(fe|cllsc3) Dó(gxfg|peS)mi(f|vi)ne,(d!eof|sa) (::)
+<sp>V/</sp> Gló(h|ta)ri(h|ta)a(hi/hss/fgf|pe-ds-hhtohh) Pa(hf|cllsc3)tri,(fi|pe) et(gh|pe) Fí(h|vi)li(hg!hwihi|//cl-`qlhg!pohg)o,(ih|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|//pf1lsc2)tu(gf|cllsc3)i(hi|peS) San(gxhg!hwiHGFg|//////cl-`qlhg!vshgsu2vihg)to.(gf|cl-) (::)
+<sp>+</sp> Par(gxfg|////peS)ce,(fe|cllsc3) Dó(gxfg|peS)mi(f|vi)ne,(d!eof|sa) (::)

@@ -1,3 +1,18 @@
-mode:8;
+name:Beati qui habitant V In saecula;
+office-part:re;
+mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) BE(d)á(f!gh)ti(g) *() qui(ghGFg) há(h!iwjIH)bi(GHivHGh)tant(hg) (:)* In(g) do(fe/fvED)mo(ed) tu(e)a(fg) Dó(h!iwjIHiwjIH)mi(GHivHGh)ne.(hg) (::)<sp>V/</sp>. In(j) sǽ(j)cu(ji)la(jkjijihhO1g) sæ(ij)cu(hi)ló(g!hwih)rum(hg) (;) lau(ghf~)dá(gh)bunt(h!iwji/jkjIH) te.(hiHGhg) (::)* In(g) do(fe/fvED)mo.(ed)  (::)
+initial-style: 1;
+name: Beati qui habitant;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) Be(h|vi)á(h|vi)ti(h|vi) <sp>*</sp>(,) qui(gf|cllsc3) há(gh|peS)bi(fvED|ci-)tant(dfddc|toS2cl-) (:)
+<sp>+</sp> In(d|vihe) do(f|vi)mo(fe|cllsc3) tu(gh|peS)a(fe|cllsc3) Dó(d|ta)mi(d!ewfef|ql!poppt1)ne.(ed|cl-) (::)
+<sp>V/</sp> In(h|vi) sǽ(h|vi)cu(h|vi)la(hg/hggof|cllsc2cl!pilsc1lst3) sæ(g|vi)cu(g|vi)ló(hf|cllsc3)rum(gh|pe) lau(gh|pe)dá(h|ta)bunt(ixh/iioh|////ta-pr) te.(h|ta) (::)
+<sp>+</sp> In(d|vihe) do(f|vi)mo.(fe|cllsc3) (::)

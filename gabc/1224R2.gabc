@@ -1,11 +1,19 @@
+name:Constantes estote V Sanctificamini;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Con(d)stán(f!gh>)tes<sp>*</sp>(g) es(gh)tó(h)te,(hg/higgf) (;)
-vi(hf)dé(ghg)bi(h)tis(iwj) au(hg~)xí(hvGFgh)li(g)um(g>) Dó(gh)mi(g)ni(GHiwjIHiwjIH) su(g)per(GHivHGh) vos:(GHih) (:)
-Ju(fh)dǽ(jkj)a(j) et(jh~) Je(jki)rú(jk)sa(ki/jkh/i)lem,(hhO1g) (,) no(FGhih)lí(hg)te(j) ti(jijvIHG)mé(hghvGFg)re:(gf) (;)
-<sp>+</sp> Cras(FGhjg) e(g)gre(ghGE)di(g)é(f!go1!hv)mi(fe)ni,(dec/d!ewfefvED) (,)
-et(d) Dó(fgh)mi(g)nus(g/hjg/h/ggO1f) e(FHiwjjk)rit(j) vo(jkJIHiwjIH)bís(GHivHGh)cum.(hg) (::)
-<sp>V/</sp> San(j)cti(j)fi(j)cá(ji)mi(jkj/iji/hhO1g)ni,(i) fí(ih)li(ij)i(hi) Is(g)ra(g!hwih)ël,(hg) (;)
-et(g) e(fg)stó(hiHGhih)te(ghf) pa(gh)rá(h!iwji/jkjIH)ti.(hiHGhg) (::)
-<sp>+</sp> Cras.(FGhjg) (::)
+initial-style: 1;
+name: Constantes estote;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Con(d|ta)stán(f/gh>|vi-pe>hi)tes(g|ta) es(gh|pe)tó(h|vi)te:(ixhg/higgf|////cltoS2cl-) *(,) vi(hf|cllsc3)dé(ghg|//to)bi(h|vi)tis(hwj|ql) au(hg~|vi>)xí(hvGFgh|ci-peS)li(g|vi)um(g>|vi>) Dó(gh|pe)mi(g|ta)ni(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hgsu2) su(g|ta)per(gh!ivHGh|//ci-hhpp2vi>hh) vos.(ixg!hih|////cl-ppt2) (:) Ju(fh|peS)dǽ(jkj|/tohhlss2)a(j|vi) et(jh~|vi>) Je(jkj|//tohh)rú(jk|pehh)sa(ki/jkh/iv|clhhtoS2hhvi-hh)lem,(hhog|pr) (,) no(ixfg!hih|//////topp2)lí(hg|cl)te(iyi|////vi) ti(ji/jvIHG|////cl-vi-suu1su2)mé(hg/hvGFg|//cl-ci-vi)re:(gf|cl-)
+†(:) Cras(fg!hjg|topp2lss3) e(g|ta)gre(ghGE|pe-1su2)di(g|vi)é(f!goh|sa)mi(fe|cllsc3)ni,(dec/d!ewfe/fvED|toS2ql!clppt1ci-hj) (;) et(d|``talse4) Dó(f/gh|scM1)mi(g|ta)nus(ixg/hig/hvggof|////ta-toS2vi-``pr) e(iyfh!iwjjk|//ql-hhppt2pehj)rit(j|ta) vo(jkJIH/iwjIH|pe-1hisut3qi-hisu2)bís(gh!ivHGh|//ci-hhpp2vihh)cum.(hg|cl-) (::)
 
+<sp>V/</sp> Sanc(j|vilss2lsew3)ti(j|vi)fi(j|vi)cá(j|vi)mi(ji|cl)ni,(jkj/iji/hhog|tohgtohhprhh) fí(ih|cllsc3)li(ij|pe)i(hi|pe) Is(g|ta)ra(g!hwih|ql!cl-ppt1)ël,(hg|cl-) (;) et(g|vi) es(g|vi)tó(ixhiHGhih|////pe-su2tohg)te(ghf|//toM1) pa(gh|peS)rá(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)ti.(hiHGhg|pe-1su2cl-) (::)
+†()Cras.(fg!hjg|topp2lss3) (::)

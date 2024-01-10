@@ -1,13 +1,19 @@
+name:In omnibus exhibeamus V Ecce nunc tempus;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) In(cd) óm(ixdh!i>)ni(h)bus<sp>*</sp>(h) ex(f)hi(f)be(ghg)á(h)mus(f!gwhGFgh) nos(g) (;)
-sic(fe)ut(ef~) De(f)i(f) mi(gffvEDd!ewf/ge/fe)ní(DEfvEDe)stros(ed) (:)
-in(d) mul(fg~)ta(f) pa(g)ti(FGhvGF)én(ge/fe)ti(DEfvEDe)a:(ed) (:)
-<sp>+</sp> Ut(c!df~) non(f) vi(fs!fs!fs)tu(c)pe(d!ewf)ré(fe!fwgfg!hv)tur(g) (;)
-mi(h)ni(gh)sté(fg)ri(fvED)um(d!ewf/gffO1Es<) no(DEfEDe)strum.(ed) (::)
-<sp>V/</sp> Ec(h)ce(hg/hggO1f) nunc(g) tem(gh~)pus(g) ac(g)cep(g)tá(gh)bi(g)le,(g) (,)
-ec(g)ce(g) nunc(g) di(hf)es(gh) sa(gh)lú(ixh/iiO1h)tis:(h) (;)
-com(gf~)men(gh)dé(ixhi)mus(h) nos(h)met(h)íp(ixhi)sos(h) in(h) mul(h)ta(h) pa(hg/hg)ti(gf)én(ixf!gwhg/hih)ti(hvGFEfwg!hv)a.(gf) (::) 
-<sp>+</sp> Ut(c!df~) non.(f) (::)
+initial-style: 1;
+name: In omnibus exhibeamus;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) In(cd|pelsi8) óm(ixdh/i>|////pe-vi>hklsal2)ni(h|vi)bus(h|vi) <sp>*</sp> ex(f|ta)hi(f|ta)be(ghg|//to)á(h|vi)mus(f!gwhGFgh|ql-ppt1su2peShh) nos,(g|vi) (,) si(fe|cllsc3)cut(fg~|ta>) De(g|ta)i(g|ta) mi(gffvECd!ewf/gffoe|clSvi-sut2qlppt1clShjcl-hj)nís(de!fvEDe|//ci-hhpp2vihh)tros,(ed|cl-) (;) in(d|```talsi8lse4) mul(fg~|ta>)ta(g|ta) pa(h|vi)ti(fg!hvGF|cihhpp2lsc3)én(f!ghffe|clShhpp2cl-hh)ti(de!fvEDe|//ci-hhpp2vihh)a,(ed|cl-) (;)
+<sp>+</sp> Ut(c/df~|ta-lsi7/ta>hg) non(f|vi) vi(fsss|ts)tu(c|ta)pe(d!ewf|``vi-heqlhi)ré(fe!fwgfg/hv|cl-ql!po-1vihk)tur(g|ta) mi(h|vilsal2)nis(fg|``peSlsi7)té(fg|peS)ri(fvEC|vi-su1suw1)um(d!ewf/gffoe>|vi-qlhiclS-hlpi>hm) nos(de!fvEDe|//ci-hhpp2vihh)trum.(ed|cl-) (::)
 
-
+<sp>V/</sp> Ec(h|vi)ce(hg/hggof|pf1lsc2pihg) nunc(g|vi) tem(gh~|ta>)pus(g|ta) ac(g|ta)cep(g|ta)tá(gh|pe)bi(g|ta)le,(g|ta) (,) ec(gh|pe)ce(g|ta) nunc(g|ta) di(hf|cl)es(gh|pe) sa(gh|pe)lú(ixh/iioh|////ta-pr)tis.(h|ta) (;) Com(hf~|vi>)men(gh|pe)dé(ixhi|////pe)mus(h|ta) nos(h|ta)me(h|ta)típ(ixhi|////pe)sos(h|ta) in(h|ta) mul(h|ta)ta(h|ta) pa(hg/hg|//pf1lsc2)ti(hf|cllsc3)én(ixf!gwhg/hih|//////ql!clppt1tohk)ti(hvGFE/fwg/hv|vi-hhsu1sut2qi-vihk)a.(gf|cl-) (::)
+<sp>+</sp> Ut(c/df~|ta-lsi7/ta>hg) non(f|vi) (::)

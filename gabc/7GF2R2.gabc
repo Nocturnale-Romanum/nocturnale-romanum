@@ -1,17 +1,19 @@
+name:In sudore vultus tui V Quia audisti;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) In(e) su(e)dó(e/fhf/g)re(fe) vul(ehg~)tus(h) tu(ih/0iwjij)i(ji) (,)
-ve(jjo1!kv)scé(i)ris(iV!h!ghvGFgf) pa(g)ne(hih) tu(hf!gw!@hgFEf)o,(EFgw@he/f/eeO1d) (;)
-di(f)xit(h) Dó(ho0!iv)mi(f!gwh)nus(g!hwihGFgwhGF) ad(e) A(EFgvFEf)dam:(fe) (:)
-cum(h) o(e!fwg!ho~)pe(g)rá(g!ho1)tus(g) fú(g)e(g)ris(g!ho1!iv) ter(hg)ram,(gih!ghvGFEfe) (,)
-non(i!j>) da(i)bit(ij) fruc(jiiO1h)tus(ij) su(ijiHGh)os:(hg) <sp>+</sp>(;)
-% Note that the first appearance of Sed does 
-% not match the repetition in the printed score. 
-% Changed here to match.
-Sed(g!hi~) spi(i)nas(igi) et(i>) trí(hi)bu(iV!h!ghvGFEf)los(EFgw!@he/f/eeO1d) (,)
-ger(f)mi(h)ná(hghvGFg!ho1)bit(g!hwihGFgwhGF) ti(EFgvFEf)bi.(fe) (::)
-<sp>V/</sp> Qui(i)a(i) au(i)dís(i!jwkJI)ti(hi/hhO1g) vo(h)cem(h) u(h)xó(h)ris(h) tu(hi)æ,(h) (,)
-et(h) com(h)e(h)dís(ig)ti(hi) de(hi) li(i!jwkj)gno,(ji) (;)
-ex(hi/0hhO1g) quo(hih) præ(i)cé(ij)pe(i)ram(i) tri(i)bi(i)ne(i) com(i)é(ij)de(i)res,(i) (,)
-ma(i)le(i)díc(i)ta(i) ter(ij)ra(i) in(i) ó(ijijvIH)pe(hg)re(h!iwji/0jkj) tu(ih!iwjij)o.(ivHGhg) <sp>+</sp>(::)
-Sed.(g!hi~) (::)
+initial-style: 1;
+name: In sudore vultus tui;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) In(e|ta) su(e|ta)dó(e/fhf/gv|ta-/toS2hhlsl2)re(fe|cl-) <sp>*</sp> vul(ehg~|pe>)tus(h|vi) tu(ih!iwjij|cl-ql!poppt1)i(ji|cl-) (,) vés(jjok|```sahjlsal4)ce(i|ta)ris(ivHGhvGFgf|clSsut1ci-cl-) pa(g|vi)ne(hih|//to) tu(hf!gwhGFEf|cl-ql!vssu2vi)o,(ef!gwhe/fv/eeod|qlhh!cl-hhppt2``vi-hj``prhj) (;) di(f|vi)xit(h|vi) Dó(hoi|```pqlsal4)mi(f!gwh|qlppt1)nus(g!hwiHGF/gwhGF|//ql!vsppt1sut2ql-hhsu2) ad(e|ta) A(ef!gvFEf|//ci-hhpp2vihh)dam:(fe|cl-) (:) cum(g|vi) o(e!fwg/ho|ql-ppt1orhl)pe(g|ta)rá(g!ho|vslsc3)tus(g|ta) fú(g|ta)e(g|ta)ris(g!hoi|sa) ter(hg|cl-)ram,(giHGhvGFEfe|////toS2sut1vi-suu1su2cl-) (,) non(ij>|````pe>1lsal4) da(i|ta)bit(ij|pe) fruc(jiioh|//cl!pilsc2)tus(ij|pe) su(ijIHGh|toSsu2vi)os:(hg|cl-) (;)
+<sp>+</sp> Sed(g/hi~|ta-/ta>hg) spi(i|vi)nas(igi|//po) et(i>|vi>) trí(hi|peS)bu(ivHGhvGFEf|clSsut1vi-suu1su2vi)los(ef!gwhe/fv/eeod|ql!cl-ppt2``vi-hj``prhj) (,) ger(f|vi)mi(h|vi)ná(hg/hvGFg!ho|//cl-ci-vs)bit(g!hwiHGF/gwhGF|////ql!vsppt1sut2qi-hhsu2) ti(ef!gvFEf|//ci-hhpp2vihh)bi.(fe|cl-) (::)
+
+<sp>V/</sp> Qui(i!jwkJI|ql-hippt1su2)a(hi/hhog|peS``pr) au(h|ta)dís(h|ta)ti(h|ta) vo(h|ta)cem(h|ta) u(h|ta)xó(h|ta)ris(h|ta) tu(hi|pe)æ,(h|ta) (,) et(h|ta) co(h|ta)me(h|ta)dís(h|ta)ti(h|ta) de(h|ta) lig(hi|pe)no,(h|ta) (,) ex(h|ta) quo(h|ta) præ(h|ta)cé(h|ta)pe(h|ta)ram(h|ta) ti(h|ta)bi(ig|cllsc3) ne(hi|pe) co(hi|pe)mé(i|ta)de(i!jwkj|qlhh!cl-hhppt1)res,(ji|cl-) (;) ma(hi/hhog|pe-1``pr)le(hih|//to)díc(i|ta)ta(i|ta) ter(ij|pe)ra(i|ta) in(i|ta) ó(ijijIH|//to-``ci-)pe(ih|cllsc3)re(h!iwji/jkj|//ql!clppt1tohl) tu(ih!iwjij|//cl-`qihg!pohg)o.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Sed(g/hi~|ta-ta>hg) spi(i|vi)nas.(igi|//po) (::)

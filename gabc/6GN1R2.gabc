@@ -1,9 +1,19 @@
+name:Noe vir justus V Fecit sibi arcam;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) No(d)ë,<sp>*</sp>(dgfg) vir(ghggo~) jus(FGhvhgh)tus(gvFGhvhg) at(f)que(gh) per(h)féc(gf)tus,(FGhvGFEfvEDed)  (;)
-cum(d) De(f!gh)o(g) am(hggo~)bu(fg)lá(g!hwihi)vit:(hg) (:)
-<sp>+</sp> Et(f) fe(gh)cit(h) óm(h>)ni(gf)a(FGhvGFEfvEDed) (;)
-quæ(g)cúm(dg~)que(g) præ(h)cé(gf)pit(hj) e(jvjvIH)i(i!jwkJIH/0iwjIH) De(GHivHGh)us.(hg) (::)
-<sp>V/</sp> Fe(ji)cit(jkjiji/hhO1g) si(ij)bi(hi) ar(g!hwih)cam,(hg) (;)
-ut(g) sal(fg~)ve(g)ré(gh)tur(g) u(g)ni(hiHGhih)vér(ghf)sum(gh) se(h!iwji/jkjIH)men.(hiHGhg) (::) 
-<sp>+</sp> Et.(f) (::)
+initial-style: 1;
+name: Noe vir justus;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) No(d|ta)ë,(dgfg|//tr) <sp>*</sp> vir(gh/ggo|peS`vshe) jus(f!ghhog/hv|vi-hhpp2pihmvihm)tus(ixg!hih|//////cl-ppt2) (,) at(f|ta)que(gh|pe) per(h>|vi>)féc(gf|cllsc3)tus,(fg!hvGFEfvEDed|vihhpp2su1sut2lsc2ci-hhcl-hh) (;) cum(d|ta) De(f/gh|scM1)o(g|ta) am(ghf~|pe>lsi6)bu(g|ta)lá(g!hwihi|ql!poppt1)vit:(hg|cl-) (:)
+<sp>+</sp> Et(f|ta) fe(gh|pe)cit(h|vi) óm(gh>|pe>1)ni(gf|cllsc3)a(fg!hvGFEfvEDed|vihhpp2su1sut2lsc2ci-hgcl-) (,) quæ(g|``vilss2)cúm(dg~|ta>lss3)que(g|ta) præ(h|vi)cé(gf|cllsc3)pit(hj|pe) e(jvjvIH|bv-su2)i(i!jwkJIH/iwjIH|///qlhi!vshippt1sut2qi-hksu2) De(gh!ivHGh|//ci-hhpp2vihh)us.(hg|cl-) (::)
+
+<sp>V/</sp> Fe(ji|clhhlsc3)cit(jkj/iji/hhog|////tohhtohiprhi) si(ij|pe)bi(hi|pe) ar(g!hwih|ql!cl-ppt1)cam,(hg|cl-) (;) ut(g|vi) sal(fg|pe)va(g|ta)ré(gh|pe)tur(g|ta) u(g|ta)ni(ixhiHGhih|/////pe-su2tohg)vér(ghf~|//pe>)sum(gh|peS) se(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)men.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Et(f|ta) fe(gh|pe)cit(h|vi) óm(gh>|pe>1)ni(gf|cllsc3)a(fg!hvGFEfvEDed|vihhpp2su1sut2lsc2ci-hgcl-) (::)

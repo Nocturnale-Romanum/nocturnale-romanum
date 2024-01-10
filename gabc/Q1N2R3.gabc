@@ -1,15 +1,22 @@
+name:Paradisi portas V In omnibus V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Pa(gh)ra(g)dí(g)si(ghOj) por(jvIJkjk!l>)tas<sp>*</sp>(k) a(k)pé(k!lwm)ru(kj)it(j) no(j)bis(kj/jh/jg/h/ggO1f) (;)
-je(fh)jú(hk!lv)ni(j)i(jij) tem(hihg~)pus:(hg) (:)
-su(gh)sci(gh)pi(g)á(GHji)mus(i) il(jh!iwjiHGh)lud(hg) (,)  
-o(gh)rán(gh~)tes(g) et(hgh) de(gf)pre(gh)cán(hg/hgf~)tes:(gf) (;)
-<sp>+</sp> Ut(f) in(hj~) di(jhivvjvIHGh)e(hg) re(g)sur(h)rec(ge)ti(g)ó(fef)nis(dec/d!ewfefvED) (;)
-cum(d) Dó(f!gh)mi(g)no(g/hjg/h/ggO1!f) glo(FHiwjjv)ri(ij!kvJIHiwjIH)é(GHivHGh)mur.(hg) (::)
-<sp>V/</sp> In(j) om(j)ni(ji)bus(jkj/iji/hhO1!g) ex(i)hi(i)be(i)á(i)mus(ih) nos(ij)met(hi)íp(g!hwih)sos(hg) (;)
-sic(g)ut(fg~) De(g)i(g) mi(g)ní(gh)stros(g) in(g) mul(gh~)ta(g) pa(hiHGhih)ti(ghf)én(gh~)ti(h!iwji/jkjIHi)a.(hiHGhg) (::)
-<sp>+</sp> Ut.(f) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hV!g) (::) 
-<sp>+</sp> Ut.(f) (::)
+initial-style: 1;
+name: Paradisi portas;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c3) Pa(ef|pe)ra(e|ta)dí(e|ta)si(e!foh|sa) por(hvg!hihi/j>|////vi-po-1hhpp2vi>hj)tas(i|ta) <sp>*</sp> a(i|ta)pé(i!jwk|````qlhippt1lse4)ri(ih|cllsc3)at(h|ta) no(h|ta)bis(ihhf/he/fv/eeod|pflst2clM-vi-``pr) (;) je(de|```peSlse7)jú(ei/jv|scG1)nii(hhgh|//vi-`po) tem(fgF~E~|to>2)pus:(fe|cl-) (;) sus(ef|pe)ci(ef|pe)pi(e|ta)á(e!fhg|sflsc3)mus(g|ta) il(hf!gwhGFEf|////cl-`qihg!vshgsu2vihg)lud(fe|cl-) o(ef|pe)rán(ef~|ta>)tes(e|ta) et(fef|po) de(ed|cllsc3)pre(ef|peS)cán(fe/fvE~D~|cl-cl>)tes,(ed|cl-) (;)
+<sp>+</sp> Ut(d|``talse4) in(fh~|ta>) di(hf/hvhvhv/GFEf|cl-bv-hg`vi-hhsuu1su2vihg)e(fe|cl-) re(e|ta)sur(f|vi)rec(ec|cl-)ti(e|vi)ó(dcd|//po)nis(bca//b!cwdc/dvCB|toqlhg!cl-hgppt1`ci-hm) (,) cum(b|ta) Dó(d/ef|``scM1)mi(e|ta)no(gxe/fge/fv/eeod|ta-toS2hgvi-hg`prhh) glo(gydf!gwhhv|ql-hhppt2``vi-hh)ri(hiHGF/gwhGF|pe-1hhsut3qi-hhsu2)é(ef!gvFEf|//ci-hhpp2vihh)mur.(fe|cl-) (::)
 
+<sp>V/</sp> In(h|ta) om(h|ta)ni(hg|cllsc3)bus(hih/ghg/ffoe|//tohhtohiprhi) ex(fg|pe)hi(g|ta)be(g|ta)á(g|ta)mus(g|ta) nos(g|ta)me(gf|cllsc3)típ(hi|``pelsl4)sos(h|ta) (,) si(h|ta)cut(hg|cllsc3) De(gf|cllsc3)i(gh|pe) mi(fg|pe)nís(e!fwgf|ql!cl-ppt1)tros(fe|cl-) (;) in(e|vi) mul(e|vi)ta(e|vi) pa(gxfgFEfgf|//////pe-su2tohg)ti(efd|//toM1hh)én(ef|peS)ti(gyf!gwhg/hiHGF|//////ql!clppt1toS2hmsu2)a.(fgFEfe|pe-1su2cl-) (::)
+<sp>+</sp> Ut(d|``talse4) in(fh~|ta>) di(hf/hvhvhv/GFEf|cl-bv-hg`vi-hhsuu1su2vihg)e.(fe|cl-) (::)
+
+<sp>V/</sp> Gló(h|ta)ri(hg|cllsc3)a(hih/ghg/ffoe|//totohgprhg) Pa(gf|cllsc3)tri,(gh|pe) et(fg|pe) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|vi) Spi(e|vi)rí(gxfgFEfgf|//////pe-su2tohg)tu(efd|//toM1hh)i(ef|peS) Sanc(gyf!gwhg/hiHGF|//////ql!clppt1toS2hmsu2)to.(fgFEfe|pe-1su2cl-) (::)
+<sp>+</sp> Ut(d|``talse4) in(fh~|ta>) di(hf/hvhvhv/GFEf|cl-bv-hg`vi-hhsuu1su2vihg)e.(fe|cl-) (::)

@@ -1,13 +1,22 @@
-mode:3;
+name:Laudabo nomen V Laetabor et exsultabo V Gloria;
+office-part:re;
+mode:5;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Lau(i)dá(ji/jg/hg/h!iwjkj)bo(ji) (;)
-<sp>*</sp> no(ji/jhk)men(kvJHiwjij>) tu(hg)um(ghggO1e) as(fg)sí(gfgvFD)du(egfFs)e,(fe) (:)
-<sp>+</sp> Et(g) col(d)lau(g>)dá(gf)bo(f!gwhg/hjh/iwji!hivHG) il(hgh>)lud(FGhgjvIHjg/h/ggO1!f) (;)
-in(ef~) con(dg>)fes(gjh/iwjg!hwihg)si(e)ó(egfFs)ne.(fe) (::)
-<sp>V/</sp> Læ(i)tá(ikjjs)bor(h!iwji/hhO1g) et(i) ex(i!jo1)sul(hg)tá(h)bo(j) in(ikjJs) te:(ji) (;)
-psal(hg)lam(hi~) nó(i)mi(i)ni(i) tu(i)o,(ikjIHiwji) Al(hg)tís(GHiwj)si(jiiO1hivHG) me.(hg) (::)
-<sp>+</sp> Et.(g) (::)
-<sp>V/</sp> Gló(ikjjs)ri(h!iwji)a(hhO1!g) Pa(hg)tri,(h) et(j) Fí(i)li(ikjjs)o,(ji) (;) 
-et(i) Spi(i)rí(ikjjvIHiwji)tu(hg)i(GHiwj) San(jiiO1hivHGh>)cto.(hg) (::)
-<sp>+</sp> Et.(g) (::)
+initial-style: 1;
+name: Laudabo nomen;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines: 1;
+%%
+(c4) Lau(h|vi)dá(f|ta)bo(hj|pe) <sp>*</sp> no(j|vi)men(ij|pe) t{uu}m(hjg/hv/ggof|////toSvi-``pr) (`) as(ffoe|pr)sí(ghgh|//tr)du(fg|pe)e,(gffod/fv|cl!pivi-) (;)
+<sp>+</sp> Et(f|talse9) col(f|ta)lau(gh~|ta>)dá(ixh!iwjg|////ql!clppt1)bo(gf|cl-) il(fv/egffd~|vi-tovi>lsi6)lud(dc|cl-) (,) in(cd|``pelse4) con(ffe|pr)fes(ghgh|//tr)si(ixjhiGF//eg!hv/ig!hwiHG|//////posu1sut1//sahe`cl-hi`ql-hjsu2)ó(fg!hvGFg|//ci-hhpp2vihh)ne.(gf|cl-) (::)
 
+<sp>V/</sp> Læ(j|vihh)tá(j|vihh)bor(jk/jsshih|pe-hhds-hjtohh) et(j|vihh) ex(j|vihh)sul(jh|clhhlsc3)tá(hk|pehh)bo(ij|pehh) in(ji!jwkjk|cl-hhqlhh!pohh) te:(kj|cl-hh) (;) psal(f|ta)lam(h|vi) nó(jk|pehh)mi(j|tahh)ni(j|tahh) tu(j|tahh)o,(ji/ji|pfhhlsc2) Al(ih~|vi>)tís(jk|peShh)si(ixji!jwkJIHi|////cl-hhqlhh!vshhsu2vihh)me.(ih|cl-hh) (::)
+<sp>+</sp> Et(f|talse9) col(f|ta)lau(gh~|ta>)dá(ixh!iwjg|////ql!clppt1)bo.(gf|cl-) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(j|vihh)a(jk/jsshih|pe-hhds-hjtohh) Pa(jh|clhhlsc3)tri,(hk|pehh) et(ij|pehh) Fí(j|vihh)li(ji!jwkjk|cl-hhqihh!pohh)o,(kj|cl-hh) (;) et(j|tahh) Spi(j|tahh)rí(ji/ji|pf1hhlsc2)tu(ih|clhhlsc3)i(jk|peShh) Sanc(ixji!jwkJIHi|////cl-hhqlhh!vshhsu2vihh)to.(ih|cl-hh) (::)
+<sp>+</sp> Et(f|talse9) col(f|ta)lau(gh~|ta>)dá(ixh!iwjg|////ql!clppt1)bo.(gf|cl-) (::)

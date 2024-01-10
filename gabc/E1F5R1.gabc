@@ -1,11 +1,19 @@
+name:Deus in te speravi V Inclina ad me;
+office-part:re;
 mode:3;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) De(e!fwgfg!hv)us,<sp>*</sp>(g) in(gh) te(iji/jkj) spe(ig)rá(ig/ho0!iv)vi,(ffO1e) (,)
-Dó(i)mi(h!iwjiHG)ne,(ghGFgf) (;)
-non(e!fwgfg!h>) con(g)fún(gvFEfwg/hgf~)dar(gf) in(g!hwi!jv) æ(i)tér(ig!hwihi)num:(ghGFgf) (:)
-<sp>+</sp> In(hf~) tu(hvGF)a(ghg) ju(g)stí(iji/jkj)ti(ig)a(ig/ho0!iv) lí(f)be(e)ra(fgFEfwg!hv) me,(gf) (;)
-et(g) é(ig/iji!hhvFEf!gwhg/hih)ri(fvEDewf/gefe)pe(cedDs) me.(dc) (::)
-<sp>V/</sp> In(g)clí(gihHs)na(f!gwhg/ffO1e) ad(g!ho1) me(fe) au(f)rem(h) tu(gihHs)am,(hg) (;)
-et(fe~) sal(EFgwh>)va(hggO1fgvFEf) me.(fe) (::)
-<sp>+</sp> In.(hf~)  (::)
+initial-style: 1;
+name: Deus in te speravi;
+mode: 3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iii;
+nabc-lines:1;
+%%
+(c3) DE(e!fwgfg/hv|ql!po-1ppt1vihm)us,(g|ta) <sp>*</sp> in(gh|peS) te(iji/jkj|tolsl2tohhlsal3) spe(ig|cl-)rá(ihhoi|cllsc2pq)vi,(ffoe|pr) (`) Dó(i|vi)mi(h!iwjIHG|ql!vsppt1su2)ne,(ghGFgf|pe-1su2cl-) (;) non(e!fwgfg/h>|ql!po-1ppt1vi>hk) con(g|ta)fún(gvFE/fwg/hvG~F~|///vi-suu2ql-hhcl->hj)dar(gf|cl-) in(g!hwi/jv|vi-ql-hjvihp) æ(i|vi)tér(ig/gwhgh|cl-qlhg!pohg)num:(ghGFgf|pe-1su2cl-) (:)
+<sp>+</sp> In(hf~|vi>lsi6) tu(hvGF|ci-lsal3)a(ghg|//to) jus(h|vi)tí(iji/jkj|//tolsl2tohhlsal3)ti(ig|cl-)a(ihhoi|clpq) lí(f|vi)be(e|ta)ra(fgFE/fwg/hv|pe-sut2ql-vihk) me(gf|cl-) (;) et(g|vi) é(ig/ijIHhvGE/f!gwhg/hih|cl-toS2sut1lss2vi-suu2lsi9qlhh!clhhtohm)ri(gxfvED/ewf/ge/fe|//////vi-suu2ql-hhpfShklsc2)pe(cedds|tosthh) me.(dc|cl-) (::)
 
+<sp>V/</sp> In(g|ta)clí(gihHs|tosthh)na(f!gwhg/ffoe|ql!clppt1prhj) ad(g!ho|vs) me(fe|cl) au(f|vi)rem(h|vihh) tu(gihhs|//tosthh)am,(hg|cl-) (;) et(fe~|vi>lsi6) sal(ef!gwh>|``ql>hhppt2)va(hggof/gvFEf|////cl!pici-vi) me.(fe|cl-) (::)
+<sp>+</sp> In(hf~|vi>lsi6) tu(hvGF|ci-lsal3)a.(ghg|//to) (::)

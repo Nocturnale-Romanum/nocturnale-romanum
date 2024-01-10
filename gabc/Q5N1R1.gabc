@@ -1,11 +1,19 @@
+name:Isti sunt dies V Locutus est;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) I(ei)sti(i) sunt(i) die(iji)es, <sp>*</sp>(hih) quos(h) ob(h)ser(h)vá(hih)re(hvGF) de(h)bé(hg/hiffO1e)tis(EFgwhe/f/eeO1d) (;)
-tem(g!hi~)pó(i/ihi)ri(f!gwh)bus(g!hwihGFgwhGF) su(EFgvFEf)is(fe) (:)
-<sp>+</sp> Quar(-ehg~)ta(h)dé(i)ci(h)ma(g) di(i)e(ji) ad(hi~) vé(i)spe(ijji)rum(i) Pas(jk)cha(jkJH) Dó(jk)mi(jk)ni(ijji) est:(i) (:)
-et(e) in(e) quin(-ehg~)ta(h)dé(ij)ci(i)ma(hghvGFgf) so(f)lem(fhg~)ni(h)tá(ij)tem(iig~) ce(ihhs)le(fg)brá(e)bi(EFgvFEf)tis(eeO1d) (;)
-al(g!hi~)tís(iihi)si(f!gwh)mo(g!hwihGFgwhGF) Dó(e)mi(EFgvFEf)no.(fe) (::)
-<sp>V/</sp> Lo(i)cú(i!jwkJI)tus(hg) est(hi/hhO1g) Dó(hi)mi(h)nus(h) ad(h) Mó(ig)y(hi)sen,(hi) di(i!jwkj)cens:(ji) (;)
-Ló(hi/hhg)que(hih)re(i) fí(ij)li(i)is(i) Is(ij)ra(i)ël,(i) et(i) di(ijijvIH)ces(hg) ad(h!iwji/jkj) e(ih!iwjij)os.(ivHGhg) (::) 
-<sp>+</sp> Quar(-ehg~)ta(h)dé(i)ci(h)ma.(g) (::)
+initial-style: 1;
+name: Isti sunt dies;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Is(ei|peSlss3)ti(i|vilse3) sunt(i|vi-) di(iji|//to)es(hih|//to) (,) <sp>*</sp> quos(h|ta) ob(h|ta)ser(h|ta)vá(hih|//to)re(hvGF|ci-) de(h|vi)bé(hg/hiffoe|clto!pi)tis(ef!gwhe/fv/eeod|qlhh!cl-hhppt2vi-hj``prhj) (,) tem(g/hi~|vi-ta>hh)pó(iihi|vi-pohg)ri(f!gwh|qlppt1)bus(g!hwiHGF/gwhGF|qlhh!vshhppt1sut2qi-hisu2) su(ef!gvFEf|//ci-hhpp2vihh)is:(fe|cl-) (;)
+<sp>+</sp> Quar(ehg~|````pe>lse7)ta(h|vi)dé(i|vihh)ci(h|vihg)ma(g|ta) di(i|vi)e(ji|cllsc3) ad(hi~|ta>) vés(i|ta)pe(ijji|pe-hhcl-hi)rum(i|ta) (,) Pas(jk|````peShilsal4)cha(jkJH|pe-1hjsu2) Dó(jk|``peShilss4)mi(jk|peShi)ni(ijji|pe-hicl-hj) est,(i|vi) (;) et(e|talsc3) in(e|ta) quin(ehg~|pe>)ta(h|vi)dé(ij|pehh)ci(i|vihh)ma(hg/hvGFgf|cl-ci-cl-) so(f|ta)lem(fhg~|pe>)ni(h|vi)tá(ij|```peShhlsl4)tem(iiog~|vs>hh) ce(ihhs|clsthh)le(fg|pe)brá(e|ta)bi(ef!gvFEf|//ci-hhpp2vihh)tis(eeod|pr) (,) al(g/hi~|vi-lss2ta>lse2)tís(iihi|vi-pohg)si(f!gwh|qlppt1)mo(g!hwiHGF/gwhGF|qlhh!vshhppt1sut2qi-hjsu2) Dó(e|ta)mi(ef!gvFEf|//ci-hhpp2vihh)no.(fe|cl-) (::)
 
+<sp>V/</sp> Lo(i|ta)cú(i!jwkJI|ql-hjppt1su2)tus(hg|cl) est(hi/hhog|peS``pr) Dó(hi|pe)mi(h|ta)nus(h|ta) ad(h|ta) Mó(ig|cl)y(hi|pe)sen,(hi|pe) di(i!jwkj|qlhi!cl-hippt1)cens:(ji|cl-hh) (;) Ló(hi/hhog|peS``pr)que(hih|//to)re(i|vi) fí(ij|pe)li(i|ta)is(i|ta) Is(ij|pe)ra(i|ta)ël,(i|ta) (,) et(i|ta) di(ijijIH|//toci-)ces(ih|cl) ad(h!iwji/jkj|ql!clppt1tohl) e(ih!iwjij|//cl-`qlhg!pohg)os:(ivHGhg|//ci-cl-) (::)
+<sp>+</sp> Quar(ehg~|pe>)ta(h|vi)dé(i|vihh)ci(h|vihg)ma.(g|ta) (::)

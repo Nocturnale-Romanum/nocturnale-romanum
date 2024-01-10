@@ -1,12 +1,19 @@
+name:Plantaverat autem V Produxitque;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  Plan(f)tá(de)ve(e)rat<sp>*</sp>(e) au(e)tem(e) Dó(f)mi(e)nus(f) De(fe)us(egFEDewfEDed) 
-   pa(e)ra(f)dí(g)sum(g) vo(f)lup(df)tá(d)tis(dc) a(d) prin(f)cí(e)pi(egffs)o:(eeo1@fv) <sp>+</sp>(:)
-In(f) quo(ghg) pó(h)su(gf)it(f) hó(f!gh)mi(ghGFEf)nem,(fe)  (;)
-quem(f) for(dgf/0g@hwig/0hg)má(e)ve(egffs)rat.(fe) (:) 
-<sp>V/</sp> Pro(h)du(h)xít(gh)que(gfgwhghvGEfe) Dó(g)mi(g)nus(g) De(gh)us(g) de(g) hu(gh)mo(g) om(g)ne(g) li(g)gnum(gf) pul(gh~)chrum(gf) vi(e@fwgf)su,(fe) (;)
-et(f) ad(de~) ve(e)scén(e)dum(e) su(e)á(e@fo1)ve(e) (,)
-li(e)gnum(e) é(e@fo1)ti(e)am(e) vi(e)tæ(e) in(e) mé(e@fo1)di(e)o(e!fwgFE) 
-   pa(g)ra(ghghvGF)dí(EFgef)si.(ed)  <sp>+</sp>(::)
-In(f) quo.(ghg) (::) 
+initial-style: 1;
+name: Plantaveat autem Dominus;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines:1;
+%%
+(c4) Plan(f|vi)tá(de|pe)ve(e|ta)rat(e|ta) au(e|ta)tem(e|ta) Dó(e!fo|vs)mi(e|ta)nus(e|ta) <sp>*</sp> De(fe|cl-)us(egFEfvEDed|toS2sut1ci-cl-) (,) pa(fe|cllsc3)ra(f|vi)dí(g|vihh)sum(f|vi) vo(f|vi)lup(ef|pe)tá(d|ta)tis(dc|cllsc3) a(d|vi) prin(f|vihg)cí(e|ta)pi(egffs|tosthh)o:(eeof|sa) (;)
+<sp>+</sp> In(d|ta) quo(dhg|//tolsl2) pó(h|vi)su(gf|cllsc3)it(f|ta) hó(f!goh|sa)mi(g|vi)nem,(ge/ghFEfvEDed|//cltoS2sut1ci-cl-) (;) quem(fd~|vi>lsi6) for(ixdg//f!gh/ig/hg|////peSvi-hhpp2pfShm)má(e|ta)ve(egffs|tosthh)rat.(fe|cl-) (::)
 
+<sp>V/</sp> Pro(h|vi)du(h|vi)xít(gh|pe)que(gf!gwhg/hvGEfe|cl-qi!cl-ci-hhcl-) Dó(g|vi)mi(g|vi)nus(g|vi) De(g|vi)us(g|vi) de(g|vi) hu(gh|pe)mo(g|ta) (,) om(g|ta)ne(g|ta) lig(g|ta)num(g|ta) pul(g|ta)chrum(g|ta) vi(gh|pe)su,(g|ta) (,) et(g|ta) ad(g|ta) ves(g|ta)cén(gf~|vi>)dum(gh|pe) su(gf|cl)á(e!fwgf|ql!cl-ppt1)ve(fe|cl-) (;) lig(f|vi)num(de|pe) é(e|ta)ti(e|ta)am(e|ta) vi(e!fo|vs)tæ(e|ta) (,) in(e|ta) mé(e|ta)di(e|ta)o(e!fwgFE|ql-ppt1su2) pa(g|vi)ra(ghghGF|//tr-1su2)dí(e!fgffs|pohhpp2)si.(ed|cl-) (::)
+<sp>+</sp> In(d|ta) quo(dhg|//tolsl2) pó(h|vi)su(gf|cllsc3)it.(f|ta) (::)

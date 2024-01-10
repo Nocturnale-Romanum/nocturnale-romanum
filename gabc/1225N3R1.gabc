@@ -1,14 +1,18 @@
+name:Beata viscera Mariae Virginis V Dies sanctificatus;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Be(e)á(e)ta(EFgwh) ví(hihhg)sce(h!iwjij)ra<sp>*</sp>(ji) (,)
-Ma(ij)rí(j)æ(h!io1!jv) Vír(i)gi(ig!hwi)nis,(ijh!ghvGFEfe) (;)
-quæ(fd) por(e)ta(f)vé(fi)runt(hih) æ(h)tér(hg/hvGFg!h>)ni(g) Pa(g)tris(g!hwihGFgwhGF) Fí(e)li(EFgvFEf)um:(fe) (:)
-et(e) be(e)á(e)ta(EFgwh) ú(hihhg)be(h!iwjij)ra,(ji) (,)
-quæ(i) lac(i)ta(i)vé(jjo1!kv)runt(jkvJH) Chri(j)stum(iji~) Dó(h)mi(gihHs)num:(hg) (;)
-<sp>+</sp> Qui(i)a(i) hó(jjo1!kv)di(jkJIj)e(ji) pro(k) sa(j!ko1)lú(i)te(ih) mun(i!jw!k!jkji~)di(ji) (,) 
-de(g) Vír(iji/jkj>)gi(ih)ne(h) na(hvvGF)sci(fih/io0!jv) di(ig!hwihGFgwhGFs<)gná(e)tus(EFgvFEf) est.(fe) (::)
-<sp>V/</sp> Di(i!jwkJI)es(hi/hhO1g) sanc(h)ti(h)fi(h)cá(hi)tus(h) il(ig)lú(hi)xit(hi) no(i!jwkj)bis:(ji) (;)
-ve(hi/hhO1g)ní(hih)te,(i) Gen(ij~)tes,(i) (,)
-et(i) ad(i)o(i)rá(ijijvIH)te(hg) Dó(h!iwji/jkj)mi(ih!iwjij)num.(ivHGhg) (::)
-Qui(i)a.(i) (::)
+initial-style: 1;
+name: Beata viscera Mariae;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines: 1;
+%%
+(c3) Be(e|ta)á(e|ta)ta(ef!gwh|qlhhppt2) ví(hihhg|to!cllsm2)sce(h!iwjij|ql!poppt1)ra(ji|cl-) *(,) Ma(ij|``pelse4)rí(j|vilsal3)æ(h!ioj|salsc2) Vír(i|ta)gi(ig!hwi|cl-`ql)nis,(ijHGhvGFEfe|////toS2sut1vi-suu1su2cl-hg) (;) quæ(fd|cllsl2lsc3) por(e|vi)ta(f|vi)vé(fi|pelss3)runt(hih|//to) æ(h|``vilse4)tér(hg/hvGFgh>|cl-ci-pe>1)ni(g|ta) Pa(g|ta)tris(g!hwiHGF/gwhGF|ql!vsppt1sut2qi-hgsu2) Fí(e|ta)li(ef!gvFEf|//ci-pp2vihg)um,(fe|cl-) (:) et(e|````talsew2) be(e|ta)á(e|ta)ta(ef!gwh|qlhhppt2) ú(hihhg|////to!cllsm2)be(h!iwjij|ql!poppt1lsl2)ra(ji|cl-) (,) quæ(i|````talsew2) lac(i|ta)ta(i|ta)vé(jjok|sahhlslc4)runt(j/kvJH|ta-hjcihjlsc3lsi9) Chri(j|vi)stum(iji~|pe->hh) Dó(g|ta)mi(gihhs|tosthg)num;(hg|cl-) †(:) Qui(i|``vihhlsl2)a(i|vihh) hó(jjok|``sahilss4)di(jkJIj|pe-1hisu2vihj)e(ji|cl-hh) (,) pro(k|vihh) sa(j!ko|vshhlsc3)lú(i|ta)te(ih|cllsc3) mun(i!jwkjkJI~|ql!cl!cl>ppt1lst3)di(ji|cl-) (;) de(g|ta) Vír(iji/jkj>|////tolsc2/to>hi)gi(ih|cllsc3)ne(h|ta) na(hvhvGF|bv-su2)sci(fihioj|``tolss1/pqhg) di(ig!hwiHGF/gwhG!Fs>|////cl-`ql!vssut2qi-hgsu1sux1)gná(e|ta)tus(ef!gvFEf|//ci-pp2vihg) est.(fe|cl-) (::)
 
+<sp>V/</sp> Di(i!jwkJI|ql-hippt1su2)es(hi/hhog|peS`pr) sanc(h|vi)ti(h|vi)fi(h|vi)cá(hi|pe)tus(h|ta) il(ig~|vi>lsi6)lú(hi|pe)xit(hi|pe) no(i!jwkj|ql!cl-ppt1)bis:(ji|cl-) (;) ve(hi/hhog|peS`pr)ní(hih|//to)te,(i|vi) gen(ij~|ta>)tes,(i|ta) (,) et(i|ta) ad(i|ta)o(i|ta)rá(ijijIH|///to-`ci-hg)te(ih|cllsc3) Dó(h!iwji/jkj|ql!clppt1tohm)mi(ih!iwjij|///cl-qihg!pohg)num.(ivHGhg|//ci-cl-) (::)
+†() Qui(i|``vihhlsl2)a(i|vihh) hó(jjok|``sahilss4)di(jkJIj|pe-1hisu2vihj)e(ji|cl-hh) (::)

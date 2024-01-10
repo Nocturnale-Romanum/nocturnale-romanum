@@ -1,12 +1,19 @@
+name:Dixit Judas fratribus suis V Quid enim prodest;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Di(hg)xit(h) Ju(ihiwjij)das <sp>*</sp>(ji) frá(i/ihi)tri(f!gwh)bus(g!hwihGFgwhGF) su(EFgvFEf)is:(fe) (:)
-Ec(i)ce(ih/ihhO1g) Is(i)ma(i)ë(il)lí(l)tæ(lklvKJlv) tráns(lVkJIji)e(hi)unt;(ijiio~ghg) (;)
-ve(i)ní(i/j/kj)te,(ivhho1!iv) ve(fe)num(de~)dé(d/fhf/g)tur,(fe/fgf) (:)
-et(ed~) ma(e)nus(f!gwh) nos(hvGFgwihi!jv)træ(i) non(i) pol(i)lu(kijwkj)án(i!j>)tur:(ji/jkj) (;)
-<sp>+</sp> Ca(hg)ro(h) e(i!jwkJI)nim(ki/jkj) et(hg~) fra(fe/fhgho0!iv)ter(ih/hf) nos(e)ter(ef/fe) est.(e) (::)
-<sp>V/</sp> Quid(i) e(i!jwkJI)nim(hi/hhO1g) prod(h)est,(h) si(h) oc(h)ci(h)dé(hi)ri(h)mus(ig) fra(hi)trem(hi) nos(i!jwkj)trum,(ji) (;)
-et(hi/hhg~) ce(hih)la(i)vé(i)ri(i)mus(i) sán(ij~)gui(i)nem(i) ip(i)sí(ij)us(i)? (,)
-mé(i)li(i)us(i) est(i) ut(ijijvIH) ve(hg)num(h!iwji/jkj)dé(ih!iwjij)tur.(ivHGhg) (::)
-<sp>+</sp> Ca(hg)ro.(h) (::)
+initial-style: 1;
+name: Dixit Judas fratribus suis;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Di(hg|cl)xit(h|vi) Ju(ih!iwjij|cl-`qlhg!pohg)das(ji|cl-) <sp>*</sp> frá(iihi|vi-`pohg)tri(f!gwh|qlppt1)bus(g!hwiHGF/gwhGF|ql!vsppt1sut2qi-hhsu2) su(ef!gvFEf|//ci-hhpp2vihh)is :(fe|cl-) (:) Ec(i|vilsl3)ce(ih/ihhog|cllsc2clhg!pihglst3) Is(i|vi)ma(i|````vilse1)ë(il|pehm)lí(l|vihm)tæ(lkkvJIl|//clShmci-hmvi-hm) tráns(lvKJIji|////clShmsu2clhm)e(hi|pe)unt;(ijiio/ghg|//toorhgtohh) (;) ve(i|vilsl3)ní(i/jkj|//vihhlse2/tohl)te,(ivhhoi|vi-sa1) ve(fe|cllsi4lsc3)num(de~|ta>)dé(e/fhf/gv|ta-/toS2hhlsl2vihi)tur,(gxfe/fgf|//////cltohg) (,) et(ed~|vi>) ma(e|vi)nus(f!gwh|vi-qlhj) nos(hvGF/fwihi/jv|//vi-sut2qlhg!po-1hgvihl)træ(i|ta) non(i|ta) pol(i|ta)lu(ki!jwkj|cl-hjlsal2`qlhk!cl-hk)án(ij>|pe>1hh)tur;(ji/jkj|clhhlsal2/tohi) (;)
+<sp>+</sp> Ca(hg|cllsc3)ro(h|vi) e(i!jwkJI|vi-ql-hksu2)nim(ki/jkj|clhilsc3``tohj) (,) et(h|vi) fra(fe/fhg/hoi|cllsi2lsc3to/pqhg)ter(ihhg|clScl-) nos(e|ta)ter(effe|pe-`cl-hg) est.(e|ta) (::)
 
+<sp>V/</sp> Quid(i|vi) e(i!jwkJI|viql-hksu2)nim(hi/hhog|peS``pr) pro(hi|pe)dest,(h|ta) (,) si(h|ta) oc(h|ta)ci(h|ta)dé(h|ta)ri(h|ta)mus(ig|cllsc3) fra(hi|pe)trem(hi|pe) nos(iiog|pr)trum,(h/ivHGh|vi-cihjlsc2vihj) (;) et(ehg|``tolsc7) ce(h|vi)la(h|vi)vé(ij|pe)ri(i|ta)mus(i|ta) sán(i>|ta>)gui(i|ta)nem(ikj|/tohhlsc3) ip(hi|pe)sí(i!jwkj|qlhh!cl-hhppt1)us?(ji|cl-) (;) mé(hi/hhog|peS``pr)li(hih|//to)us(i|ta) est(i|ta) e(ij|pe)nim(i|ta) ut(ijijIH|//toci-hg) ve(ih|cl)num(h!iwji/jkj|ql!clppt1tohl)dé(ih!iwjij|//cl-`qlhg!pohg)tur.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Ca(hg|cllsc3)ro(h|vi) e(i!jwkJI|vi-ql-hksu2)nim.(ki/jkj|clhilsc3``tohj) (::)

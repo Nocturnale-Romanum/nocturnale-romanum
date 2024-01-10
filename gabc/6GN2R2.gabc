@@ -1,10 +1,19 @@
+name:Ponam arcum meum in nubibus V Cumque obduxero;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Po(f)nam(gh) ar(hhg)cum<sp>*</sp>(hggo~) me(ixf!gwhgh!iv)um(h) in(f!gw!h>) nú(h)bi(g)bus(geg) cœ(gffvED)li,(dfddO1c) (;)
-di(fe)xit(fg) Dó(ggfg)mi(d)nus(dgffvED) ad(cd~) No(DEfvEDe)ë:(ed) (:)
-<sp>+</sp> Et(dc~) re(f)cor(gh>)dá(ixhvGFgwhgh!iv)bor(h) fœ́(f)de(gh)ris(h) me(gf)i,(FGhvGFEfvEDed) (;)
-quod(fe~) pé(fg)pi(ggfg)gi(dgffvED) te(DEfvEDe)cum.(ed) (::)
-<sp>V/</sp> Cum(h)que(hg/0hg/0gO1f) ob(g)dú(gh)xe(g)ro(g) nú(hf)bi(gh)bus(gh) cœ(ixh/iiO1h)lum,(h) (;)
-ap(gf)pa(gh)ré(ixhi)bit(h) ar(ixhi)cus(h) me(h)us(hg/0hg) in(gf) nú(ixf!gwhg/hih)bi(hvGFE!fwg!hv)bus.(gf) (::)
-<sp>+</sp> Et.(dc~)
-(::)
+initial-style: 1;
+name: Ponam arcum meum in nubibus;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) Po(f|ta)nam(gh|pe) ar(hhg|vi-`cl-hg)cum(hggo>|clorhg) <sp>*</sp> me(ixf!gwhgh/iv|//////ql!po-1ppt1vihl)um(h|vi) (,) in(f!gwhg~|ql>ppt1) nú(h|vi)bi(g|vi)bus(fdg|`polsi1) cæ(gffvED|clScilsc3)li,(dfddc|toS2cl-) (;) di(fe|cllsc3)xit(fg~|ta) Dó(ggfg|vi-pohg)mi(d|ta)nus(dgffvED|toS2ci-) ad(d|ta) No(de!fvEDe|//ci-hhpp2vihh)ë,(ed|cl-) (:)
+<sp>+</sp> Et(dc~|vi>) re(f|vi)cor(ghg~|pe>)dá(ixhvGF/gwhgh/iv|//////vi-suu2ql!po-1vihk)bor(h|vi) fœ́(f|ta)de(gh|pe)ris(h|vi) me(gf|cl-)i,(fg!hvGFEfvEDCdc|vihhpp2su1sut2vi-hisut1su2cl-hh) (;) quod(fe~|vi>) pé(fg|pe)pi(ggfg|vi-`pohg)gi(dgffvED|to-1lsi7ci-) te(de!fvEDe|//ci-hhvihh)cum.(ed|cl-) (::)
+
+<sp>V/</sp> Cum(h|vi)que(hg/hggof|clclpi) ob(g|vi)dú(gh|pe)xe(g|ta)ro(g|ta) nú(hf|cllsc3)bi(gh|pe)bus(gh|pe) cæ(ixh/iioh|ta-lse1pr)lum,(h|ta) (;) ap(hf|cl)pa(gh|pe)ré(ixhi|pe)bit(h|ta) ar(hi~|ta>)cus(h|ta) me(h|ta)us(hg/hg|pflsc2) in(hf~|vi>) nú(ixf!gwhg/hih|//////ql!clppt1)bi(hvGFE/fwg/hv|vi-su1suu2ql-vi-hk)bus.(gf|cl-) (::)
+<sp>+</sp> Et(dc~|vi>) re(f|vi)cor(ghg~|pe>)dá(ixhvGF/gwhgh/iv|//////vi-suu2ql!po-1vihk)bor.(h|vi) (::)

@@ -1,9 +1,19 @@
+name:Paratum cor meum V Exsurge gloria;
+office-part:re;
 mode:5;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Pa(f)rá(d)tum<sp>*</sp>(fh~) cor(h) me(f)um,(hi) De(ki!jwkjk)us,(ji) (;)
-pa(i)rá(hgh)tum(e) cor(EFhgh>) me(fgf)um:(f) (:)
-<sp>+</sp> Can(df~)tá(fvdfe)bo,(gxe!fwg) et(d) psal(gxfgf>)mum(e) di(gxf!go1!hv)cam(g) Dó(d)mi(ded)no.(d) (::)
-<sp>V/</sp> Ex(h)súr(h)ge,(hiHssfgf) gló(hi)ri(h)a(h) me(hi)a,(h) (,) ex(h)súr(hi~)ge,(h) psal(h)té(h)ri(hf)um(fi) et(gh) cí(h)tha(hg!hwihi)ra,(ih) (;)
-ex(h)súr(h)gam(hghg) di(gf)lú(hi)cu(hg!hwihGFg)lo.(gf) (::)
-<sp>+</sp> Can(df~)tá(fvdfe)bo.(gxe!fwg) (::)
+initial-style: 1;
+name: Paratum cor meum;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines:1;
+%%
+(cb3) Pa(f|vi)rá(d|ta)tum(fh~|ta>) <sp>*</sp> cor(h|vi-) me(f|ta)um,(hi|peSlsal3) De(jxjh!iwjij|////cl-lss2ql!po)us,(ih|cl-) (,) pa(h|vi)rá(gfg|po)tum(e|ta) cor(e!fhgh>|////po>hhpp2) me(fgf|toS)um:(f|vi) (;)
+<sp>+</sp> Can(df~|ta>lsi7)tá(fv/dfe|vi-tohhlsi7)bo(e!fwg|qlppt1) et(d|ta) psal(fgf>|to>lsc3)mum(e|ta) di(f!goh|sa)cam(f|vi) Dó(d|ta)mi(ded|toS)no.(d|ta) (::)
 
+<sp>V/</sp> (c3) Ex(gyh|vi)súr(h|vi)ge,(hi/hssfgf|pe-ds-hjtohj) gló(hi|pe)ri(h|ta)a(h|ta) me(hi|pe)a,(h|ta) (,) ex(h|ta)súr(hi~|ta>)ge(h|ta) psal(h|ta)té(h|ta)ri(hf|cl)um(fi|pe) et(gh|pe) cí(h|ta)tha(hg!hwihi|cl-qi!po)ra,(ih|cl-) (;) ex(h|vi)súr(h|vi)gam(hg/hg|//pf1lsc2) di(gf|cl)lú(hi|peS)cu(gxhg!hwiHGFg|////cl-`qlhg!vshgsu2vihg)lo.(gf|cl-) (::)
+<sp>+</sp> (cb3) Can(df~|ta>lsi7)tá(fv/dfe|vi-tohhlsi7)bo.(e!fwg|qlppt1) (::)

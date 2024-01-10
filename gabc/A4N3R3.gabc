@@ -1,14 +1,21 @@
+name:Intuemini quantus V Praecursor pro nobis ingréditur V Gloria;
+office-part:re;
 mode:3;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  In(g)tu(g)é(g!hwi!jo~)mi(i)ni,<sp>*</sp>(i) quan(i)tus(jijvIHGhg) sit(h!iwj) i(ikjJs)ste,(ji) (;)
-qui(g) in(h)gré(hjh/io0!jv)di(g)tur(EFgwh/igFssded) (,)
-ad(f) sal(gh>)ván(gh>)das(GHig/hg) Gen(egfFs)tes:(fe) (:)
-i(EFg!ho1)pse(g) est(higgf) Rex(h) ju(i)stí(jijh)ti(hf!gwhgh)æ,(hg) (;)
-<sp>+</sp> Cu(hi~)jus(h) ge(h)ne(hg)rá(h!iwj)ti(g)o(EFgwh/igFssded) non(f!gwhg) ha(hhfg)bet(GHihig) fi(egfFs)nem.(fe) (::)
-<sp>V/</sp> Præ(i)cúr(ikjJs)sor(h!iwji/hhO1g) pro(h) no(hg)bis(h) in(j)gré(i)di(ikjJs)tur,(ji) (;)
-se(hg)cún(hi~)dum(i) ór(i)di(i)nem(i) Mel(i)chí(ij)se(i)dech(i) Pón(i)ti(i)fex(i) fa(i)ctus(ikjIHiwji) in(hg) æ(GHiwj)tér(jiiO1hivHGh)num.(hg) (::)
-<sp>+</sp> Cu(hi~)jus.(h) (::)
- <sp>V/</sp> Gló(ikjjs)ri(h!iwji)a(hhO1!g) Pa(hg)tri,(h) et(j) Fí(i)li(ikjjs)o,(ji) (;) 
-et(i) Spi(i)rí(ikjjvIHiwji)tu(hg)i(GHiwj) San(jiiO1hivHGh>)cto.(hg) (::)
-<sp>+</sp> Cu(hi~)jus.(h) (::)
+initial-style: 1;
+name: Intuemini quantus;
+mode: 3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iii;
+nabc-lines: 1;
+%%
+(c4) In(g|ta)tu(g|````talsew2)é(g!hwi/jo|ql-ppt1orhj)mi(i|ta)ni(i|ta) *(,) quan(j|``talse4)tus(ji/jvIHGhg|cl-hhvi-hhsuu1su2cl-hh) sit(h!iwj|qlppt1) i(ikjjs|tohilsim7sthk)ste(ji|cl-) (;) qui(g|talsi7) in(h|vi)gré(ixhjhioj|////topqhg)di(g|vi)tur(ef!gwh/igfssded|``qlhhppt2clShhds-hhtohh) (,) ad(f|vi) sal(ghg~|pe>)ván(ixhif~|////pe>1lsi6)das(g!hig/hg|clpp2cl-hh) gen(egffs|//tosthh)tes:(fe|cl-) (:) ip(ef!g!ho|`vshgpp2)se(g|ta) est(ixhiggf|////toS2cl-) Rex(h|`vilss2) jus(j|vi)tí(jijh|pf1lsc2)ti(hf!gwhgh|cl-`qi!po)æ(hg|cl-) †(;) Cu(ixhi~|////ta>)jus(h|ta) ge(h|ta)ne(hg|cl)rá(ixh!iwj|////vi-qlhklsl3)ti(g|vi)o(ef!gwh/igfssded|//ql-ppt2clShhds-hhtohh) (,) non(f!gwhg|vi-qihj!clhjlsc3) ha(ixh/ifg|////vi-po-1hi)bet(g!hig/hg|pfShhpp2) fi(egffs|//tosthh)nem.(fe|cl-) (::)
 
+<sp>V/</sp> Præ(i|vi)cúr(ikjjs|//tohhsthj)sor(h!iwji/hhog|ql!clppt1prhi) pro(i|vi) no(i!jo|vs)bis(h|ta) in(h|ta)gré(hi|pe)di(h|ta)tur,(h|ta) (,) se(h|ta)cún(hi|pe)dum(h|ta) ór(h|ta)di(hg|cllsc3)nem(h|vi) Mel(j|vihh)chí(i|ta)se(ikjjs|//tohhsthj)dech(ji|cl-) (;) Pón(ig|cl)ti(hi|pe)fex(i|ta) fac(i|ta)tus(ikjjvIH/iwji|////toShhci-hjqihj!cl-hj) in(hg|cl) æ(gh!iwj|``qlhhppt2)tér(jiioh/ivHGh|cl!pici-vi)num.(hg|cl-) (::)
+†() Cu(ixhi~|////ta>)jus.(h|ta) (::)
+
+<sp>V/</sp> Gló(ikjjs|//tohhsthj)ri(h!iwji|ql!cl-ppt1)a(hhog|pr) Pa(hg|cllsc3)tri,(h|vi) et(j|vihg) Fí(i|ta)li(ikjjs|//tohhsthj)o,(ji|cl-) (;) et(i|ta) Spi(i|ta)rí(ikjjvIH/iwji|toShhvi-hjsut2qihi!clhi)tu(hg|cllsc3)i(gh!iwj|``qlhhppt2) Sanc(jiiohivHGh|////cl!pici-vi)to.(hg|cl-) (::) 
+†() Cu(ixhi~|////ta>)jus.(h|ta) (::)

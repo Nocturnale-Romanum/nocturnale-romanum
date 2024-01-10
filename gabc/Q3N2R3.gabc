@@ -1,17 +1,23 @@
+name:Memento mei V Tres enim adhuc V Gloria;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Me(de)men(ei!j>)to<sp>*</sp>(i) me(ijvHGhihi!jv)i,(i) (;)
-dum(ggo1!h>) be(f)ne(efED) ti(f)bi(hfgwhGF) fú(e)e(EFgvFEf)rit:(fe) (:)
-<sp>+</sp> Ut(ihi) súg(kl)ge(mV!lmlm)ras(j!ko1!lv) Pha(lk/kj)ra(ih)ó(HIjvkvJIj)ni,(ji) (;)
-ut(i) e(i)dú(jkj)cat(hi) me(ih!ghvGFEfe) de(ef) is(f)to(fdewfEDe) cár(e)ce(EFgvFEf)re:(fe) (:)
-<v>\ddag\ </v> Qui(hghwi)a(i) fur(h!i>)tim(hvGFEfe) sub(d)lá(DFghg)tus(f!gwh) sum,(ghg) (;)
-et(f) hic(gh) in(iio1!j>)no(hi)cens(ih!ghvGFEfe) in(f) la(DFgwhhv)cum(giHGFgwhGF) mis(e)sus(EFgvFEf) sum.(fe) (::)
-Tres(i) e(i!jwkJI)nim(hi/hhO1g) ad(h)huc(h) di(hi)es(h) sunt,(h) (,)
-post(h) quos(h) re(h)cor(h)dá(hi)bi(h)tur(h) Phá(hi)ra(h)o(h) ma(h)gis(h)té(ig)ri(hi)i(hi) tu(iiO1g)i,(hvivHGh) (;)
-et(e) re(h)vó(ij)cat(i) te(i) in(i) gra(i!jwk)dum(kj~) pris(i)ti(ijwkj)num:(ji) (;)
-tunc(i) me(ijijvIH)mén(hg~)to(h!iwji/jkj) me(ih!iwjij)i.(ivHGhg) (::)
-<sp>+</sp> Ut.(ihi) (::c2)
-<sp>V/</sp> Gló(g!hwiHG)ri(fe)a(fg/ffO1e) Pa(ge)tri,(fg) et(fg) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(ghghGF)tu(fe)i(f!gwhg/hih) San(gf!gwhgh)cto.(gvFEfe) (z0::c4)
-<v>\ddag\ </v>  Qui(hghwi)a.(i) (::) 
+initial-style: 1;
+name: Memento mei dum bene;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Me(de|pe)mén(ei/j>|pevi>hk)to(i|ta) <sp>*</sp> me(i/jvHGhihi/jv|////ta-citr-3vihk)i(i|vi) (,) dum(ggo!h>|sa>lsi6) be(f|vi)ne(efED|pe-1su1sut1) ti(f|vi)bi(hf!gwhGF|cl-`ql-hhsu2) fú(e|ta)e(ef!gvFEf|//ci-hhpp2vihh)rit:(fe|cl-) (;)
+<sp>+</sp> Ut(ihi|polss2) súg(kl|peShm)ge(ml/mlm|//clhppohp)ras(kkol|sahm) Pha(lkkj|clShmcl-hn)ra(ih|clhh)ó(hi!jv/kvJIj|vi-hjpp2`ci-hnvihm)ni(ji|cl-hh) (`) ut(i|ta) e(i|ta)dú(jkj|//tohh)cat(hi|peShh) me(ivHGhvGFEfe|clShivi-hisut1su2cl-hi) (,) de(ef|pe) is(f|vi)to(fd!ewfEDe|cl-`ql-hgsu2vihg) cár(e|vi)ce(ef!gvFEf|//ci-hhpp2vihh)re:(fe|cl-) (;)
+<sp>‡</sp> Qui(hg!hwi|cl-lsl2`qlhg)a(i|vi) fur(hi>|pe>1)tim(hvGFEfe|vi-hisuu1su2cl-hg) su(e|ta)blá(ef!ghg|tohhpp2)tus(f!gwh|qlppt1) sum,(ghg|//toS) (,) et(f|ta) hic(gh|peS) ín(jjo!k>|``sa->1hilsal2lsi3)no(hi|pe)cens(ivHGhvGFEfe|clShhsut1vi-hisut1su2cl-hh) in(d|talsi8) la(df!gwhhv|ql-hhppt2`vi-hh)cum(hiHGF/gwhGF|//pe-1hisut3qi-hisu2) mis(e|ta)sus(ef!gvFEf|//ci-hhpp2vihh) sum.(fe|cl-) (::)
 
+<sp>V/</sp> Tres(i|ta) e(i!jwkJI|ql-hhppt1su2)nim(hi/hhog|peS``pr) ad(h|ta)huc(h|ta) di(hi|pe)es(h|ta) sunt,(h|ta) post(h|ta) quos(h|ta) re(h|ta)cor(h|ta)dá(hi|pe)bi(h|ta)tur(h|ta) Phá(hi|pe)ra(h|ta)o(h|ta) ma(h|ta)gis(h|ta)té(ig|cl)ri(hi|pe)i(hi|pe) tu(iiog|pr)i,(h/ivHGh|vi-cihklsc3vihj) (;) et(e|``talsi7) re(h|vi)vó(ij|pe)cat(i|ta) in(i|ta) gra(i!jwk|qlhippt1)dum(kj~|vi>hi) prís(i|ta)ti(i!jwkj|qlhh!cl-hhppt1)num;(ji|cl-) (;) tunc(i|ta) me(ijijIH|//toci-hh)mén(ih~|vi>)to(h!iwji/jkj|qlhh!clhhppt1tohm) me(ih!iwjij|//cl-`qihg!pohg)i.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Ut(ihi|polss2) súg(kl|peShm)ge(ml/mlm|//clhppohp)ras.(kkol|sahm) (::)
+
+<sp>V/</sp> Gló(i!jwkJI|ql-hhppt1su2)ri(hg|cllsc3)a(hi/hhog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj|qlhh!cl-hhppt1)o,(ji|cl-) (:) et(i|ta) Spi(i|ta)rí(ijijIH|//tr-1su2)tu(ih|cllsc3)i(h!iwji/jkj|qlhh!clhhppt1tohm) San(ih!iwjij|//cl-`qihg!pohg)cto.(ivHGhg|ci-cl-) (::)
+<sp>‡</sp> Qui(hg!hwi|cl-lsl2`qlhg)a(i|vi) fur(hi>|pe>1)tim.(hvGFEfe|vi-hisuu1su2cl-hg) (::)

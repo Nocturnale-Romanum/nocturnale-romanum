@@ -1,13 +1,19 @@
+name:Apparuit Deus Jacob V Vere Dominus est in loco;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Ap(d)pá(d)ru(d)it<sp>*</sp>(dfddc) De(f)us(gh) Ja(ixhvGFgwhgh!iv)cob,(h) (;)
-et(f) be(f)ne(gh)dí(hggO1f)xit(gh) e(fvED)um,(dfddc) (,) 
-et(fe/gh) di(d!ewfef)xit:(ed)  (:)
-E(d!ewf!gh)go(g) sum(fe~) De(f)us(gffvED) Be(DEfvEDe)thel,(ed) (;)
-u(c)bi(fgf) un(f)xí(ghgh)sti(h) lá(hg/hfg)pi(gvDFgvFEf)dem,(fe) (:)
-et(f) vo(d!ewfgh)tum(g) vo(gf/fe)vís(f!go1!hv)ti(hg/hfg) mi(fe!fwgfg)hi:(gf) (;)
-<sp>+</sp> Cré(ixf!gwh!io~)sce(h)re(hggO1e) te(g) fá(fgh)ci(fvED)am,(dfddc) (,)
-et(fgFED) mul(f!go1!h>)ti(h)pli(h)cá(hg/gf/gh)bo(d!ewfef) te.(ed) (::)
-<sp>V/</sp> Ve(h)re(hg/hggO1f) Dó(gh)mi(g)nus(g) est(g) in(hf) lo(gh)co(gh) i(ixh/iiO1h)sto,(h) (;)
-et(gf) e(gh)go(hg/hg) ne(gf)sci(ixf!gwhg/hih)é(hvGFEfwg!hv)bam.(gf)  (::)
-<sp>+</sp> Cré(ixf!gwh!io~)sce(h)re.(hg) (::)
+initial-style: 1;
+name: Apparuit Deus Jacob;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) Ap(d|ta)pá(d|ta)ru(d|ta)it(dfddc|toS2cl-) <sp>*</sp> De(f|vi)us(gh|pe) Ja(ixhvGF/gwhgh/iv|//////ciS1qlhg!po-1hgvihl)cob,(h|vi) (,) et(f|ta) be(f|ta)ne(gh|pe)dí(hggoe|cl!pi)xit(gh|pe) e(fvED|ci-)um,(dfddc|toS2cl-) (,) et(fv//e@goh|vi-sa) di(d!ewfef|ql!poppt1)xit:(ed|cl-) (:) E(cd!ewffg|```qi-hhppt2pehj)go(f|ta) sum(f|ta) De(f|ta)us(gefe|//pf-) Be(de!fvEDe|//ci-hhpp2vihh)thel,(ed|cl-) (;) u(d|ta)bi(fgf|//to) un(fe|cllsc3)xís(ghgh|//tr)ti(h|vi) lá(hg/hfg|cllsc3pohg)pi(fe!fwgfg|cl-`qlhg!pohg)dem,(gf|cl-) (,) et(fd~|vi>lsi6) vo(ixf!gwh/iv|//ql-ppt1vihm)tum(h|ta) vo(hvGF|ci-)vís(f!goh|sa)ti(hg/hfg|cl/po) mi(fe!fwgfg|cl-`qlhg!pohg)hi:(gf|cl-) (;)
+<sp>+</sp> Cré(ixf!gwh/iv|///ql-ppt1vihl)sce(h|ta)re(hggoe|clhg!pihg) te(g|vi) fá(f!goh|sa)ci(fvED|ci-)am,(dfddc|toS2cl-hg) (,) et(fgFE|pe-1su2) mul(f!goh|sa)ti(h|vi)pli(h|vi)cá(hvGFgh|ci-peS)bo(d!ewfef|ql!poppt1) te.(ed|cl-) (::)
+
+<sp>V/</sp> Ve(h|vi)re(hg/hggof|//clcl!pi) Dó(gh|pe)mi(g|ta)nus(g|ta) est(g|ta) in(hf|cllsc3) lo(gh|pe)co(gh|pe) is(ixh/iioh|////ta-pr)to,(h;|ta) et(h|ta) e(h|ta)go(hg/hg|pflsc2) ne(hf|cllsc3)sci(ixf!gwhg/hih|//////ql!clppt1tohk)é(hvGFE/fwg/hv|vi-hhsu1sut2ql-vihj)bam.(gf|cl-) (::)
+<sp>+</sp> Cré(ixf!gwh/iv|///ql-ppt1vihl)sce(h|ta)re.(hggoe|clhg!pihg) (::)

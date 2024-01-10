@@ -1,14 +1,22 @@
+name:Gaudebunt labia mea V Sed et ligna mea V Gloria;
+office-part:re;
 mode:5;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Gau(f)dé(d)bunt<sp>*</sp>(fh~) lá(h)bi(gh)a(ffO1e) me(feeO1d/e)a(ed) (;)
-cum(d) can(gxefef!g>)tá(f)ve(hffO1e)ro(f!gwhg) ti(hiHGF)bi:(fihhvGF) (:)
-<sp>+</sp> Et(f) á(hij)ni(i)ma(i) me(ih/i!jwkjIHi)a,(ih) (;)
-quam(hi>) re(h)de(hvGF)mí(hvv)sti,(ig/hif/dev) (,)
-Dó(DEfh/ijh/fG2H2FEf/gefe)mi(DEfvEDe)ne.(ed) (::)
-<sp>V/</sp> Sed(h) et(h) lin(h)gua(h) me(h)a(hiHssfgf) me(h)di(h)tá(hi)bi(h)tur(h) ju(h)stí(hf)ti(fi)am(gh) tu(hg!hwihi)am,(ih) (;)
-to(h)ta(h) di(h)e(hghg) lau(gf~)dem(hi>) tu(hg!hwihGFg)am.(gf) (::)
-<sp>+</sp> Et.(f) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hihssfgf) Pa(hf)tri,(fi) et(gh) Fí(h)li(hg!hwihi)o,(ih) (;) 
-et(h) Spi(h)rí(hg/0hg)tu(gf)i(hi) San(hg!hwihGFg)cto.(gf) (::)
-<sp>+</sp> Et.(f) (::)
+initial-style: 1;
+name: Gaudebunt labia mea;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines:1;
+%%
+(c3) Gau(f|vi)dé(d|ta)bunt(fh~|ta>) <sp>*</sp> lá(h|vi)bi(gh|pe)a(ffoe|pr) me(feeod/ev|cl!pilsc2vi)a(ed|cl-) (,) cum(d|ta) can(gxefef/g>|/////tr-3vi>hg)tá(f|ta)ve(hffoe|cl!pilssc2lst2)ro(gyf!gwhg|vi-qlhj!clhj) ti(giHGF|pesu3lsc3)bi:(fihhvGF|//toS2lss2ci-) (;)
+<sp>+</sp> Et(f|ta) á(h/ij|scM1lsal3)ni(i|ta)ma(i|ta) me(ih/i!jwkJIHi|cl-hiqlhi!vshippt1su2vihi)a(ih,h+|cl-) (c3) quam(ij>|pe>1) re(g|ta)de(hvGF|ci-)mís(hvhv|bv-)ti,(ihhiFDe|////cltoS2sut1vi-) (`) Dó(de!fh/ijHF|peShhppt2/toS2hlsut1lss2|gxHHFE|////tgShmsuu1|f/ge/fe|ta-hlpfShllsc2)mi(de!fvEDe|//ci-hhpp2vihh)ne.(ed|cl-) (::)
 
+<sp>V/</sp> Sed(h|vi) et(h|vi) lin(h|vihg)gua(h|vi) me(h|vi)a(hi/hssfgf|pe-ds-hitohh) me(h|vi)di(h|vi)tá(hi|pe)bi(h|ta)tur(h|ta) jus(h|ta)tí(hf|cllsc3)ti(fi|pe)am(gh|pe) tu(hg!hwihi|cl-`qlhg!pohg)am,(ih|cl-) (;) to(h|vi)ta(h|vi) di(h|vi)e(hg/hg|///pf1lsc2) lau(gf~|vi>)dem(hi>|pe>1) tu(gxhg!hwiHGFg|////cl-qihg!vshgsu2vihg)am.(gf|cl-) (::)
+<sp>+</sp> Et(f|ta) á(h/ij|scM1lsal3)ni(i|ta)ma(i|ta) me(ih/i!jwkJIHi|cl-hiqlhi!vshippt1su2vihi)a(ih,h+|cl-) (c3) quam(ij>|pe>1) re(g|ta)de(hvGF|ci-)mís(hvhv|bv-)ti,(ihhiFDe|////cltoS2sut1vi-) (`) Dó(de!fh/ijHF|peShhppt2/toS2hlsut1lss2|gxHHFE|////tgShmsuu1|f/ge/fe|ta-hlpfShllsc2)mi(de!fvEDe|//ci-hhpp2vihh)ne.(ed|cl-) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hi/hss/fgf|pe-ds-hhtohh) Pa(hf|cllsc3)tri,(fi|pe) et(gh|pe) Fí(h|ta)li(hg!hwihi|cl-`qlhg!pohg)o,(ih|cl-) (;) et(h|vi) Spi(h|vi)rí(hg/hg|pflsc2)tu(gf|cllsc3)i(hi|peS) Sánc(gxhg!hwiHGFg|////cl-`qlhg!vshgsu2vihg)to.(gf|cl-) (::)
+<sp>+</sp> Et(f|ta) á(h/ij|scM1lsal3)ni(i|ta)ma(i|ta) me(ih/i!jwkJIHi|cl-hiqlhi!vshippt1su2vihi)a(ih,h+|cl-) (c3) quam(ij>|pe>1) re(g|ta)de(hvGF|ci-)mís(hvhv|bv-)ti,(ihhiFDe|////cltoS2sut1vi-) (`) Dó(de!fh/ijHF|peShhppt2/toS2hlsut1lss2|gxHHFE|////tgShmsuu1|f/ge/fe|ta-hlpfShllsc2)mi(de!fvEDe|//ci-hhpp2vihh)ne.(ed|cl-) (::)

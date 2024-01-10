@@ -1,13 +1,19 @@
+name:Stella quam viderant V Et intrantes;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Stel(f!g!h>)la,<sp>*</sp>(g) quam(g) ví(g)de(g)rant(GHiV>) Ma(h)gi(hg/h!iwjg/h/ggO1f) (,)
-in(hf) O(g)ri(hj)én(j)te,(kjjh/jggO1f) (;)
-an(hf~)te(ghg)ce(h)dé(hjh!g)bat(hfGHiwjIHiwjIH) e(GHivHGh)os,(hg) (:)
-do(j)nec(g!ho1j) ve(j)ní(i!jo1)rent(i) ad(i!jo1!k>) lo(ji)cum,(ikj!ijvIHGhg) (,)
-u(-gji)bi(jk) pu(kjkvJH)er(j) e(ikjJs)rat:(ji) (;)
-<sp>+</sp> Vi(j)dén(jji~)tes(jk) au(jji~)tem(jk>) ea(ji)am,(i/jkhGFghhg) (,)
-ga(j)ví(j)si(gh) sunt(ggO1f) gáu(iio1j>)di(j)o(i!jwkjIHiwjIH) ma(GHivHGh)gno.(hg) (::)
-<sp>V/</sp> Et(j) in(j)trán(j)tes(j) do(ji)mum,(jkj/iji/hhO1g) in(hi~)ve(i)né(i)runt(ih~) pú(ij)e(i)rum(i) cum(i) Ma(i)rí(ji)a(ih) ma(ij)tre(hi) e(g!hwih)jus,(hg) (;)
-et(g) pro(fg)ci(g)dén(gh~)tes(g) ad(g)o(g)ra(hiHGhih)vé(ghf)runt(gh) e(h!iwji/jkjIH)um.(hiHGhg) (::)
-<sp>+</sp> Vi(j)dén(jji~)tes.(jk) (::)
+initial-style: 1;
+name: Stella quam viderunt;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Stel(f/gh>|vi-pe>hj)la(g|ta) (,) <sp>*</sp>() quam(g|ta) vi(g|ta)dé(g|ta)runt(ixg!hoi|////sa>2) Ma(ixh|////ta)gi(hg/h!iwjg/hv/ggof|cl-ql!clppt1vi-hj``prhj) (,) in(hf|cllsc3) O(g|vi)ri(hj|pe)én(j|vi)te,(kjjh/jggof|pfhhlst2clhipihj) (;) an(hf~|vi>)te(ghg|//to)ce(h|vi)dé(hjHG|toS2sut1)bat(hf/gh!iwjIH/iwjIH|cl-ql-hhppt2sut2qi-hisu2) e(gh!ivHGh|//ci-hhpp2vihh)os,(hg|cl-) (;) do(i|vi)nec(g!hoi|sa) ve(i|vi)ní(i!jo|vshe)rent(i|ta) ad(i!jo!k>|sa>) lo(ji|cl-)cum,(ikJIjvIHGhg|toS2sut1vi-sut1su2cl-) (,) u(gji|`tolse4)bi(jk|pehh) pu(kj/kvJH|cl-hhci-hh)er(j|vi) e(ikjjs|//tohhsthj)rat:(ji|cl-hh) (:)
+<sp>+</sp> Vi(j|vi)dén(jjoi~|vs>)tes(jk|pehh) au(jjoi~|vs>)tem(jk>|pe>hh) e(ji|cl-hh)am,(i/jkHGFghhg|//ta-hjtoS2hjsu2/pehjcl-hk) (;) Ga(i|vi)ví(j|vihg)si(gh|pe) sunt(ggof|pr) gáu(iiojh~|sa>)di(i|vi)o(ijwkJIH/iwjIH|//qlhh!vshhppt1sut2qi-hisu2) ma(gh!ivHGh|//ci-hhpp2vihh)gno.(hg|cl-) (::)
 
+<sp>V/</sp> Et(j|vi) in(j|vi)trán(j|vi)tes(j|vi) do(ji|cl)mum,(jkj/iji/hhog|////tohhtohiprhi) (,) in(hi~|ta>)ve(i|ta)né(i|ta)runt(ih~|vi>) Pú(ji|``pehhlsl2)e(j|tahh)rum(j|tahh) cum(j|tahh) Ma(j|tahh)rí(ji|clhhlsc3)a(ih|clhh) Ma(ij|pe)tre(hi|pe) e(g!hwih|ql!clppt1)jus,(hg|cl-) (;) et(g|vi) pro(fg|pe)ci(g|ta)dén(gh~|ta>)tes(g|ta) (,) ad(g|ta)o(g|ta)ra(ixhiHGhih|////pe-su2tohg)vé(ghf|//toM1)runt(gh|peS) e(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)um.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Vi(j|vi)dén(jjoi~|vs>)tes(jk|pehh) au(jjoi~|vs>)tem.(jk>|pe>hh) (::)

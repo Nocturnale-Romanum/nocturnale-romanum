@@ -1,8 +1,19 @@
+name:Credidit Abraham Deo V Fuit autem justus;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Cré(gvFDfg/0hg)di(fg)dit<sp>*</sp>(g) A(f)bra(hjjh)ham(jghg) De(FGhwig)o,(g) (;)
-et(f) re(g)pu(h)tá(jkJH)tum(i) est(hih) e(g)i(g) ad(gvFD) jus(ef)tí(hGFg)ti(f)am:(ffo1!gv) (;)
-<sp>+</sp> Et(gvFD) íd(f!gh)e(g)o(g) a(g)mí(gh)cus(g) De(h)i(gf) fac(h!iwjIHGhwiHG)tus(FGhvGFg) est.(gf) (::)
-<sp>V/</sp> Fu(ji)it(jkj/iji/hhO1!g) au(hi~)tem(i) jus(i)tus(ih) co(ij)ram(hi) Dó(g)mi(g!hwih)no,(hg) (;)
-et(g) am(fg~)bu(g)lá(gh)vit(g) in(hiHGhih) vi(ghf)is(gh) e(h!iwji/jkjIH)jus.(hiHGhg)  (::)
-<sp>+</sp> Et.(gvFD) (::)
+initial-style: 1;
+name: Credidit Abraham Deo;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Cré(gvgvFD/ewf/ghg|vi-hg`vi-su1sut1ql-toShi)di(fg|pe)dit(g|vi) (`) <sp>*</sp> A(f|ta)bra(g|vi)ham(hjh/jjg/hg|////tolsc2prM/clhhlsc3) De(ixfg!hig|////clhipp3lsc3)o,(g|ta) (;) et(f|gr) re(g|vihe)pu(h|vi)tá(ixjkJH/ig/hg|////peShisu2pfhilsc2)tum(fg|pe) est(g|ta) e(h|vihh)i(gf|cllsc3) ad(h|vi) jus(iyh!iwjIHG|//////ql!vsppt1su2)tí(hg|cllsc3)ti(ixfg!hig|////clhipp3lsc3)am:(g|ta) (:)
+<sp>+</sp> Et(gvgvFD|vi-lse4`vi-su2) í(fe|cllsc3)de(fg|pe)o(g|ta) a(g|``talse4)mí(gh|pe)cus(g|ta) De(h|vi)i(gf|cllsc3) ap(h|vi)pel(h!iwjIG/hg//fggo|ql-hhppt1su1sut1/clhglsc3pthg|f!goh//jkJH|sa-1pe-1hksut2lsl4|jg/hg|pflsc2)lá(fg|pe)tus(g!hwihi|ql!poppt1) est.(hg|cl-) (::)
+
+<sp>V/</sp> Fu(ji|clhhlsc3)it(jkj/iji/hhog|//tohhtohiprhi) au(hi|pe)tem(i|ta) jus(i|ta)tus(ih|cllsc3) co(ij|pe)ram(hi|pe) Dó(g|ta)mi(g!hwih|ql!cl-ppt1)no,(hg|cl-) (;) et(g|vi) am(fg|pe)bu(g|vi)lá(gh|pe)vit(g|vi) in(ixhiHGhih|////pe-su2tohg) vi(ghf|//toM1hh)is(gh|peS) e(iyh!iwji/jkJIH|//////qlhi!clhitoS2hmsu2)jus.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Et(gvgvFD|vi-lse7```vi-hgsu2) í(fe|cllsc3)de(fg|pe)o.(g|ta) (::)

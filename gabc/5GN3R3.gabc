@@ -1,15 +1,23 @@
+name:Caecus sedebat V Stans autem Jesus V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Cæ(g)cus(g) se(g)dé(g)bat(gf~) se(g)cus(h) vi(ji!jwkjk)am,(kj) (;)
-trans(j)e(klk)ún(jij>)te(jh!iwjIH) Dó(g)mi(GHivHGh)no,(ggO1f) (:)
-et(f) ex(f)la(h!iwj)má(jijvIHi!jo1)vit(i) ad(i!jwkjIHiwjIH) e(GHivHGh)um:(hg) (;)
-a(jij)it(jh) e(jkj)i(jk) Dó(kijo0k)mi(h!iwjiHGh)nus:(hg) (:)
-<sp>+</sp> Quid(f) vis(hih) ut(hg~) fá(h)ci(j)am(jijvIHG) ti(hghvGFg)bi(gf)? (;)
-<v>\ddag</v> Rab(f)bó(h!iwj)ni,(ji/jkhGFg) ut(g!hwjij) ví(j)de(g)am(h!iwji/jkj) lu(hvGFgwh!ivvHGh)men.(hg) (::)
-Stans(j) au(j)tem(j) Je(ji)sus,(jkj/iji/hhO1g) jus(hi)sit(i) il(i)lum(ih~) du(ij)ci(hi) ad(g!hwih) se,(hg) (;)
-et(g) cum(fg~) ap(g)pro(g)pin(g)quás(gh)set,(g)  (,)
-in(g)ter(g)ro(g)gá(g)vit(hiHGhih) e(ghf)um,(gh) di(h!iwji/jkjIH)cens.(hiHGhg)  (::)
-<sp>+</sp> Quid.(f) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hVg)  (::) 
-<v>\ddag</v> Rab(f)bó(h!iwj)ni.(ji/jkhGFg) (::) 
+initial-style: 1;
+name: Caecus sedebat secus viam;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Cæ(g|ta)cus(g|ta) se(g|ta)dé(g|ta)bat(hf~|vi>lsal3) <sp>*</sp> se(h|vi)cus(j|vihg) vi(ji!jwkjk|//cl-hiqihj!pohj)am,(kj|cl-hi) (,) tran(j|ta)se(klk|//tohllss2)ún(jijh~|po>lsi4)te(jh!iwjIH|cl-hhql-hisu2) Dó(g|ta)mi(gh!ivHGh|//ci-hhpp2vihh)no,(ggof|pr) (;) et(f|ta) ex(g|vi)cla(h!iwj|```vi-hgqlhj)má(ji/jvIHi!jo|////cl-hhci-hivshh)vit(i|ta) ad(i!jwkJIH/iwjIH|qlhi!vshippt1sut2qi-hksu2) e(gh!ivHGh|//ci-hhpp2vihh)um.(hg|cl-) (:) A(jkj|/tohilsl1)it(jh|cllsc3) il(jkj|//tohi)li(jk|pehi) Dó(ki/jok|//clhipqhj)mi(h!iwjIHGh|////qlhh!vshhppt1su2vihi)nus:(hg|cl-) (;)
+<sp>+</sp> Quid(f|talsi8) vis(ixhih|//////to) ut(hg~|vi>) fá(iyi|////vihh)ci(j|vihh)am(ji/jvIHG|cl-hhvi-hhsuu1su2) ti(hg/hvGFg|cl-ci-hgvihg)bi?(gf|cl-) (:)
+<sp>‡</sp> Rab(f|ta)bó(h!iwj|```vi-qlhj)ni,(ji/jkHGFg|////clhktoS2hmsu2vihk) (`) ut(g!hwihi|``ql!poppt1lse4) ví(j|vi)de(g|ta)am(h!iwji/jkj|viqlhj!clhjtohm) lu(ixhvGF/gwh/ivHGh|//////vi-sut2qi-hgci-hmvihm)men.(hg|cl-) (::)
+
+<sp>V/</sp> Stans(j|tahh) au(ji|clhhlsc3)tem(jkj/iji/hhog|////tohitohjprhj) Je(hi|pe)sus,(i|ta) (,) jus(i|ta)sit(ih|cllsc3) il(jk|``pehilsl4)lum(ji|cllsc3) ad(ih|cllsc3)dú(ij|pe)ci(hi|pe) ad(g!hwih|ql!cl-ppt1) se,(hg|cl-) (;) et(g|vi) cum(fg|pe) ap(g|ta)pro(g|ta)pin(g|ta)quás(gh|pe)set,(g|ta) (,) in(g|ta)ter(g|ta)ro(g|ta)gá(g|ta)vit(ixhiHGhih|//////pe-su2tohg) e(ghf|//toM1hh)um,(gh|peS) di(h!iwji/jkJIH|//ql!clppt1toS2hmsu2)cens.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Quid(f|talsi8) vis.(ixhih|//////to) (::)
+
+<sp>V/</sp> Gló(j|tahh)ri(ji|clhhlsc3)a(jkj/iji/hhog|////tohitohjprhj) Pa(ih|clhhlsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|vi) Spi(g|vi)rí(ixhiHG/hih|//////pe-su2tohg)tu(ghf|//toM1hh)i(gh|peS) Sanc(iyh!iwji/jkJIH|//////qlhh!clhhppt1toS2hpsu2)to.(hiHGhg|//pe-1su2cl-) (::)
+<sp>‡</sp> Rab(f|ta)bó(h!iwj|```vi-qlhj)ni.(ji/jkHGFg|////clhitoS2hmsu2vihk) (::)

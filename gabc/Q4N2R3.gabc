@@ -1,13 +1,22 @@
+name:Moyses famulus Domini V Ascendens V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Mo(d)y(d)ses(fo0@gv) fá(hvjij)mu(h)lus <sp>*</sp>(hfh) Dó(hig)mi(gf@gwhgh)ni(hg) (;)
-je(-gji)ju(j)ná(klKJjkj)vit(j) qua(h)dra(j)gín(k>)ta(j) di(j)é(h@iwjiHGh)bus(hg) (:)
-et(d) qua(h)dra(hj)gín(jsjsjs<)ta(h/jkJIj) nó(h)cti(hih)bus:(h) (;)
-<sp>+</sp> ut(i@jk~) le(ki/jkh/ihg~)gem(hg) Dó(hjgh)mi(e!fg)ni(gffO1ED) (,)
-me(d)re(ef)ré(ghGF)tur(ghgh) ac(hvjvjvIHiwjIH)cí(g)pe(GHivHGh)re.(hg) (::)
-<sp>V/</sp> A(j)scén(ji~)dens(jkj/iji/hhO1g) Mó(hi)y(i)ses(i) in(i) mon(ij~)tem(i) Sí(i)na(ih)i(ij) ad(hi) Dó(g)mi(g@hwih)num,(hg) (;)
-fu(g)it(fg) i(g)bi(g) qua(g)dra(g)gín(g)ta(g) di(gh)é(g)bus(g) (,) et(g) qua(g)dra(g)gín(hiHGhih~)ta(ghf) nó(gh)cti(h@iwji/jkjIH)bus.(hiHGhg) (::)
-<sp>+</sp> Ut.(i@jk~) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hVg) (::)
-<sp>+</sp> Ut.(i@jk~) (::)
+initial-style: 1;
+name: Moyses famulus Domini;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Mó(d|ta)y(d|ta)ses(fog|pq) <sp>*</sp> fá(h/jij|vi-pohj)mu(h|ta)lus(hfh|po) Dó(hjg|toSlss2)mi(gf!gwhgh|cl-`qihg!pohg)ni(hg|cl-) (;) je(gji|//to)ju(j|vi)ná(klKJjkj|//pe-1hnsut2toShn)vit(j|vi) qua(i|ta)dra(j|vi)gín(k>|vi>)ta(i|ta) di(j|vi)é(h!iwjIHGh|ql!vsppt1su2vi)bus(hg|cl) (,) et(f|talsi8) qua(g|vi)dra(hj|pe)gín(jsss|//ts>hi)ta(h/jkJIj|ta-hi/pehisu2vihi) nóc(h|ta)ti(hih|toS)bus,(h|ta) (:)
+<sp>+</sp> Ut(i/jk~|vi-hhlsal2ta>hj) le(ki/jkh/ivH~G~|clM-hjtoS2hicl->hj)gem(hg|cl-) Dó(ixh/igh|//////tr)mi(ffg|ta-/pe)ni(gffoED|cl-pisu1) (,) me(d|ta)re(ef|peS)ré(ghGF|pe-1su2)tur(ghgh|//tr) ac(ixh/jvjvIH/iwjIH|////vi-bv-hksut2ql-hlsu2)cí(g|ta)pe(ixgh!ivHGh|//////ci-hhpp2vihh)re.(hg|cl-) (::)
+
+<sp>V/</sp> A(j|ta)scén(iyji~|////vi>)dens(jkj/iji/hhog|//tohhtohiprhi) Mó(hi|pe)y(i|vi)ses(i|vi) in(ih|cl) mon(jk|pehi)tem(j|ta) Sí(ji|clhhlsc3)na(ih|clhhlsc3)i(ij|pe) ad(hi|pe) Dó(g|ta)mi(g!hwih|ql!cl-ppt1)num,(hg|cl-) (;) fu(g|vi)it(fg|pe) i(g|ta)bi(g|ta) qua(g|ta)dra(g|ta)gín(g|ta)ta(g|ta) di(g|ta)é(gh|pe)bus(g|ta) (,) et(g|ta) qua(g|ta)dra(g|ta)gín(ixhiHGhih|//////pe-su2tohg)ta(ghf|toM1hh) nóc(gh|peS)ti(h!iwji/jkJIH|ql!clppt1toS2hmsu2)bus.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Ut(i/jk~|vi-hhlsal2ta>hj) le(ki/jkh/ivH~G~|clM-hjtoS2hicl->hj)gem(hg|cl-) (::)
+
+<sp>V/</sp> Gló(j|ta)ri(ji|clhhlsc3)a(jkj/iji/hhog|tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|//////pe-1su2tohg)tu(ghf|toM1hh)i(gh|peS) Sanc(iyh!iwji/jkJIH|ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::) 
+<sp>+</sp> Ut(i/jk~|vi-hhlsal2ta>hj) le(ki/jkh/ivH~G~|clM-hjtoS2hicl->hj)gem(hg|cl-) (::)

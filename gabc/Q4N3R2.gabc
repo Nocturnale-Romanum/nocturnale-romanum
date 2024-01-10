@@ -1,13 +1,19 @@
+name:Ecce mitto Angelum meum V Israel si me audieris;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Ec(d)ce(fd) mit(e@fo1)to <sp>*</sp>(e) An(fssfs<)ge(dc)lum(d!ewf) me(fe)um,(fgf@efvEDed) (;)
-qui(-dfe) præ(f)cé(g)dat(fd~)te,(e/fgfg) et(g) cu(g)stó(g)di(fd)at(ewf) sem(fg~)per:(e) (:) 
-<sp>+</sp> Ob(e)sér(gh~)va(h) et(hg) au(h/igh>)di(hggo~efe) vo(EFgwh)cem(g>) me(egffs)am,(eeo1@fd) (;)
-et(c) in(dffo~)i(e)mí(e@fo1)cus(e) e(e@fo1)ro(e) in(fsss)i(fd)mí(fgf)cis(gh) tu(h@iwjiHGh)is,(hg) (:)
-et(e) af(e)fli(f)gén(g>)tes(f) te(fe) af(d)flí(d!ewfEDewfef)gam:(fe) (;) 
-et(ed~) præ(f)cé(g)det(fd~)te(e/fgfg) An(gh~)ge(fd)lus(ewf) me(egffs)us.(fe) (::)
-<sp>V/</sp> Is(h)ra(h)ël,(hiHGhffO1e) si(dgf) me(g) au(g!h>)dí(gh)e(gf)ris,(gh) non(fd) e(f)rit(ed) in(e!f>) te(f) de(gh)us(gf) re(ef)cens,(eeO1d) (;)
-ne(d)que(dfe) ad(gh)o(gf)rá(gh)bis(g) de(dgf)um(g) a(gh)li(gf)é(e@fwgf)num:(fe) (;)
-e(f)go(de) e(e!fwgFE)nim(g) Dó(ghghvGF)mi(EFgef)nus.(ed) (::)
-<sp>+</sp> Ob(e)sér(gh~)va.(h) (::)
+initial-style: 1;
+name: Ecce mitto angelum meum;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp. ;
+annotation: iv;
+nabc-lines:1;
+%%
+(c4) Ec(d|ta)ce(fe|cl) mit(e!fo|vs)to(e|ta) <sp>*</sp> An(fssfs>|//ts>)ge(dc|cl)lum(d!ewf|vi-qlhi) me(fe|cl-)um,(egFEfvEDed|///toS2sut1ci-cl-) (,) qui(dfe|//to) præ(f|vi)cé(g|vihh)dat(fd~|vi>) te(e/fgfg|vi-trhi) et(g|vi) cus(g|vihg)tó(g|vihg)di(fd|cl)at(ewf|ql) sem(fg~|ta>)per.(e|ta) (:)
+<sp>+</sp> Ob(e|``talse4)sér(gh~|ta>lsal3)va(h|vi) et(hg|cl) au(ixh/igh>|//////vi-po>lsi6)di(hggo/efe|clorhgtohh) vo(ef!gwh|```qlhhppt2)cem(hg~|vi>) me(egffs|///tosthh)am(eeo!fe|//sa!cl-) (,) et(c|ta) i(de/fo|pe-orhi)ni(e|ta)mí(e!fo|vslsc3)cus(e|ta) e(e!fo|vslsc3)ro(e|ta) i(fsss|//ts)ni(fd|cl)mí(dfe|//to)cis(fh|peS) tu(h!iwjIHGh|ql!vsppt1su2vi)is(hg|cl-) (,) et(e|ta) af(e|ta)fli(f|vi)gén(g>|vi>)tes(f|ta) te(fe|cl) af(d|ta)flí(d!ewf/gvFE/fwgfg|ql-ppt1vi-hnsut2qihn!pohn)gam,(gf|cl-) (;) Et(f>|``vi>lse4) præ(f|vi)cé(g|//vihg)det(fd~|vi>hg) te(e/fgfg|ta-/trhg) An(gh~|ta>lsal3)ge(fd|cl)lus(ewf|ql) me(egffs|//tosthh)us.(fe|cl-) (::)
 
+<sp>V/</sp> Is(h|vi)ra(h|vi)ël,(hjHGhffoe|pe-1hhsut2cl-hh`pihilst2) si(dgf|tolsi7) me(g|vi) au(gh>|pe>)dí(gh|pe)e(gf|cl)ris,(fg|pe) (`) non(fd|clMhhlsc3) e(e|vi)rit(fd|cllsc3) in(dfe~|pe>) te(f|vi) De(gh|pe)us(g|cl) re(ef|peS)cens,(eeod|pr) (;) ne(f|vi)que(ghg|//to) ad(gh|pe)o(gf|cl)rá(fg|pe)bis(g|vi) de(dfe|tolsi7)um(f|vi) a(gh|pe)li(gf|cl)é(e!fwgf|ql!cl-ppt1)num,(fe|cl-) (;) e(f|vi)go(de|pe) e(e!fwgFE|ql-ppt1su2)nim(g|vi) Dó(ghghGF|//toci-)mi(e!fgffs|popp2)nus.(ed|cl-) (::)
+<sp>+</sp> Ob(e|ta)sér(gh~|ta>lsal3)va(h|vi) et(hg|cl) au(ixh/igh>|//////vi-po>lsi6)di.(hggo/efe|clorhgtohh) (::)

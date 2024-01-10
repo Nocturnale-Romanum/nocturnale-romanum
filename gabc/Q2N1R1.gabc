@@ -1,10 +1,19 @@
+name:Tolle arma tua V Cumque venatu;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Tol(EFgwhGFg>)le<sp>*</sp>(fe) ar(-ehg~)ma(h) tu(ih@iwjij)a,(ji) (;)
-phá(i)re(iihi)tram(f!gwh) et(g@hwihGFgwhGF) ar(EFgvFEf)cum,(fe) (:)
-et(h) af(e!fwg@ho~)fer(g) de(g) ve(g)na(g)ti(g)ó(g)ne(g@ho1!iv) tu(hg)a,(gih@ghvGFEfe) (,)
-ut(ivh@io1@jv) có(ji/jhi)me(ivFHivHGh)dam:(hg) (;)
-<sp>+</sp> Et(g) be(g)ne(hi)dí(iiO1g)cat(i) ti(ihhvGE)bi(fefshs@hsih/hg) á(h)ni(f!gwh)ma(g@hwihGFgwhGF) me(EFgvFEf)a.(fe)  (::)
-<sp>V/</sp> Cum(i!jwkJis<)que(hi/hhO1g) ve(h)ná(hi)tu(h) á(h)li(ig)quid(hi) at(hi)tú()ile(i@jwkj)ris,(ji) (;)
-fac(hi/hhO1g) mi(hih)hi(i) in(ij~)de(i) pul(i)mén(i)tum,(ijijvIH) ut(hg~) có(h@iwji/jkj)me(ih@iwjij)dam.(ivHGhg) (::)
-<sp>+</sp> Et.(g) (::)
+initial-style: 1;
+name: Tolle arma tua;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Tol(ef!gwhGFg>|ql-hhppt2su2vi>)le(fe|cl-) <sp>*</sp> ar(ehg~|pe>)ma(h|vi) tu(ih!iwjij|cl-`qlhg!pohg)a,(ji|cl-hh) (;) phá(i|ta)re(iihi|ta-po)tram(f!gwh|qlppt1) et(g!hwiHGF/gwhGF|////qlhh!vshhppt1sut2qi-hisu2) ar(ef!gvFEf|//ci-hhpp2vihh)cum,(fe|cl-) (:) et(g|vi) af(e!fwg/ho|qlppt1orhk)fer(g|ta) de(g|ta) ve(g|ta)na(g|ta)ti(g|ta)ó(g|ta)ne(g!hoi|sa) tu(hg|cl-)a(giHGhvGFEfe|////toS2sut1vi-suu1su2cl-hh) (,) ut(ivh!ioj|vi-sa) cóm(ji/jhi|//clpohg)e(iv/fh!ivHGh|vi-ci-hhpp2vihh)dam,(hg|cl-) (;)
+<sp>+</sp> Et(g|ta) be(g|ta)ne(hi|pe)dí(iiog|pr)cat(i|vi) ti(ihhvGE|//clSci)bi(fefshssihhhg|////cltsMclShjcl-hk) (,) á(h|vi)ni(f!gwh|qlppt1)ma(g!hwiHGF/gwhGF|ql!vsppt1sut2qi-hhsu2) me(ef!gvFEf|//ci-hhpp2vihh)a.(fe|cl-) (::)
+
+<sp>V/</sp> Cum(i!jwkJ!Is>|ql-hjppt1su1sux1)que(hi/hhog|peS``pr) ve(h|ta)ná(hi|pe)tu(h|ta) á(h|ta)li(ig|cl)quid(hi|pe) at(hi|pe)tú(i|vi)le(i!jwkj|qlhh!cl-hhppt1)ris,(ji|cl-) (;) fac(hi/hhog|peS``pr) mi(hih|//to)hi(i|vi) in(ij~|ta>)de(i|ta) pul(i|ta)mén(i|ta)tum(ijijIH|//tr-1su2) ut(ih~|vi>) cóm(h!iwji/jkj|//ql!clppt1tohl)e(ih!iwjij|//cl-``qlhg!pohg)dam.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Et(g|ta) be(g|ta)ne(hi|pe)dí(iiog|pr)cat.(i|vi) (::)

@@ -1,11 +1,19 @@
+name:Statuit Dominus supra V Exaudivit preces;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Stá(ixdh!iv)tu(h)it<sp>*</sp>(h) Dó(hjh/io0!jv)mi(g)nus(gf/ghg) (;) su(f)pra(g) pe(g/hjh)tram(ghg) pe(f/gffe)des(cd) me(DEfvEDe)os,(ed) (:)
-et(d) di(d)ré(fgh)xit(g) gres(g)sus(g) me(gfg)os(fg/ffO1d) (,)
-De(fgFE)us(f!go1!hv) me(hvGFEfwgfg)us:(gf) (;)
-<sp>+</sp> Et(f) in(gh~)mí(hjh/io0!jv)sit(ih) in(g/hgh) os(fg/ffO1d) me(fvv)um(dfddc) (,)
-cán(fgFED)ti(f!go1!hv)cum(hg/hfgvFE) no(d!ewfef)vum.(ed) (::)
-<sp>V/</sp> Ex(h)au(h)dí(h)vit(hg/hggO1f) pre(gh)ces(gh) me(ixh/iiO1h)as:(h) (;)
-et(gf) e(gh)dú(h)xit(h) me(h) de(h) la(h)cu(hg/hg) mi(gf)sé(ixf!gwhg/hih)ri(hvGFEfwg!hv)æ.(gf) (::)
-<sp>+</sp> Et.(f) (::)
+initial-style: 1;
+name: Statuit Dominus supra;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) STá(ixdh/iv|////scG1)tu(h|vi)it(h|vi) <sp>*</sp> Dó(ixhjhioj|////topqhg)mi(g|ta)nus(gf/ghg|cltohg) (,) su(f|ta)pra(g|vi) pe(g/hjh|vi-hgtohklss3)tram(ghg|//to) pe(f/gffe|ta-clcllsm2)des(cd|pe) me(de!fvEDe|//ci-hhpp2vihh)os,(ed|cl-) (;) et(d|ta) di(d|ta)ré(f/gh|scM1)xit(g|ta) gres(g|ta)sus(g|ta) me(gfg|po)os,(fg/ffod|peS``pr) (,) De(fgFE|pe-1su2)us(f!goh|sa) me(hvGFE/fwgfg|vi-suu3qlhg!pohg)us :(gf|cl-) (:)
+<sp>+</sp> Et(f|ta) im(gh~|ta>)mí(ixhjhioj|////tolss2pqhg)sit(ih|cl-) in(g/hfg|ta-pohh) os(fg/ffod|pe-1`pr-) me(fvfv|bv-)um(dfddc|toS2cl-) (,) cán(fgF!Es>|pe-1sut1sux1)ti(f!goh|sa)cum(hg/hf/gvF!Es>|clclvi-sut1sux1) no(d!ewfef|ql!poppt1)vum.(ed|cl-) (::)
 
+<sp>V/</sp> Ex(h|vi)au(h|vi)dí(h|vi)vit(hg/hggof|pflsc2``pihg) pre(gh|pe)ces(gh|pe) me(ixh/iioh|////ta-pr)as:(h|ta) (;) et(hf|cllsc3) e(gh|pe)dú(ixhi|////pe)xit(h|ta) me(h|ta) de(h|ta) la(h|ta)cu(hg/hg|pflsc2) mi(hf|cllsc3)sé(ixf!gwhg/hih|//////ql!clppt1tohm)ri(hvGFE/fwg/hv|vi-su1sut2ql-vihk)æ.(gf|cl-) (::)
+<sp>+</sp> Et(f|ta) im(gh~|ta>)mí(ixhjhioj|////tolss2pqhg)sit.(ih|cl-) (::)

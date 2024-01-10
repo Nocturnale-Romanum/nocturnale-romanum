@@ -1,14 +1,19 @@
+name:Veni hodie ad fontem V Igitur puella;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(f3) Ve(f)ni<sp>*</sp>(e) hó(f!gwh!ivHGFgf)di(f!gwhg)e(feeo~) ad(d!ewfef!gv) fon(f>)tem(fvEDCdweDCs<) a(b!cwdcd)quæ,(cb) (;)
-et(dc) o(d)rá(fg)vi(ed) Dó(e)mi(d)num,(cb>) di(BCdvCBc)cens:(cb) (:)
-<sp>+</sp> Dó(f!gwhhvGFgo~)mi(e)ne,(f) De(h!io1!jv)us(i) A(ih)bra(hvGF)ham,(EFGhwi/ji) (;)
-tu(FGhv) pró(i)spe(hg)rum(f) fe(f)cís(ed)ti(DEfvEDCdvCBcb) (,)
-de(dc)si(d)dé(e)ri(d)um(ec/ddCs) me(BCdvCBc)um.(cb) (::)
-<sp>V/</sp> I(f!gwhGF)gi(ed)tur(ef/eed~) pu(e)él(ef~)la,(e) cu(e)i(e) di(ef)xe(e)ro,(e) (,)
-Da(e) mi(e)hi(e) a(ef)quam(e) de(e) hý(ef)dri(e)a(e) tu(fd)a,(ef) ut(ef~) bi(ggO1f)bam:(EFgvFEf) (;)
-et(e) il(e!f>)la(f) dí(ef)xe(e)rit,(e) Bi(e)be,(ef) dó(ef)mi(fe)ne,(ggO1f) (,)
-et(ef~) ca(e)mé(ef)lis(e) tu(ef)is(e) po(e!fwg)tum(hg~) trí(f)bu(f!gwhg)am:(gf) (;)
-ip(ef/eeO1!d)sa(efe) est,(f) quam(f) præ(f)pa(f)rá(f)vit(f) Dó(fg)mi(f)nus()f fí(fg)li(f)o(f) dó(fgfgvFE)mi(ed)ni(e!fwgf/ghg) me(fe!fwgfg)i.(fvEDed) (::)
-<sp>+</sp> Dó(f!gwhhvGFgo~)mi(e)ne.(f) (::)
+initial-style: 1;
+name: Veni hodie ad fontem aquae;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c2) Ve(g|vilsc3)ni(f|ta) hó(g!hwi/jvIHGhg|vi-hdqlhgvi-hlsuu1su2cl-hi)di(f!gwig|ql!cl-ppt1)e(gffo|cl-orhg) (`) <sp>*</sp> ad(exhxe!fwgfg/hv|////////ql!poppt1vihl) fon(g>|vi>)tem(exgvFED/EwfE!Ds>|//////vihhsut3ql-hgsu1sux1) a(exc!dwede|//////ql!poppt1)quæ,(dc|cl-) (;) et(exed|cllsc3) o(e|vi)rá(hxgh|peSlsal3)vi(fd|cl-) Dó(f|vihh)mi(exe|vi)num(dc>|cl->) di(exbc!dv/evDCd|//////vi-pp2ci-hkvihk)cens:(dc|cl-) (:)
+<sp>+</sp> Dó(g!hwiivHGgo|vi-lsl2ql-hkci-hnorhn)mi(f|ta)ne(g|vi) De(i!jok|saM4)us(j|vi) A(jiivHG|clSci-)braham,(f!gi!jwkkj|qlhjppt3cl-hk) (,) tu(hi!jv|scS) prós(j|vi)pe(ih|cllsc3)rum(g|ta) fe(g|ta)cís(gf|cl-)ti(fg!hvGFEfvEDed|vihhpp2su1suu2ci-hhcl-hh) (,) de(fe|cllsc3)si(f|vi)dé(g|vihh)ri(f|ta)um(gffoe>|cllsc2pi>hhlst2) me(de!fvEDe|//ci-hhpp2vihh)um.(ed|cl-) (::)
 
+<sp>V/</sp> I(g!hwiHG|ql-ppt1su2)gi(fe|cl)tur(fg/ffoe~|peS``vs>) pu(f|ta)él(fg~|ta>)la(f|ta) cu(f|ta)i(f|ta) dí(fg|pe)xe(f|ta)ro:(f|ta) (;) Da(f|ta) mi(f|ta)hi(f|ta) a(fg|pe)quam(f|ta) de(f|ta) hý(fg|pe)dri(f|ta)a(f|ta) tu(ge|cllsc3)a(fg|pe) ut(fg~|ta>) bi(ggoe|prlsc3)bam;(f/gvFEf|vi-ciShklsc3``vi-hj) (;) et(c|talsi8) il(cfe~|pe>)la(f|vi) dí(gh|pe)xe(g|ta)rit:(g|ta) (,) Bi(g|ta)be(hwi|ql) dó(ij|pe)mi(ih|cllsc3)ne,(ggof|pr) (,) et(fg~|ta>) ca(f|ta)mé(fg|pe)lis(f|ta) tu(fg|pe)is(f|ta) po(g!hwi|qlppt1)tum(ih~|vi>) trí(g|ta)bu(g!hwih|ql!cl-ppt1)am;(hg|cl-) (;) ip(fg/ffoe|peS``pr)sa(fgf|//to) est(g|vi) e(gh|pe)nim(g|ta) quam(g|ta) præ(g|ta)pa(g|ta)rá(g|ta)vit(gh|ta) Dó(g|pe)mi(g|ta)nus(g|ta) fí(gh|pe)li(g|ta)o(g|ta) Dó(ghghGF|//toci-hh)mi(gf|cllsc3)ni(f!gwhg/hih|//ql!clppt1tohl) me(gf!gwhgh|cl-qihg!pohg)i.(gvFEfe|ci-cl-) (::)
+<sp>+</sp> Dó(g!hwiivHGgo|vi-lsl2ql-hkci-hnorhn)mi(f|ta)ne(g|vi) De(i!jok|saM4)us.(j|vi) (::) 

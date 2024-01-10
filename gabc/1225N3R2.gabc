@@ -1,13 +1,21 @@
+name:Verbum caro factum est V Omnia per ipsum;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  Ver(dgf!gh~)bum<sp>*</sp>(g) ca(g)ro(f!go0!hv) fac(h)tum(gh~) est,(hg/h!iwjg/h/ggO1f) (;)
-et(hf) ha(ghg)bi(h)tá(h!iwjIH)bit(g) in(hfGHiwjIHiwjIH) no(GHivHGh)bis:(hg) (:)
-<sp>+</sp> Cu(g)jus(jvv) gló(jk)ri(jh!iwji)am(hg~) vi(-ghg)di(fg)mus,(gvevfvDCdgf!efvED) qua(dc)si(d) U(dg)ni(fg)gé(g)ni(ghg)ti(g) a(g) Pa(GHivhjg)tre,(g) (;)
-ple(g)num(ge~) grá(f!go1!hv)ti(fe)a(dfc/d@ewfefvED) (,) et(dgf</[-1]g~) ve(GHio0!jvv)ri(ijIHiwjIH)tá(g!ho1!iv)te.(hggvFEfgd/eV!decCEfo1!gvghfo1!go1gvFEfgd/eV!dec) (,) (CEfo1!gvfo1!go1GIjo1!kvJHhO1ghvjlk!jjO1g/jggvFEDfgd/eV!decCEfo1!gvhi/hhO1g) (::)
-O(j)mni(ji)a(jkj/iji/hhO1g) per(ih) i(ij)psum(hi) fac(g)ta(g!hwih) sunt,(hg) (;)
-et(g) si(fg)ne(g) i(gh)pso(g) fa(hiHGhih)ctum(ghf) est(gh) ni(h!iwji/jkjIH)hil.(hiHGhg) (::)
-<sp>+</sp> Cu(g)jus.(jvv) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Cu(g)jus.(jvv) (::)
+initial-style: 1;
+name: Verbum caro;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Ver(dgfg~|tr-~1lsl2)bum(g|vi) *() ca(g|vi)ro(ixg!hoi|////vi-pqhilss3) fac(h|vi)tum(h<|ta>) est,(ixhg/h!iwjg/hv/ggof|////cl-ql!cl-ppt1vi-`pr) (;) et(hf|cllsc3) ha(ghg|//to)bi(h|vi)tá(h!iwjIH|vi-ql-hisu2)bit(g|ta) in(hf/gh!iwjIH/iwjI!Hs>|cl-ql-hhppt2sut2qi-hisu1sux1) no(gh!ivHGh|//ci-pp2vihg)bis:(hg|cl-) †(:) Cu(g|talsc3)jus(jvjv|bv-lsl2) gló(jk|``peShilss3)ri(ih!iwji|``cl-lsi1ql!cllsc3)am(h>|vi>) ví(ghg|//to)di(fg|pe)mus,(gvfvfvDCdgFEfvED|vi-hg//bv-sut2/toS2sut1ci-) qua(dc|``cl-lse4)si(d|vi) U(dg|pelsl3)ni(fg|pe)gé(g|vi)ni(ghg|//toS)ti(g|talse9) a(g|ta) Pa(gh!ivhig|sc-tohj)tre,(g|vi) (;) ple(g|``vilse4)num(ge~|vi>) grá(f!goh|``salsc1)ti(fe|``cllsi2lsc3)a(dec/d!ewfe/fvED|to-1/qlhg!clhgppt1ci-hi) (,) et(ghgh|tr-~1) ve(fhoj/jv|sa-`vi-hh)ri(jkjih!iwjIHi|toShhcl-hjqi-hksu2vihk)tá(g!hoi|sa1)te.(hggvgvFEfgc`|cl-//vi-cilsc3to-|ce!fog!ixhi/fggo,|sa-pp1lse4`pe-lss3``ptlsi7lsx3|gvFEfgd/edec`|cilsc3to-pf-|ce!fog!ixhi/fggo,|`````sa-pp1lse4`pe-lss3``ptlsi7lsx6|g!i!klJHhog/hvjlKI,|``pe-1hnppt2sut2lse7lsl4pihnlsc3vi-hntoS2hnsut1lss3lsx9|g!i!klJHhog/hvjlKI,|``pe-1hnppt2sut2lse7pihnlsc3vi-hntoS2hnsut1lss3lsx9|iiogiggvFEfgd/edec`|/////prMclM-cilsc3to-pf-|ce!fog!ixhi/hhog|sa-pp1lse4pe-1hh`prhh) (::)
 
+<sp>V/</sp> Om(j|vi)ni(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) per(ih|cllsc3) ip(ij|pe)sum(hi|pe) fac(g|ta)ta(g!hwih|ql!cl-ppt1) sunt,(hg|cl-) (;) et(g|vi) si(fg|pe)ne(g|vi) ip(gh|pe)so(g|ta) fac(ixhiHGhih|////pe-su2tohg)tum(ghf|//to) est(gh|peS) ni(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)hil.(hiHGhg|pe-1su2cl-hg) (::)
+†() Cu(g|talsc3)jus(jvjv|bv-lsl2) (::)
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|//to)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-hg) (::) 
+†() Cu(g|talsc3)jus(jvjv|bv-lsl2) (::)

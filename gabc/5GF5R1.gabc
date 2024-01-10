@@ -1,13 +1,19 @@
+name:Domine puer meus V Domine non sum dignus;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Do(fef)mi(dc)ne,<sp>*</sp>(c) pu(f)er(ghg>) me(h!iwj/kjkJH)us(h) 
-   ja(f)cet(ghg~) pa(h)ra(gf)lý(g)ti(fe)cus(f) in(g>) do(fe)mo,(dc) (,)
-et(d!ewf) ma(gh)le(fe) tor(cd)qué(d!ewfef)tur:(ed) (:)
-<sp>+</sp> A(CDewf!gh)men(g) di(hg)co(fe) ti(DEfvEDe)bi,(ed) (;)
-e(f)go(gh) vé(h!iwj!kJH)ni(ih)am,(i) et(hg~) cu(e)rá(gh)bo(fe) e(d!ewfef)um.(ed) (:)
-<sp>V/</sp> Do(h)mi(h)ne(hg/0hggO1f) non(g) sum(g) di(gh)gnus(g) ut(g) in(fg>)tres(g) sub(hf) 
-  tec(gh)tum(gh) me(ixhiih)um:(h) (;)
-sed(gf~) tan(gh)tum(h) dic(h) ver(ixhi)bo,(h) et(h) sa(h)ná(ixhi)bi(h)tur(hg/0hg) pu(gf)er(ixf!gwhg/hih) 
- me(hvGFEfwg!hv)us.(gf) (::)
-<sp>+</sp> A(CDewf!gh)men.(g) (::)
+initial-style: 1;
+name: Domine puer meus;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) Dó(fef|po)mi(dc|cllsc3)ne,(c|ta) <sp>*</sp> pu(f|ta)er(gh|pe) me(h@j@kjkJH|//pohjpp2su2)us(h|vi) (,) ja(f|ta)cet(gh|pe) pa(h|vi)ra(gf|cllsc3)ly(g|vi)ti(fd|cllsc3)cus(e|vi) in(f|vihh) do(de|peS)mo,(ddoc|pr) (`) et(e/fg~|ta-/ta>) ma(gh|``pelsl4)le(fe|cllsc3) tor(cd|pe)qué(d!ewfef|ql!poppt1)tur:(ed|cl-) (:)
+<sp>+</sp> A(cd!ewf|``qlhhppt2)men(f|ta) di(fe|cllsc3)co(d|ta) ti(fvEC|vi-su1sut1lsi9)bi,(c|ta) (,) e(f|vi)go(gh|pe) vé(h@j@kjkJH|////pohkpp2su2)ni(ixih|////cllsl2lsc3)am,(h|ta) et(h|vi) cu(gf|cllsc3)rá(gh|pe)bo(fe|cllsc3) e(dc!dwe/fv|cl-`ql-hg/vihk)um.(ed|cl-) (::)
 
+<sp>V/</sp> Dó(h|vi)mi(h|vi)ne(hg/hggof|clcl!pilst3) non(g|vi) sum(g|vi) dig(gh|pe)nus(g|ta) ut(g|ta) in(g|ta)tres(g|ta) sub(hf|cllsc3) tec(gh|pe)tum(gh|pe) me(ixh/iioh|//////ta-pr)um:(h|ta) (;) sed(hf|cllsc3) tan(gh~|ta>)tum(h|ta) dic(h|ta) ver(ixhi~|////ta>)bo,(h|ta) (,) et(h|ta) sa(h|ta)ná(h|ta)bi(h|ta)tur(hg/hg|pflsc2) pu(hf|cllsc3)er(ixf!gwhg/hih|//////ql!clppt1tohl) me(hvGFE/fwg/hv|vi-hhsu1sut2ql-vihj)us.(gf|cl-) (::)
+<sp>+</sp> A(cd!ewf|``qlhhppt2)men(f|ta) di(fe|cllsc3)co(d|ta) ti(fvEC|vi-su1sut1lsi9)bi.(c|ta) (::)

@@ -1,10 +1,18 @@
+name:Ecce veniet Dominus V Et dominabitur;
+office-part:re;
 mode:5;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(cb3) Ec(h)ce(f) vé(hi)ni(h)et(g) Dó(h)mi(g)nus,(fgf) (;)
-<sp>*</sp> pro(fg)téc(h)tor(g) nos(gf)ter(e) Sanc(gf~)tus(ghg) Is(ge/gf)ra(fe!fwgfg)ël,(gf) (:)
-<sp>+</sp> Co(h)ró(ih!i!jwkkl)nam(k) re(k!l>)gni(lk!jkvJIH) (;)
-ha(h)bens(hihho~fgf) in(h) cá(ihIsKssljkvIHhvFEf)pi(g)te(fgf!e!fwgFE) su(DEfvEDe)o.(ed) (::c3)
-<sp>V/</sp> Et(h) do(h)mi(h)ná(h)bi(h)tur(gxhiHssfgf) a(h) ma(h)ri(h) us(hf)que(fi) ad(gh) ma(hg!hwihi)re,(ih) (;)
-et(d) a(f) flú(h)mi(h)ne(h) us(h)que(h) ad(h) tér(hi~)mi(h)nos(h) or(hg/hg~)bis(gf) ter(hi~)rá(hg!hwihGFg)rum.(gf) (::cb3) 
-<sp>+</sp> Co(h)ró(ih!i!jwkkl)nam.(k) (::)
+initial-style: 1;
+name: Ecce veniet Dominus protector;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines: 1;
+%%
+(c3) Ec(h|vi)ce(f|ta) vé(hi|vi)ni(h|vi)et(gxg|////ta) Dó(h|vihg)mi(gxg|////vi)nus,(fgf|//toS2) *(,) pro(gxfg|//peSlse4)téc(h|vi)tor(g|ta) no(gf|cllsc3)ster,(e|ta) Sanc(f>|vi>)tus(gxghg|//////to) Is(gxge/gde|////////clpo)ra(cxdc!dwede|//////cl-`qi!po)ël,(ed|cl-) †(:) Co(h|``vilsl3)ró(ih/i!jwkkl|cl-hhql-hhppt1pehl)nam(k|ta) re(kl>|pe>1hm)gni(lvKJkvJIH|clShmsut1vi-hmsuu1su2) ha(h|ta)bens(gxhihho/fgf|//////toorhhtohh) (,) in(h|vilsl3) cá(ih/isksslkkvIHhvFEf|////clhhtsMhhclhmcihmlsc3cihmvihm)pi(f|vi)te(gxfhFE/fwgFE|//////toS2sut1qi-hgsu2) su(de!fvEDe|//ci-hhpp2vi-hh)o.(ed|cl-) (::)
 
+<sp>V/</sp> Et(h|vi) do(h|vi)mi(h|vi)ná(h|vi)bi(h|vi)tur(hi/hssfgf|pe-ds-hjtohj) a(h|vi) ma(hi|pe)ri(h|ta) us(hf|cllsc3)que(fi|pe) ad(gh|pe) ma(hg!hwihi|cl-`ql!po)re,(ih|cl-) (;) et(d|ta) a(f|vi) flú(hi|pe)mi(h|ta)ne(h|ta) us(h|ta)que(h|ta) ad(h|ta) tér(hi|pe)mi(h|ta)nos(h|ta) or(hg/hg|pflsc2)bis(gf|cllsc3) ter(hi|peS)rá(gxhg!hwiHGFg|////cl-`ql!vssu2vi-)rum.(gf|cl-) (::)
+†() Co(h|``vilsl3)ró(ih/i!jwkkl|cl-hhql-hhppt1pehl)nam.(k|ta) (::)

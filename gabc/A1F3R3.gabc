@@ -1,13 +1,21 @@
+name:Ecce ab austro V Aspiciam V Gloria;
+office-part:re;
 mode:5;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Ec(h)ce(hiHssfgf)
-<sp>*</sp> ab(f) au(h)stro(h) vé(i)ni(hihGFg)o,(gf) (;)
-e(d!eo1!fv)go(fe/fgFE) Dó(d)mi(DEfvEDe)nus(ed) De(d)us(ef) ve(fvEDEFgvFEf)ster,(fe) (:)
-<sp>+</sp> Vi(f)si(gh)tá(h)re(hg/hi) vos(hih) in(f!gwhGFEfwgFE) pa(DEfvEDe)ce.(ed) (::)
-<sp>V/</sp> As(h)pí(h)ci(h)am(h) vos,(hiHssfgf) et(h) cré(hf)sce(fi)re(gh) fá(h)ci(hg!hwihi)am:(ih) (;)
-mul(d)ti(f)pli(h)ca(h)bí(hi)mi(h)ni,(h) et(h) fir(h)má(hi)bo(h) pac(h)tum(h) me(hg/hg)um(gf) vo(hi)bís(hg!hwihGFg)cum.(gf) (::)
-<sp>+</sp> Vi(f)si(gh)tá(h)re.(hg/hi) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hihssfgf) Pa(hf)tri,(fi) et(gh) Fí(h)li(hg!hwihi)o,(ih) (;) 
-et(h) Spi(h)rí(hg/0hg)tu(gf)i(hi) San(hg!hwihGFg)cto.(gf) (::)
-<sp>+</sp> Vi(f)si(gh)tá(h)re.(hg/hi) (::)
+initial-style: 1;
+name: Ecce ab austro venio;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines: 1;
+%%
+(c3) Ec(g|ta)ce(gi/hssfgf|pe-ds-hjtohj) *() ab(f|ta) au(h|vi)stro(h|vi) vé(i|vihh)ni(gxhiHGFg|////toSsu2vihg)o,(gf|cl-) (;) e(d!eof|sa)go(gxge!fwgFE|////cl-qi-hgsu2) Dó(d|ta)mi(de!fvEDe|//ci-hhpp2vihh)nus(ed|cl-) (`) De(d|ta)us(ef|pe) ve(gxfvED/ewf/gvFE|//////ciS1ql-hgci-hi)ster,(fe|cl-) †(;) Vi(f|vi)si(gxgh|////pe)tá(h|vi)re(hg!hwi|cl-qlhg) vos(hih|tolsc4lst3) in(gxf!gwhGFE/fwgFE|////ql!vssut2ppt1qi-hgsu2) pa(de!fvEDe|//ci-hhpp2vihh)ce.(ed|cl-) (::)
 
+<sp>V/</sp> A(h|vi)spí(h|vi)ci(h|vi)am(h|vi) vos,(hi/hssfgf|pe-ds-hjtohj) et(h|vi) cré(hf|cllsc3)sce(fi|pe)re(gh|pe) fá(h|vi)ci(hg!hwihi|cl-qi!po)am:(ih|cl-) (;) mul(d|ta)ti(f|vi)pli(h|vi)ca(h|vi)bí(hi|pe)mi(h|ta)ni,(h|ta) (,) et(h|ta) fir(h|ta)má(hi|pe)bo(h|ta) pac(h|ta)tum(h|ta) me(hg/hg|////pf1lsc2)um(gf|cllsc3) vo(hi|peS)bís(gxhg!hwiHGFg|////cl-qi!vssu2vi)cum.(gf|cl-) (::)
+†() Vi(f|vi)si(gxgh|////pe)tá(h|vi)re.(hg!hwi|cl-qlhg) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(gi/hssfgf|pe-ds-hjtohj) Pá(hf|cllsc3)tri,(fi|pe) et(gh|pe) Fí(h|ta)li(hg!hwihi|cl-`qi!po)o,(ih|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|////pf1lsc2)tu(gf|cllsc3)i(hi|peS) Sanc(gxhg!hwiHGFg|////cl-`ql!vssu2vihg)to.(gf|cl-) (::) 
+†() Vi(f|vi)si(gxgh|////pe)tá(h|vi)re.(hg!hwi|cl-qlhg) (::)

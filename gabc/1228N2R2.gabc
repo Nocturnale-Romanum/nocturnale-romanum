@@ -1,10 +1,19 @@
+name:Isti sunt sancti qui passi V Vindica Domine;
+office-part:re;
 mode:3;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) I(i)Sti(j) sunt(hg!h!iwj) San(ikjJs)cti,<sp>*</sp>(ji) (;)
-qui(g) pas(i)si(j) sunt(h) pro(hjvji)pter(hg~) te,(h/ighg) Dó(e)mi(egfFs)ne:(fe) (:)
-vín(h)di(jh!iwjiHG)cta(hg) e(EFgvFEfvED)os,(fd/efefv) (;)
-<sp>+</sp> Qui(d)a(e) cla(gh~)mant(h) ad(gh~) te(hvGHjvvvHGFghhg) quo(hg/hgh)tí(f)di(egfFs)e.(fe) (::)
-<sp>V/</sp> Vín(ikjJs)di(h!iwji)ca,(hhO1g) Dó(i!jo1)mi(h)ne,(h) sán(hi~)gui(h)nem(h) Sanc(h)tó(hg)rum(h) tu(j)ó(ikjJs)rum,(ji) (;)
-qui(ikjIHiwji) ef(hg)fú(GHiwj)sus(jiiO1hivHGh) est.(GHih) (::)
-<sp>+</sp> Qui(d)a.(e) (::)  
+initial-style: 1;
+name: Isti sunt Sancti qui passi sunt;
+mode: 3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iii;
+nabc-lines: 1;
+nabc-lines: 1;
+%%
+(c4) Is(i|vi)ti(j|``vilss1) sunt(hg/h!iwj|cl-qlppt1) Sanc(ikjjs|tohhlsi7sthjlsm8)ti,(ji|cl-) (,) qui(g|ta) pas(i|vi)si(j|vihi) sunt(h|ta) prop(h/jvji|vi-ppu1cl-hglss6)ter(hg~|vi>) te,(ixh/ig/hg|////vi-pfSlssc2lst3) Dó(e|``talse4)mi(egffs|//tosthh)ne:(fe|cl-) (;) vín(h|vihh)di(jh!iwjIHG|cl-hjqlhk!vshksu2)ca(hg|cl-) e(ef!gvFEfvED|//ciShhlsi7lsc3ciShhlsc3)os,(fd/efe/fv|cltoS2hgvi-hg) †(;) Qui(d|talsc3)a(e|vi) cla(gh~|ta>)mant(h|vi) ad(gh~|ta>) te(hv//ghjvjvjv/HGFghhg|vi-hhbv-hjppt2`vi-hjsuu3/pe-hkcl-hl) quo(hg/hgh|cllsc2pohg)tí(e|ta)di(egffs|//tosthh)e.(fe|cl-) (::)
 
+<sp>V/</sp> Vín(ikjjs|//tohhsthj)di(h!iwji|ql!clppt1)ca,(hhog|pr) Dó(i!jo|vslsc3)mi(h|ta)ne,(h|ta) sán(hi~|ta>)gui(h|ta)nem(h|ta) sanc(h|ta)tó(hg|cllsc3)rum(h|vi) tu(j|vihh)ó(ikjjs|//tohisthk)rum,(ji|cl-hh) (;) qui(ikjjvIH/iwji|toShgvi-hjsut2qihk!clhk) ef(hg|cl)fú(gh!iwj|``qlhhppt2)sus(jiioh/ivHGh|cl!pilsc2ci-hgvihh) est.(ixg!hih|////cl-hhppt2) (::)
+†() Qui(d|talsc3)a(e|vi) cla(gh~|ta>)mant(h|vi) (::)

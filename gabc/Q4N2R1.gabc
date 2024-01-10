@@ -1,10 +1,19 @@
+name:In mari via tua V Transtulisti illos;
+office-part:re;
 mode:2;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(f3) In(c) ma(efg)ri <sp>*</sp>(f) vi(f)a(h) tu(hg/hif/g)a,(ffO1e) (;)
-et(f) sé(h)mi(g@ho1)tæ(f) tu(e)æ(fhhv) in(hi) a(ihhvGF)quis(hfgwhg) mul(FGhvGFg)tis:(gf) (:)
-<sp>+</sp> De(h)du(iji)xí(j)sti(i) sic(hhO1g)ut(hi) o(hihhvGFg)ves(gf) pó(FGhvGFE)pu(f)lum(hg/hih) tu(hvGFg)um(ffO1e) (;)
-in(e@fh~) ma(h)nu(gh) Mó(fefwg)y(f)si(efeeO1c) (,)
-et(hgho0!iv) Aa(ih/hvGFEfwgFEf!gwhGFg)ron.(gf) (::)
-<sp>V/</sp> Trans(f)tu(e)lí(EFgwhhi)sti(h) il(hi~)los(h) per(hg) Ma(hi)re(gh) Ru(f@gwhg)brum,(gf) (;)
-et(f) trans(ef)ve(f)xí(fg)sti(f) e(f)os(f) per(f) a(f!gwhGFE)quam(f) ní(hg/hih)mi(hvGFg)am.(ffO1e) (::)
-<sp>+</sp> De(h)du(iji)xí(j)sti.(i)  (::)
+initial-style: 1;
+name: In mari via tua;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines:1;
+%%
+(f3) In(c|ta) ma(e/fg|scM1)ri(f|ta) <sp>*</sp> vi(f|ta)a(h|vi) tu(hg/hif/gv|cltoS2vi)a,(ffoe|pr) (;) et(f|vi) sé(h|vi)mi(g!ho|vs)tæ(f|vi) tu(e|ta)æ(ehhv|pe-``vi-) (`) in(hi|peS) a(ihhvGF|clSci-)quis(hf!gwhg|cl-`qihg!cl-hg) mul(fg!hvGFg|//ci-hhpp2vihh)tis;(gf|cl-) (:)
+<sp>+</sp> De(h|vi)du(iji|//to)xís(j|vihh)ti(i|vi) si(hhog|pr)cut(hi|pe) o(hig/hvGFg|toSci-hivihi)ves(gf|cl-) (,) pó(fg!hvGFE|ci1pp2)pu(f|vi)lum(hg/hih|cltohg) tu(hvGFg|ci-vi)um(ffoe|pr) (;) in(e/fh~|ta-/ta>hg) ma(h|vi)nu(gh|pe) Mó(fe!fwg|cl-`qlhg)y(f|vi)si(ef/eeoc|pe-1``pr) (,) et(hg/hoi|cllss2lsc3pq) Aa(ihhvGFE|////clSvi-su1sut2|fwgFE|qi-hhsut2|f!gwhGFg|ql-hhppt1su2vihh)ron.(gf|cl-) (::)
+
+<sp>V/</sp> Tran(f|vi)stu(e|ta)lís(ef!gwhhi|```ql-hhppt2pehj)ti(h|ta) il(ij|``pehglsl4)los(i|vi) per(hg|cllsc3) Ma(hi|pe)re(gh|pe) Ru(f!gwhg|ql!cl-ppt1)brum,(gf|cl-) (;) et(f|vi) tran(ef|pe)sve(f|ta)xís(fg|pe)ti(f|ta) e(f|ta)os(f|ta) per(f|ta) a(f!gwhGFE|ql-ppt1su1sut2)quam(f|vi) ní(hg/hih|//cllsc3tohg)mi(hvGFg|ci-vi)am.(ffoe|pr) (::)
+<sp>+</sp> De(h|vi)du(iji|//to)xís(j|vihh)ti.(i|vi) (::)

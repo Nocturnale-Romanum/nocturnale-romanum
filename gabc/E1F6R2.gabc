@@ -1,10 +1,19 @@
+name:Misericordia tua Domine V In die tribulationis;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Mi(dc)se(fg)ri(f)cór(go0h>)di(g)a(gf) tu(gh)a,<sp>*</sp>(h) Dó(gh)mi(fvED)ne,(dgf) (;)
-ma(f)gna(f) est(dfddc) su(f)per(gh>) me:(hvGFEfwggf) (:)
-<sp>+</sp> Et(fd~) li(fgf)be(ghg)rá(h)sti(f!gwhg) á(g)ni(g)mam(fe>) me(Defo0!gvd!ewfeDCd)am(CDed) (;)
-ex(c) in(d)fér(fg>)no(fe/fo0!gv) in(gffd>)fe(fvv)ri(gffO1e)ó(DEfvEDe)ri.(ed) (::)
-<sp>V/</sp> In(h) di(h)e(hg/hggO1f) tri(g)bu(g)la(g)ti(g)ó(gh)nis(g) me(g)æ(g) cla(hf)má(gh)vi(gh) ad(ixh/iiO1h) te,(h) (;)
-qui(gf)a(gh) ex(hg/hg)au(gf~) dí(ixf!gwhg/hih)sti(hvGFEfwg!hv) me.(gf) (::)
-<sp>+</sp> Et.(fd~) (::)
+initial-style: 1;
+name: Misericordia tua Domine;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) Mi(dc|cllsc3)se(fg|pe)ri(f|ta)cór(go!h>|pq>)di(h|ta)a(gf|cllsc3) tu(gh|pe)a,(h|vi) <sp>*</sp> Dó(gh|peS)mi(fvED|ci-)ne,(dgf|//to) (`) mag(f|vi)na(f|vi) est(dfddc|toS2cl-) su(f|vi)per(ghg~|pe>) me:(hvGFE/fwggf|vi-suu3qicl-) (;)
+<sp>+</sp> Et(fd~|vi>lse3) li(fgf|//to)be(ghg|//tolsl3)rás(h|vi)ti(f!gwhg|ql!cl-ppt1) á(g|vi)ni(f|vi)mam(fe>|cl>lst3) me(de!fog/d!ewfEDCd|pq-pp2ql!vsppt1su2vihg)am(c!ded|cl-ppt2) (;) ex(c|ta) in(d|vi)fér(fg>|pe>1)no(fefog|cllsc2pq) in(gffvE~D~|clScl->)fe(fvfv|bv-)ri(gffoe|clSpi)ó(de!fvEDe|//ci-hhpp2vihh)ri.(ed|cl-) (::)
 
+<sp>V/</sp> In(h|vi) di(h|vi)e(hg/hggof|clcl!pilsc2lst3) tri(g|vi)bu(g|vi)la(g|vi)ti(g|vi)ó(gh|pe)nis(g|ta) me(gh|pe)æ(g|ta) cla(hf|cllsc3)má(gh|pe)vi(gh|pe) ad(ixh/iioh|////ta-pr) te,(h|ta-) (;) qui(h|ta)a(h|ta) e(hg/hg|pflsc2)xau(hf~|vi>lsi6)dís(ixf!gwhg/hih|//////ql!clppt1tohm)ti(hvGFE/fwg/hv|//vi-su1sut2ql-vihk) me.(gf|cl-) (::)
+<sp>+</sp> Et(fd~|vi>lse3) li(fgf|//to)be(ghg|//tolsl3)rás(h|vi)ti(f!gwhg|ql!cl-ppt1) (::)

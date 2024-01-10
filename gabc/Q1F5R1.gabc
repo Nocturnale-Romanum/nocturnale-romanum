@@ -1,12 +1,19 @@
+name:Tribularer si nescirem V Secundum multitudinem;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Tri(d)bu(d)la(f!gh)rer,<sp>*</sp>(g) si(hg) ne(fg)sci(go0!hv)rem(dfvvhvDCded)  (;)
-mi(de)se(c)ri(d)cor(dgfg@hv)di(g)as(g) tu(FHiwjjv)as,(ikJIHiwjIH) Do(g)mi(GHivHGh)ne:(hg) (:)
-tu(hg) di(fg)xis(go0!hv)ti,(d) No(g)lo(h) mor(j!k>)tem(ji/jkkj) pec(hg)ca(fg)to(g/hjg/h)ris,(ggO1f) (;)
-sed(f) con(ghg)ver(hg~)ta(j)tur(j) et(jijvIHG) vi(hghvGFg)vat:(gf) (:)
-<sp>+</sp> Qui(f) Cha(f)na(ghg)ǽ(hg)am(g) et(go0!hv) pu(d)bli(g)cá(ghFED)num(dfd@c/ded) (;)
-vo(cd)cás(f!gwh)ti(g/hjg/h/ggO1!f) ad(f) pœ(FHiwjjv)ni(ikJIHiwjIH)tén(g)ti(GHivHGh)am.(hg) (::)
-<sp>V/</sp> Se(j)cún(ji~)dum(jkj/iji/hhO1g) mul(i)ti(i)tú(ij)di(i)nem(i) do(i)ló(ij)rum(i) me(i)ó(ij)rum(i) 
-in(ih) cor(ij)de(hi) me(g!hwih)o,(hg)  (;)
-con(g)so(fg)la(g)ti(g)ó(gh)nes(g) tu(g)æ(g) læ(g)ti(g)fi(g)ca(g)vé(gh)runt(g) à(hiHGhih)ni(ghf)mam(gh) me(hiwji/jkjIH)am.(hiHGhg) (::)
-<sp>+</sp> Qui.(f) (::)
+initial-style: 1;
+name: Tribularer si nescirem;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Tii(d|ta)bu(d|ta)lá(f/gh|scM1)rer(g|ta) (,) <sp>*</sp> si(hg|cllss2lsc3) nes(fg|pe)cí(goh|pq)rem(d/fvfvgvDCded|ta-lsi7/bv-hhvi-hjsut2toShj) (;) mi(de|```peSlse4)se(c|ta)ri(d|vi)cór(dgfg/h>|//tr-3vi>hk)di(g|ta)as(g|ta) tu(gh!iwjjv|```ql-hjppt2``vi-hj)as,(jkJIH/iwjIH|pe-1hjsuu3qi-hlsu2) Dó(g|ta)mi(gh!ivHGh|//ci-hhpp2vihh)ne,(hg|cl-) (:) tu(hg|cllsc3) di(fg|pe)xis(goh|pq)ti:(d|talsi8) (`) No(g|vihe)lo(h|vilss3) mor(jk>|``pe>1hjlsl4)tem(ji/jkkj|clhhpe-hhcl-hi) (,) pec(hg|cllsc2)ca(fg|pe)tó(ixg/hig/hv|//////ta-/toS2hhvi-hi)ris,(ggof|pr) (;) sed(f|``talse4) con(ixhih|//////to)ver(hg~|vi>)tá(iyi|////vihh)tur(j|vihh) et(ji/jvIHG|cl-hhvi-hhsut1su2) vi(hg/hvGFg|cl-ci-)vat;(gf|cl-) (:)
+<sp>+</sp> Qui(f|```talse4) Cha(f|ta)na(ghg|//to)nǽ(gf|cllsc3)am(f|ta) (`) et(gh>|pq) pu(d|ta)bli(g|vi)cá(ghFED|pehhsu3lsc3)num(dfDCded|toS2sut1toShg) (,) vo(cd|pe)cás(f/gh|scM1)ti(ixg/hig/hvggof|//////ta-/toS2hgvi-hh``prhh) (,) ad(f|ta) pœ(fh!iwjjv|```ql-hippt2``vi-hi)ni(jkJIH/iwjIH|pe-1hjsuu3qi-hlsu2)tén(g|ta)ti(gh!ivHGh|//ci-hhpp2vihh)am.(hg|cl-) (::)
+
+<sp>V/</sp> Se(j|vihh)cún(ji|clhhlsc3)dum(jkj/iji/hhog|////tohhtohiprhi) mul(hi|pehh)ti(ih|clhhlsc3)tú(jk|``pehhlsl4)di(j|tahh)nem(j|tahh) do(j|tahh)ló(j|tahh)rum(j|tahh) me(j|tahh)ó(jk|pehh)rum(ji|clhhlsc3) in(ih|clhglsc3) cor(ij|pe)de(hi|pe) me(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) con(g|vi)so(fg|pe)la(g|ta)ti(g|ta)ó(g|ta)nes(g|ta) tu(gh|pe)æ(g|ta) læ(g|ta)ti(g|ta)fi(g|ta)ca(g|ta)vé(gh|pe)runt(g|ta) á(ixhiHGhih|//////pe-su2tohg)ni(ghf|//toM1hh)mam(gh|peS) me(h!iwji/jkJIH|qlhh!clhhppt1toS2hmsu2)am.(hiHGhg|pe-1hhsu2cl-hh) (::)
+<sp>+</sp> Qui(f|```talse4) Cha(f|ta)na(ghg|//to)nǽ(gf|cllsc3)am.(f|ta) (::)

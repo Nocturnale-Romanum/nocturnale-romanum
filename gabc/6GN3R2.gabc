@@ -1,9 +1,19 @@
+name:Ecce ego statuam pactum meum V Arcum meum ponam;
+office-part:re;
 mode:2;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(f3) Ec(f)ce(ef/eeO1c) e(ef)go(f!gwhg/hih) stá(hg)tu(efEDe)am(ed) pac(fg)tum(f) me(fe/f!gwh!ivHGFg)um(f) vo(fe)bís(FGhvGFg)cum,(gf) (;)
-et(c) cum(e!fg~) sé(f)mi(f!gwhGFEf)ne(fe) ve(fg)stro(f!gwh!ivHG) post(f!gwhgh) vos:(gf) (:)
-<sp>+</sp> Ne(h)que(f!gwhgFE) e(fg)rit(f) de(fg)ín(f)ceps(f) (,)
-di(CEfg)lú(fg)vi(f)um(f) dís(fg)si(f)pans(fe/f!gwhg/hihGFE) ter(f!gwhgh)ram.(gf) (::)
-<sp>V/</sp> Ar(EFgwh/hi)cum(h) me(ij)um(i) po(hg)nam(hi) in(gh~) nú(f)bi(f!gwhg)lis,(gf) (;) 
-et(f) e(ef)rit(f) si(f)gnum(f) fœ́(fg)de(f)ris(f) in(fg~)ter(f) me(f) et(f!gwhGFE) in(f)ter(hg/hih) ter(hvGFg)ram.(ffO1e) (::)
-<sp>+</sp> Ne(h)que.(f!gwhgFE) (::)
+initial-style: 1;
+name: Ecce ego statuam;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines:1;
+%%
+(f3) Ec(f|vi)ce(efEC|pe-1su2) <sp>*</sp> e(ef|pe)go(fhg/hih|//totohg) stá(hg|cl-)tu(fgFEf|pe-1su2)am(fe|cl-) (`) pac(fg|pe)tum(f|ta) me(fe/f!gwh/ivHFg|cl-ql-ppt1ci-hlvihl)um(f|ta) vo(fe|cl-)bís(f!gwhf|ql!cl-ppt1)cum,(f|vi) (;) et(c!dwe/fg|```ql-ppt1lsi7pehk) cum(f|ta) sé(fg|pe)mi(f|ta)ne(fg!hvGFE|ci1hhpp2lsc3) ves(fg|peS)tro(f!gwh/ihhog|ql-ppt1clhj!pihjlst3) post(f!gwhgh|//ql!poppt1) vos:(gf|cl-) (:)
+<sp>+</sp> Ne(hvhv|bv-)que(fg!hvGFE|ci1hhpp2lsc3) e(fg|pe)rit(f|ta) de(fg|pe)ín(f|ta)ceps(f|vi) di(c!dwe/fg|```ql-ppt1lsi7pehl)lú(fg|pe)vi(f|ta)um(f|ta) dís(fg|pe)si(f|vi)pans(fve!foh//|vi-sa-|g!hjIGF|vihjpp2su1sut2|hss//hvGF|ds-hjci-hj) ter(gh~|```ta>lsal4)ram.(f|ta) (::)
+
+<sp>V/</sp> Ar(f|vi)cum(e|ta) me(ef!gwhhi|ql-hhppt2pehj)um(h|ta) po(hg|cllsc3)nam(hi|pe) in(gh|pe) nú(f|ta)bi(f!gwhg|ql!cl-ppt1)bus,(gf|cl-) (;) et(f|vi) e(ef|pe)rit(f|ta) sig(f|ta)num(f|ta) fœ́(fg|pe)de(f|ta)ris(f|ta) in(f|pe)ter(f|ta) me(f|ta) et(f!gwhGFE|ql-ppt1su1sut2) in(f|vi)ter(hg/hih|cllsc3`tohg) ter(hvGFg|ci-vi)ram.(ffoe|pr) (::)
+<sp>+</sp> Ne(hvhv|bv-)que.(fg!hvGFE|ci1hhpp2lsc3) (::)

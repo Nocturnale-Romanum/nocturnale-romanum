@@ -1,13 +1,22 @@
+name:Factus est mihi Dominus V Eripuit me V Gloria;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Fa(ef)ctus(e) est(e) mi(e)hi<sp>*</sp>(EFgwh) Dó(hihhg)mi(h!iwjij)nus(ji) (;)
-in(iig~) re(ijji)fú(hi>)gi(fhg/hiffO1e/f)um:(EFgf) (:)
-<sp>+</sp> Et(ed~) De(e)us(f!gwh) me(hg!hwihi)us(ih) (;)
-in(h) au(g!ho1!i>)xí(hi)li(ghgFEf)um(fe) spe(h)i(g!hwihGFgwhGF) me(EFgvFE)æ.(ffO1e) (::)
-<sp>V/</sp> E(i)rí(i!jwkJI)pu(hg)it(hi/hhO1g) me(h) de(h) in(h)i(h)mí(hi)cis(h) me(ig)is(hi) for(hi)tís(i)si(i!jwkj)mis,(ji) (;)
-et(hi/hhg~) fa(hih)ctus(i) est(i) Dó(ij)mi(i)nus(i) pro(ijijvIH)té(hg)ctor(h!iwji/jkj) me(ih!iwjij)us.(ivHGhg) (::)
-<sp>+</sp> Et.(ed~) (::c2)
-<sp>V/</sp> Gló(g!hwiHG)ri(fe)a(fg/ffO1e) Pa(ge)tri,(fg) et(fg) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(ghghGF)tu(fe)i(f!gwhg/hih) San(gf!gwhgh)cto.(gvFEfe) (z0::c3)
-<sp>+</sp> Et.(ed~) (::)
+initial-style: 1;
+name: Factus est mihi Dominus;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Fac(ef|pe)tus(e|ta) est(e|ta) <sp>*</sp> mi(e|ta)hi(ef!gwh|qlhhppt2) Dó(hihhg|to!cl)mi(h!iwjij|ql!poppt1)nus(ji|cl-) (,) in(iioh~|vs>) re(ijji|pe-`cl-hg)fú(hi>|pe>1lsi3)gi(fhg/hiffoe/fv|////toStohh!pihhlsc2vihi)um:(e!fgf|cl-ppt2) (;) 
+<sp>+</sp> Et(ed~|vi>lsi6) De(e|vi)us(f!gwh|vihgqlhk) me(hg!hwihi|cl-`qlhg!pohg)us(ih|cl-) (,) in(h|vi) au(g!ho!i>|sa>)xí(hi|peS)li(ghGFEf|toSsu2vi)um(fe|cl-) spe(g|vi)i(g!hwiHGF/gwhGF|ql!vsppt1sut2qi-hhsu2) me(ef!gvFEf|//ci-hhpp2)æ.(fe|pr) (::)
 
+<sp>V/</sp> E(i|ta)rí(i|ta)pu(i|ta)it(i!jwkJI|ql-hhppt1su2) me(hi/hhog|peS``pr) de(h|ta) i(h|ta)ni(h|ta)mí(hi|pe)cis(h|ta) me(ig|cllsc3)is(hi|pe) for(hi|pe)tís(i|ta)si(i!jwkj|qlhh!cl-hhppt1)mis,(ji|cl-hh) (;) et(hi/hhg~|peSvs>) fac(hih|//to)tus(i|vi) est(i|vi) Dó(ij|pe)mi(i|ta)nus(i|ta) pro(ijijIH|//toci-hh)téc(ih|cllsc3)tor(h!iwji/jkj|ql!clppt1tohm) me(ih!iwjij|cl-`qlhg!pohg)us.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Et(ed~|vi>lsi6) De(e|vi)us.(f!gwh|vihgqlhk) (::)
+
+<sp>V/</sp> Gló(i!jwkJI|ql-hhppt1su2)ri(hg|clhhlsc3)a(hi/hhog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj|qlhg!cl-hgppt1)o,(ji|cl-) (:) et(i|ta) Spi(i|ta)rí(ijijIH|//tr-1su2)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) San(ih!iwjij|cl-`qlhg!pohg)cto.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Et(ed~|vi>lsi6) De(e|vi)us.(f!gwh|vihgqlhk) (::)

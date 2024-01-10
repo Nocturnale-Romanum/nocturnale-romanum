@@ -1,14 +1,20 @@
+name:Tria sunt munera V Salutis nostrae;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  Tri(dc)a(f) sunt(ghg~) mú(h)ne(g)ra<sp>*</sp>(f) pre(h)ti(g)ó(gjh/iwjij)sa,(ih) (;)
-quæ(f) ob(f)tu(gh)lé(h)runt(g) Ma(h)gi(fo0h) Dó(gh)mi(fvED)no(dfddc) (,)
-in(fgFEs>) di(f!go1!hv)e(hg/hfgvFE) i(d!ewfef)sta,(ed) (:)
-et(d) ha(f!go1!hv)bent(g) in(gh) se(ixhf/higFssded) (,)
-di(d)vi(fgf)na(fe) my(f!go1!hv)sté(hV!ghfg)ri(fe!fwgfg)a:(fo0!gv) (;)
-<sp>+</sp> In(dcd) au(ixdh!i>)ro,(h) ut(h) o(h)sten(h)dá(h)tur(g) Re(h>)gis(f) po(h!iwj)tén(jvIHih)ti(g!hwjIHi)a:(ih) (:)
-in(f!gw!h>) thu(ixhi/ihi)re,(hggo~) Sa(f)cer(g!h>)dó(h)tem(g) ma(h>)gnum(f) con(h>)sí(gh)de(fvED)ra:(dfddc) (;)
-et(fe) in(fg~) myr(ghGFEfwgfg)rha,(gf) Do(f)mí(g)ni(f)cam(gffvED) se(d)pul(dgFEf>)tú(dc/dwe!fv)ram.(ed) (::)
-<sp>V/</sp> Sa(h)lú(h)tis(hg/hggO1f) no(g)stræ(g) au(g)ctó(gh)rem(g) Ma(gh)gi(g) ve(g)ne(g)rá(gh)ti(g) sunt(hf) in(gh) cu(gh)ná(h)bu(ixh/iiO1h)lis,(h) (;)
-et(gf~) de(gh) te(h)saú(ixhi~)ris(h) su(h)is(h) mý(ixhi)sti(h)cas(h) e(h)i(h) mú(ixhi)ne(h)rum(h) spé(h)ci(h)es(hg/hg) ob(gf)tu(ixf!gwhg/hih)lé(hvGFEfwg!hv)runt.(gf) (::)
-<sp>+</sp> In(dcd) au(ixdh!i>)ro.(h) (::)
+initial-style: 1;
+name: Tria sunt munera;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) Tri(dc|cllsi2lsc3)a(f|vi) sunt(ghg~|``pe>lsl1) mú(h|vihg)ne(g|vihg)ra(f|ta) <sp>*</sp>(,) pre(h|vi)ti(g|ta)ó(ixgjh/hwihi|////toSlss2qihi!pohi)sa,(ih|cl-) (;) quæ(f|``talsi4) ob(f|ta)tu(gh|pe)lé(h|vi)runt(g|ta) Ma(h|vilsl3)gi(foh|pq) Dó(gh|peS)mi(fvED|ci-)no(dfddc|toS2cl-) (;) in(fgF!Es>|pe-1sut1sux1lss3) di(f!goh|sa)e(hg/hf/gvFE|pflsc2vi-sut2) is(d!ewfef|ql!poppt1)ta,(ed|cl-) (:) Et(d|``talse4) ha(f/gh|scM1)bent(g|ta) in(gh|peS) se(ixhf/higfss/ded|////cllsc2toS2ds-hgtohg) (,) di(d|ta)ví(fgf|//to)na(fd|cllsc3) mys(f!goh|sa)té(hg/hfg|cllsc2pohg)ri(fe!fwgfg|//cl-qlhg!pohg)a:(fog|pq) (:)
 
+<sp>+</sp> In(dcd|polsi1lsc3) au(ixdh/i>|////pe-vi>hklss3)ro,(h|ta) ut(h|ta) os(h|ta)ten(h|ta)dá(h|vi)tur(g|ta) Re(h>|vi>)gis(g|ta) pot(h!iwj|``viqlhj)én(jvIHih|//ci-cl-)ti(g!hwjIHi|ql-ppt1su2vi)a:(ih|cl-) (;) in(f!gwhg~|ql>ppt1lsi7) thu(ixhiihi|////pe-pohg)re,(hggo|cl-`or) Sa(f|talsi7)cer(ghg~|pe>)dó(h|vi)tem(g|ta) ma(h>|vi>lsi6)gnum(f|ta) con(h>|vi>he)sí(gh|peS)de(fvED|ci-)ra:(dfddc|toS2cl-) (;) et(fe|cllsl2lsc3) in(fg~|ta>) myr(ghGFE/fwgfg|//pe-1sut3qi!po)rha,(gf|cl-) (,) do(f|ta)mí(g|vi)ni(f|ta)cam(gffvED|clSci-) se(d|ta)pul(dgFEf>|pesu2lsc3vi>)tú(dc/dwe/fv|cl-ql-vihj)ram.(ed|cl-) (::)
+
+<sp>V/</sp> Sa(h|vi)lú(h|vi)tis(hg/hggof|////clclpi) nos(g|vi)træ(g|vi) auc(g|vi)tó(gh|pe)rem(g|ta) (,) Ma(g|ta)gi(g|ta) ve(g|ta)ne(g|ta)rá(g|ta)ti(g|ta) sunt(hf~|vi>lsi6) in(gh|pe) cu(gh|pe)ná(h|`ta)bu(ixh/iioh|////ta-pr)lis,(h|ta) (;) et(hf~|vi>lsi6) de(g|ta) the(h|vi)sau(ixh!iwj|////qlppt1)ris(h|ta) su(gh|pe)is(g|ta) mýs(g|ta)ti(g|ta)cas(hf|cllsc3) e(gh|pe)i(gh|pe) mú(h|ta)ne(ixh/iioh|////ta-pr)rum(h|ta-) (;) spé(h|ta)ci(h|ta)es(hg/hg|pflsc2) ob(hf|cllsc3)tu(ixf!gwhg/hih|////ql!clppt1tohm)lé(hvGFE/fwg/hv|vi-su1sut2qi-hgvihl)runt.(gf|cl-) (::)
+<sp>+</sp> In(dcd|polsi1lsc3) au(ixdh/i>|////pe-vi>hklss3)ro.(h|ta) (::)

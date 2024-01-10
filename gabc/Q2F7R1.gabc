@@ -1,12 +1,19 @@
+name:Pater peccavi in caelum V Quanti mercenarii;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Pa(ehg/h)ter,<sp>*</sp>(fe) pec(gh)cá(i)vi(g) in(i>) cœ(highvGFEf)lum,(fe) (;)
-et(efDEfvhfgwhGF) co(e)ram(EFgvFEf) te:(fe) (:)
-jam(h) non(e!fwg!ho~) sum(g) di(gh~)gnus(g) vo(g!ho1!iv)cá(hg)ri(gih!ghvGFEfe) fí(i)li(ih)us(h!io1!jv) tu(ijiHGh)us:(hhO1g) (;)
-<sp>+</sp> Fac(g!hwi!jv) me(i) sic(i)ut(h) u(h/ijhhg)num(EFgwhe/f/eeO1d) (,)
-ex(d) mer(f)ce(f!gwh)ná(hghvGFg!ho1)ri(g)is(g!hwihGFgwhGF) tu(EFgvFEf)is.(fe) (::)
-<sp>V/</sp> Quan(i!jwkJIs<)ti(hi/hhO1g) mer(h)ce(h)ná(hi)ri(h)i(h) in(h) do(h)mo(h) pa(h)tris(h) me(hi)i(h) ab(ig)ún(hi)dant(hi) pá(i)ni(i!jwkj)bus,(ji) (;)
-e(ih/hhO1g)go(hih) au(hi~)tem(h) hic(h) fa(ghg)me(hi) pér(i)e(i!jwkj)o(ji)! (;)
-Sur(hi/hhg~)gam,(hih) et(i) i(ij)bo(i) ad(i) pa(i)trem(i) me(ij)um,(i) et(iji/jvIH) di(hg)cam(h!iwji/jkj) e(ih!iwjij)i.(ivHGhg) (::)
-<sp>+</sp> Fac.(g!hwi!jo~) (::)
+initial-style: 1;
+name: Pater peccavi in caelum;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Pa(ehf/gv|toSlsm2vi-hi)ter,(fe|cl-) (,) <sp>*</sp> pec(gh|````peSlsal4)cá(i|vihg)vi(g|ta) in(i>|vi>) cæ(hig/hvGFEf|////toSvi-hisuu1su2vihh)lum(fe|cl-) (;) et(ef//df/gv/hf!gwhGF|pe-1/vi-pp2`cl-hiqi-hjsu2) co(e|ta)ram(ef!gvFEf|//ci-hhpp2vihh) te;(fe|cl-) (:) jam(g|vi) non(e!fwg/ho|ql-ppt1orhl) sum(g|ta) dig(gh~|ta>)nus(g|ta) vo(g!hoi|````salse4)cá(hg|cl-)ri(giHGhvGFEfe|toS2sut1vi-hhsut1su2cl-hh) (,) fí(i|vi)li(ih|cllss2lsc3)us(h!ioj|sa) tu(ijIHGh|//toSsu2vi)us:(hhog|pr-) (;)
+<sp>+</sp> Fac(g!hwi/jv|ql-ppt1vihm) me(i|ta) sic(i|vi)ut(h|ta) u(h/ijhhg|ta-/tohglsm2clhg)num(ef!gwhe/fv/eeod|```qlhh!cl-hhppt2``vi-hj``prhj) (,) ex(d|``talse4) mer(e|vihe)cen(f!gwh|```vi-qlhj)ná(hg/hvGFg!ho|//cl-hici-hjvshj)ri(g|ta)is(g!hwiHGF/gwhGF|ql!vsppt1sut2qi-hhsu2) tu(ef!gvFEf|//ci-hhpp2vihh)is.(fe|cl-) (::)
 
+<sp>V/</sp> Quan(i!jwkJ!Is>|ql-hjppt1su1sux1)ti(hi/hhog|peS``pr) mer(h|ta)cen(h|ta)ná(hi|pe)ri(h|ta)i(h|ta) in(h|ta) do(h|ta)mo(h|ta) pa(h|ta)tris(h|ta) me(hi|pe)i(h|ta) a(ig|cllsc3)bún(hi|pe)dant(hi|pe) pá(i|``talse4)ni(i!jwkj|qlhh!cl-hhppt1)bus,(ji|cl-hh) (;) e(hi/hhog|peS``pr)go(hih|//tohh) au(ij~|ta>hh)tem(i|tahh) hic(i|tahh) fa(ikj|//tohhlss3)me(hi|pe) pé(i|``talse4)re(i!jwkj|qlhi!cl-hippt1)o!(ji|cl-hh) (;) Sur(hi/hhog~|pe`vs>)gam,(hih|//to) et(i|vi) i(ij|pe)bo(i|ta) ad(i|ta) pa(i|ta)trem(i|ta) me(ij|pe)um,(i|ta) et(ijijIH|//toci-hi) di(ih|cllsc3)cam(h!iwji/jkj|ql!clppt1tohk) e(ih!iwjij|//cl-hh`qihi!pohi)i:(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Fac(g!hwi/jv|ql-ppt1vihm) me(i|ta) si(i|vi)cut.(h|ta) (::)

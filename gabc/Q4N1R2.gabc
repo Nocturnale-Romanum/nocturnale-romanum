@@ -1,12 +1,19 @@
+name:Stetit Moyses coram V Dominus Deus Hebraeorum;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Ste(ggh)tit(g) Mó(g)y(h)ses <sp>*</sp>(hg/higgf) (,)
-co(ggh)ram(g) Pha(g)ra(h)ó(hvjvIH)ne,(ghGF) et(GHiwjIHiwjIH) di(GHivHGh)xit:(hg) (;)
-Hæc(jiJH) di(jkg)cit(hi) Dó(kijo0@kv)mi(h@iwjiHGh)nus:(hg) (;) 
-<sp>+</sp> Di(f)mít(hih)te(h) pó(h)pu(j)lum(jijvIHG) me(hghvGFg)um,(gf) (;)
-ut(hf~) sa(ghg)crí(h)fi(h!iwj)cet(hg~) mi(hvGFgh)h<e>i</e> in(g) de(GHiwjIHiwjIH)sér(ghivHGh)to.(hg) (::)
-<sp>V/</sp> Dó(j)mi(ji)nus(jkj/iji/hhO1g) De(hi)us(i) He(i)bræ(ih)ó(ij)rum(ih) mi(ih)sit(ij)
-me(hi) ad(g@hwih) te,(hg) (;)
-ut(hiHGhih) di(ghf)cam(gh) ti(h@iwji/jkjIH)bi.(hiHGhg) (::)
-<sp>+</sp> Di(f)mít(hih)te.(h) 
-(::)
+initial-style: 1;
+name: Stetit Moyses;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Ste(ggh|vi-pehg)tit(g|ta) Mó(g|ta)y(h|vi)ses(ixhg/higgf|//////cltoS2cl-hg) <sp>*</sp> co(ggh|vi-pehg)ram(g|ta) pha(g|ta)ra(h|vi)ó(h/jvIH|vi-cihilsc3)ne(ghGF|pe-1sut2) (`) et(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hisu2) di(gh!ivHGh|//ci-hhpp2vihh)xit:(hg|cl-) (:) Hæc(jkJH|pe-1hj) di(jkj|//tohi)cit(jk|pehi) Dó(ki/jok|clhipqhi)mi(h!iwjIHGh|qlhh!vshhppt1su2vihi)nus:(hg|cl-) (;)
+<sp>+</sp> Di(f|ta)mít(ixhih|//////to)te(hg|cl) pó(iyi|////vi)pu(j|vi)lum(ji/jvIHG|////cl-hhvi-hjsuu1su2) me(hg/hvGFg|cl-ci-vi)um,(gf|cl-) (,) ut(hf~|vi>) sa(ghg|//to)crí(h|vi)fi(hwj|ql)cet(hg~|vi>) mi(hvGFgh|ci-peS)hi(g|ta) in(g|ta) de(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hisu2)sér(gh!ivHGh|//ci-hhpp2vihh)to.(hg|cl-) (::)
+
+<sp>V/</sp> Dó(j|ta)mi(ji|cl)nus(jkj/iji/hhog|tohhtohiprhi) De(hi|pe)us(i|vi) He(i|vi)bræ(ih|cl)ó(jk|pehi)rum(ji|clhh) mi(ih|clhh)sit(ij|pehh) me(hi|pe) ad(g!hwih|ql!cl-ppt1) te,(hg|cl-) (;) ut(ixhiHGhih|//////pe-su2tohg) di(ghf|//toM1hh)cam(gh|peS) ti(h!iwji/jkJIH|ql!clppt1toS2hmsu2)bi.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Di(f|ta)mít(ixhih|//////to)te(hg|cl) pó(iyi|////vi)pu(j|vi)lum.(ji/jvIHG|////cl-hhvi-hjsuu1su2) (::)

@@ -1,15 +1,21 @@
+name:Docebit nos Dnus V Venite ascendamus V Gloria;
+office-part:re;
 mode:2;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(f3)  Do(c)cé(efg)bit<sp>*</sp>(f) nos(h) Dó(hgh)mi(fg)nus(ffO1e) vi(fvhvGE)as(f!gwh/ihhO1g) su(FGhvGFg)as,(gf) (;)
-et(h) am(h!io1!jv)bu(jiiO1g!hwi)lá(hi)bi(ghGF)mus(gf) (,)
-in(f) sé(FGhvGFE)mi(f)tis(hg/hih) e(hvGFg>)jus:(ffO1e) (:)
-<sp>+</sp> Qui(f)a(fc) de(efg) Si(f)on(f) ex(f)í(f)bit(fe/f!gwh!ivHGhwihi) lex,(ih) (;)
-et(h!io1!jv) ver(jiig~)bum(h!i>) Dó(hi)mi(ghGFg)ni(gf) (,)
-de(ghg) Je(e!fo1h)rú(hf!gwhg)sa(FGhvGFg)lem.(gf) (::)
-<sp>V/</sp> Ve(f)ní(EFgwhhi)te,(h) a(h)scen(h)dá(ij)mus(i) ad(hg~) mon(hi~)tem(gh~) Dó(f)mi(f!gwhg)ni,(gf) (;)
-et(f) ad(ef) do(f)mum(f!gwhGF) De(f)i(hg/hih) Ja(hvGFg)cob.(ffO1e) (::)
-<sp>+</sp> Qui(f)a.(fc) (::)
-<sp>V/</sp> Gló(EFgwhhi)ri(h)a(h) Pa(hg)tri,(hi) et(gh) Fí(f)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(f!gwhGFE)tu(f)i(hg@hih) San(hvGFg>)cto.(ffO1!e) (::)
-<sp>+</sp> Qui(f)a.(fc) (::)
+initial-style: 1;
+name: Docebit nos;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines: 1;
+%%
+(f3) Do(c|ta)cé(e/fg|scM1)bit(f|ta) nos(h|vi) *() Dó(hgh|//po)mi(fg|pe)nus(ffoe|pr) (,) vi(f/hvGE|vi-cihk)as(f!gwh/ihhog|qlppt1clShjpihklst2) su(fg!hvGFg|//ci-hhpp2vihh)as,(gf|cl-) (;) et(h|vi) am(h!ioj|salse7)bu(jiiog!hwi|clpilst2qlhg)lá(hi|peS)bi(ghGFg|pe-1su2vi)mus(gf|cl-) (,) in(f|ta) sé(fg!hvGFE|//vihhpp2su1sut2)mi(f|vi)tis(hg/hih|cl/tohh) e(hvGFg>|ci-vi>)jus;(ffoe|pr) †(:) Qui(f|vi)a(fc|clMlsc3) de(e/fg|scM1) Si(f|ta)ón(f|ta) (`) ex(f|ta)í(f|ta)bit(fe/f!gwh/ivHG/hwihi|cl-qlppt1vi-hksut2qihk!pohk) lex(ih|cl-) (;) et(h!ioj|``salse4) ver(jiiog~|clorhg)bum(hi>|pe>) Dó(hi|peS)mi(ghGFg|pe-1su2vi)ni(gf|cl-) (,) de(ghg|//to) Je(e!fog|sa)rú(hf!gwhg|cl-qihg!clhg)sa(fg!hvGFg|//ci-hhpp2vi)lem.(gf|cl-) (::)
 
+<sp>V/</sp> Ex(ef!gwhhi|``qlhhppt2pehj) Si(h|ta)ón(h|ta) spé(ij|pe)ci(i|vi)es(h|ta) de(hg|cl)có(hi|pe)ris(gh|pe) e(f!gwhg|ql!clppt1)jus;(gf|cl-) (;) De(f|vi)us(ef|pe) no(fg|pe)ster(f|ta) ma(f|ta)ni(f|ta)fé(f!gwhGFE|ql-ppt1su1sut2)ste(f|vi) vé(hg/hih|cl/tohg)ni(hvGFg|ci-vi)et.(ffoe|pr) (::)
+†() Qui(f|vi)a(fc|clMlsc3) de(e/fg|scM1) Si(f|ta)ón.(f|ta) (::)
+
+<sp>V/</sp> Gló(ef!gwh/hi|``qlhhppt2pehj)ri(h|ta)a(h|ta) Pa(hg|cllsc3)tri,(hi|pe) et(gh|pe) Fí(f|ta)li(fgwhg|ql!clppt1)o,(gf|cl-) (;) et(f|ta) Spi(f|ta)ri(f!gwhG!FE|ql-ppt1su1sut2)tu(f|vi)i(hg/hih|cl/tohg) Sanc(hvGFg>|ci-vi)to.(ffe|pr) (::) 
+†() Qui(f|vi)a(fc|clMlsc3) de(e/fg|scM1) Si(f|ta)ón.(f|ta) (::)

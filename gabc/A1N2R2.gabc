@@ -1,13 +1,18 @@
+name:Salvatorem exspectamus V Sobrie;
+office-part:re;
 mode:3;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Sal(g)va(g)tó(h!iwjjo~)rem<sp>*</sp>(i) ex(jjO1i)spec(h)tá(hjji)mus(GH!iwjIHijggo~efe) (,)
-Dó(e!fo1h)mi(h)num(h!iw!j>) Je(g)sum(f!go1!h>) Chri(gvfhggO1FEf)stum,(fe) (:)
-<sp>+</sp> Qui(e) re(e)for(fg~)má(gh)bit(g) cor(h>)pus(hg/hih) hu(gf)mi(g)li(h!iwj)tá(jvvIG)tis(jk) no(jg/hwihi)stræ(iiO1h) (;)
-con(h<)fi(h)gu(h)rá(h)tum(hg~) cór(h!iw!j>)po(g)ri(EFgwh/igfssded) (,)
-cla(e)ri(ghg)tá(h/hfg)tis(GHig/hg) su(egffs)æ.(fe) (::)
-<sp>V/</sp> Só(ikjjo~)bri(h!iwji)e,(hhO1g) et(i) jus(ij)te,(h) (,)
-et(h) pi(hi)e(h) vi(h)vá(h)mus(hg) in(h) hoc(j) sǽ(j)cu(ikjjs)lo,(ji) (;)
-ex(hg)spec(hj)tán(j)tes(j) be(jh)á(ij)tam(i) spem,(i) (,)
-et(i) ad(i)vén(ij~)tum(i) gló(i)ri(i)æ(ikjjvIHiwji) ma(hg~)gni(g!h!iwj) De(jiiO1hivHGh)i.(hg) (::)
-<sp>+</sp> Qui.(e) (::)  
+initial-style: 1;
+name: Salvatorem exspectamus;
+mode: 3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iii;
+nabc-lines: 1;
+%%
+(c4) Sal(g|ta)va(g|ta)tó(g!hwi/jo|qlppt1orhm)rem(i|ta) *() ex(jjoi|pr)spec(h|ta)tá(hjji|pe-cl-hg)mus(gh!iwjIHijggo/efe|ql-hhppt2su2tohiorhktohl) (,) Dó(e!foh|sa)mi(h|vi)num(ixh!iwj>|//vi-ql>hjlsal3) Je(g|vi)sum(f!go!h>|sa>lsi3) Chri(gv//fhggoFEf|vi-/tohjpihjsu1vihj)stum,(fe|cl-) †(;) Qui(e|``talse4) re(e|ta)for(fg~|ta>)má(gh|pe)vit(g|ta) cor(h>|vi>)pus(ixhg/hih|////cllsc2to) hu(gf|cllss8)mi(g|vihg)li(h!iwj|vi-hhqlhk)tá(jvjvIG|vi-hh``ci-hhlsi8)tis(jk|peShi) no(ixjh/hwihi|////cl-ql!po)stræ(hhog|pr) (;) con(ixhi~|////ta>)fi(h|ta)gu(h|ta)rá(h|ta)tum(hg~|vi>) cór(ixh!iwj|///ql>ppt1lsal3)po(g|vi)ri(ef!gwh/igfssded|qlhhppt2clShids-hjtohj) (,) cla(f|vi)ri(ghg|to)tá(ixh/ifg|////vi-pohilsi8)tis(g!hig/hg|clpp2cl-hi) su(egffs|tosthh)æ.(fe|cl-) (::)
 
+<sp>V/</sp> Só(ikjjs|//tohhsthj)bri(h!iwji|ql!clppt1)e,(hhog|pr) et(i|vi) ju(ij|vs)ste,(h|ta) et(h|ta) pi(hi|pe)e(h|ta) (,) vi(h|ta)vá(h|ta)mus(hg|cllsc3) in(h|vi) hoc(j|vihh) sǽ(i|ta)cu(ikjjs|//tohisthj)lo,(ji|cl-) (;) ex(ig|cl)spec(hi|pe)tán(i|ta)tes(i|ta) be(i|ta)á(i!jo|vs)tam(i|ta) spem,(i|ta) (,) et(i|ta) ad(i|ta)vén(i!jo|vs)tum(i|ta) gló(i|ta)ri(i|ta)æ(ikjjvIH/iwji|////trShhsut2qihj!clhj) ma(hg|cllsc3)gni(gh!iwj|``qlhhppt2) De(jiioh/ivHGh|//cl!pici-vihg)i.(hg|cl-) (::)
+†() Qui(e|``talse4) re(e|ta)for(fg~|ta>)má(gh|pe)vit(g|ta) (::)

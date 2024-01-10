@@ -1,14 +1,21 @@
+name:Intuens in caelum V Cum autem esset V Gloria;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) In(f)tu(fd)ens<sp>*</sp>(e) in(e) cœ(fe)lum(egf!efvEDed) (,) 
-be(bxcd/ccO1b)á(df)tus(fdgvFGhgh) Sté(e)pha(egfFs)nus,(eeo1!fv) (;)
-vi(d!ewg!hi)dit(h) gló(hi)ri(h)am(h) De(hggO1f)i,(g) et(h) a(ghgFEf)it:(eeo1!fv) (:)
-<sp>+</sp> Ec(dg)ce(g) ví(hiHGhwijo~)de(i)o(i) cœ(i!jo1!kv)los(jvvIH) a(h!iwjij)pér(h!iwjii>)tos,(hg/hih) (;)
-et(Fsss) Fí(fd)li(fe)um(fg) hó(g)mi(gf!gwhgh)nis(hg) stan(ghffvvDEFGHjvHGFgwh/ihg~)tem(hg) a(gh) dex(h)tris(hgFssded) vir(f!gwhg~)tú(hhfg)tis(GHighg) De(egfFs)i.(fe) (::)
-<sp>V/</sp> Cum(h) au(gh~)tem(gf!gwhghvGEfe) es(g)set(g) Sté(gh)pha(g)nus(g) ple(g)nus(g) Spí(gf)ri(gh)tu(gf) San(e!fwgf)cto,(fe) (;)
-in(f)tén(de~)dens(e) in(e) cœ(e!fo1)lum,(e) vi(e)dit(e) gló(e!fo1)ri(e)am(e) De(e!fwgFE)i(g) et(ghghvGF) a(Efgef)it.(ed) (::)
-<sp>+</sp> Ec(dg)ce.(g) (::)
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;) 
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(ghghGF) San(E/0Fgef>)cto.(ed) (::)
-<sp>+</sp> Ec(dg)ce.(g) (::)
+initial-style: 1;
+name: Intuens in caelum;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) In(d|ta)tu(fd|cllss2lsc3)ens(e|vi) *() in(e|vi) cæ(fe|cl-)lum(egFEfvEDed|toS2sut1ci-cl-) be(cd/ccob|peS``pr)á(de|peS)tus(fd/gv//f!ghgh|poG-lss2pohlpp2) Sté(e|ta)pha(egffs|tosthh)nus,(eeof|sa) (;) vi(ixd!ewg/hi|ql-ppt1pehk)dit(h|ta) gló(ixhi|////pe)ri(h|ta)am(h|ta) De(hggof|cl!pi)i(g|vi) et(h|vi) a(ghGFEf|toSsu2vihg)it:(eeof|sa) †(;) Ec(dg|peSlsi7lss3)ce(g|vi) ví(hiHG/hwi/jo|pe-su2ql-hgorhj)de(i|ta)o(i|ta) cæ(i!jok|sa)los(jvjvIH|bv-su2) a(h!iwjij|ql!poppt1)pér(h!iwjijg~|ql!po>ppt1)tos,(ixhg/hih|//////cllsc2to) (;|) et(fsss|//ts) Fí(fd|cllsc3)li(fe|cl)um(fg|pe) hó(gh|peS)mi(gf!gwhgh|cl-`qlhg!pohg)nis(hg|cl-) (,) stan(ixghffvfv//def!gh!jvHGF/gwh/ivH~G~|////toSbv-hgvi-hkppt5suu3/ql-hkcl>hmlst3)tem(hg|cl-) (;) a(gh|peS) dex(h|vi)tris(hgfssded|clSds-tolsi7) vir(f!gwhg~|vi-ql>hjlsi6)tú(ixh/ifg|////vi-pohjlsi8)tis(g!hig/hg|//pfSpp2) De(egffs|//tosthh)i.(fe|cl-) (::)
 
+<sp>V/</sp> Cum(h|vi) au(gh~|ta>)tem(gf!gwhghvGEfe|cl-`qlhg!cl-hgci-hicl-hi) es(g|vi)set(g|vi) Sté(gh|pe)pha(g|ta)nus(g|ta) ple(g|ta)nus(g|ta) Spí(gf|cllsc3)ri(gh|pe)tu(gf|cllsc3) Sanc(e!fwgf|ql!cl-ppt1)to,(fe|cl-) (;) in(f|vi)tén(de~|ta>)dens(e|ta) in(e|ta) cæ(e!fo|vshe)lum,(e|ta) (,) vi(e|ta)dit(e|ta) gló(e!fo|vshe)ri(e|ta)am(e|ta) De(e!fwgFE|ql-ppt1su2)i(g|vi) et(ghghGF|to-ci-hg) a(e!fgffs|pohhpp2)it.(eeof|sa) (::)
+†() Ec(dg|peSlsi7lss3)ce(g|vi) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`qlhg!cl-hgcl-hg) Pá(gf|cllsc3)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|toci-hg) Sánc(e!fgffs|pohhpp2)to.(eeof|sa) (::) 
+†() Ec(dg|peSlsi7lss3)ce(g|vi) (::)

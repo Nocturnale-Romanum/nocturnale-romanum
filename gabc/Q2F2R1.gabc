@@ -1,12 +1,19 @@
+name:Dum iret Jacob V Aedificavit ex lapidibus;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Dum(e) i(fhfgwh)ret<sp>*</sp>(g) Ja(hg)cob(hffe) de(fe) Ber(f)sa(f!gwhihHs>)bé(hg)e,(g) (;)
-et(f) pér(hj~)ge(j)ret(j) Ha(jkJI)ran,(ji) (,)
-lo(gh)cú(ij)tus(i) est(h) e(ih)i(f!gwh) De(h)us,(g!hwiHGFgwhGF) di(EFgvFEf)cens:(fe) (:)
-<sp>+</sp> Ter(hg/ig/hg)ram,(gf)  (,)
-in(hf~) qua(gh) dor(ij)mis,(ih/iji) ti(h)bi(ij) da(hvvGFEfg)bo,(ffO1e) (;) 
-et(DFhv) sé(hvGFfih/ij)mi(i)ni(ighwiHGFgwhGF) tu(EFgvFEf)o.(fe) (::)
-<sp>V/</sp> Æ(i)di(i)fi(i)cá(i!jwkJI)vit(hi/hhO1g) ex(h) la(h)pí(hi)di(h)bus(h) al(h)tá(hi)re(h) in(h) ho(h)nó(h)rem(h) Dó(hi)mi(h)ni,(h) (,)
-fun(h)dens(h) ó(ig)le(hi)um(hi) dé(i)su(i!jwkj)per:(ji) (;)
-et(hi/hhg~) be(hih)ne(i)dí(ij)xit(i) e(i)um(ijijvIH) De(hg)us,(h!iwji/jkj) di(ih!iwjij)cens.(ivHGhg) (::)
-<sp>+</sp> Ter(hg/ig/hg)ram.(gf) (::)
+initial-style: 1;
+name: Dum iret Jacob;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Dum(e|ta) i(fgf/g!ho|tovs)ret(g|ta) <sp>*</sp>() Ja(h|vi)cob(hf/gvFE|cl-ci-hh) (,) de(e|ta) Ber(f!gwh|```vi-qlhi)sa(gihhs|//tosthh)bée,(ggoh|sa) (;) et(fe~|vi>lsi6) pér(h!ioj|``salsl4)ge(jij|po)ret(i|ta) Ha(ij|pe)ran,(jvIHG|vihisu1sut2) (,) lo(gh|peS)cú(iji/jkj|////tohhtohilsc2)tus(i|vi) est(h|ta) e(ih|cllsc3)i(f!gwh|qlppt1) De(g|ta)us,(g!hwiHGF/gwhGF|qlhh!vshhppt1sut2qi-hisu2) di(ef!gvFEf|//ci-hhpp2vihh)cens:(fe|cl-) (:)
+<sp>+</sp> Ter(hv//fh!ivHGhg|vi-ci-hhpp2clhhlsc3)ram,(gf|cl-) (`) in(hvGF|ci-) qua(gh|peS) dor(ij|peShh)mis,(ji/jkj|clhhlsc3tohi) (,) ti(h|ta)bi(ij|pe) da(hg|cl-)bo,(fe|cl-) (,) et(e/fh~|ta-/ta>hg) sé(h|vi)mi(f!gwh|qlppt1)ni(g!hwiHGF/gwhGF|ql!vsppt1sut2qi-hhsu2) tu(ef!gvFEf|//ci-hhpp2vihh)o.(fe|cl-) (::)
+
+<sp>V/</sp> Æ(i|ta)di(i|ta)fi(i|ta)cá(i!jwkJI|ql-hhppt1su2)vit(hi/hhog|peS``pr) Ja(hi|pe)cob(h|ta) ex(h|ta) la(h|ta)pí(hi|pe)di(h|ta)bus(h|ta) (,) al(h|ta)tá(hi|pe)re(h|ta) in(h|ta) ho(ig|cllsc3)nó(hi|pe)rem(hi|pe) Dó(i|ta)mi(i!jwkj|qlhh!cl-hhppt1)ni,(ji|cl-hh) (;) fun(hi/hhog~|peS`vs>)dens(hih~|pe>) ó(i|vi)le(i|vi)um(i|vi) dé(ij|pe)su(i|ta)per:(i|ta) (,) et(i|ta) be(i|ta)ne(i|ta)dí(i|ta)xit(i|ta) e(i|ta)um(ijijIH|//tr-1hhsu2) De(ih|cllsc3)us,(h!iwji/jkj|ql!clppt1tohk) di(ih!iwjij|cl-hh`qlhh!pohh)cens.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> Ter(hv//fh!ivHGhg|vi-ci-hhpp2clhhlsc3)ram.(gf|cl-) (::)

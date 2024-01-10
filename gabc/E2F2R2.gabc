@@ -1,7 +1,19 @@
+name:Adjutor meus esto Deus V Neque despicias;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Ad(h)jú(h)tor(h) me(h)us(gf) es(gh)to,(fe) De(DEfvEDe)us:(ed) (:)
-<sp>+</sp> Ne(d) de(f)re(fe)lín(go0!hv)quas(d!ewfef) me.(ed) (::)
-<sp>V/</sp> Ne(h)que(hghg/gO1f) de(g)spí(gh)ci(g)as(g) me,(g) De(gh)us,(g) sa(g)lu(hf)tá(gh)ris(gh) me(ixh/iiO1h)us.(h) (::)
-<sp>+</sp> Ne.(d) (::)
+initial-style: 1;
+name: Adjutor meus esto;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) Ad(h|vi)ju(h|vi)tor(h|vi) me(h|vi)us(gf|cllsc3) es(gh|peS)to,(fe|cl-lsi7) <sp>*</sp> De(de!fvEDe|ci-hhpp2vihh)us,(ed|cl-) (;)
+<sp>+</sp> Ne(d|``talse7) de(f|vi)re(fe|cllsc3)lín(goh|pqlss2)quas(d!ewfef|ql!poppt1) me.(ed|cl-) (::)
 
+<sp>V/</sp> Ne(h|vi)que(hg/hggof|pf1lsc2pihglst2) des(g|vi)pí(gh|pe)ci(g|ta)as(g|ta) me,(g|ta) De(gh|pe)us,(g|ta) (`) sa(g|ta)lu(hf|cllsc3)tá(gh|pe)ris(gh|pe) me(ixh/iioh|////ta-pr)us.(h|ta) (::)
+<sp>+</sp> Ne(d|``talse7) de(f|vi)re(fe|cllsc3)lín(goh|pqlss2)quas(d!ewfef|ql!poppt1) me.(ed|cl-) (::)

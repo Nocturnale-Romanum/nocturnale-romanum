@@ -1,11 +1,18 @@
+name:Ecce virgo V Super solium;
+office-part:re;
 mode:3;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Ec(g)ce(g) vir(hj~)go(j) con(j)cí(j)pi(ih)et,(h) (,)
-<sp>*</sp> et(g) pá(i)ri(j)et(h) fí(jh!iwj)li(g)um,(e!fh~) (,)
-di(hvf!go1!hv)cit(hiGFghg) Dó(e)mi(egffs)nus.(fe) (:)
-<sp>+</sp> Et(e) vo(e)cá(EFg@ho1)bi(g)tur(g) no(g)men(gh) e(h>)jus(gf/ghhg) (;)
-Ad(j)mi(j)rá(iiO1h)bi(jh!iwjGF)lis,(efh~) De(hvf!go1!hv)us,(hiGFghg) For(egffs)tis.(fe) (::)
-<sp>V/</sp> Su(i)per(i) só(ikjjs)li(h!iwji)um(hhO1g) Da(ij)vid,(h) et(h) su(h)per(hg~) reg(h)num(j>) e(ikjjs)jus(ji) (;)
-se(i)dé(i)bit(ikjjvIHiwji) in(hg~) æ(GH!iwj)tér(jiiO1hivHGh)num.(hg) (::)
-<sp>+</sp> Et(e) vo(e)cá(EFg@ho1)bi(g)tur.(g) (::)
+initial-style: 1;
+name: Ecce Virgo concipiet;
+mode: 3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iii;
+nabc-lines: 1;
+%%
+(c4) Ec(g|ta)ce(g|ta) Vir(hi~|ta>lsl3)go(i|vi) con(i|vihg)cí(j|vihh)pi(ih|cllsc3)et(h|vi) *(,) et(g|ta) pá(i|vi)ri(j|vihh)et(h|ta) Fí(jh!iwj|cl-`qlhg)li(g|vi)um,(e/fh~|ta-ta>hg) (,) di(hv/f!goh|vi-sahg)cit(ixhiGFghg|////pesu2lsc2tohg) Dó(e|ta)mi(egffs|tosthh)nus;(fe|cl-) †(:) Et(e|ta) vo(e|ta)cá(ef!g!ho|vshhpp2lsc3)bi(g|ta)tur(g|ta) no(g|ta)men(gh|pe) e(h>|vi>)jus(gf/ghhg|clpe-cl-hg) (,) ad(i|vihe)mi(j|vi)rá(iioh|pr)bi(jh!iwjIG|cl-`ql-su2)lis,(e/fh~|ta-lsi7ta>hg) (,) De(hv/f!goh|vi-sahg)us,(ixhiGFghg|////pesu2lsc2tohg) for(egffs|tosthh)tis.(fe|cl-) (::)
 
+<sp>V/</sp> Su(i|ta)per(i|ta) só(ikjjs|//tohhsthj)li(h!iwji|ql!clppt1)um(hhog|pr) Da(ij|vshe)vid,(h|ta) (,) et(h|ta) su(h|ta)per(hg|cllsc3) re(h|vi)gnum(j|vihh) e(ikjjs|//tohhsthj)jus(ji|cl-) (;) se(i|ta)dé(i|ta)bit(ikjjvIH/iwji|////trShhsut2qihi!clhi) in(hg|cllsc3) æ(gh!iwj|``qlhhppt2)tér(jiioh/ivHGh|cl!pici-hgvihh)num.(hg|cl-) (::)
+†() Et(e|ta) vo(e|ta)cá(ef!g!ho|vshhpp2lsc3)bi(g|ta)tur.(g|ta) (::)

@@ -1,12 +1,22 @@
+name:Benedicam Dominum in omni V In Domino laudabitur V Gloria;
+office-part:re;
 mode:5;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Be(f)ne(hj)dí(j)cam(h) Dó(HJkjk)mi(ij)num(hjg/h/ggO1f) (:)
-in(ffO1e) o(ghgh>)mni(hj) tém(g)po(fg)re:(gffO1e/f) (;)
-<sp>+</sp> Sem(f)per(gh~) laus(h!iwjgf~) e(fvege/f>)jus(dc) in(ffO1e) o(fgfg)re(ixjhjG2F2F2G2hvig/hwiHG) me(FGhvGFg)o.(gf) (::)
-<sp>V/</sp> In(j) Dó(j)mi(j)no(jkJsshih) lau(j)dá(jk)bi(j)tur(j) á(jh)ni(hk)ma(ij) me(ji!jwkjk)a,(kj) (;)
-áu(f)di(h)ant(j) man(j)su(j)é(j)ti,(ji/ji) et(ih~) læ(jk)tén(ji!jwkjIHi)tur.(ih) (::)
-<sp>+</sp> Sem(f)per.(gh~) (::c3z-)
-<sp>V/</sp> Gló(h)ri(h)a(hihssfgf) Pa(hf)tri,(fi) et(gh) Fí(h)li(hg!hwihi)o,(ih) (;) 
-et(h) Spi(h)rí(hg/0hg)tu(gf)i(hi) San(hg!hwihGFg)cto.(gf) (z0::c4)
-<sp>+</sp> Sem(f)per.(gh~) (::)
+initial-style: 1;
+name: Benedicam Dominum;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines:1;
+%%
+(c4) BE(f|ta)ne(hj|pe)dí(j|vi)cam(h|ta) <sp>*</sp> Dó(hj!kjk|//pohjpp2)mi(ixij|////pe)num(hjg/hv/ggof|////toSvi-`pr) (,) in(ffoe|pr) om(ghgh>|////tr>)ni(gh|pe) tém(f|ta)po(fg|peS)re:(gffod/fv|cl-pivi-) (;)
+<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv/egffd~|vi-toS2vi>)jus(dc|cl-) (,) in(ffoe|pr) o(ghgh|//tr)re(ixjhiGF|////posu1sut1lssc2|//eg!hv/ig!hwiHG|//vi-hgpp2cl-hjqi-hjsu2) me(fg!hvGFg|//ci-hhpp2vihh)o.(gf|cl-) (::)
 
+<sp>V/</sp> In(j|vi) Dó(j|vi)mi(j|vi)no(jk/jsshih|pe-hids-hitohj) lau(j|vi)dá(jk|pehh)bi(j|ta)tur(j|ta) á(jh|clhhlsc3)ni(hk|pehh)ma(ij|pehh) me(ji!jwkjk|////cl-hhqihh!pohh)a,(kj|cl-hh) (;) áu(f|``talsi7)di(h|vi)ant(j|vihh) man(j|vihh)su(j|vihh)é(j|vi)ti(ji/ji|////pf1hhlsc2) et(ih~|vi>hh) læ(jk|``peShhlss7)tén(ixji!jwkJIHi|//////cl-hhqlhh!vshhsu2vihh)tur.(ih|cl-) (::)
+<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv/egffd~|vi-toS2vi>)jus(dc|cl-) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(j|vihh)a(jk/jss/hih|pe-hhds-hitohi) Pa(jh|clhhlsc3)tri,(hk|pehh) et(ij|pehh) Fí(j|tahh)li(ji!jwkjk|////cl-hhqlhh!pohh)o,(kj|cl-hh) (;) et(j|ta) Spi(j|ta)rí(ji/ji|pf1hhlsc2)tu(ih|clhh)i(jk|peShh) Sanc(ixji!jwkJIHi|//////cl-hhqlhh!vshhsu2vihh)to.(ih|cl-hh) (::)
+<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv/egffd~|vi-toS2vi>)jus(dc|cl-) (::)

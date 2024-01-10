@@ -1,6 +1,19 @@
+name:Hodie in Jordane V Descendit Spiritus;
+office-part:re;
 mode:3;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)Hó(g)di(hj)e(i) <v>\greheightstar</v>() in(jjO1is<) Jor(h)dá(hjji)ne(GH!iwjIH/ijggo~/efe) (,) bap(e)ti(fg)zá(g)to(hggO1e) Dó(f)mi(ghgh!iv)no(h) (;)
-a(h)pér(jhjsjsjs)ti(g) sunt(ghGFghg) cœ(egffs)li,(fe) (:) et(ge/fs) si(ed)cut(gh) co(g)lúm(ig/hsjsjskjjs)ba(ji) su(g)per(GH!iwj) e(ji/iO1h/ivHGh)um(hg) Spí(j)ri(j)tus(iiO1h) man(jvIHiV!hg~)sit,(hg) (;)
-et(gh) vox(j/kjk) Pa(i!jo1)tris(h) in(h)tó(hgh)nu(ege/fvEDe)it :(ed) †(:) Hic(gvfsfs/ded/g!hwjIH!iwjjo~) est(i) Fí(j)li(ji)us(h) me(h)us(gf) di(gh)lé(g)ctus,(ge/fvED/ed) (;) in(f) quo(ghg) mi(hihGFgh)hi(g) com(GH!iwjIHjg!hwiHgs>)plá(e)cu(egffs)i.(fe) 
-<sp>V/</sp>(::) De(i)scén(ikjjs)dit(h!iw!j!i/hhO1g) Spí(i)ri(i)tus(i) San(i!jo1)ctus(h) (,) cor(h)po(h)rá(hi)li(h) spé(h)ci(h)e(h) si(hi)cut(h) co(h)lúm(hg)ba(h) in(j) i(ikjjs)psum,(ji) (;) et(hg) vox(hi) de(i) cœ(ikjIH!iwji)lo(hg) fa(GH!iwj)cta(jiiO1h/ivHGh) est :(hg) †(::) Hic.( ) (::)
+initial-style: 1;
+name: Hodie in Jordane;
+mode: 3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iii;
+nabc-lines: 1;
+%%
+(c4) Hó(g|ta)di(hi|pe)e(i|ta) <sp>*</sp>(,) in(jjoi>|pr>) Jor(h|ta)dá(hjji|pe-cl-hg)ne(gh!iwjIHijggo/efe|ql-hhppt2su2tohgorhitohj) (,) bap(e|ta)ti(fg|pe)zá(g|vihg)to(hggof|cl!pilsm2) Dó(g|vi)mi(ixhgh/iv|////po-1vihl)no(h|ta) (,) a(h|ta)pér(jhjsss|cllsc2tshh)ti(g|ta) sunt(ghGFghg|pe-tohg) cæ(egffs|tolsi7sthh)li,(fe|cl-) (:) et(gffs|cllss2sthh) sic(fd|cllsc3)ut(gh|``peSlsl4) co(g|ta)lúm(ighsjsskjjs|////cllsl2tsMclhisthj)ba(ji|cl-) (,) su(g|ta)per(gh!iwj|`ql-hhppt2) e(jiioh/ivHGh|////cl!pilsc2ci-vi-)um(hg|cl-) (,) Spí(i|vi)ri(j|vi)tus(iioh|pr) man(jvIHivH~G~|////ci-cl>lst3)sit,(hg|cl-) (:) et(gh|``peSlse4) vox(j/kjk|vi-lsl2pohilss2) Pa(i!jo|vshelsc3)tris(h|ta) in(h|ta)tó(hgh|//po)nu(fge/fvEDe|toSci-hhvihh)it:(ed|cl-) (:)
+
+<sp>+</sp>() Hic(gvfssded|vi-ds-hitohi|/g!hwiHG/hwi/jo|ql-hippt1sut2qi-hjorhm) est(i|ta) (,) Fí(j|vi)li(ji|cllsc3)us(h|ta) me(h|vi)us(gf|cllsc3) di(gh|pe)léc(g|ta)tus,(ge/fvEDed|//cl-ci-cl-) (;) in(f|vi) quo(ghg|//to) mi(ixhiHGFgh|////toSsu2peShh)hi(g|ta) com(iygh!iwjIHig!ixhwiH!Gs>|//////ql-hippt2sut2cl-hiql-hjsut1sux1)plá(e|ta)cu(egffs|//tosthh)i.(fe|cl-) (::)
+<sp>V/</sp> De(i|ta)scén(ikjjs|//tohhsthj)dit(h!iwjihhog|qlhh!cl-hhppt1prhj) Spí(i|vi)ri(i|vi)tus(i|vi) Sanc(i!jo|vs)tus(h|ta) (,) cor(h|ta)po(h|ta)rá(h|ta)li(h|ta) spé(hi|pe)ci(h|ta)e(h|ta) (,) sic(h|ta)ut(h|ta) co(h|ta)lúm(hg|cllsc3)ba(h|vi) in(j|vi) ip(ikjjs|tohhsthj)sum,(ji|cl-hh) (;) et(i|tahh) vox(i|tahh) de(i|tahh) cæ(ikjjvIH/iwji|////toShhci-hiqlhi!cl-hi)lo(hg|clhhlsc3) fac(gh!iwj|```ql-hjppt2)ta(jiioh/ivHGh|////clhh!pihhci-hhvihh) est:(hg|cl-) (::)
+<sp>+</sp>() Hic(gvfssded|vi-ds-hitohi|/g!hwiHG/hwi/jo|ql-hippt1sut2qi-hjorhm) est.(i|ta) (::)

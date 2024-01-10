@@ -1,15 +1,22 @@
+name:Cum turba plurima V Et sum seminat V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Cum(de>) tur(ef)ba(ef/eeO1d) plú(ef)ri(e)ma<sp>*</sp>(EFgwhGFgf/gf) (,)
-con(ef~)ve(EFgwh!ijIHih)ni(e!fwge)ret(e) ad(de~) Je(effe)sum,(e)  (;)
-et(e) de(eh/ih!iwji!h) ci(ivHGFE)vi(f)tá(fg)ti(f)bus(f) (,)
-pro(fe)pe(d)rá(ef)rent(EFgwhGFE) ad(de~) e(e/fgfg)um,(fe) (:) 
-di(hvGFgwh!iv)xit(hf) per(fg~) si(f)mi(ed)li(ef)tú(hefe)di(de)nem:(e) (;) 
-<sp>+</sp> Ex(evD/B/DEfe)i(de)it(e) qui(f!gwh) sé(hihGFEfgf!e)mi(de)nat,(e) (,)
-se(fe)mi(de)ná(ef)re(EFgwh!ivHFgvFEf) se(fe)men(de~) su(EFgvFEf)am.(fe) (::) 
-<sp>V/</sp> Et(eh~) dum(ge) sé(fg)mi(g)nat,(gf) á(hi)li(h)ud(h) cé(h)ci(h)dit(h) in(gf) ter(gh~)ram(fh) bo(e!fwgf)nam,(fe) (;)
-et(e) or(de~)tum(ed) fe(ef)cit(e) fruc(fe/f)tum(df~) cén(h>)tu(g)plum.(f!gwhffO1e) (::)
-<sp>+</sp> Ex(evD/B/DEfe)i(de)it.(e) (::c4) 
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (z0::c3) 
-<sp>+</sp> Ex(evD/B/DEfe)i(de)it.(e) (::)
+initial-style: 1;
+name: Cum turba plurima;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Cum(fg|pe) tur(gh|pe)ba(ghGF|peSsu2) <sp>*</sp> plú(gh|pe)ri(g|ta)ma(gh!iwjIHihhg|``ql-hhppt2su2clScl-) con(gh|pe)ve(gh!iwj/klKJ|``ql-hmppt2pehpsu2)ní(kjjvIHGhig|////clShjci1hjtohklsc2)rent(g|vi) ad(fg|pe) Je(ghhg|pe-`cl-hg)sum,(g|ta) (;) et(g|``talse4) de(gj/kj!kwlKJ|pe-hmcl-hmql-hnsu2) ci(kjjvIHG|clShkci1hk)vi(h|vi)tá(hi|pe)ti(hg|cllsc3)bus(g|ta) (,) pro(hg|cllsc3)pe(fg|pe)rá(gh|pe)rent(gh!iwjIHG|ql-hhppt2su3) ad(fg|pe) e(g!hwihi|ql!poppt1)um,(hg|cl-) (;) di(jvjvIH/iwj/kv|//bv-hjsut2ql-hjvihm)xit(jh|cl) per(hi|pe) si(h|vi)mi(gf|cllsc3)li(gh|pe)tú(jjog/hg|//prMcllsc3)di(fg|pe)nem:(g|ta) (:) 
+<sp>+</sp> Ex(gffvED/ewf/ghg|cl-lse4vi-sut2ql-toShi)i(fg|pe)it(g|ta) (,) qui(h!iwj|``vi-qlhj) sé(jkJHivHG|peShjsu1sut1ci-hj)mi(fg/hig|peStohi)nat,(g|ta) (,) se(hg|cllsc3)mi(fg|pe)ná(gh|pe)re(gh!iwj/kjjh/ivHG|ql-hjppt2clShlcl-hlci-hl) se(hg|cllsc3)men(fg|pe) su(g!hwihi|ql!poppt1)um.(hg|cl-) (::)
+
+<sp>V/</sp> Et(gj|pe) dum(ig|cllsc3) sé(hi|pe)mi(i|vi)nat,(ih|cl-) (,) á(jk|pehjlsl4)li(j|tahh)ud(j|tahh) cé(j|tahh)ci(j|tahh)dit(ji|clhhlsc3) in(ih|clhhlsc3) ter(ij|pe)ram(hi|pe) bo(g!hwih|ql!cl-ppt1)nam,(hg|cl-) (;) et(g|vi) or(fg|pe)tum(g|ta) fe(gh|pe)cit(g|ta) fruc(hgh|//polsc2)tum(fh|peS) cén(j|``vilss1)tu(j|vi)plum.(ih/ijhhog|//cllsc3to!pi) (::)
+<sp>+</sp> Ex(gffvED/ewf/ghg|cl-lse4vi-sut2ql-toShi)i(fg|pe)it(g|ta) (::)
+
+<sp>V/</sp> Gló(gj|pe)ri(ig|cllsc3)a(hi|pe) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(hgh|//polsc2)tu(fh|pe)i(j|vi) San(j|vi)cto.(ih/ijhhog|cllsc3to!pi) (::)
+<sp>+</sp> Ex(gffvED/ewf/ghg|cl-lse4vi-sut2ql-toShi)i(fg|pe)it(g|ta) (::)

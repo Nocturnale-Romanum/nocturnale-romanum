@@ -1,14 +1,22 @@
+name:Ego dixi Domine V Ab omnibus V Gloria;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) E(e)go(egFss) 
-<sp>*</sp> di(fe)xi,(fg) Dó(g)mi(gf!gwhgh)ne,(hg) (;)
-mi(g!hwiHGhwiHG)se(gffvED)ré(f!go1!hv)re(g) me(egfFs)i:(fe) (:)
-<sp>+</sp> Sa(g)na(gh) á(h)ni(hggO1f)mam(gh>) me(ghgFEf)am,(fe) (;)
-qui(e)a(e!fwg!hv) pec(g)cá(hggO1f)vi(FGhvig/hg) ti(egfFs)bi.(fe) (::)
-<sp>V/</sp> Ab(h) ó(h)mni(gh)bus(gf!gwhghvGEfe) i(g)ni(g)qui(g)tá(gf)ti(gh)bus(gf) me(e!fwgf)is(fe) (;)
-é(f)ri(de)pe(e!fwgFE) me,(g) Dó(ghghvGF)mi(EFgef)ne.(ed) (::)
-<sp>+</sp> Sa(g)na.(gh) (::)
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;) 
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(ghghGF) San(E/0Fgef>)cto.(ed) (::)
-<sp>+</sp> Sa(g)na.(gh) (::)
+initial-style: 1;
+name: Ego dixi Domine;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp. ;
+annotation: iv;
+nabc-lines:1;
+%%
+(c4) E(e|ta)go(eg/fssded|pe-ds-hhtohh) di(fe|cl)xi:(fg|pe) Dó(g|vi)mi(gf!gwhgh|cl-`qihg!pohg)ne,(hg|cl-) (;) mi(ixg!hwiHG/hwiHG|////ql-ppt1sut2qi-hhsu2)se(gffvED|clSci-)ré(f!goh|sa)re(f|vi) me(egffs|tosthh)i:(fe|cl-) (;)
+<sp>+</sp> Sa(f|vi)na(gh|pe) á(h|vi)ni(hggof|cl!pilsc2)mam(gh>|pe>) me(ghGFEf|toSsu2vi)am,(fe|cl-) (;) qui(e|ta)a(e!fwg/hv|qlppt1vihn) pec(g|ta)cá(hggof|cl!pi)vi(ixfg!hv/ig/hg|////vi-pp2/pfShmlss2) ti(egffs|tosthh)bi.(fe|cl-) (::)
 
+<sp>V/</sp> Ab(h|vi) óm(h|vi)ni(gh|pe)bus(gf!gwhghvGEfe|cl-`qihg!cl-hg``ci-hjcl-hj) i(g|vi)ni(g|vi)qui(g|vi)tá(gf|cllsc3)ti(gh|pe)bus(gf|cllsc3) me(e!fwgf|ql!cl-ppt1)is(fe|cl-) (;) é(e|ta)ri(e|ta)pe(e!fwgFE|ql-ppt1su2) me,(g|vi) Dó(ghghGF|////tr-1su2)mi(e!fgffs|//popp2)ne.(ed|cl-) (::)
+<sp>+</sp> Sa(f|vi)na(gh|pe) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`qlhg!cl-hg``ci-hj) Pa(gf|cllsc3)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|////tr-1su2) Sán(e!fgffs|//popp2)cto.(ed|cl-) (::)
+<sp>+</sp> Sa(f|vi)na(gh|pe) (::)

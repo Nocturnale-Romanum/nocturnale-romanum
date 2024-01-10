@@ -1,3 +1,22 @@
+name:Sicut per inoboedientiam V Venit Nazareth V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)Si(f!gh)cut(g) *() per(gh~) in(g)o(g)bœ(g)di(g@ho@iv)én(h>)ti(h)am(hi/h@iw@jg/hg/gO1f) (;) u(f)ní(g)us(h) hó(ij)mi(hg)nis(g) pec(hf)ca(g)tó(hg)res(g) con(hvGFgh>)sti(g)tú(gh)ti(g) sunt(GHiwjIHiwjIH) mul(GHivHGh)ti:(hg) (:)* I(jkj)ta(jh) et(jkj) per(jk~) u(ki/jo@kv)ní(h!iwjIHGh)us(hg) (;) ob(hf)œ(ghg)di(h)ti(h)ó(hjHG)nem(hf/g!hwi/jvIHiwjIH) ius(GHivHGh)ti(hg) (;) con(hf)sti(ghg)tu(h)én(hjHG)tur(hf/g!hwi/jvIHiwjIH) mul(GHivHGh)ti.(hg) (::) <sp>V/</sp>. Ve(ji)nit(jkjijihhO1g) Ná(hi)za(i)reth(i) et(i) e(ij)rat(i) súb(hiHGhih)di(ghf)tus(gh) il(h!iji/jkjIH)lis.(hiHGhg) (::)* I(jkj)ta(jh) (::) 
+initial-style: 1;
+name: Sicut per inoboedientiam;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines: 1;
+%%
+(c4) Sic(f/gh|scG)ut(g|talsew3) <sp>*</sp> per(g|ta) i(g|ta)no(g|ta)bœ(g|ta)di(g|ta)én(gh|pe)ti(h|vi)am(ixhg/higgf|////cltoS2cl-) (,) u(g|ta)ní(gh|pe)us(g|ta) hó(h|vi)mi(h/jvIH|ta-ci)nis(ghGF|pe-1su2) pec(g|vi)ca(g|vi)tó(goh|pq)res(d|``grlsi4) (,) con(g|vilsl3)sti(g|ta)tú(gh|pe)ti(g|ta) sunt(g/hfg|///ta-po) mul(g!hwihi|//ql!poppt1)ti:(hg|cl-) (;)
+<sp>+</sp> I(jvjv|bv)ta(klKJI/jwkkj|//pe-1hksut3qi-hkcl-hl) et(ji|clhhlsc3) per(ig|clhhlsc3) u(h|vi)ní(hi|pe)us(i|ta) ob(j|vilsl2)œ(ji|cllsc3)di(j|vi)ti(jkj|//tohh)ó(jh!iwjIHGh|cl-`qlhg!vshgsu2vihh)nem(hg|cl-) (;) jus(hvGFgh|ci-peS)ti(g|ta) con(g|ta)sti(gh|pe)tu(g|ta)én(g|ta)tur(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hisu2) mul(gh!ivHGh|//ci-hhvihh)ti.(hg|cl-) (::)
+
+<sp>V/</sp> Ve(ji|cl)nit(jkj/iji/hhog|////totohgprhg) Ná(hi|pe)za(i|vi)reth(i|vi) (,) et(ih|cllsc3) e(jk|``pehhlsl4)rat(ji|clhhlsc3) súb(ih|cllsc3)di(ij|pe)tus(hi|pe) il(g!hwih|ql!cl-ppt1)lis.(hg|cl-) (::)
+<sp>+</sp> I(jvjv|bv)ta.(klKJI/jwkkj|//pe-1hksut3qi-hkcl-hl) (::)
+
+<sp>V/</sp> Gló(j|vi)ri(ji|//tohh)a(jkj/iji/hhog|tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|//toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> I(jvjv|bv)ta.(klKJI/jwkkj|//pe-1hksut3qi-hkcl-hl) (::)

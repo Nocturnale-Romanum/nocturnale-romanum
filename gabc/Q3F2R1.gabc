@@ -1,12 +1,19 @@
+name:Tollite hinc V Sumite de optimis;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Tol(e!f>)li(e)te(e) hinc<sp>*</sp>(e!f>) vo(e)bís(e)cum(DFgwh) mú(hihhg)ne(h!iwjij)ra,(hi) (;)
-et(i!jwkjk) i(i)te(h) ad(h) dó(hi)mi(h)num(gf>) ter(e/fhf/gf>)ræ:(fe) (:)
-et(ef~) cum(e) in(e)ve(e)né(ed)ri(DEfvgvFEf)tis,(fe) ad(ef)o(e)rát<e>e</e>(e) e(ecdvCBc)um(cb) su(dc)per(de~) ter(g!hwihi>)ram:(hg) (;)
-<sp>+</sp> De(ikj/ko1@li)us(i) au(jki~)tem(kkj~) me(IJkvJIj)us(ji) (,)
-fá(i)ci(h)at(h) vo(hg)bis(f) e(f!gwhgFE)um(f) pla(f!gwhihiO1!g)cá(f)bi(fefwgfg)lem:(fe) (:)
-et(d) re(efe)mít(f)tat(e) et(ef) hunc(e) fra(e)trem(ed~) ves(ef)trum(e) vo(EFgwh)bís(hfgwhgh)cum,(hg) (;)
-et(GHI) e(ijij)um(hho1!iv) quem(fe~) te(fvEDe)net(e) in(EFgwhGFgwhGFs<) vín(e)cu(EFgvFEf)lis.(fe) (::)
-<sp>V/</sp> Sú(i!jwkJI)mi(hg)te(hi/hhO1g) de(h) óp(hi)ti(h)mis(h) ter(h)ræ(h) frú(hi)gi(h)bus(h) in(ig~) va(hi)sis(hi) ves(i!jwkj)tris,(ji) (;)
-et(hi/hhg~) de(hih)fér(i)te(i) vi(ijijvIH)ro(hg) mú(h!iwji/jkj)ne(ih!iwjij)ra.(ivHGhg) (::)
-<sp>+</sp> De(ikj/ko1@li)us.(i ) (::)
+initial-style: 1;
+name: Tollite hinc vobiscum;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Tól(ef|pe>)li(e|ta)te(e|ta) hinc(ef>|pe>) <sp>*</sp> vo(e|ta)bís(e|ta)cum(ef!gwh|```qlhhppt2) mú(hihhg|///tocllsm2)ne(h!iwjij|qlhh!pohhppt1)ra,(ji|cl-hh) (,) et(i!jwkj|qlhh!clhhppt1) i(i|vi)te(h|ta) ad(h|ta) Dó(hi|pe)mi(h|ta)num(gf>|cl->) ter(e/fhf/gvF~E~|ta-/toS2hgcl->hg)ræ,(fe|cl-) (;) et(ef~|ta>) dum(e|ta) in(e|ta)ve(e|ta)né(ec|cllsc3)ri(gxde!fv/gvFEf|vi-hhpp2``ci-hlvihl)tis,(fe|cl-) (,) a(ef|pe)do(e|ta)rá(e|ta)te(ec|cl-) e(dvCBc|ci-vi)um(cb|cl-) su(dc|cl)per(de~|ta>) ter(e!fw!gfg>|vi-qlhj!po>hj)ram.(fe|cl-) (:)
+<sp>+</sp> De(ikj/ko!li|toShilsal2pqhk!cl-hk)us(i|ta) au(jkj~|`pe>1hjlsal3)tem(kkoj~|//vs>hjlsal2) me(ij!kvJIj|//ci-hjpp2vihj)us(ji|cl-hh) (,) fa(i|vi)ci(h|ta)at(h|ta) vo(hg|cl)bis(f|ta) e(f!gwhGFE|ql!vsppt1su2)um(f|vi) pla(f!gwh/ihhog|vi-qlhiclShkpihklst3)cá(f|ta)bi(gxfe!fwgfg|////cl-`qihg!pohg)lem,(gf|cl-) (;) et(d|ta) re(efe|//to)mít(f|vi)tat(e|ta) et(ef|pe) hunc(e|ta) fra(e|ta)trem(e>|vi>) ves(ef|pe)trum(e|ta) vo(ef!gwh|```qlhhppt2)bís(hf!gwhgh|//cl-`qihg!pohg)cum(gf|cl-) (;) et(fg!hv|```talse4tahhtahj) e(ijij|//tr)um(hhoi|sa) quem(h>|vi>) te(fvEDef|ci-peS)net(e|ta) in(ef!gwhGF/gwhG!Fs|ql-hhppt2sut2qi-hjsu1sux1) vín(e|ta)cu(ef!gvFEf|//ci-hhvihh)lis.(fe|cl-) (::)
+
+<sp>V/</sp> Sú(i!jwkJI|ql-hjppt1su1sux1)mi(hg|cl)te(hi/hhog|peS``pr) de(h|ta) óp(hi|pe)ti(h|ta)mis(h|ta) ter(h|ta)ræ(h|ta) (,) frú(hi|pe)gi(h|ta)bus(h|ta) in(ig~|vi>) va(hi|pe)sis(hi|pe) ves(i!jwkj|qlhi!cl-hippt1)tris,(ji|cl-hh) (;) et(hi/hhg~|peS`vs>) de(hih|//to)fér(i|ta)te(i|ta) vi(ijijIH|//tr-1hhsu2)ro(ih|cl) mú(h!iwji/jkj|//qlhh!clhhppt1tohm)ne(ih!iwjij|//cl-hh`qihi!pohi)ra.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> De(ikj/ko!li|toShilsal2pqhk!cl-hk)us(i|ta) au(jkj~|`pe>1hjlsal3)tem(kkoj~|//vs>hjlsal2) me(ij!kvJIj|//ci-hjpp2vihj).us(ji|cl-hh) (::)

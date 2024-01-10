@@ -1,12 +1,19 @@
+name:Frange V Cum videris;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Fran(d!ewf/gf~)ge<sp>*</sp>(f) e(fd)su(f)ri(g)én(ixghGFgwhg/hi~)ti(hg) pa(f!gh)nem(g) t<e>u</e>um,(fgffo~ded) (;)
-et(d) e(d)gé(f!gh)nos(g) va(g)gós(gh)que(g) in(gfg)duc(gf/Fsded) (,)
-in(d!ewf/gf~) do(fd)mum(f!go!h>) tu(hvGFEfwgfg)am:(gf) (:)
-<sp>+</sp> Tunc(f) e(ghg)rúm(h!iwjij>)pet(hih) qua(h)si(g) ma(ixf!gwhgh!iv)ne(h) lu(h)men(g) tu(f!gwhgh)um,(hg) (;)
-et(f) an(f)te(gh)í(ixhi)bit(h) fá(h)ci(hggO1e)em(gh) tu(fvED)am(dfd/c!dwed) (,)
-jus(cd)tí(fgFE)ti(f!gh)a(hg/hfgvFE) tu(d!ewfef)a.(ed) (::)
-<sp>V/</sp> Cum(h) ví(h)de(h)ris(hg/hggO1!f) nu(g)dum,(g) ó(hf)pe(gh)ri(gh) e(ixh/iiO1!h)um,(h) (;)
-et(gf~) car(gh)nem(h) tu(h)am(h) ne(hg/hg) de(gf)spé(ixf!gwhg/hih)xe(hvGFEfwg!hv)ris.(gf) (::)
-<sp>+</sp> Tunc.(f) (::)
+initial-style: 1;
+name: Frange esurienti;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) Fran(d!ewf/gf|ql-ppt1clhklsc3)ge(f|vi) e(d|ta)su(f|vihe)ri(g|vi)én(ixghGF/gwhgh/i>|//////pe-1sut2qlhg!pohgvi>hk)ti(hggo|cl-orhg) <sp>*</sp>(,) pa(f!gwhg|ql!clppt1)nem(ge~|vi>lsi6) tu(fge/fvEDe|toSci-hhvihj)um,(ed|cl-) (;) et(d|ta) e(d|ta)gé(f/gh|``scM1)nos(g|ta) va(g|ta)gós(gh|pe)que(gf|cllsc3) in(ghGFg|pe-su2vi)duc(fgffo/ded|//toorhgtohh) (`) in(d!ewf/gf|ql-ppt1clhklsc3) do(fd|cllsc3)mum(f!goh|sa) tu(hvGFE/fwgfg|////vi-hhsut3qi!po)am:(gf|cl-) (;)
+<sp>+</sp> Tunc(f|``talse4) e(gh|pe)rúm(hjij|//tr)pet(ixhih|//////to) qua(h|vihg)si(g|vi) ma(ixf!gwhgh/iv|//////ql!poppt1vihl)ne(h|vi) lu(h|vi)men(g>|vi>) tu(f!gwhgh|//ql!poppt1)um,(hg|cl-) (;) et(f|ta) an(f|ta)te(gh|pe)í(ixhi|////pe)bit(h|ta) fá(h|ta)ci(hggoe|cl!pi)em(gh|pe) tu(fvED|ci-)am(dfDCded|toS2sut1toShg) (,) jus(cd|``pelsi7)tí(fgFE|pe-1su2)ti(f!goh|sa)a(hg/hf/gvFE|pflsc2ci-hi) tu(d!ewfef|ql!poppt1)a.(ed|cl-) (::)
 
+<sp>V/</sp> Cum(h|vi) ví(h|vi)de(h|vi)ris(hg/hggof|clcl!pilst3) nu(gh|pe)dum,(g|ta) ó(hf|cllsc3)pe(gh|pe)ri(gh|pe) e(h/iioh|ta-pr)um,(h|ta) (;) et(hf~|vi>lsi6) car(gh|pe)nem(h|ta) tu(ixhi|////pe)am(h|ta) ne(hg/hg|pflsc2) des(hf|cllsc3)pé(ixf!gwhg/hih|///////ql!clppt1tohk)xe(hvGFE/fwg/hv|vi-hhsu1sut2ql-hgvihl)ris.(gf|cl-) (::)
+<sp>+</sp> Tunc(f|``talse4) e(gh|pe)rúm(hjij|//tr)pet.(ixhih|//////to) (::)

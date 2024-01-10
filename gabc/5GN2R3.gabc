@@ -1,12 +1,22 @@
+name:Deus domini mei Abraham V Obsecro V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) De(g)us(g) dó(gh)mi(g)ni(g) me(g)i(gf) A(h)bra(j)ham,(jijwkkj) (;)
-dí(j)ri(jgjvIHi!jo1)ge(i) vi(i)as(i!jwkjIHiwjIH) me(GHivHGh)as:(hg) (::)
-<sp>+</sp> Ut(g>) cum(g) sa(hjij)lú(jh/jg)te(g) re(f)vér(fg~)tar(h) in(h) do(hvjvIH)mum(g) dó(hvGFgh)mi(g)ni(GHiwjIHiwjIH) me(GHivHGh)i.(hg) (::)
-<sp>V/</sp> Ob(j)sé(ji)cro,(jkj/iji/hhO1!g) Dó(hi)mi(h)ne,(h) fac(h) mi(ih)se(ij)ri(hi)cór(g)di(g!hwih)am(hg) (;)
-cum(hiHGhih) ser(ghf~)vo(gh) tu(h!iwji/jkjIH)o.(hiHGhg) (::)
-<sp>+</sp> Ut.(g>) (::) 
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hV!g)  (::) 
-<sp>+</sp> Ut.(g>) (::)
+initial-style: 1;
+name: Deus domini mei Abraham;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) De(g|ta)us(g|ta) Dó(gh|pe)mi(g|ta)ni(g|ta) me(g|ta)i(f|cl) <sp>*</sp> A(h|vi)bra(j|vi)ham,(ji!jwkkj|cl-hiql-hicl-hj) (,) dí(j|ta)ri(ji/jvIHi!jo|////cl-hhci-hhvshh)ge(i|ta) vi(i|ta)as(i!jwkJIH/iwjIH|////qlhh!vshhppt1sut2qi-hisu2) me(gh!ivHGh|//ci-hhvihh)as,(hg|cl-) (;)
+<sp>+</sp> Ut(hf~|``vi>lse4) cum(g|vi) sa(hjij|//po)lú(jh/ig|pflsc2)te(g|vi) re(f|talsi8)vér(gh~|ta>)tar(h|vi) in(h|vi) do(h/jvIH|vi-cihklss2lsc3)mum(g|ta) dó(hvGFgh|//ci-peS)mi(g|ta)ni(gh!iwjIH/iwjIH|ql-hhppt2suu2qi-hhsu2) me(gh!ivHGh|//ci-hhvihh)i.(hg|cl-) (::)
 
+<sp>V/</sp> Ob(j|ta)se(ji|cl)cro,(jkj/iji/hhog|//tohhtohiprhi) Dó(hi|pe)mi(i|ta)ne,(i|ta) (`) fac(i|ta) mi(ih|cllsc3)se(ij|pe)ri(hi|pe)cór(g|ta)di(g!hwih|ql!cl-ppt1)am(hg|cl-) (;) cum(ixhiHGhih|//////pe-su2tohg) ser(ghf~|pe>)vo(gh|peS) tu(iyh!iwji/jkJIH|//////qlhh!clhhppt1toS2hmsu2)o.(hiHGhg|pe-1su2) (::)
+<sp>+</sp> Ut(hf~|``vi>lse4) cum(g|vi) sa(hjij|//po)lú(jh/ig|pflsc2)te.(g|vi) (::)
+
+<sp>V/</sp> Gló(j|ta)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|//////pe-su2tohg)tu(ghf|toM1hh)i(gh|peS) Sanc(iyh!iwji/jkJIH|//////qlhh!clhhtoS2hlsu2)to.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Ut(hf~|``vi>lse4) cum(g|vi) sa(hjij|//po)lú(jh/ig|pflsc2)te.(g|vi) (::)

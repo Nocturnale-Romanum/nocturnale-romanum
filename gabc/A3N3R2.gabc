@@ -1,10 +1,18 @@
+name:Ecce radix Jesse V Dabit ei;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3)  Ec(ef)ce(e) ra(ef)dix(e) <nlba>Jes(e!fo1hGHihi!jv)se<sp>*</sp>(i) (z0/[-0.5];/[-4]c2/[-2]) 
-a(g)scén(GHiwjHGs>)det(hg) in(g>) </nlba>sa(gffe)(c4z)lú(jh/ijiHGh)tem(hg) po(gh)pu(hf!gwhGF)ló(GHivHGh)rum,(hg) (:)
-i(ji)psum(jkj!ijvIHGhg) Gen(h)tes(jkj) de(ixhiHF) pre(f!go1!hv)ca(ig!hwih)bún(ghgf~)tur:(gf) (;)
-<sp>+</sp> Et(fh) e(jjk)rit(j) no(j)men(j) e(j)jus(kjjh/jggO1f) glo(g)ri(GHjvHFg)ó(GHivHGh)sum.(hg) (::)
-<sp>V/</sp> Da(ji)bit(jkj/iji/hhO1g) e(i)i(i) Dó(ij)mi(i)nus(i) De(i)us(ih) se(ij)dem(hi) Da(g!hwih)vid,(hg) (;)
-pa(g)tris(fg) e(g)jus,(g) et(g) re(g)gná(gh)bit(g) in(g) do(gh)mo(g) Ja(g)cob(hiHGhih) in(ghf~) æ(gh)tér(h!iwji/jkjIH)num.(hiHGhg) (::)
-<sp>+</sp> Et.(fh) (::)
+initial-style: 1;
+name: Ecce radix Jesse;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c3) Ec(ef|pe)ce(e|ta) ra(ef|pe)dix(e|ta) Jes(e!foh/g!hihi/jv|sa-po-1hjpp2vihp)se(i|ta) *(,) a(i|``talse4)scén(ij!kwlK~J~I~|``ql-hmppt2su1sux1lss3)det(ji|cl-) in(i>|``vi>lse4) sa(ihhg|clScl-)lú(hf!gwhGFEf|cl-`qihg!vshgsu2vihg)tem(fe|cl-) po(ef|peS)pu(fd!ewfEDe|cl-`ql-su2```vi)ló(ef!gvFEf|//ci-hhpp2vihh)rum,(fe|cl-) (:) ip(hg|`cllsal2lsc3)sum(giHGhvGFEfe|//toS2sut1vi-suu1su2cl-hh) gen(f|vi)tes(hih|toS3lsl3) de(gxfgFD|pe-1su1suw1lsi8)pre(d!eof|sa)ca(ge!fwgf|cl-`qlhg!clhg)bún(efE~D~|to>2)tur;(ed|cl-) †(;) Et(df|pe) e(hhi|scM1)rit(h|ta) no(h|ta)men(h|ta) e(h|ta)jus(ihhf/heeod|pflst2clhgpihh) glo(e|vi)ri(ef!hvFDe|//cihhpp2vihh)ó(ef!gvFEf|//ci-hhpp2vihh)sum.(fe|cl-) (::)
 
+<sp>V/</sp> Da(hg|cllsc3)bit(hih/ghg/ffoe|to/tohhprhh) e(fg|pe)i(g|vi) Dó(g|vi)mi(g|vi)nus(gf|cl) De(hi|``pelss4)us(h|ta) (,) se(h|ta)dem(h|ta) Da(hg|cllsc3)vid,(gf|cllsc3) pa(gh|pe)tris(fg|pe) e(e!fwgf|ql!cl-ppt1)jus,(fe|cl-) (;) et(e|vi) re(de|pe)gná(ef|pe)bit(e|ta) in(e|ta) do(e|ta)mo(e|ta) Ja(e|ta)cob(gxfgFE/fgf|////pe-su2tohg) in(efd|//toM1) æ(ef|peS)tér(gyf!gwhg/hiHGF|////ql!clppt1toS2hmsu2)num.(fgFEfe|pe-1su2cl-) (::)
+†() Et(df) e(hhi)rit.(h) (::)

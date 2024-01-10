@@ -1,10 +1,18 @@
+name:Deus noster in terris V Hic adinvenit;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) De(f)us(de) no(e)ster(egFs/0Fs/0ded) (;)
-<sp>*</sp> in(-efd~) {te}r(fg){ri}s(go0@hd) {vi}(FGhvGFghg){su}s(egfFs) est,(eeo0!fv) (:)
-<sp>+</sp> Et(d) (z) cum(dh~) ho(h)mí(hvGF)ni(e!fwgFEfvED){bu}s(eeo1!fv) (;)
-con(dgf!gwhghG/0Fs<){ve}r(hggO1f/gwh/ig/hg>){sá}(e)tus(egfFs) est.(fe) (::z)
-<sp>V/</sp> Hic(h) ad(h)in(h)vé(gh)nit(gf!gwhghvGEfe) o(g)mnem(g) vi(g)am(gf) di(gh)sci(gf)plí(e!fwgf)næ,(fe) (;)
-et(f) trá(de)di(e)dit(e) il(ef~)lam(e) Ja(e)cob(e) pú(e!fwgFE)e(g)ro(ghghvGF) su(EFgef)o.(ed) (::)
-<sp>+</sp> Et.(d) (::)
-
+initial-style: 1;
+name: Deus noster in terris;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) De(f|vi)us(de|pe) nos(e|vi)ter(eg/fssded|pe-ds-hitohj) <sp>*</sp>(,) in(fd|cllsc2lsl3) ter(dfe|//to)ris(fg|pe) vi(ghGFghg|pe-su2tohg)sus(egffs|//tosthh) est,(eeof|sa) (;)
+<sp>+</sp> Et(d|ta) cum(d|``talse4) ho(dh|``pelse7)mí(h|vi)ni(hvGF/gwhgh|ciS1qlhg!pohg)bus(hg|cl-) con(hggof~|po>)ver(ixfg!hv/ig/hg|////vi-pp2pfShj)sá(e|ta)tus(egffs|//tosthh) est.(fe|cl-) (::)
+<sp>V/</sp> Hic(h|vi) ad(h|vi)in(h|vi)vé(gh|pe)nit(gf/gwhg/hvGEfe|cl-ql!cl-ci-hgcl-hg) om(g|vi)nem(g|vi) vi(g|vi)am(gf|cllsc3) di(gh|pe)sci(gf|cllsc3)plí(e!fwgf|ql!cl-ppt1)næ,(fe|cl-) (;) et(f|vi) trá(de|pe)di(e|ta)dit(e|ta) il(e|ta)lam(e|ta) Ja(e!fo|vshe)cob(e|ta) pú(e!fwgFE|ql-ppt1su2)e(g|vi)ro(ghghGF|tr-1su2) su(e!fgffs|clpp2sthj)o.(ed|cl-) (::)
+<sp>+</sp> Et(d|talse9) cum.(d|ta) (::)

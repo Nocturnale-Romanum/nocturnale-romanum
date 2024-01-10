@@ -1,13 +1,19 @@
+name:Emendemus in melius V Adjuva nos Deus;
+office-part:re;
 mode:2;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(f3) E(c)Men(c)dé(e!fwg)mus<sp>*</sp>(f) in(h) mé(hgh)li(fg)us,(ffO1e) (;) 
-quæ(e) i(f)gno(h)rán(hvGFEfg>)ter(f) pec(f!gwh/ih/hO1g)cá(f)vi(FGhvGFg)mus:(gf) (:)
-ne(f) súb(h)i(hi)to(i) præ(i)oc(i)cu(ih)pá(i/jhi)ti(f) di(fi)e(h) mor(g!hi~)tis,(f) (;)
-quæ(f)rá(fi)mus(hg) spá(hi)ti(hvGF)um(f) pœ(e)ni(fg)tén(f!g>)ti(e)æ,(ec)  (;)
-et(c) in(e)ve(ef)ní(f)re(fe) non(f!gwh/ih/hO1!Gs<) pós(f)si(FGhvGFg)mus.(gf) (:)
-<sp>+</sp> At(e)tén(f)de(hg) Dó(ho0!iv)mi(hvGF)n{e,}<e>e</e>t(ffO1e) mi(fg)se(g)ré(fef)re,(dxcd/ced!cdvCBcb) (;)
-qui(f)a(f) pec(f)cá(fvhvGE)vi(hvv)mus(ihhO1g) ti(FGhvGFg)bi.(gf) (::)
-<sp>V/</sp> Ad(EFgwh/hi)ju(h)va(h) nos,(h) De(h)us,(h) sa(h)lu(hg)tá(hi)ris(gh) nos(f!gwhg)ter,(gf) (;)
-et(f) prop(ef~)ter(f) ho(f)nó(fg)rem(f) nó(f)mi(f)nis(f) tu(fg)i,(f) Dó(f)mi(f)ne,(f!gwhGFE) lí(f)be(hg/hih)ra(hvGFg) nos.(ffO1e) (::)
-<sp>+</sp> At(e)tén(f)de.(hg) (::)
+initial-style: 1;
+name: Emendemus in melius;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines:1;
+%%
+(f3) E(c|ta)men(c|ta)dé(e/fg|scM1)mus(f|ta) <sp>*</sp> in(h|vi) mé(hgh|//po)li(fg|pe)us(ffoe|pr) (,) quod(e|ta) ig(f|vihe)no(h|vi)rán(hvGFEfg>|////vi-hhsuu1su2pe>1hh)ter(f|ta) pec(f!gwh/ihhog|qlppt1clShkpihllsco2)cá(f|ta)vi(fg!hvGFg|//ci-hhpp2vihh)mus,(gf|cl-) (:) ne(f|``talse4) sú(h|vi)bi(hi|pelsl3)to(i|vi) præ(i|vi)oc(i|vi)cu(ih|cllsc3)pá(i/jhi|vi-pohk)ti(f|ta) di(fi|peS)e(h|vi) mor(fg<|ta-/ta>)tis,(f|ta) (,) quæ(f|ta)rá(fi|peS)mus(hg|cl-) spá(hi|peS)ti(hvGF|ci-)um(f|vi) pæ(e|ta)ni(fg|pe)tén(fg>|pe>1)ti(e|ta)æ(ec|cl-) (;) et(c|ta) in(e|vi)ve(ef|pe)ní(f|vi)re(fe|cl-) non(f!gwh/ihhog>|qlppt1clShkpi>hl) pós(f|ta)si(fg!hvGFg|//ci-hhpp2vihh)mus.(gf|cl-) (:)
+<sp>+</sp> At(e|``talsi7)tén(f|vi)de,(hg|cllsc3) Dó(hoi|pq)mi(hvGF|ci-)ne,(ffoe|pr) mi(fg|pe)se(g|vi)ré(fef|//po)re,(dxcd//ceDCdvCBcb|////////peS/toS2hisut1ci-hjcl-hi) (;) qui(f|vi)a(f|vi) pec(f|vi)cá(f/hvGE|vi-cihklsc6)vi(hvhv|bv-)mus(ihhog|clSpilst2) ti(fg!hvGFg|//ci-hhpp2vihh)bi.(gf|cl-) (::)
 
+<sp>V/</sp> Pec(f|vi)cá(ef!gwhhi|```ql-hhppt2/pehk)vi(h|ta)mus(h|ta) cum(h|ta) pá(hg|cllsc3)tri(hi|pe)bus(gh|pe) nos(f!gwhg|ql!clppt1)tris,(gf|cl-) (;) in(f|vi)jús(ef|pe)te(f|vi) é(fg|pe)gi(f|ta)mus,(f|ta) (`) i(f|ta)ni(f|ta)qui(f|ta)tá(f!gwhGFE|ql-ppt1su1sut2)tem(f|vi) fé(hg/hih|cltohg)ci(hvGFg|ci-vi)mus.(ffoe|pr) (::)
+<sp>+</sp> At(e|ta)tén(f|vi)de,(hg|cllsc3) Dó(hoi|pq)mi(hvGF|ci-)ne.(ffoe|pr) (::)

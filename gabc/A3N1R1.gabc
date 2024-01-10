@@ -1,12 +1,18 @@
+name:Ecce apparébit V Apparébit in finem;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Ec(hghvGFixg!hwiHGhi)ce(h) ap(f)par(g)ré(g/hjh)bit<sp>*</sp>(g>) Dó(fg)mi(gffvED)nus(dfddO1c) (;)
-su(d!ewfe/fgf)per(d) nu(d)bem(CDecd) cán(d)di(DEfvEDe)dam,(ed) (:)
-<sp>+</sp> Et(h!iwjjvIG) cum(h) e(jvkvlv)o(k) Sanc(j)tó(l)rum(ml) míl(k)li(jk)a:(klkko~iji) et(h) ha(jkl)bet(k) in(k) ve(k)sti(k)mén(k!l>)to,(j) (,)
-et(j) in(h) fé(j)mo(h)re(ghg) su(h)o(ixhg/hiHGgo~) scri(ixf!gwhhvGFgwh!iv)ptum:(hg) (;)
-Rex(hvf!go1!hv) re(g/hfg)gum,(fg/ffO1e) (,)
-et(df~) Dó(f)mi(f)nus(dfddO1c) do(f!go1!hv)mi(hg/hfgvFE)nán(d)ti(DEfvEDe)um.(ed) (::)
-<sp>V/</sp> Ap(h)pa(h)ré(h)bit(hg/hggO1f) in(g) fi(gh)nem,(g) et(g) non(hf~)men(gh~)ti(h)é(ixh/iiO1h)tur;(h) (;)
-si(gf) mo(gh)ram(h) fé(ixhi)ce(h)rit,(h) ex(h)spéc(ixhi)ta(h) e(ixhi)um,(h) qui(h)a(h) vé(h)ni(hg/hg)ens(gf) vé(ixf!gwhg/hih)ni(hvGFEfwg!hv)et.(gf) (::)
-<sp>+</sp> Et.(h!iwjjvIG) (::)
+initial-style: 1;
+name: Ecce apparebit;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) Ec(ixhg/hvGF/g!hwiHG/hi|//////cl-ciS1ql-ppt1su2peShg)ce(h|vi-) *() ap(f|ta)pa(g|vi)ré(g/hjh|vi-/tohj)bit(ge~|vi>lsal3) Dó(fg|peS)mi(gffvED|clScilsc3)nus(dfddc|toS2cl-) (,) su(d!ewfe/fgf|viqlhj!clhjtohm)per(d|vi) nu(c|vi)bem(b!cdcd|//pohhpp2) cán(d|ta)di(de!fvEDe|//ci-hhpp2vihh)dam,(ed|cl-) †(:) Et(h!iwjjvIG|vi-heql-hici-hl) cum(h|vi) e(jk!lv|```vi-!vi-!vi)o(k|vi-hh) Sanc(j|ta)tó(l|vihm)rum(ml|clhplsal2) míl(k|vihi)li(jk|pehi)a:(klkko/hih|tohkorhmtohn) (;) et(h|ta) ha(j/kl|scM1hk)bet(k|tahi) in(k|tahi) ve(k|tahi)sti(k|tahi)mén(lwm>|ql>hp)to,(j|tahh) (,) et(j|vihh) in(h|tahh) fé(j|vihg)mo(h|vi)re(ghg|//to) su(h|vi)o(ixhg/hiHGgo|////cllsc2pesu2orhg) scrip(ixf!gwh/ivHF/gwh/iv|///////ql-ppt1vi-hjsut2qi-hjvi-hn)tum:(hg|cl-) (;) Rex(hv//f!goh|vi-sa) re(g/hfg|ta-pohg)gum,(fg/ffod|peS``pr) (,) et(d<|ta>) Dó(f|vi)mi(f|vi)nus(dfddoc|//toS2cl-) do(f!goh|sa)mi(hg/hf/gvFE|pflsc2vi-sut2)nán(d|ta)ti(de!fvEDe|//ci-hhpp2vihh)um.(ed|cl-) (::)
 
+<sp>V/</sp> Ap(h|vi)pa(h|vi)ré(h|vi)bit(hg/hggof|pflsc2``pihglst3) in(g|vi) fi(gh|pe)nem,(g|ta) (,) et(g|ta) non(hf~|vi>lsi6) men(gh|pe)ti(gh|pe)é(ixh/iioh|/////ta-pr)tur;(h|ta) (;) si(hf|cllsc3) mo(gh|pe)ram(h|ta) fé(ixhi|////pe)ce(h|ta)rit,(h|ta) (`) ex(h|ta)spéc(h|ta)ta(h|ta) e(ixhi|////pe)um,(h|ta) (,) qui(h|ta)a(h|ta) vé(h|ta)ni(hg/hg|clcl)ens(hf|cl) vé(ixf!gwhg/hih|/////ql!clppt1tohm)ni(hvGFE/fwg/hv|vi-su1sut2ql-vi-hk)et.(gf|cl-) (::)
+*() Et.(h!iwjjvIG|vi-heql-hici-hl) (::)

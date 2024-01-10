@@ -1,14 +1,22 @@
+name:Erit mihi Dominus V Si reversus fuero V Gloria;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) E(hhg)rit(hggo~) mi(ixf@gwhgh@iv)hi(h) Dó(f)mi(gh)nus<sp>*</sp>(hggO1e) in(g>) De(fvED)um,(dfddc) (;)
-et(c>) la(-cfe)pis(f) is(ixhi)te(go0@hv) quem(f) e(fd)ré(e)xi(fg) in(fd~) tí(f)tu(fg)lum,(gffs) (;)
-vo(fd)cá(f)bi(gh)tur(hgh) do(f!go1!hv)mus(fe) De(DEfvEDe)i:(ed) (:)
-et(h!iwj@kvJIjo~) de(h) u(g)ni(h)vér(j@ko1@l>)sis(kj/klk) quæ(l) dé(jvIH)de(hg)ris(j@ko1@lv) mi(jjO1ij)hi(ih) (;)
-<sp>+</sp> Dé(h)ci(g)mas(ixhg/hiHGgo~) et(f@gwhg) hós(h)ti(g)as(ffO1e) pa(d)cí(ffO1e)fi(d)cas(EFgh/hg) óf(f)fe(f)ram(gf/fe>) ti(DEfvEDe)bi.(ed) (::)
-<sp>V/</sp> Si(hg/hggO1f) re(g)vér(gh~)sus(gh) fú(h)e(ixh/iiO1h)ro(h) (;)
-pró(gf)spe(gh)re(h) ad(h) do(h)mum(hg/hg) pa(gf)tris(ixf@gwhg/hih) me(hvGFEfwg!hv)i.(gf) (::)
-Dé(h)ci(g)mas(ixhg/hiHGgo~) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iiO1!h)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf) (::)
-<sp>+</sp> Dé(h)ci(g)mas.(ixhg/hiHGgo~)  (::)
+initial-style: 1;
+name: Erit mihi Dominus in Deum;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) E(hhg|vi-`cl-hg)rit(hggo|clorhg) mi(ixf!gwhgh/iv|////ql!po-1ppt1vihm)hi(h|vi) (,) <sp>*</sp> Dó(f|ta)mi(gh|pe)nus(hggoe|cl!pilsc2) in(g>|vi>) De(fvED|ci)um,(dfddc|toS2cl-) (;) et(c|ta) la(-cfe|//to)pis(f|vi) is(ixhi|peS)te(goh|pq) quem(f|ta) e(fd|cl)ré(f|vi)xi(fg|pe) in(fd~|vi>) tí(f|vi)tu(fg|pe)lum(gffs|clsthg) (,) vo(fd|cl)cá(f|vi)bi(gh|pe)tur(hgh|//po) do(f!goh|sa1)mus(fe|cl-) De(de!fvEDe|//ci-hhpp2vihh)i ;(ed|cl-) (:) et(h!iwjjvIHho|vi-lsl2qlhici-hmorhn) de(h|vi) u(g|ta)ni(h|vi)vér(j!ko!lj~|sa->1hjlsi3)sis(kj/klk|//clhktohl) (,) quæ(l|vihl) dé(jvjvIG|//bv-hhsu2)de(hg|clhh)ris(j!kol|saM4hj) mi(ixjjoh/iv|////prvihh)hi,(ih|cl-) (;)
+<sp>+</sp> Dé(h|vi)ci(g|ta)mas(ixhg/hiHGgo|//////clpesu2orhg) et(f!gwhg|ql!clppt1) hós(h|vi)ti(gf|cl)as(ffoe|pr) pa(d|ta)cí(ffoe|pr)fi(d|ta)cas(d@fg!hhg|pe-pp2cl-hh) (,) óf(f|vi)fe(f|vi)ram(gffe>|clScl>) ti(de!fvEDe|//ci-hhpp2vihh)bi.(ed|cl-) (::)
 
+<sp>V/</sp> Si(h|vi) re(h|vi)vér(h|vi)sus(hg/hggof|clclhg!pihg) fú(g|vi)e(g|vi)ro(g|vi) prós(gh|pe)pe(g|ta)re(g|ta) (,) ad(g|ta) do(g|ta)mum(hf|cllsc3) pa(gh|pe)tris(gh|pe) me(ixh/iioh|////ta-pr)i.(h|ta) (::)
+<sp>+</sp> Dé(h|vi)ci(g|ta)mas.(ixhg/hiHGgo|//////clpesu2orhg) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|///clclhg!pihg) Pa(hf|cl)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh/iioh|////ta-pr)o,(h|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|//////ql!clppt1tohl) San(hvGFE/fwg/hv|vi-hhsu1sut2qi-hgvihk)cto.(gf|cl-) (::)
+<sp>+</sp> Dé(h|vi)ci(g|ta)mas.(ixhg/hiHGgo|//////clpesu2orhg) (::)

@@ -1,17 +1,21 @@
+name:Isti qui amicti sunt V Vidi sub altare V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  I(fgh)Sti,<sp>*</sp>(g) qui(g) a(g)mí(gh)cti(g) sunt(g) sto(g)lis(g!ho1!iv) al(h)bis,(hg/higgf) qui(jvvIH) sunt,(j)
-et(j) un(iwj)de(j) ve(i!jwkIHiwjIH)né(GHivHGh)runt?(hg) (:)
-Et(fh~) di(jkj)xit(jk) mi(ki!jwkhi)hi:(hhO1g) (;)
-<sp>+</sp> Hi(jkj) sunt,(j) (,) 
-qui(jh) ve(jk)né(ki!jwkhiv)runt(hhO1g) de(h) tri(h)bu(h)la(h!iwjIH)ti(g)ó(hj)ne(jkjIHiwjIHG) ma(hg/hgf~)gna,(gf) (:)
-et(f) la(ghg)vé(h)runt(g) sto(ghggO1e)las(g) su(fef)as,(dec/d!ewfe/fvEDed) (;)
-et(d) de(d)al(d)ba(d)vé(fgh)runt(g) e(g)as(hg/h!iwjg/h/ggO1f) in(gh~) sán(gh>)gui(g)ne(GHiwjIHiwjIH) A(GHivHGh)gni.(hg) (::)
-<sp>V/</sp> Vi(j)di(jkj/iji/hhO1g) sub(i) al(i)tá(ij)re(i) De(i)i(i) á(ij)i(i)mas(i) in(i)ter(i)fec(i)tó(ij)rum(i) prop(i)ter(ih) ver(ij~)bum(hi)
-De(g!hwih)i,(hg) (;)
-et(g) prop(fg)ter(g) te(g)sti(g)mó(gh)ni(g)um(hiHGhih) quod(ghf) ha(gh)bé(h!iwji/jkjIH)bant.(hiHGhg) (::)
-<sp>+</sp> Hi.(jkj) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Hi.(jkj) (::)
+initial-style: 0;
+name: Isti qui amicti sunt;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Is(f/gh|scG)ti,(g|ta) *() qui(g|ta) a(g|ta)míc(gh|pe)ti(g|ta) sunt(g|ta) sto(g|ta)lis(ixg!hoi|////sa1) al(h|ta)bis,(hg/h!iwjg/hv/ggof|cl-ql!cl-ppt1``vi-hj``prhj) (;) qui(ixhiHGFgh|////toSsu2peShg) sunt,(g|ta) et(g|ta) un(gh~|ta>)de(g|ta) ve(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hisu2)né(gh!ivHGh|ci-hjpp2vihj)runt?(hg|cl-hh) (:) Et(fh|peS) di(jkj|//tohhlsc2)xit(jk|pehh) mi(ki/jkh/iv|//clhhlsc2toS2hhvi-hi)hi:(hhog|pr) †(:) Hi(jkj|tohhlss4lsc3) sunt,(jh~|vi>lsi6) qui(jkj|//tohhlsc3) ve(jk|pehh)né(ki/jkh/iv|//clhhlsc2toS2hhvi-hi)runt(hhog|pr) de(h|vi) tri(h|vi)bu(h|vi)la(h|vi)ti(h|vi)ó(h/jvIGjvjv|vi-/ciShjlsc3bv-hj)ne(kvJIjvIHG|clShksut1vi-hksuu1su2) ma(hg/hvG~F~|cl-cl->lsi6)gna,(gf|cl-) (;) et(f|ta) la(ghg|//to)vé(h|vi)runt(g|ta) sto(ghGE|pe-1su2)las(g|vi) su(fef|polsc2)as,(dec//d!ewfe/fvED|////toS2qlhg!cl-hgppt1``ci-hj) (;) et(d|``talse4) de(d|ta)al(d|ta)ba(d|ta)vé(f/gh|scM1)runt(ixg!hoi|///sa1) e(h|ta)as(ixhg/h!iwjg/hv/ggof|////cl-ql!cl-ppt1``vi-hj``prhj) in(g|ta) sán(gh|pe)gui(g|ta)ne(gh!iwjIH/iwjIH|ql-hhppt2sut2ql-hisu2) A(gh!ivHGh|//ci-hhpp2vihh)gni.(hg|cl-) (::)
+<sp>V/</sp> Vi(ji|clhhlsc3)di(jkj/iji/hhog|tohh/tohiprhi) sub(hi|pe) al(i|vi)tá(i|vi)re(ih|cllsc3) De(jk|``pehilss4)i(j|ta) (,) á(j|ta)ni(j|ta)mas(ji|cllsc3) in(ih~|vi>)ter(ij|pe)fec(hi|pe)tó(g!hwih|ql!cl-ppt1)rum(hg|cl-) (;) prop(g|vi)ter(fg|pe) ver(g|ta)bum(g|ta) De(gh|pe)i,(g|ta) (,) et(g|ta) prop(fg|pe)ter(g|ta) te(g|ta)sti(g|ta)mó(g|ta)ni(g|ta)um(ixhiHGhih|////pe-su2tohh) quod(ghf|//toM1) ha(gh|peS)bé(iyh!iwji/jkJIH|////ql!clppt1toS3hlsu2)bant.(hiHGhg|pe-1su2cl-) (::)
 
+†() Hi(jkj|tohhlss4lsc3) sunt.(jh~|vi>lsi6) (::)
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hlsu2)to.(hiHGhg|pe-1su2cl-) (::)
+†() Hi(jkj|tohhlss4lsc3) sunt.(jh~|vi>lsi6) (::)

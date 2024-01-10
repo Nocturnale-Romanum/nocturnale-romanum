@@ -1,13 +1,19 @@
+name:Dum deambularet Dominus V Vocem tuam audivi;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Dum(e) de(egfssded)am(fe~)bu(f)lá(g)ret(gh~) Dó(h)mi(fhgh!iv)nus<sp>*</sp>(h) (;)
-in(dh~) pa(h)ra(g)dí(gffO1ef)so(fe) (:)
-ad(f) au(g!h>)ram(hg) post(hvGF) me(hvFD)rí(f)di(egffs)em,(eeo1!fv) (;)
-cla(DG/0hwi)má(hg)vit,(g) et(gd/0ewf) di(egffs)xit:(fe) (:)
-A(e!fg@ho~)dam,(g) u(ghGE)bi(fgFD) es(fd/0efe)? (,)
-Au(c)dí(de!fo~)vi,(e) Dó(e@fo1)mi(e)ne,(e) vo(fsss)cem(fe~) tu(dgf!gwhgh)am,(hg)  <sp>+</sp>(;)
-Et(g) abs(gh)cón(hggo~)di(FGhggO1FEf) me.(fe) (::)
-<sp>V/</sp> Vo(h)cem(gf!gwhghvGEfe) tu(g)am(g) au(g)dí(gh)vi(g) in(gf) pa(gh)ra(gf)dí(e!fwgf)so,(fe) (;)
-et(f) tí(de)mu(e)i,(e) e(e@fo1)o(e) quod(e!fwgFE) nu(g)dus(ghghvGF) es(EFgef)sem.(ed) <sp>+</sp>(::)
-Et.(g) (::)
+initial-style: 1;
+name: Dum deambularet Dominus;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp. ;
+annotation: iv;
+nabc-lines:1;
+%%
+(c4) Dum(e|ta) de(eg/fssded|pe-ds-hhtohh)am(fe~|vi>)bu(f|vi)lá(g|vi)ret(gh~|ta>) Dó(h|vi)mi(ixgigh/iv|//////tr-3vihj)nus(h|vi) <sp>*</sp> in(fh~|``ta>lsi7) pa(h|vi)ra(g|ta)dí(gffoe/fv|cl!pilsc2vi)so,(fe|cl-) (,) ad(f|vi) au(ghg~|pe>)ram(hg|cl-) post(hvGF|ci-) me(gvFD|ci-)rí(f|vi)di(egffs|tosthh)em,(eeof|sa) (;) cla(df!gwh|qlhhppt2)má(hg|cl-)vit(g|ta) et(gd!ewf|cl-ql) di(egffs|tosthh)xit:(fe|cl-) (:) A(e!fwg/ho|``ql-ppt1orhl)dam,(g|ta) u(ghGF|``pe-1su2lse4)bi(fgFD|pe-1su2) es ?(fd/efe|//cltohglsc2) (;) Au(c|talsi8)dí(de/fo|pe-orhi)vi,(e|ta) Dó(e!fo|vslsc3)mi(e|ta)ne,(e|ta) vo(fsss|//ts)cem(fd~|vi>lsal3) tu(dgf!gwhgh|toSlss2qlhi!pohi)am(hg|cl-) (;)
+<sp>+</sp> Et(g|``talse4) ab(gh|pe)scón(hggof~|clorhg)di(f!ghggoFEf|clhhpp2lssc2pihjsu1vihi) me.(fe|cl-) (::)
 
+<sp>V/</sp> Vo(h|vi)cem(h|vi) tu(gh|pe)am(gf!gwhg/hvGEfe|cl-qi!cl`ci-hjcl-hh) au(g|vi)dí(gh|pe)vi(g|ta) in(g|ta) pa(g|ta)ra(g|ta)dí(gf|cllsc3)so,(gh|pe) et(gf|cllsc3) tí(e|ta)mu(e!fwgf|ql!cl-ppt1)i,(fe|cl-) (;) e(e|ta)o(e|ta) quod(e!fwgFE|ql-ppt1su2) nu(g|vi)dus(ghghGF|//tr-1su2) es(e!fgffs|pohhpp2)sem.(ed|cl-) (::)
+<sp>+</sp> Et(g|``talse4) ab(gh|pe)scón(hggof~|clorhg)di(f!ghggoFEf|clhhpp2lssc2pihjsu1vihi) me.(fe|cl-) (::)

@@ -1,16 +1,23 @@
+name:Immisit Dominus soporem V Cumque obsormisset V Gloria;
+office-part:re;
 mode:5;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  Im(f)mí(f)sit<sp>*</sp>(hj~) Dó(jh!jkjk)mi(ixkij)nus(jii) so(ixig)pó(gih)rem(ij) in(j) A(ixjh!iwjij)dam,(ih) (;)
-et(f) tu(ghg)lit(h) u(ixhi)nam(h) de(h) cos(jhhO1gh)tis(ixhjHG!hwiHG) e(FGhvGFg)jus:(gf) <sp>+</sp>(:)
-Et(f) æ(gh)di(ixhi)fi(h)cá(ixhi)vit(h) cos(h)tam,(ixhg@hih) (;)
-quam(f) tú(h)le(j)rat(j) Dó(jk)mi(j)nus(j) de(j) A(k)dam(ixjjO1i) in(hg~) mu(h)lí(jk)e(ixjh!iwjij)rem,(ih) (,)
-et(f) ad(gh>)dú(ixh!io1)xit(h) e(ixjhhO1ghi)am(h) ad(ixjhhO1g/0hwiHG) A(FGhvGFg)dam,(gf) (:)
-ut(f) vi(gh)dé(hfg)ret(ghd) quid(fgf) vo(fe)cá(g)ret(ixig!hwiHG) e(FGhvGFg)am:(gf) <v>\ddag</v>(;)
-Et(fhOj) vo(j)cá(jk)vit(j) no(ixjiio~)men(g) e(h!iwjh/0iwjij)jus(ih) Vi(jhjGFhfGH/0iwjkkO1jklwm)rá(kj)go,(jkjjo~hih) (;)
-qui(jh/0iWj)a(kjjh/0jg/@h/ggO1f) de(f) vi(ixghgh!io~)ro(h) su(ixjhhO1ghi)o(h) sump(ixjhhO1g/0hwiH/0Gs>)ta(FGhvGFg) est.(gf) (::)
-<sp>V/</sp> Cum(j)que(jkjsshih) ob(j)dor(j)mís(jk)set,(j) tu(j)lit(j) u(jk)nam(j) de(jh) cos(hk)tis(ij) e(ji!jwkjk)jus,(kj) (;)
-et(f) re(h)plé(j)vit(j) car(ji/0ji)nem(ih) pro(jk) e(ji!jwkjIHi)a.(ih)  <sp>+</sp> (::)
-Et(f) æ(gh)di(ixhi)fi(h)cá(ixhi)vit(h) (::) 
- <sp>V/</sp> Gló(j)ri(j)a(jkjsshih) Pa(jh)tri,(hk) et(ij) Fí(j)li(jijwkjk)o,(kj) (;)
-et(j) Spi(j)rí(ji/0ji)tu(ih)i(jk) San(ji!jwkjIHi)cto.(ih) <v>\ddag</v>(::)
-Et(fhOj) (::)
+initial-style: 1;
+name: Immisit Dominus soporem;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines:1;
+%%
+(c3) Im(d|ta)mí(d|ta)sit(fh~|ta>) <sp>*</sp> Dó(hf/hihi|cllsc3``tr)mi(gxigh|//////po)nus(hggs|//po) so(gxge|////cllsc3)pó(egf|//to)rem(gh|pe) in(h|vi) A(gxhf/fwgfg|//////cl-``ql!po)dam,(gf|cl-) (;) et(d|talsi8) tu(efe|//to)lit(f|vi) u(gxf!go|////pe)nam(f|ta) de(f|ta) cos(hffoe/fv|//cl!pilsc2vi-)tis(gxfhFE/fwgFE|pe-1suu2qi-su2) e(de!fvEDe|//ci-hhpp2vihh)jus:(ed|cl-) (;)
+<sp>+</sp> Et(d|ta) æ(ef|pe)di(gxfg|////pe)fi(f|ta)cá(fg|pe)vit(f|ta) cos(f|ta)tam,(gxfe/fgf|//////cllsc3``tohg) (,) quam(d|ta) tú(f|vi)le(h|vi)rat(h|vi) Dó(hi|pe)mi(h|ta)nus(h|ta) de(h|ta) A(i|vi)dam,(hhog|pr) in(fe~|vi>) mu(f|vi)lí(fh|pe)e(gxhf/fwgfg|//////cl-ql!po)rem,(gf|cl-) (;) et(d|talsi8) ad(efe~|pe>)dú(gxf!go|////vs)xit(f|ta) e(gxhffoe/fg|//////cl!pipeS)am(f|ta) ad(gxhffoe!fwgFE|cllsc2pihglst2ql-hgsu2) A(ef!gvFEf|//ci-hhpp2vihh)dam(fe|cl-) (;) ut(d|``talse4) vi(ef|pe)dé(fde|//po)ret(efb|//toM1hhlss2) quid(ded|//to) vo(dc|cllsc3)cá(e|vi)ret(gxge!fwgFE|//////cl-ql-su2) e(de!fvEDe|//ci-hhpp2vihh)am:(ed|cl-) (:)
+<sp>\ddag</sp> Et(dfoh|````salse4lsal3) vo(h|vi)cá(hi|peS)vit(h|ta) (::)
+
+<sp>V/</sp> Sed(h|ta) et(h|ta) lin(h|ta)gua(h|ta) me(h|ta)a(hi/hssfgf|pe-hids-hhtohi) me(h|vi>)di(h|vi)tá(hi|pe)bi(h|ta)tur(h|ta) jus(h|ta)tí(hf|cllsc3)ti(fi|pe)am(gh|pe) tu(hg!hwihi|cl-`ql!po)am,(ih|cl-) (;) to(h|ta)ta(h|ta) di(h|ta)e(hg/hg|pflsc2) lau(gf~|vi>)dem(hi>|pe>1) tu(gxhg!hwiHGFg|//////cl-qlhg!vshgsu2vi)am.(gf|cl-) (::)
+<sp>+</sp> Et(d|ta) æ(ef|pe)di(gxfg|////pe)fi(f|ta)cá(fg|pe)vit.(f|ta) (::)
+
+<sp>V/</sp> Gló(h|ta)ri(h|ta)a(hi/hss/fgf|pe-hids-hhtohi) Pa(hf|cllsc3)tri,(fi|pe) et(gh|pe) Fí(h|ta)li(hg!hwihi|cl-`ql!po)o,(ih|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(gf|cllsc3)i(hi|peS) Sanc(gxhg!hwiHGFg|//////cl-``ql!vssu2vi)to.(gf|cl-) (::)
+<sp>\ddag</sp> Et(dfoh|````salse4lsal3) vo(h|vi)cá(hi|peS)vit.(h|ta) (::)

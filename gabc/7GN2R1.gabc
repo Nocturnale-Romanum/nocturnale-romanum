@@ -1,11 +1,19 @@
+name:Tulit ergo V Plantaverat;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  Tu(d)lit(fvgvFEfo0!gv) er(gh~)go<sp>*</sp>(g) Dó(EFgfg)mi(d!ewfeDCd)nus(dc) (;) 
-hó(f!gh)mi(g)nem,(g) et(gf~) pó(g)su(hfh)it(h) e(hjij)um(ghg) (,)
-in(gh~) pa(h)ra(h)dí(hf!gwhgh)so(hg) vo(g)lu(GHiwjIHiwjIH)ptá(GHivHGh)tis:(hg) <sp>+</sp>(;)
-Ut(g/0hgh) o(gf)pe(g)ra(h!iwj)ré(jijwk)tur(jkj) (;)
-et(j) cus(j)to(j)dí(jijvih!i!jo1)ret(i!jwkjIH/0iwjIH) il(GHivHGh)lum.(hg) (::)
-<sp>V/</sp> Plan(j)tá(j)ve(ji)rat(jkjijihhO1g) au(hi~)tem(i) Dó(i)mi(i)nus(i) De(ij)us(i) pa(i)ra(i)dí(ij)sum(i) vo(i)lup(i)tá(i)tis(ih) a(ij) prin(hi)cí(g)pi(g!hwih)o,(hg) (;)
-in(g) quo(fg) pó(g)su(g)it(g) hó(gh)mi(g)nem(g) quem(hiHGhih) for(ghf)má(gh)ve(h!iwji!jkjIH)rat.(hiHGhVg) <sp>+</sp>(::)
-Ut.(g/0hgh) (::)
+initial-style: 1;
+name: Tulit ergo Dominus;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Tu(d|talsc3)lit(f/gvFE/fog|vi-cihjlssc2pqhj) er(gh~|``ta>lse7)go(g|vi) <sp>*</sp> Dó(e!fgfg|//pohhpp2)mi(d!ewfEDCd|//ql!vsppt1su2vi)nus(dc|cl-) hó(f/gh|```scM1lsl1)mi(g|ta)nem,(g|ta) (;) et(hf~|``vi>lss2) pó(g|vi)su(hfh|po)it(h|vi) e(hjij|//tr)um(ghg|/toS3) (,) in(gh~|``ta>lse4) pa(h|vi)ra(h|vi)dí(hf!gwhgh|//cl-qihg!pohg)sum(hg|cl-) vo(g|ta)lup(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hisu2)ta(gh!ivHGh|//ci-hhpp2vihh)tis(hg|cl-) (:)
+<sp>+</sp> Ut(g/hgh|``ta-lse4po) o(gf|cllsc3)pe(g|vihe)ra(h!iwj|``vi-qlhi)re(ji!jwk|cl-hhqlhi)tur(jkj|/toS3hi) et(j|ta) cus(j|ta)to(j|ta)di(ji/jvIHij|cl-hhci-hhvs)ret(i!jwkJIH/iwjIH|qlhi!vshippt1sut2qi-hksu2) il(gh!ivHGh|//ci-hhvihh)lum.(hg|cl-) (::)
 
+<sp>V/</sp> For(j|ta)ma(ji|cllsc3)vit(jkj/iji/hhog|tohhtohiprhi) i(hi|pe)gi(i|vi)tur(ih~|vi>) Dó(jk|pehi)mi(j|vihh)nus(j|vi>hh) (`) hó(jk|pehh)mi(j|ta)nem(ji|cl-) de(ih|cllsc3) li(ij|pe)mo(hi|pe) ter(g!hwih|ql!clppt1)ræ(hg|cl-) (;) et(g|vi) pó(fg|pe)su(g|ta)it(g|ta) e(gh|pe)um(g|ta) in(ixhiHGhih|/////pe-su2tohg) pa(ghf|//toM1hh)ra(gh|peS)dí(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)sum.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Ut(g/hgh|``ta-lse4po) o(gf|cllsc3)pe(g|vihe)ra(h!iwj|``vi-qlhi)re(ji!jwk|cl-hhqlhi)tur(jkj|/toS3hi) (::)

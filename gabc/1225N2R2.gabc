@@ -1,10 +1,18 @@
+name:Beata Dei Genitrix Maria V Beata quae credidit;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Be(e)á(e/fhfgv)ta(fe) De(fhg)i(h) Gé(i)ni(h)trix(hg) Ma(fe)rí(e/fhfgv)a,(fe) (;)
-cu(ehg)jus(h) vi(i)sce(hg)ra(hiiO1h/ij) in(i)tá(i!jwkj)cta(iji) pér(h!i>)ma(ih!ghvGFEf)nent:(fe) (:)
-<sp>+</sp> Hó(g)di(egef!gv)e(f) gé(hg/ho0!iv)nu(h)it(ig/ho0!iv) Sal(e)va(g)tó(ig/ho0!iv)rem(h) sǽ(hg/ho0!iv)cu(f!gwhgFEf)li.(fe) (::)
-<sp>V/</sp> Be(i)á(i!jwkJI)ta,(hi/hhO1g) quæ(h) cré(hi)di(h)dit:(h) (,)
-quó(hi)ni(h)am(h) per(h)fé(ig)cta(hi) sunt(hi) ó(i)mni(i!jwkj)a,(ji) (;)
-quæ(hi/hhO1g) di(hih)cta(i) sunt(i) e(i)i(ijijvIH) a(hg) Dó(h!iwji/jkj)mi(ih!iwjij)no(ivHGhg) (::)
-<sp>+</sp> Hó(g)di(egef!gv)e.(f) (::)  
+initial-style: 1;
+name: Beata Dei Genitrix;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines: 1;
+%%
+(c3) Be(e|ta)á(e/fhf/gv|ta-toS2vi-)ta(fe|cl-) (`) De(ehg|to)i(h|vi) Gé(i|vihg)ni(h|vi)trix(hg|cllsc3) Ma(fe|cllsc3)rí(e/fhf/gv|ta-toS2vi-)a,(fe|cl-) (;) cu(ehg|to)jus(h|vi) ví(i|vihg)sce(hg/hiioh/ij|clpepihhlsc2peShh)ra(i|ta) (,) in(i|ta)tác(i/jlj|//ta-hmtohplss3)ta(iji|//to) pér(hi>|pe>1)ma(ivHGhvGFEf|clSsut1vi-sut1su2vi-)nent:(fe|cl-) †(;) Hó(g|vilsl3)di(egef/gv|////tr-3vihj)e(f|ta) gé(hghoi|cllslc2pq)nu(h|ta)it(ighoi|cllslc2lsi8pq) (,) Sal(e|talsi7)va(g|vi)tó(ighoi|cllslc2pq)rem(h|ta) sǽ(hghoi|cllsc2pq)cu(f!gwhGFEf|ql!vsppt1su2vihg)li.(fe|cl-) (::)
 
+<sp>V/</sp> Be(i|ta)á(i!jwkJI|ql-hjppt1su2)ta,(hi/hhog|//peS`pr) quæ(h|vi) cré(hi|pe)di(h|ta)dit:(h|ta-) (,) quón(h|ta)i(h|ta)am(h|ta) per(h|ta)féc(ig|cllsc3)ta(hi|pe) sunt(hi|pe) óm(i|vi)ni(i!jwkj|viqlhi!cl-hi)a,(ji|cl-) (;) quæ(hi/hhog|///peS`pr) dic(hih|//to)ta(i|vi) sunt(i|vi) e(i|vi)i(ijijIH|////tr-3hhsu2) a(ih|cllsc3) Dó(h!iwji/jkj|ql!clppt1lsc3tohm)mi(ih!iwjij|////cl-qi!po)no.(ivHGhg|////ci-cl-) (::)
+†() Hó(g|vilsl3)di(egef/gv|////tr-3vihj)e(f|ta) (::)

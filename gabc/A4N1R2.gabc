@@ -1,10 +1,18 @@
+name:Non auferetur sceptrum V Pulchriores;
+office-part:re;
 mode:2;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(f3) Non(f) au(he~)fe(f)ré(h)tur<sp>*</sp>(fh/ffO1e) scep(kxHIjkj)trum(jiig~) de(hi) Ju(hi)da,(ih) (;)
-et(hhO1g) duc(kxiji/jkj) de(j) fe(i)mó(hg)re(f) e(h>)jus,(fgvhiffe) do(f)nec(h) vé(hih)ni(fefwgfg)at(gf) (,)
-qui(h)mi(i)tén(h)dus(g) est:(EFgfgvhiffe) (:)
-<sp>+</sp> Et(gvhv) i(fg)pse(f) e(fe/f!gwh!ivjihhO1ghwihi)rit(ih) ex(h)spec(ij)tá(jijvIG)ti(hih)o(hvvGF) Gén(f<)ti(eh)um.(g/hihhvGFggO1f) (::)
-<sp>V/</sp> Pul(f>)chri(e)ó(EFgwhhi)res(h) sunt(h) ó(ij)cu(i)li(hg) e(h!i>)jus(gh) vi(f!gwhg)no,(gf) (;)
-et(f) den(ef~)tes(f) e(fg~)jus(f) lac(f!g>)te(f) can(f!gwhGFEs<)di(f)di(hg/hih)ó(hvGFg)res.(fe) (::) 
-<sp>+</sp> Et.(gvhv) (::)
+initial-style: 1;
+name: Non auferetur;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines: 1;
+%%
+(f3) Non(f|ta) au(hf~|vi>lss3)fe(f|vi)ré(h|vihhlsal3)tur(fg/ffoe|peS``pr) *() scep(kxhi!jkj|//////tohjpp2lsl3)trum(jiiog~|clorhg) de(hi|pe) Ju(hi|peS)da,(ih|cl-) (,) et(hhog|prlst3) dux(kxiji/jkj|//////tohh/tohj) de(i|vi) fé(h|ta)mo(hg|cl)re(f|ta) e(g>|vi>)jus,(fg/hiffe|ta-vi-hg/to-1hkcl-hk) (;) do(f|vi)nec(h|vihg) vé(hih|//to)ni(fe!fwgfg|cl-`qi!po)at(gf|cl-) qui(h|vi) mit(i|vihhlssm3)tén(h|vihg)dus(g|vi) est:(e!fgf/gv/hiffe|cl-hdppt2`vi-hh/to-1hlcl-hl) †(:) Et(hvhv|bv-) ip(fg|pe)se(f|ta) e(fe/f!gwh/iv/jiiog!hwihi|cl-qlppt1vi-hkclhmlst3````pihnqihn!pohn)rit(ih|cl-) (,) ex(h|ta)spec(ij|pe)tá(ji/jvIG|cl-hgci-hg)ti(hih|//to)o(hvhvGF|bv-su2) Gén(f<|ta>)ti(eg|pe)um.(g/hihhvGFggof|vi-/toS2hici-hiprhi) (::)
 
+<sp>V/</sp> Pul(f>|vi>)chri(e|ta)ó(ef!gwhhi|ql-hhppt2pehk)res(h|ta) sunt(h|ta) ó(ij|pe)cu(i|vi)li(hg|cllsc3) e(hi>|pe>)jus(gh|pe) vi(f!gwhg|ql!clppt1)no,(gf|cl-) (;) et(f|vi) den(ef~|ta>)tes(f|ta) e(fg~|ta>)jus(f|ta) lac(fg|pe)te(f|ta) can(f!gwhGFE|ql-ppt1su1sux1)dí(f|vi)di(hg/hih|cltohg)ó(hvGFg|ci-vi)res.(ffoe|cl-) (::)
+*() Et(hvhv|bv-) ip(fg|pe)se.(f|ta) (::)

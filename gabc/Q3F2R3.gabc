@@ -1,15 +1,22 @@
+name:Dixit Joseph V Biennium est;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Di(ef)xit(e) Jo(ef)seph(e)<sp>*</sp> ún(ef~)de(e)cim(EFgwh) frá(hihhg)tri(h!iwjij)bus:(ji) (;)
-E(i)go(ij) sum(h!io1!j>) Jo(i)seph,(ig/hjIGhvGFhvFEfgf) (;)
-quem(ed~) ven(e)di(f!gwh)dí(hvGFgwihi!jv)stis(i) in(i) Æ(ighwihGFgwhGF)gýp(EFgvFEf)tum:(fe) (:)
-ad(h)huc(e!fo1h) vi(g!ho1)vit(g) pa(g)ter(g) no(g)ster(g!ho1!i>) sé(hg)ni(g)or,(gih!ghvGFEfe) (;)
-de(e) quo(ei) di(i)xe(h)rá(f)tis(h!io1!jv) mi(ijiHGh)hi?(hg) (;)
-<sp>+</sp> I(i)te,(h) ad(g)dú(i)ci(h)te(g) e(i)um(ji) ad(h!io1!j>) me,(ig/hjIGhvFEhvFEfgf) ut(DFgwh) pos(hvGFgwihi)sit(ighwihGFgwhGF) ví(e)ve(EFgvFEf)re.(fe)  (::)
-<sp>V/</sp> Bi(i)én(i!jwkJIs<)ni(hg)um(hi/hhO1g) est(h) quod(h) fa(hi)mes(h) cœ(hi)pit(h) es(ig)se(hi) in(hi~) ter(i!jwkj)ra:(ji) (;)
-ad(hi/hhO1g)huc(hih) re(ij)stant(i) á(ijijvIH)li(hg)i(h!iwji/jkj) quin(ih!iwjij>)que.(ivHGhg) (::)
-<sp>+</sp> I(i)te,(h) ad(g)dú(i)ci(h)te.(g) (::) 
-(c2) <sp>V/</sp> Gló(g!hwiHG)ri(fe)a(fg/ffO1e) Pa(ge)tri,(fg) et(fg) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(ghghGF)tu(fe)i(f!gwhg/hih) San(gf!gwhgh)cto.(gvFEfe)  (z0::c3)
-<sp>+</sp> I(i)te,(h) ad(g)dú(i)ci(h)te.(g) (::)
+initial-style: 1;
+name: Dixit Joseph undecim;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines:1;
+%%
+(c3) Di(ef|pe)xit(e|ta) Jo(ef|pe)seph(e|ta) <sp>*</sp> ún(ef~|ta>)de(e|ta)cim(ef!gwh|qlhhppt2) frá(hihhg|//tolsc2cl-hg)tri(h!iwjij|qlhh!pohhppt1)bus:(ji|cl-hh) (;) E(i|ta)go(ij|pe) sum(h!io!j>|sa>hh) Jo(i|vi)seph,(ig/hjIH|//cl-pe-1hhsut2|gxhvFEhvFEfgf|////vi-hhsuu2vi-hhsuu2toShi) (,) quem(ed~|vi>) ven(e|vi)di(f!gwh|```vi-qlhi)dís(hvGF/fwihi/jv|//vi-hhsuu2qlhh!po-1hhvihm)tis(i|ta) in(i|ta) Æ(ig!hwiHGF/gwhGF|cl-qlhg!vshgsut2qi-hhsu2)gyp(ef!gvFEf|//ci-hhpp2vihh)tum.(fe|cl-) (;) Ad(g|vi)huc(e!fog|sa) vi(g!ho|vslsc3)vit(g|ta) pa(g|ta)ter(g|ta) nos(g|ta)ter(g!ho!i>|sa>) sé(hg|cl-)ni(g|ta)or,(giHGhvGFEfe|toS2sut1vi-hgsuu1su2cl-) (,) de(e|ta) quo(ei|pe) di(i|vihg)xe(h|vi)rá(f|ta)tis(h!ioj|sa) mi(ijIHGh|toShhsu2vihh)hi:(hg|cl-) (:)
+<sp>+</sp> I(i|vihg)te,(h|vi) ad(g|ta)dú(i|vihg)ci(h|vi)te(g|ta) e(i|vi)um(ji|cllss2lsc3) ad(h!io!j>|sa) me,(ig/hjIH|cl-pe-1suu2|gxhvFEhvFEfgf|////vi-hhsuu2vi-hhsuu2toShi) (;) ut(df!gwh|talsi7tahhqlhl) pos(hvGF/fwihi|////vi-hhsut2qihi!pohi)sit(ig!hwiHGF/gwhGF|cl-hh`qihi!vshisut2qi-hjsu2) ví(e|ta)ve(ef!gvFEf|//ci-hhpp2vihh)re.(fe|cl-) (::)
 
+<sp>V/</sp> Bi(i|ta)én(i!jwkJ!Is|ql-hjppt1su1sux1)ni(hg|cl)um(hi/hhog|peS``pr) est(h|ta) quod(h|ta) fa(hi|pe)mes(h|ta) cœ(hi|pe)pit(h|ta) es(ig|cl)se(hi|pe) in(hi~|ta>) ter(i!jwkj|qlhi!pohippt1)ra;(ji|cl-hh) (;) ad(hi/hhog|peS``pr)huc(hih|//to) res(ij|pe)tant(i|ta) a(ijijIH|//toci-hh)li(ih|cllsc3)i(h!iwji/jkj|qlhg!clhgppt1tohm) quin(ih!iwjij|//cl-`qlhg!po>hg)que.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> I(i|vihg)te,(h|vi) ad(g|ta)dú(i|vihg)ci(h|vi)te.(g|ta) (::)
+
+<sp>V/</sp> Gló(i!jwkJI|ql-hhppt1su2)ri(hg|cl)a(hhog|peS``pr) Pa(ig|cl)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj|qlhh!cl-hhppt1)o,(ji|cl-) (:) et(i|ta) Spi(i|ta)rí(ijijIH|//tr-1hhsu2)tu(ih|cl)i(h!iwji/jkj|//qlhh!clhhppt1tohm) Sanc(ih!iwjij|//cl-`qihg!pohg)to.(ivHGhg|ci-cl-) (::)
+<sp>+</sp> I(i|vihg)te,(h|vi) ad(g|ta)dú(i|vihg)ci(h|vi)te.(g|ta) (::)

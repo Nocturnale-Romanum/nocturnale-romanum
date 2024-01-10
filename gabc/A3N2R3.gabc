@@ -1,13 +1,21 @@
+name:Descendet Dnus V Et adorabunt V Gloria;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) De(f)scén(de~)det<sp>*</sp>(e) Dó(fe)mi(e)nus(egf!efvEDed) (;)
-sic(fe)ut(fg~) plú(g)vi(fde!fv)a(e) in(EFhvGFghg) vel(egfFs)lus:(eeo1!fv) (:)
-<sp>+</sp> O(d)ri(dh)é(h)tur(gvivHGhffO1e) in(e) dí(e)e(e!fv)bus(e) e(e)jus(e!fwgFE) jus(g)tí(ghghvGF) ti(EFgef)a,(ed) (;)
-et(dc) a(f)bun(gh~)dán(hvf!go1!hv)ti(h)a(hiGFghg) pa(egfFs)cis.(fe) (::)
-<sp>V/</sp> Et(h) ad(gf!gwhghvGEfe) o(gf)rá(gh)bunt(g) e(g)um(gf) o(gh~)mnes(gf) re(e!fwgf)ges,(fe) (;)
-o(f)mnes(de) gen(e)tes(e) sér(e!fwgFE)vi(g)ent(ghghvGF) e(EFgef)i.(ed) (::)
-<sp>+</sp>  O(d)ri(dh)é(h)tur.(gvivHGhffO1e) (::)
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;) 
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(ghghGF) San(E/0Fgef>)cto.(ed) (::)
-<sp>+</sp>  O(d)ri(dh)é(h)tur.(gvivHGhffO1e) (::)
+initial-style: 1;
+name: Descendet Dominus;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) De(f|vi)scén(de~|ta>)det(e|vi) *() Dó(fe|cl-)mi(e|ta)nus(egFEfvEDed|toS2sut1ci-cl-) (,) sic(fe|cllsc3)ut(fg~|ta>) plú(g|vi)vi(fde/f|po-1vihl)a(e|ta) in(ef!hvGFghh|//ci-hhpp2tohh) vel(egffs|tosthh)lus:(eeof|sa) †(;) O(d|ta)ri(dh|pe)é(h|vi)tur(ixg/ivHGhffoe|////ta-cicl!pilsc2lst3) in(e|ta) di(e|ta)é(e!fo|vshe)bus(e|ta) e(e|ta)jus(e!fwgFE|ql-ppt1su2) ju(g|vi)stí(ghghGF|to-ci-hg)ti(e!fgffs|//pohhpp2)a(ed|cl-) (,) et(dc|cllsc3) ab(f|vi)un(gh~|ta>)dán(hv/fgoh|vi-sahh)ti(h|vi)a(ixhiGFghg|////pelsc2su2to) pa(egffs|tosthh)cis.(fe|cl-) (::)
 
+<sp>V/</sp> Et(h|vi) ad(h|vi)o(h|vi)rá(h|vi)bunt(gf!gwhg/hvGEfe|cl-`ql!clci-hhcl-hh) e(g|vi)um(gf|cl) om(gh|pe)nes(gf|cl) re(e!fwgf|ql!clppt1)ges,(fe|cl-) (;) om(f|vi)nes(de|pe) gen(ef~|ta>)tes(e|ta) sér(e!fwgFE|ql-ppt1su2)vi(g|vi)ent(ghghGF|to/ci-hg) e(e!fgffs|//pohhpp2)i.(ed|cl-) (::)
+†() O(d|ta)ri(dh|pe)é(h|vi)tur.(ixg/ivHGhffoe|////ta-cicl!pilsc2lst3) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`ql!clci-hhcl-hh) Pá(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;)et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|to/ci-hg) Sanc(e!fgffs|//pohhpp2)to.(ed|cl-) (::)
+*() O(d|ta)ri(dh|pe)é(h|vi)tur.(ixg/ivHGhffoe|////ta-cicl!pilsc2lst3)) (::)

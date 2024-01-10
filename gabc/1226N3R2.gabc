@@ -1,13 +1,21 @@
+name:Patefactae sunt V Mortem enim V Gloria;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Pa(d)te(fd)fác(e!fo1)tæ<sp>*</sp>(e) sunt(e) já(e!fo1)nu(e)æ(e) cœ(fe)li(egf!efvEDed) (;)
-Chri(fe)sti(f) Már(g>)ty(f)ri(e) be(dc)á(d)to(f) Sté(egfFs)pha(DFgvFEf)no,(eeo0!fv) (:)
-qui(d) in(g) nú(hi)me(h)ro(h) Sanc(h>)tó(hg!hwihi)rum(hg) in(e)vén(EGhg>)tus(f) est(evDC) pri(deDCdwe!fv)mus:(ed/efe) (;)
-<sp>+</sp> Et(c) í(dfgo~)de(f)o(f) tri(f)úm(f)phat(fe) in(d) cœ(dgf!gwhgh)lis(hg) co(hggO1f)ro(FGhvighg)ná(egfFs)tus.(fe) (::)
-<sp>V/</sp> Mor(h)tem(gf!gwhghvGEfe) e(g)nim,(g) (,) quam(g) Sal(g)vá(gh)tor(g) nos(g)ter(g) di(g)gná(gh)tus(g) est(g) pro(gf) no(gh)bis(gf) pa(e!fwgf)ti,(fe) (;)
-hanc(f) il(de)le(e) pri(e)mus(e) réd(e)di(e)dit(e!fwgFE) Sal(g)va(ghghvGF)tó(EFgef)ri.(ed) (::)
-<sp>+</sp> Et.(c) (::)
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;) 
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(ghghGF) San(E/0Fgef>)cto.(ed) (::)
-<sp>+</sp> Et.(c) (::)
+initial-style: 1;
+name: Patefactae sunt;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) Pa(d|ta)te(fd|``cllss2lsc3)fác(e!fo|vshelsc3)tæ(e|ta) sunt(e|ta) *() já(e!fo|vshelsc3)nu(e|ta)æ(e|ta) cæ(fe|cl-)li(egFEfvEDed|//toS2sut1ci-cl-) (,) Chri(fe|``cllssc2)sti(f|vi) Már(g>|vi>)ty(f|vi)ri(e|vi) be(dc|``cllsi1lsc3)á(d|vi)to(f|vihg) Sté(egffs|tosthh)pha(fv/df!gvFEf|vi-/ci-hjpp2vihk)no,(eeof|sa-) (;) qui(d|talsi7) in(g|vi) nú(ixhi|//pelsl1)me(h|ta)ro(h|ta) Sanc(h>|vi>)tó(gf!gwhgh|cl-`ql!po)rum(ge|cl-) (,) in(e|ta)vén(eg!hg>|cl>pp2lsc3)tus(f|vi) est(evDC|ci-) pri(deDC/dwe/fv|pe-su2ql-hhvihk)mus ;(ed/efe|cllsc2tohg) †(;) Et(c|ta) íd(de/fo|pe-orhj)e(e|vi)o(e|vi) tri(e|vi)úm(f|vi)phat(fe|cl-lsm3) in(d|ta) cæ(dgf!gwhgh|toSqihi!pohi)lis(hg|cl-) (,) co(hggof|cl!pilsc2)ro(ixfg!hvig/hg|////vi-pp2pfShjlss2)ná(egffs|tosthh)tus.(fe|cl-) (::)
 
+<sp>V/</sp> Mor(h|vi)tem(gf!gwhghvGEfe|cl-ql!clci-hhcl-hh) e(gh|pe)nim,(g|ta) (,) quam(g|ta) Sal(g|ta)vá(gh|pe)tor(g|ta) no(g|ta)ster(g|ta) di(g|ta)gná(gh|pe)tus(g|ta) est(g|ta) pro(gf|cllsc3) no(gh|pe)bis(gf|cllsc3) pa(e!fwgf|ql!cl-ppt1)ti,(fe|cl-) (;) hanc(f|vi) il(de|pe)le(e|ta) pri(e!fo|vshe)mus(e|ta) réd(e|ta)di(e|ta)dit(e!fwgFE|ql-ppt1su2) Sal(g|vi)va(ghghGF|//to-ci-hg)tó(e!fgffs|popp2)ri.(ed/efe|cllsc3`tohg) (::)
+†() Et(c|ta) íd(de/fo|pe-orhj)e(e|vi)o(e|vi) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-ql!cl-ci-cl-) Pa(gf|cllsc3)tri,(gh|pe) et(gf~|vi>) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|//toci-hg) Sanc(e!fgffs|popp2)to.(ed/efe|cllsc3`tohg) (::) 
+†() Et(c|ta) íd(de/fo|pe-orhj)e(e|vi)o(e|vi) (::)

@@ -1,11 +1,18 @@
+name:Praecursor pro nobis V Ipse est Rex;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Præ(g)cúr(i)sor<sp>*</sp>(h) pro(g) no(i)bis(ji) in(hi~)gré(i)di(ig!hwi)tur(ijh!ghvGFEfe) (;)
-A(DFgwh)gnus(hi) si(ihhvGF)ne(h) má(g/hef)cu(ed!ewfef)la,(fe) (:)
-<sp>+</sp> Se(h)cún(e!fo1h)dum(g!ho1@iv) ór(hg)di(g)nem(gih!ghvGFEfe) Mel(ig)chí(h!io1!jv)se(ijiHGh)dech(hg) (;)
-Pón(i)ti(h)fex(gi) fac(hi)tus(ih!ghvGFEf) est(EFgwhe/f/eeO1d) (,)
-in(f) æ(h)tér(hg!hwihi)num(ih) et(hg) in(hi~) sǽcu(ig!hwi)lum(ijh!iwjhGFgwhGFs>) sǽ(e)cu(EFgvFEf)li.(fe) (::)
-<sp>V/</sp> I(i!jwkJI)pse(hi/hhO1g) est(ig) Rex(hi) ju(hi)stí(i)ti(i!jwkj)æ,(ji) (;)
-cu(hi/hhO1g)jus(hih) ge(i)ne(i)rá(ij)ti(i)o(i) non(ijijvIH) ha(hg)bet(h!iwji/jkj) fi(ih!iwjij)nem.(ivHGhg) (::)
-<sp>+</sp> Se(h)cún(e!fo1h)dum(g!ho1@iv) (::)
+initial-style: 1;
+name: Praecursor pro nobis;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines: 1;
+%%
+(c3) Præ(g|tahd)cúr(i|vihe)sor(h|vi) *() pro(g|ta) no(i|vi)bis(ji|cllsc3) in(hi~|ta>)gré(i|vi)di(ig!hwi|cl-`ql)tur,(ijHGhvGFEfe|//toS2sut1vi-suu1su2cl-) (;) A(df!gwh|qlhhppt2)gnus(hi|pe) si(ihhvGF|clSci-)ne(h|vi) má(f/hef|//ta-po)cu(ed!ewfef|cl-`qihg!pohg)la,(fe|cl-) †(;) Se(g|vi)cún(e!fog|sa)dum(g!hoi|sa) ór(hg|cl-)di(g|ta)nem(giHGhvGFEfe|toS2sut1vi-suu1su2cl-) (`) Mel(ih|cl-)chí(h!ioj|sa)se(ijIHGh|toSsu2vi-)dech(hg|cl-) (,) Pón(i|vi)ti(h|vi)fex(gi|peS) fac(hi|peS)tus(ivHGhvGFEf|clSsut1vi-suu1su2vi-) est(ef!gwhe/fv/eeod|qlhh!clhhppu2vi-hj``prhj) (;) in(f|vi) æ(h|vi)tér(hg!hwihi|cl-`qihg!pohg)num(ih|cl-) (,) et(hg|cllsc3) in(hi~|ta>) sǽ(i|ta)cu(ig!hwi|cl-`ql)lum(ijg!hwiHGF/gwhG!Fs>|toS1qlhh!vshhsut2qi-hisu1sux1) sǽ(e|ta)cu(ef!gvFEf|//ci-hhpp2vihh)li.(fe|cl-) (::)
 
+<sp>V/</sp> Ip(i!jwkJI|ql-hhppt1su2)se(hg|cllsc3) est(hi/hhog|peS``pr) Rex(hi|pe) ju(hi|pe)stí(i|ta)ti(i!jwkj|ql!clppt1)æ,(ji|cl-) (;) cu(hi/hhog|peS``pr)jus(hih|//to) ge(i|vi)ne(i|vi)rá(ij|pe)ti(i|ta)o(i|ta) non(ijijIH|////tr-1su2) ha(ih|cl)bet(h!iwji/jkj|ql!clppt1tohm) fi(ih!iwjij|cl-`qi!po)nem.(ivHGhg|ci-cl-) (::)
+†() Se(g|vi)cún(e!fog|sa)dum.(g!hoi|sa) (::)

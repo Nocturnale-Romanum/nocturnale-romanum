@@ -1,12 +1,21 @@
+name:Velociter exaudi me V Dies mei sicut umbra V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Ve(fh)ló(h!iwj!kvJIjwkjk)ci(j)ter<sp>*</sp>(j) ex(h!iwj)áu(jvvIH)di(j) me,(ivjvIHiwjIH) Dó(g)mi(GHivHGh)ne,(hhO1g) (:)
-<sp>+</sp> Qui(gh)a(gf/gh) de(gh)fe(g)cé(hgHsJsskjJs)runt(ji) (;)
-sic(jjO1i)ut(hg~) fu(g/hjgh)mus(gvFssded) di(g)es(GHiwjIHiwjIH) me(GHivHGh)i.(hg) (::)
-<sp>V/</sp> Di(j)es(j) me(ji)i(jkj/iji/hhO1g) sic(hi)ut(ih) um(hj~)bra(ji) de(ih)cli(ij)na(hi)vé(g!hwih)runt,(hg) (;)
-et(g) e(fg)go(g) sic(g)ut(g) fœ(hiHGhih)num(ghf) á(gh)ru(h!iwji/jkjIH)i.(hiHGhg) (::)
-<sp>+</sp> Qui(gh)a.(gf/gh) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Qui(gh)a.(gf/gh)  (::)
+initial-style: 1;
+name: Velociter exaudi me;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+%%
+(c4) VE(fh|peS)ló(h!iwj/kvJI/jwkjk|viqlhjvi-hmsuu2qlhk!pohk)ci(j|vi)ter(j|vihg) e(h!iwj|qlppt1)xáu(jvjvIH|bv-su2)di(i|vi) me,(jvjvIH/iwjIH|bv-suu2ql-hhsu2) Dó(g|ta)mi(////gh!ivHGh|ci-hhpp2vihh)ne,(ggof|pr)
+<sp>+</sp>(;) Qui(gh|pe)a(gf/gh|cllsc3pe) de(gh|pe)fe(g|ta)cé(ighsjsskjjs|cllsc3sthcdshgclhhsthh)runt(ji|cl-) (`) si(jjoi|pr)cut(hg~|``vi>lsi1) fu(h/jgh|vi-pohi)mus(gvfssded|vi-ds-tolsi8) (,) di(g|vi)es(gh!iwjIH/iwjIH|ql-hhppt2suu2qi-hjsu2) me(////gh!ivHGh|ci-hhpp2vihh)i.(hg|cl-) (::)
 
+<sp>V/</sp> Di(j|vi)es(j|vi) me(ji|cllsc3)i(jkj/iji/hhog|tohhtohiprhi) si(hi|pe)cut(ih|cllsc3) um(jk~|``ta>hhlss4)bra(ji|cllsc3) de(ih|cllsc3)cli(ij|pe)na(hi|pe)vé(g!hwih|ql!clppt1)runt,(hg|cl-) (;) et(g|vi) e(fg|pe)go(g|ta) si(g|ta)cut(g|ta) fœ(ixhiHGhih|////pe-su2tohg)num(ghf|toM1hi) á(gh|peS)ru(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)i.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp>() Qui(gh|pe)a.(gf/gh|cllsc3pe) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj/iji/hhog|tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!clppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|//toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::) 
+<sp>+</sp>() Qui(gh|pe)a.(gf/gh|cllsc3pe) (::)

@@ -1,13 +1,22 @@
+name:Attendite popule meus V Aperiam in parabolis V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) At(d)tén(f/g!h>)di(g)te, <sp>*</sp>(g) pó(g)pu(g)le(g!ho1@iv) me(h)us,(hg/h@iwjg/h/ggO1f) (;)
-le(jvvIH)gem(i@jwkjIHiwjIHs<) me(GHivHGh)am(GHih) (:)
-<sp>*</sp> In(f)cli(ghg)ná(h)te(gf) au(gh)rem(h>) ve(gf)stram(FGhvGFEfvEDed) (;)
-in(d) ver(f/g!h>)ba(g/hjg/h/ggO1f) o(GHiwjjv)ris(ikJIHiwjIH) me(GHivHGh)i.(hg) (::)
-<sp>V/</sp> A(j)pé(j)ri(ji)am(jkj/iji/hhO1g) in(hi~) pa(i)rá(i)bo(ih)lis(ij) os(hi) me(g@hwih)um:(hg) (;)
-lo(g)quar(fg) pro(g)po(g)si(g)ti(g)ó(gh)nes(g) ab(g) i(g)ní(g)ti(hiHGhih)o(ghf) sǽ(gh)cu(h@iwji/jkjIH)li.(hiHGhg) (::)
-<sp>+</sp> In(f)cli(ghg)ná(h)te.(gf)  (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hVg) (::)
-<sp>+</sp> In(f)cli(ghg)ná(h)te.(gf)  (::)
+initial-style: 1;
+name: Attendite popule meus;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) At(d|ta)tén(f/gh>|vi-pe>hk)di(g|ta)te(g|ta) <sp>*</sp> pó(g|ta)pu(g|ta)le(ixg!hoi|////sa1) me(ixh|ta)us,(hg/h!iwjg/hv/ggof|cl-ql!cl-ppt1``vi-hj``prhj) (,) le(iyjvjIH|///bv-hhsu2)gem(i!jwkJIH/iwjI!Hs|//qlhi!vshippt1sut2qi-hjsu1sux1) me(gh!ivHGh|//ci-hhpp2vihh)am;(ixg!hih|////sf-) (;)
+<sp>+</sp> In(f|ta)cli(ghg|//to)ná(h|vihg)te(gf|cl) au(gh|pe)rem(h>|vi>) ves(gf|cl-)tram(fg!hvGFEfvEDed|vihhpp2su1suu2ci-hjcl-hj) (,) in(d|ta) ver(f/gh>|vi-pe>hk)ba(ixg/hig/hv/ggof|//////ta-/toS2hgvi-hh``prhh) o(iyfh!iwjjv|``ql-hhppt2``vi-hh)ris(jkJIH/iwjIH|pe-1hisuu3qi-hisu2) me(gh!ivHGh|//ci-hhpp2vihh)i.(hg|cl-) (::)
 
+<sp>V/</sp> A(j|vi)pé(j|vi)ri(ji|cl)am(jkj/iji/hhog|tohhtohiprhi) in(hi~|ta>) pa(i|ta)rá(i|ta)bo(ih|cl)lis(ij|pe) os(hi|pe) me(g!hwih|ql!cl-ppt1)um,(hg|cl-) (;) lo(g|vi)quar(fg|pe) pro(g|ta)po(g|ta)si(g|ta)ti(g|ta)ó(gh|pe)nes(g|ta) ab(g|ta) i(g|ta)ní(g|ta)ti(ixhiHGhih|//////pe-su2tohg)o(ghf|toM1hh) sǽ(gh|peS)cu(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)li.(hiHGhg|pe-1cl-) (::)
+<sp>+</sp> In(f|ta)cli(ghg|//to)ná(h|vihg)te.(gf|cl) (::)
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cl)a(jkj/iji/hhog|tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|vi) Spi(g|vi)rí(ixhiHG/hih|//////pe-tohg)tu(ghf|toM1hh)i(gh|peS) San(iyh!iwji/jkJIH|ql!clppt1toS2hmsu2)cto.(hiHGhg|pe-1su2cl-) (::) 
+<sp>+</sp> In(f|ta)cli(ghg|//to)ná(h|vihg)te.(gf|cl) (::)

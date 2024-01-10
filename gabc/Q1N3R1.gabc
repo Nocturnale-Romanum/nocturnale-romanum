@@ -1,12 +1,19 @@
-mode:6;
+name:Scindite V Derelinquat;
+office-part:re;
+mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(cb4) Scín(ff!g>)di(f)te<sp>*</sp>(f) cor(f)da(gh) ves(hg)tra,(hgffgvDCded)  (;)
-et(f) non(fvv) ves(c)ti(f)mén(fvv)ta(ghjHGhwiHG) ves(FGhvGFg)tra:(gf) (:)
-et(f) con(FHhvj!k>)ver(j)tí(jk)mi(j)ni(j) ad(h) Dó(hhg)mi(h)num(hjHGhwiHG) De(FGhvGFg)um:(gf) (;)
-<sp>+</sp> Qui(fg)a(fg) be(f)ní(fd!ewfe)gnus(dc/ded) (,)
-et(cdOf) mi(ffe)sé(g)ri(g!hjHGhwiHG)cors(FGhvGFg) est.(gf) (::)
-<sp>V/</sp> De(f)re(f)lín(f!go!h>)quat(ihivHGhg) ím(h)pi(h)us(h) vi(h)am(h) su(hg)am,(h)  (,)
-et(h) vir(h) in(h)í(ixhi)quus(h) co(h)gi(h)ta(h)ti(jh)ó(i)nes(gh) su(f!gwhg)as,(gf) (;)
-et(f) re(df)ver(f)tá(f)tur(f) ad(f) Dó(fg)mi(f)num,(f)  (,)
-et(f) mi(f)se(f)ré(ghf)bi(fe)tur(f!go!h>) e(ig!hwiHG)jus.(ghGFgf) (::)
-<sp>+</sp> Qui(fg)a.(fg) (::)
+initial-style: 1;
+name: Scindite corda vestra;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp. ;
+annotation: iv;
+nabc-lines:1;
+%%
+(c4) Scín(f|vi)di(de|pe)te(e|ta) <sp>*</sp> cor(ef~|ta>)da(e|ta) ves(fe|cl-)tra,(egFEfvEDed|////toS2sut1ci-cl-) (,) et(e>|ta) non(f|vi) ves(ffoe|pr)ti(d|vi)mén(ccob~|vs>)ta(dede|//tr) ve(egffs|tosthh)tra:(eeof|sa) (;) et(dg|peS) con(hggof~|cl!pilsc2)ver(gh|pe)tí(gh|pe)mi(ghGFEf|////toSsu2vi)ni(fe|cl-) (,) ad(e|ta) Dó(e!fwg/hv|ql-ppt1vihl)mi(g|ta)num(g@h@ji/jkj|//sfhhlsc3tohm) De(hvGF/gwhgh|////vi-sut2qihg!pohg)um:(ixg!hih|//////sf-) (:)
+<sp>+</sp> Qui(c|ta)a(de|pe) be(fsss|//ts)níg(dgfg/hv|//tr-3vihk)nus(g|ta) et(g|ta) mi(gh|pe)sé(hg|cl-)ri(ixf!goh//ig/hg|////////sapfS)cors(egffs|tosthh) est.(fe|cl-) (::)
+
+<sp>V/</sp> De(h|vi)re(h|vi)lín(h|vi)quat(gf!gwhg/hvGEfe|cl-qihg!cl-hg`ci-hjcl-hj) ím(gh|pe)pi(g|ta)us(g|ta) vi(g|ta)am(g|ta) su(gh|pe)am,(g|ta) (,) et(g|ta) vir(g|ta) i(g|ta)ní(gh|pe)quus(g|ta) co(g|ta)gi(g|ta)ta(g|ta)ti(gf|cllsc3)ó(gh|pe)nes(gf|cllsc3) su(e!fwgf|ql!cl-ppt1)as,(fe|cl-) (;) et(f|vi) re(de|pe)ver(e|ta)tá(e!fo|vs)tur(e|ta) ad(e|ta) Dó(e!fo|vs)mi(e|ta)num,(e|ta) (,) et(e|ta) mi(e|ta)se(e|ta)ré(e!fwgFE|ql-ppt1su2)bi(g|vi)tur(ghghGF|//tr-1su2) e(e!fgffs|popp2)jus.(ed|cl-) (::)
+<sp>+</sp> Qui(c|ta)a(de|pe) be(fsss|//ts)níg(dgfg/hv|//tr-3vihk)nus(g|ta) (::)

@@ -1,15 +1,22 @@
+name:Laetentur omnes qui sperant V Domine in lumine V Gloria;
+office-part:re;
 mode:6;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  Læ(d)tén(f!g>)tur(f) o(fgf/gd!ewf!g>)mnes,<sp>*</sp>(f) (,)
-qui(f) spe(gh)rant(ixhgivHG) in(ixgif>) te,(d) (;)
-Dó(d!fo1!gv)mi(f)ne,(FGhf/ggO1f) in(h>) æ(hg)tér(h!iwjIHi)num(ih) ex(f)sul(gh~)tá(hvGFg)bunt,(gf) (:)
-et(f) ha(c)bi(fe)tá(f)bis(g) in(FGHjvHGixhwiHG) e(FGhvGFg)is,(gf) et(j) glo(jk)ri(j)a(jh)bún(ji/jh~)tur(h) in(j) te(FGHjvHGhwiHG) o(hih~)mnes,(h) (;)
-<sp>+</sp> Qui(dfO1!gvfgh) dí(d)li(DEfvEDC)gunt(df~) no(fe/go1!hv)men(ghg) tu(FGhvGFg)um.(gf) (::)
-<sp>V/</sp> Dó(ixf!go1!hv)mi(h)ne,(ihivHGhg) in(h) lú(ixhi)mi(h)ne(h) vul(h)tus(h) tu(h)i(jh) am(ixi)bu(gh)lá(f!gwhg)bunt,(gf) (;)
-et(f) in(df~) nó(f)mi(f)ne(f) tu(fg)o(f) ex(f)sul(f)tá(f)bunt(ghf~) to(fe)ta(f!go1!hv) di(ig!hwiHG)e.(ghGFgf) (::)
-<sp>+</sp> Qui.(dfO1!gvfgh) (::)
-<sp>V/</sp> Gló(f!go@hv)ri(h)a(ixihivHGhg) Pa(ixh!iwj!kv)tri,(j) et(jh) 
-Fí(gh)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(ghf)tu(fez)i(f!go@hv) San(ixig!hwiH!gs<)cto.(ghGFgf)  (::)
-<sp>+</sp> Qui.(dfO1!gvfgh) (::)
+initial-style: 1;
+name: Laetentur omnes qui sperant;
+mode: 6;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vi;
+nabc-lines: 1;
+%%
+(c4) Læ(d|ta)tén(ffg|scM1)tur(f|ta) om(fg|pe)nes,(f|ta)<sp>*</sp> qui(f|ta) spe(ixfh/ivHG|////pe-ci-hh)rant(i|vihh) in(ixh//igh|////ta-polsi8) te,(ggof|pr) Dó(fg|pe)mi(f|ta)ne,(fggf|pe-`cl-hg) (;) in(f|``talse4) æ(h|vi)tér(jjk|``scM1lss4)num(j|vi) ex(hhog|pr)sul(gh|pe)tá(hvGFE/fwgfg|vi-sut3qi!po)bunt,(gf|cl-) (;) et(f|``talse4) ha(c|gr)bi(f|vi)tá(ffoe|pr)bis(g|vi) in(ixgh@jvHG/hwiHG|////vi-hhppt2sut2qi-hhsu2) e(fg!hvGFg|//ci-hhpp2vihh)is,(gf|cl-) (:) et(f|``talse4) glo(g|vi)ri(ixh!iwj|////vi-qlhj)a(g|vi)bún(fgF~D~|//to>lsi8)tur(f|vilse3) in(f|ta) te(g|vi) om(fd/evDC|cl-ci-)nes,(dc|cl-) (;)
+<sp>+</sp> Qui(cd|pe) dí(fg|peS)li(fe|cllsc3)gunt(g|vilse3) no(g|vi)men(ixgh@jvHG/hwiH!Gs>|////vi-hhppt2sut2qi-hgsu1sux1) tu(fg!hvGFg|//ci-hhpp2vihh)um.(gf|cl-) (::)
 
+<sp>V/</sp> Dó(f!goh|sa)mi(h|vi)ne,(ixih/ivHGhg|////cl-ci-cl-) in(h|vi) lú(ixh!iwj/kv|viql-hjvi-hn)mi(j|vi)ne(jh|cllsc3) vul(ixij|////pe)tus(ih|cllsc3) tu(h|ta)i(hg|cllsc3) am(ixi|////vihh)bu(gh|pe)lá(f!gwhg|ql!cl-ppt1)bunt,(gf|cl-) (;) et(f|ta) in(df~|ta>lsal3) nó(f|ta)mi(f|ta)ne(f|ta) tu(fg|pe)o(f|ta) ex(f|ta)sul(f|ta)tá(f|ta)bunt(ghf|//toM1) to(gf|cllsc3)ta(f!goh|sa) di(ixig!hwiHG|////cl-ql-su2)e.(ghGFgf|pe-1su2cl-) (::)
+<sp>+</sp> Qui(cd|pe) dí(fg|peS)li(fe|cllsc3)gunt.(g|vilse3) (::)
+
+<sp>V/</sp> Gló(f!goh|sa)ri(h|vi)a(ixih/ivHGhg|////cl-ci-cl-) Pa(ixh!iwj/kv|viql-hjvi-hm)tri,(j|tahh) et(jh~|vi>lsi6) Fí(ixij|////pe)li(ih|cllsc3)o,(h|ta) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(ixi|////vihh)i(gh|pe) Sanc(f!gwhg|ql!cl-ppt1)to.(gf|cl-) (::)
+<sp>+</sp> Qui(cd|pe) dí(fg|peS)li(fe|cllsc3)gunt.(g|vilse3) (::)

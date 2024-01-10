@@ -1,14 +1,22 @@
-mode:4;
+name:Exspectabo nomen tuum V Ut confiteamur V Gloria;
+office-part:re;
+mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)   Ex(d)spe(fd)ctá(d!ewf!gvfefd)bo<sp>*</sp>(d) (,)
-no(e!fwg!hv)men(ghg) tu(g!hjhiwj)um,(jg) (;)
-Dó(h)mi(hg/hf/gwhGFEf)ne,(fe) (:)
-<sp>+</sp> Quó(e!fo1!gv)ni(f)am(fefvEDed) bo(cd)num(e!fwg!hv) est(FGhjIHG) in(ef~) con(gh>)spé(hvGFgwhgh)ctu(hg) (;)
-san(hi~)ctó(hg)rum(gh>) tu(e!fwg!hvGFghg)ó(egfFs)rum.(fe) (::)
-<sp>V/</sp> Ut(h) con(h)fi(h)te(h)á(gh)mur(gf!gwhghvGEfe) nó(g)mi(g)ni(gf) sanc(gh~)to(gf) tu(e!fwgf)o,(fe) (;)
-et(f) glo(de)ri(e)é(e!fo1)mur(e) in(e!fwgFE) lau(g)de(ghghvGF) tu(EFgef)a.(ed) (::)
-<sp>+</sp> Quó(e!fo1!gv)ni(f)am.(fefvEDed) (::)
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;) 
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(ghghGF) San(E/0Fgef>)cto.(ed) (::)
-<sp>+</sp> Quó(e!fo1!gv)ni(f)am.(fefvEDed) (::)
+initial-style: 1;
+name: Exspectabo nomen tuum;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Ex(d|ta)spec(d|ta)tá(f/gh|scM1)bo(g|ta)<sp>*</sp> no(g|ta)men(ixg!hoi|////sa1) tu(h|vi)um,(ixhg/h!iwjg/hv/ggof|////cl-ql!cl-vi-``pr) (,) Dó(hf/gh!iwjIH/iwjIH|cl-heql-hhppt2sut2qi-hgsu2)mi(gh!ivHGh|//ci-hhpp2vihh)ne,(hg|cl-) (;)
+<sp>+</sp> Quón(jkj|//tohhlsc2)i(jh|clhhlsc3)am(jkj|//tohh) bo(jk|peShh)num(ki/jkh/iv|clhhlsc2toS2hhvi-hh) est(hhog|pr) (,) in(h|vi) cons(h/jvIG|vi-/ciShj)péc(jvjv|bv-)tu(kvJIjvIHG|clShhsut1vi-hhsut1su2) sanc(gh|pe)tó(hg/hvGFg|cl-ci-vi)rum(gf|cl-) tu(gh!iwjIH/iwjIH|ql-hhppt2sut2ql-hgsu2)ó(gh!ivHGh|//ci-hhpp2vihh)rum.(hg|cl-) (::)
 
+<sp>V/</sp> Ut(j|vihh) con(j|vihh)fi(j|vihh)te(j|vihh)á(ji|clhhlsc2)mur(jkj/iji/hhog|//tohhlsc2tohiprhi) nó(hi|pe)mi(i|vi)ni(ih|cllsc3) sanc(ij|pe)to(hi|pe) tu(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|vi) glo(fg|pe)ri(g|ta)é(gh|pe)mur(g|ta) in(ixhiHGhih|////pe-su2tohg) lau(ghf|//toM1)de(gh|peS) tu(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)a.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Quón(jkj|//tohhlsc2)i(jh|clhhlsc3)am.(jkj|//tohh) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj/iji/hhog|//tohhlsc2tohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-1su2tohg)tu(ghf|//toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Quón(jkj|//tohhlsc2)i(jh|clhhlsc3)am.(jkj|//tohh) (::)

@@ -1,17 +1,22 @@
+name:Lamentabatur Jacob V Posternens V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) La(g)men(g)ta(g)bá(hj)tur<sp>*</sp>(j) Ja(j)cob(hihghg)  (,)
-de(ghGF) dú(h)o(jk)bus(j) fí(k)li(j)us(ih) su(GHivHGh)is:(hg) (;)
-Heu(GIjwk) me,(jkwlkl) do(lk)lens(j) sum(ihiwjihO1g) (,)
-de(hg) Jo(FHjk)seph(jh!iwjIH) pér(g)di(GHivHGh)to,(hg) (:)
-et(ghj~) tri(jvIH)stis(j!ko1!lv) ni(kjkvJIj)mis(ji) de(ij) Bén(klk/lml)ja(k)min(jhiwj!kvJIHG) (;)
-duc(FHiwj!kv)to(j) pro(j) a(kj)li(i!jwkJIHiwjIH)mó(g)ni(GHivHGh)is(hg)! (:)
-<sp>+</sp> Pre(gf)cor(g) cœ(h)lé(jvIH)stem(i!jwk!l>) Re(kjkvJIj)gem,(ji) (;)
-ut(ij~) me(klk/lml) do(lk)lén(j>)tem(ji) ní(hi)mi(h)um(g) (,)
-fá(ghg!fGHiwj!kv)ci(j)at(j) e(kvJI)os(h!iwjIH) cér(g)ne(GHivHGh)re.(hg) (::)
-<sp>V/</sp> Pro(g)stér(ghGF)nens(GHiwj!k>) se(j) Ja(ji/jkwlj)cob(kkO1j) ve(j)he(i)mén(hj~)ter(j) cum(k>) lá(ji)cri(h)mis(g) pro(hg/hi)nus(hg) in(fg~) ter(gf/hg)ram,(g) (;)
-et(h) ad(gf)ó(GHiwjkj)rans(ihjvIHih) a(gf/hg)it.(g) (::)
-<sp>+</sp> Pre(gf)cor.(g) (::)
-<sp>V/</sp> Gló(ghGF)ri(GHiwj!kv)a(ji/j!kwlj) Pa(j)tri(kkO1j) et(j) Fí(ji)li(h)o,(g) (;)
-et(h) Spi(h)rí(gf)tu(GHiw/jkj)i(ihjvIHih) San(gf/hg>)cto.(g)  (::)
-<sp>+</sp> Pre(gf)cor.(g) (::)
+initial-style: 1;
+name: Lamentabatur Jacob;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c3) La(e|ta)men(e|ta)ta(e|ta)bá(fg|pe)tur(g|vi) <sp>*</sp>() Ja(g|vi)cob(hf/gv//ffoe|cl-vi-pr) (,) de(efED|pe-1su2) dú(df!gwhhi|```ql-hhppt2pehj)o(hi|pe)bus(h|ta) fí(i|vihh)li(h|vi)us(ggof|pr) su(ef!gwhGF|``ql-ppt2su2vi)is:(fe|cl-) (:) He(eg!hwi|``qlhhppt2)u(h!iwjij|ql!poppt1) me,(j|vi) do(ji|cllsc3)lens(h|vi) sum(gf!gwhGFE|cl-`qlhg!vshgsu2) de(efED|pe-1sut2) Jo(df!gwh|```qlhhppt2)seph(iv//hhof/hhof|vi-hhprpr) pér(ed~|vi>lsi6)di(fe|cllsc3)to,(e|ta) (;) et(e/fg~|ta/ta>hg) tris(ghGF|pe-su2)tis(g!hwi/jv|ql-ppt1vihm) ni(ihiHGh|///posu2)mis(hg|cl-) (,) de(gh|peS) Bén(i!jwkj|qlhh!clhhppt1)ja(i|vi)min(hf/ivHGFfoe|clhhci1hhlsc2pihe) duc(df!gwhhi|```ql-hhppt2pehj)to(h|ta) pro(hiHF|peSsu1sut1) a(fh|pe)li(hvGFgf|ci-cllsc3)mó(ed|cllsc3)ni(fe|cllsc3)is!(e|ta) (:)
+<sp>+</sp> Pre(ec|clMhhlsc3)cor(e|vi) cæ(f!gwh|``vi-qlhi)lés(hvGF|ci-)tem(gh!ij|pehhpp2) Re(ihiHGh|posu2vi)gem,(hg|cl-) (,) ut(gh|peS) me(i!jwkj|qlhh!clhhppt1) do(ji|clhhlsc3)lén(hf~|vi>lsi6)tem(gf|cl-) ní(ih|cllsal2lsc3)mi(fe|cllsc3)um(ed|cl-) fá(df!gwhhi|````ql-hhppt2pehj)ci(h|ta)at(h|ta) e(hiHF|pe-1su2)os(f/hvGF|ta-cilsc3) cér(ed~|vi>lsc6)ne(fe|cllsc3)re.(e|ta) (::)
+
+<sp>V/</sp> Pro(e|ta)stér(efED|pe-1su2)nens(ef!gwhhi|```ql-hhppt2pehj) se(h|ta) Ja(hg/ijh|cllsc3tohh)cob(hih|//toS) (,) ve(h|vihh)he(g|vi)mén(fh|pe)ter(h|ta) cum(i>|vihh) lá(h|vi)cri(gf|cllsc3)mis(ef|pe) pro(fe|cllsc3)nus(gxfgFE|////pe-su2) in(de|pe) ter(edfe|`pflsc2)ram,(e|ta) (;) et(f|``vilsl1) ad(ed/ef!gwh|cl-hdqlhhppt2)ó(hiHGF|toSsu2)rans(hvGFgf|ci-cllsc3) a(edfe|pflsc2)it.(e|ta) (::)
+<sp>+</sp> Pre(ec|clMhhlsc3)cor(e|vi) cæ(f!gwh|``vi-qlhi)lés(hvGF|ci-)tem.(gh!ij|pehhpp2) (::)
+
+<sp>V/</sp> Gló(efED|pe-1su2)ri(ef!gwhhi|```ql-hhppt2pehi)a(h|ta) Pa(hg/ijh|cllsc3tohg)tri(hih|toS) (,) et(i|vihh) Fí(h|vi)li(gf|cllsc3)o,(ef|peS) et(e|ta) Spi(f|vi)rí(hiHGF|toShhsu2)tu(hvGF|ci-)i(gf|cllsc3) Sanc(edfe|pflsc2)to.(e|ta) (::)
+<sp>+</sp> Pre(ec|clMhhlsc3)cor(e|vi) cæ(f!gwh|``vi-qlhi)lés(hvGF|ci-)tem.(gh!ij|pehhpp2) (::)

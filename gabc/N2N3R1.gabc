@@ -1,5 +1,19 @@
-mode:7;
+name:Tribulationem et dolorem V Turris fortissima;
+office-part:re;
+mode:2;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3)Tri(e)bu(e)la(ehg)ti(h)ó(ij)nem(i) *(;) et(hih) do(hg!hwihGFgf)ló(h!iwjijvIHig/hoi)rem(ji) (,) in(ig!hwihGF!gwhGF)vé(EF!gvFEf)ni:(fe) (:) † Et(ehg~) no(h@ioj)men(i) Dó(hih)mi(hg!hwihGFg)ni(ffO1e) (;) in(f!gwh!i>)vo(hf!gwhGF!gwhGF)cá(EF!gvFEf)vi.(fe) (::) 
-<sp>V/</sp>. Tur(i!jwkJI)ris(hi/hhO1g) for(h)tís(hi)si(h)ma(ig) no(hi)men(hi) Dó(i)mi(i!jwkj)ni,(ji) (;) in(hi/hhO1g) i(hih)pso(i) spe(i)rá(ij)vi,(i) et(iji/jvIH) ad(hg)jú(h!iwji/jkj)tus(ih!iwjij) sum.(ivHGhg) (::) † Et.(ehg~) (::)
+initial-style: 1;
+name: Tribulationem et dolorem;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines: 1;
+%%
+(f3) Tri(f|talse3)bu(fc|clMlsc3)la(ed|cllsc3)ti(ef|pe)ó(f|ta)nem(fhffe|toS2cl-)<sp>*</sp> et(f|vihe) do(h|vi)ló(hf/ggof/gv/hih|////clprvi-/tohj)rem(fhGFEf|pesu3vi) in(fe/fh//ghf>|clpe-to>hh)vé(fgf|//toS)ni:(f|ta-) (;)
+<sp>+</sp> Et(e/fh~|grta>lsal3) no(h|vi)men(h|vi) Dó(hhg/hf/g!hoi|////prcl-sa)mi(fgFEf|pe-1su2vi)ni(fe|cl-) in(f!gwhGE|ql-ppt1su1sut1lsi6)vo(fv/e!fwhGEfv//eh//ghf|``vi-hdql-ppt1su1sut1vi-pe-/tohh)cá(fgf|//toS)vi.(f|ta) (::)
 
+<sp>V/</sp> Tur(ef!gwhhi|ql-hhppt2pehj)ris(h|ta) for(h|ta)tís(ij|``pelsl4)si(i|vi)ma(hg|cllsc3) no(hi|pe)men(gh|pe) Dó(f|ta)mi(f!gwhg|ql!cl-ppt1)ni,(gf|cl-) (;) in(f|vi) ip(ef|pe)so(f|ta) spe(f|ta)rá(fg|pe)vi,(f|ta) et(f!gwhGFE|ql-ppt1su1sut2) ad(f|vi)jú(hg/hih|//cllsc2tohg)tus(hvGFg|ci-vi) sum.(ffoe|pr) (::)
+<sp>+</sp> Et(e/fh~|grta>lsal3) no(h|vi)men.(h|vi) (::)

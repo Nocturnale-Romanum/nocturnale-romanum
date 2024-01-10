@@ -1,19 +1,21 @@
+name:Hierusalem plantabis V Exsulta satis V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Hie(g)rú(gffd!ewfED)sa(cd)lem,(f!gwhGFg!hwihhO1g) (,)
-<sp>*</sp> plan(f)tá(h)bis(ji) ví(g)ne(ghhg)am(g) (;)
-in(ffO1es>) món(g)ti(hg)bus(fg) tu(GHivHGh)is:(GHih) (:)
-et(gf) ex(g)sul(hj~)tá(ji/jkh/i)bis,(hhO1g) (,)
-qui(i)a(i) di(i)es(i) Dó(ki/jo0!kv)mi(h)ni(gfh) vé(hjg)ni(gf!gwhgh)et:(hg) (;)
-sur(jk~)ge,(kvJsshih) Si(h!iwj!kvJIjwkjk)on,(kj) con(gh~)vér(h>)te(ghGFg)re(gf)
-ad(h) De(jh!iwjIH)um(h) tu(hiih)tum:(h) (:)
-<sp>+</sp> Gau(iio1!jv)de(jg) et(i!j>) læ(j)tá(klk)re,(i) Ja(ikjJs)cob:(ji) (;)
-qui(g)a(g) de(h!iwj) mé(j)di(jvIH)o(h) Gén(hgh>)ti(FGhvGFg)um(gf) (,)
-Sal(hf~)vá(ghg)tor(h)  tu(hjghv)us(FGHiwjIHiwjIH) vé(g)ni(GHivHGh)et.(hg) (:)
-<sp>V/</sp> Ex(j)súl(ji~)ta(jkj/iji/hhO1g) sa(hi)tis,(i) fí(ih)li(ij)a(hi) Si(g!hwih)on:(hg) (;)
-jú(g)bi(fg)la,(g) fí(g)li(g)a(hiHGhih) Je(ghf)rú(gh)sa(h!iwji/jkjIH)lem.(hiHGhg) (::)
-<sp>+</sp> Gau(iio1!jv)de.(jg) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/iji/hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHGhih)tu(ghf)i(gh) San(h@iwji/jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Gau(iio1!jv)de.(jg) (::)
+initial-style: 1;
+name: Jerusalem plantabis;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Je(g|vi)rú(gffd!ewfED|pflst2ql-hgsu2)sa(cd|peS)lem,(ixf!gwhGF/g!hwihhog|////vi-ql-hjsut2qlhk!cl-hkppt1``pihplst3) *(,) plan(f|ta)tá(h|vi)bis(ji|cllss2lsc3) ví(g|ta)ne(ghhg|pe-cl-hg)am(g|vi-) in(ffoe>|pr>) món(g|vi)ti(hg|cl)bus(fg|pe) tu(ixgh!ivHGh|//////ci-hhpp2vi-hh)is:(g!hih|cl-hhppt2) (;) et(gf|clhdlsc3) ex(g|vi)sul(hj~|ta>lss2)tá(ji/jkh/iv|///clhhlsc2toS2hhlss2`vi-hi)bis,(hhog|pr) qui(i|vi-hh)a(i|vi-hg) di(i|vihh)es(i|vihh) Dó(ki!jok|clhhpqhh)mi(h|vi)ni(gfh|polsi2) vé(hjg|//toSlsi9)ni(gf!gwhgh|//cl-`qi!po)et.(hg|cl-) (:) Sur(jk~|ta>hhlsl2)ge,(kv/jsshih|vi-hh/ds-hltohk) Si(h!iwjkvJI/jwkjk|ql-hhppt1vi-hlsut2qihl!pohl)on,(kj|cl-hh) (;) con(gh~|ta>lsi7)vér(h>|vi>)te(ghGFg|pe-1su2vi)re(gf|cl-) ad(h|vi) De(jh!iwjIH|cl-`qi-hgsu2)um(h|ta) tu(hiih|pe-cl-hg)um.(h|ta) †(;) Gau(iioj|sa)de(jg|cllsal2lsc3) et(gji~|pe>lss3) læ(j|vihi)tá(klk|//tohk)re,(i|ta) Ja(ikjjs|``tohhlse4sthj)cob:(ji|cl-) (;) Qui(g|ta)a(g|ta) de(h!iwj|``vi-qlhj) mé(j|vi)di(jvIH|ci-)o(h|ta) gén(hgh>|//po>)ti(fg!hvGFg|//ci-hhpp2vi-hh)um(gf|cl-) (,) Sal(hf~|vi>)vá(ghg|//to)tor(h|vi) t{uu}s(hjHGhv//fgh!iwjIH/iwjIH|////toS2vi-ql-hjppt3sut2qi-hksu2) vé(g|ta)ni(gh!ivHGh|//ci-hhpp2vihh)et.(hg|cl-) (::)
 
+<sp>V/</sp> Ex(j|vi)súl(ji|cllsc3)ta(jkj/iji/hhog|//tohhtohiprhi) sa(hi|pe)tis,(i|vi) fí(ih|cllsc3)li(ij|pe)a(hi|pe) Si(g!hwih|q!cl-ppt1)on:(hg|cl-) (:) jú(g|vi)bi(fg|pe)la,(g|ta) fí(g|ta)li(g|ta)a(ixhiHG/hih|//////pe-su2tohg) Je(ghf|toM1)rú(gh|peS)sa(iyh!iwji/jkJIH|//////ql!clppt1toS2hlsu2)lem.(hiHGhg|pe-1su2cl-) (::)
+†() Gau(iioj|sa)de.(jg|cllsal2lsc3) (::)
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::)
+†() Gau(iioj|sa)de.(jg|cllsal2lsc3) (::)

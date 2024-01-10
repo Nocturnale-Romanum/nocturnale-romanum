@@ -1,15 +1,21 @@
+name:Vidi sub altare Dei animas V Sub throno V Gloria;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Vi(dgf/gh)di(g) sub(g) al(g)tá(g)re(gh) De(h)i(hg!hiwjg/h/ggO1f) (;)  (::)
-á(hiHGFgh)ni(g)mas(g) in(g)ter(g)fec(GHiwjIHiwjIH)tó(GHivHGh)rum(hg) (:)
-prop(jkj)ter(jh~) ver(jkj)bum(jk) De(ki!jkh/i)i(hhO1g) ha(h)bé(hghvGFg)bant,(gf) (,) 
-et(FGHiwjg) cla(g)ra(g) vo(g)ce(e) di(g)cé(fef)bant(deCDewfefED) (;)
-<sp>+</sp> Vín(d)di(d)ca,(d) Dó(fgh)mi(g)ne,(g) sán(gh~)gui(g)nem(g) Sanc(g)tó(gh)rum(h) tu(h)ó(hg)rum,(higgf) (,)
-qui(hfGHJsskjjh!iwjijHGFghGFg) ef(fg)fú(g)sus(GHivHGh) est.(hg) (::)
-<sp>V/</sp> Sub(j) thro(ji)no(jkj/iji/hhO1g) De(hi)i(i) o(i)mnes(ih) Sanc(ij)ti(hi) cla(g!hwih)mant.(hg) (::)
-<sp>+</sp> Vín(d)di(d)ca.(d) (::)
-<v>(</v><sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Vín(d)di(d)ca.(d) (::)
-Te Deum<v>)</v>( )
+initial-style: 0;
+name: Vidi sub altare Dei;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Vi(dgf/gh|to/pehh)di(g|ta) sub(g|ta) al(g|ta)tá(g|ta)re(ixg!hoi|////sa1) De(h|vi)i(ixhg/h!iwjg/hv/ggof|////cl-hgqlhg!cl-hgppt1vi-hi``prhi) (,) á(ixhiHGFgh|////toSsu2peS)ni(g|ta)mas(g|ta) in(g|ta)ter(g|ta)fe(gh!iwjIH/iwjIH|ql-hippt2sut2qi-hjsu2)ctó(gh!ivHGh|//ci-hhpp2vihi)rum(hg|cl-hh) (;) prop(jkj|//tohilsc2)ter(jh~|vi>hhlsi6) ver(jkj|//tohh)bum(jk|pehh) De(ki/jkh/iv|clhilsc2toS2hivi-hi)i(hhog|pr) quod(h/jvIG|vi-hh/ciShklsc3) ha(jvjvkvJIjvIHG|////bv-hiclShjsut1vi-hjsuu1su2)bé(hg/hvGFg|clci-vi)bant,(gf|cl-) (:) et(fg!hjg|toM1hhpp2) vo(g|ta)ce(g|ta) ma(g|vi)gna(e|ta) di(g|vi)cé(fef|po)bant(dec/d!ewfe/fvED|toS2ql!cl-ppt1`ci-hi) †(:) Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f/gh|scM1)mi(g|ta)ne,(g|ta) sán(gh|pe)gui(g|ta)nem(g|ta) ser(g|ta)vó(gh|pe)rum(g|ta) tu(ixg!hoi|////sa1)ó(h|ta)rum,(hg/h!iwjg/hv/ggof|cl-ql!cl-ppt1vi-hi``prhi) (;) qui(hf/gh!iwjjv|cl-ql-hhppt2`vi-hh) ef(jkJIH/iwjIH|////pe-1hhsut3qi-hgsu2)fú(g|ta)sus(gh!ivHGh|//ci-hhpp2vihh) est.(hg|cl-) (::)
+<sp>V/</sp> Sub(j|vi) thro(j|vi)no(j|vi) De(ji|cllsc3)i(jkj/iji/hhog|////tohhtohiprhi) om(hi|pe)nes(ih|cllsc3) San(ij|pe)cti(hi|pe) cla(g!hwih|ql!cl-ppt1)mant.(hg|cl-) (::)
 
+†() Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f/gh|scM1)mi(g|ta)ne.(g|ta) (::)
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hlsu2)to.(hiHGhg|pe-1su2cl-) (::)
+†() Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f/gh|scM1)mi(g|ta)ne.(g|ta) (::)

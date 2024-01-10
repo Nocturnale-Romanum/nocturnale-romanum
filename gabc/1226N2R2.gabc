@@ -1,12 +1,18 @@
+name:Impetum fecerunt unanimes V Et testes deposuerunt;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Im(d!ewf/gf)pé(fd)tum<sp>*</sp>(fgf) fe(ghg)cé(ixhvGFgwhgh!iv)runt(h) (;)
-un(fg)a(gh)ní(g)mes(hggO1e) in(fg) e(fgefvEDe)um,(ed) (:)
-et(d) e(d)je(d)cé(fgh)runt(g) e(gh)um(g) ex(g)tra(g) ci(g)vi(gf)tá(ggfg)tem,(gffo~ded) (:)
-in(d)vo(d)cán(fgf)tem(fd) et(f) di(f!go1!hv)cén(hvGFEfwgfg)tem:(gf) (;)
-<sp>+</sp> Dó(h)mi(ge)ne,(fgefvEDed) ác(f)ci(f)pe(dfddc) spí(d!ewf!gv)ri(fe)tum(cd~) me(d!ewfef)um.(ed) (::)
-<sp>V/</sp> Et(h) tes(h)tes(hg/hggO1f) de(g)po(g)su(g)é(gh)runt(g) ve(g)sti(g)mén(gh~)ta(g) su(g)a(g) se(gh)cus(g) pe(g)des(g) ad(g)o(g)le(g)scén(g)tis,(g) (,)
-qui(g) vo(hf)cá(gh)tur(gh) Sau(ixh/iiO1h)lus:(h) (;)
-et(gf) la(gh)pi(h)dá(h)bant(h) Sté(ixhi)pha(h)num(h) in(h)vo(h)cán(h)tem(hg/hg) et(gf) di(ixf!gwhg/hih)cén(hvGFEfwg!h>)tem.(gf) (::)
-<sp>+</sp> Dó(h)mi(ge)ne.(fgefvEDed) (::)  
+initial-style: 1;
+name: Impetum fecerunt;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) Im(d!ewf/gf|qlppt1clhllsc2)Pe(fd|cllsc3)tum(fgf|to) *() fe(ghg|to)cé(ixhvGF/gwhgh/iv|////vi-sut2ql!po-1vihl)runt(h|ta) (,) un(ixhi|////pe)á(hi|pe)ni(h|ta)mes(hggoe|cl!pilsc2) in(fg|pe) e(fge/fvEDe|toSci-hivi-hi)um;(ed|cl-) (;) et(d|ta) e(d|ta)je(d|ta)cé(f/gh|scM1)runt(g|ta) e(gh|pe)um(g|ta) ex(g|ta)tra(g|ta) ci(g|ta)vi(gf|cllsc3)tá(g/hfg|////vi-pohk)tem,(gffo/ded|cllsc2orto) (,) in(d|ta)vo(d|ta)cán(fgf|to)tem(fe|cllsc3) et(f|ta) di(f!goh|sa)cén(hvGFE/fwgfg|////vi-suu3qi!po)tem:(gf|cl-) †(:) Dó(h|vi)mi(ge|cllsc3lsi8)ne,(fge/fvEDed|////toSci-hgcl-hh) (,) ác(f|vi)ci(f|vi)pe(dfddc|toS2cl-) spí(e!fwg/hv|ql-ppt1vihm)ri(fe|cllsc3)tum(cd~|ta>) me(d!ewfef|ql!poppt1)um.(ed|cl-) (::)
 
+<sp>V/</sp> Et(h|vi) te(h|vi)stes(hg/hggof|cllsc2cl!pilst3) de(g|ta)po(g|ta)su(g|ta)é(gh|pe)runt(g|ta) ve(g|ta)sti(g|ta)mén(gh~|ta>)ta(g|ta) su(g|ta)a(g|ta) se(gh|pe)cus(g|ta) pe(g|ta)des(g|ta) ad(g|ta)o(g|ta)le(g|ta)scén(g|ta)tis,(g|ta) (,) qui(g|ta) vo(hf|cllsc3)cá(gh|pe)tur(gh|pe) Sau(ixh/iioh|////ta-pr)lus:(h|ta) (;) et(hf|cllsc3) la(gh|pe)pi(h|ta)dá(h|ta)bant(h|ta) Sté(ixhi|////pe)pha(h|ta)num(h|ta) (,) in(h|ta)vo(h|ta)cán(h|ta)tem(hg/hg|pf1lsc2) et(hf|cllsl2lsc3) di(ixf!gwhg/hih|////ql!clppt1tohm)cén(hvGFE/fwg/h>|vi-su1sut2ql-vihk)tem.(gf|cl-) (::)
+†() Dó(h|vi)mi(ge|cllsc3lsi8)ne,(fge/fvEDed|////toSci-hgcl-hh) (::)

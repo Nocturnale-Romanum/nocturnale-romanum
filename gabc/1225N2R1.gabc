@@ -1,13 +1,18 @@
+name:O Magnum mysterium V Ave Maria;
+office-part:re;
 mode:3;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) O(GHiji) Ma(j)gnum(ji>) my(h)sté(hi/ji)ri(hg)um,(h!iwjIHijggo~efe) (;)
-<sp>*</sp> et(f) ad(e!fwg!hv)mi(g)rá(hg/hi)bi(h)le(h) sa(hggO1f)cra(FGh/ig/hg)mén(egfFs)tum,(fe) (:)
-ut(ed) a(gh)ni(g)má(hiHGhwi!jv)li(i)a(ijkJIjvIHGhg) vi(g)dé(i)rent(j) Dó(iiO1h)mi(g)num(GHiwj) na(jiiO1hivHGh)tum,(hg) (;)
-ja(h)cén(h>)tem(e) in(e) præ(h)sé(gh)pi(fgFEDe)o:(ed) (:)
-<sp>+</sp> Be(g)á(iji)ta(h) Vir(ijig~)go,(hghvGFGHijhhO1g) (,)
-cu(h)jus(h) ví(h!iwj)sce(g)ra(e) me(g)ru(f)é(e/ced)runt(fd/efe) (;)
-por(fd~)tá(eFsss)re(fd) Dó(f!go1!hv)mi(f!go1!hv)num(hiGFghg) Chri(egfFs)stum.(fe) (::)
-<sp>V/</sp> A(ikjJs)ve,(h!iwjih/hO1g) Ma(i)rí(i!jo1)a,(h) grá(hg)ti(h)a(j) ple(ikjJs)na:(ji) (;)
-Dó(ikjIHiwji)mi(hg)nus(GHiwj) te(jiiO1hivHGh)cum(hg) (::)
-<sp>+</sp> Be(g)á(iji)ta.(h) (::)
+initial-style: 1;
+name: O magnum mysterium;
+mode: 3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iii;
+nabc-lines: 1;
+%%
+(c4) O(gh!iji|//topp2) ma(j|vi)gnum(ji|cllsc3) *() my(h|ta)sté(hjji|pe-orhj)ri(hg|cl)um,(gh!iwjIHijggo/efe|ql-hhppt2su2tohhorhjtohj) (,) et(e|ta) ad(ef!g!ho|vspp2lsc2)mi(g|ta)rá(ixhg/h!io|////cllsc2vs)bi(h|ta)le(h|ta) sa(hggof|cl!pilsc2)cra(ixfg!hv/ig/hg|////vipp2clhh!pihh)mén(egffs|tolsi7sthh)tum,(eeof|sa-) (;) ut(fd|cllsc3) a(gh|pe)ni(g|ta)má(hiHG/hwi/jo|pe-su2ql-orhj)li(i|ta)a(i/jkJIjvIHGhg|ta-hjto-1hjsuu1vi-hjsut1su2cl-hk) vi(g|talsc3)dé(i|vi)rent(j|vihj) Dó(iioh|vi-cl-hg)mi(g|ta)num(gh!iwj|``qlhhppt2) na(jiioh/ivHGh|cl!pilsc2ci-hhvi-hh)tum,(hg|cl-) (,) ja(h|vi)cén(h|vi-hi)tem(e|``talsi4) in(e>|vi>he) præ(h|vihg)sé(gh|peS)pi(f#fgFEDe|//////toSsu2vihg)o!(ed|cl-) †(:) Be(g|``vilsl2)á(iji|//to)ta(hih|//to) Vir(ijI~G~|to>)go,(ixhg/hvGFg!hwihhog|////cl-vi-sut2qlhh!clhhppt1lst3````pihm) (;) cu(ixhi>|////pe>)jus(h|ta) ví(ixh!iwj|//qlppt1lse4)sce(g|vi)ra(e|ta) me(g|vihg)ru(f|vi)é(evcfd|vi-hetolss2lsi8)runt(ed/efe|////cltohg) (,) por(fd~|vi>)tá(e/fsss|vi-/tshj)re(fd|cl-) Dó(f!goh|sa)mi(f!goh|sa)num(ixhiGFghg|////pesu2tohg) Chri(egffs|//tosthh)stum.(fe|cl) (::)
 
+<sp>V/</sp> A(ikjjs|//tohisthj)ve,(h!iwji/hhog|qlhh!clhhppt1prhi) Ma(i|vi)rí(i!jo|vs)a,(h|ta) grá(hg|cllsc3)ti(h|vi)a(j|vihi) ple(ikjjs|//tohhsthi)na:(ji|cl-) (;) Dó(ikjjvIH/iwji|toShhvi-hjsu2qihj!clhj)mi(hg|clhhlsc3)nus(gh!iwj|``qlhippt2) te(jiioh/ivHGh|clhh!pihhci-hhvihi)cum(hg|cl-hh) (::)
+†() Be(g)á(iji)ta(hih) (::)

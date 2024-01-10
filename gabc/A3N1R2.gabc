@@ -1,14 +1,18 @@
+name:Bethlehem civitas V Loquetur;
+office-part:re;
 mode:7;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Beth(eh)l<e>eh</e>em<sp>*</sp>(ho0!iv) cí(i!jwk)vi(i)tas(hihhO1g) De(h)i(gh) sum(ijIHi!j>)mi,(i) (;)
-ex(e) te(he!f!gwh) éx(h)i(hi)et(ih!ghvGFgf) Dó(h)mi(h)na(g/hfg)tor(efc/do1!ev) Is(b)ra(e)ël,(eeO1d/e/fhffe) (:)
-et(i) e(jh)grés(i)sus(il) e(l>)jus(KLmvLKJkvJIji) (;)
-sic(i)ut(jh) a(i) prin(il~)cí(l)pi(k)o(KLmvLKJkvJIji) di(i)é(jvkvIH)rum(ihhO1g) (,)
-æ(i)ter(io0k>)ni(k)tá(jkJIjwkjk)tis,(ji) (;) et(ig~) mag(i)ni(ikj)fi(i)cá(Ksss)bi(kml)tur(l) in(k) mé(kml)di(ml)(z0c2)o(IJkvJIHivHGhg) (,)
-u(ih)ni(k)vér(jlk>)sæ(j) ter(jlk>)ræ:(j) (;)
-<sp>+</sp> Et(FHij~) pax(j) e(ij)rit(ji!hivHGFgf)(z0c3) in(i>) ter(h/ihh)ra(gh) no(ijIHij)stra,(i/hi/hiKsssHIkvkvkvIGhffO1e) (,) 
-dum(eh~) vé(ggo0hfhvGHjvIGhf)ne(ehffO1e)rit.(e) (::)
-<sp>V/</sp> Lo(i)qué(i!jwkJI)tur(hi/hhO1g) pa(ig)cem(hi~) in(hi~) Gén(i)ti(i!jwkj)bus,(ji) (;)
-et(hi/hhg~) po(hih)tés(i)tas(i) e(ij~)jus(i) a(i) ma(ij)ri(i) us(ijijvIH)que(hg) ad(h!iwji/jkj) ma(ih!iwjij)re.(ivHGhg) (z0::c2)
-<sp>+</sp> Et.(FHij~) (::)
+initial-style: 1;
+name: Bethleem civitas;
+mode: 7;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vii;
+nabc-lines: 1;
+%%
+(c2) Béth(cf|peS)leem(fog|``pqlse4) *() cí(g!hwi|``qlppt1)vi(g|vi)tas(fg/ffoe|peS``pr) De(f|vi)i(ef|peS) sum(ghGF/gh>|//pe-su2pe>1hg)mi,(g|vi) (,) ex(f|``talsi4) te(hf/g!hwi|cl-qlppt1) éx(i|vi)i(ij|pe)et(jvIHivHGhg|////clShhsut1ci-hhcl-hh) (,) Do(h|vi)mi(i|vi)ná(h/igh|ta-po)tor(fgffog|//toS/pqhj) Is(c|ta)ra(d|vi)ël,(ffoeg/higgf|pr/vi-hitoS2hlcl-hl) †(:) Et(g|vi) e(hf|cl)grés(g|vi)sus(gj|pe) e(ji~|vi>hh)jus(ij!kvJIHivHGhg|////vihlpp2su1sut2ci-hjcl-hj) (,) sic(g|tahh)ut(hf|``cllsal2lsc3) a(g|vihh) prin(gj~|ta>hhlss3)cí(j|vihh)pi(i|tahh)o(ij!kvJIHivHGhg|////vihlpp2su1sut2ci-hjcl-hj) (,) di(g|ta)é(h/ivHF|vi-/cihjlsc3)rum(gffoe|clSlsc2pihglsm3) æ(g|vi)ter(go!ig~|pq>)ni(i|vi)tá(hiHG/hwihi|peSsut2qihg!pohg)tis,(hg|cl-) (;) et(ih~|vi>) ma(i|vi)gni(jkj|tohhlss1)fi(i|ta)cá(isss|ts)bi(ikj|//tohh)tur(j|``vihhlse1) (,) in(i|tahh) mé(ikj|//tohh)di(kj|clhilsal3)o(ij!kvJIHivHGhg|////vihlpp2su1sut2ci-hkcl-hl) u(ih|clhhlsc3)ni(i|vihh)vér(lxjlk>|//////to>hnlsal3)sæ(j|tahj) ter(lxjlk>|//////to>hnlsal3)ræ:(j|vihh) (:) et(fh/ij~|ta>hhppt2lsi7) pax(j|vihh) e(ij|peShh)rit(jvIHivHGhg|clShhsu1hhci-hhcl-hh) (,) in(g>|vi>) ter(f/gffs|ta-po)ra(ef|peS) no(ghGF/gh|//pe-su2peS)stra,(gv//fg//fg//fgiviviv/GFfd|vi-peSpe-1hhlsm3bv-hkppu2`vi-hjsuu2cl-hi`pihilst3) (;) dum(ce~|ta>) vé(eeof!d/fv//ef!hvGFfd|////sa!cl-`vi-hi`vi-hlppu2sut2cl-hl)ne(cf/ddoc|peS``pr)rit.(c|ta) (::)
 
+<sp>V/</sp> Lo(g|vi)qué(g!hwiHG|//ql-ppt1su2)tur(fg/ffoe|//peS``pr) pa(fg|cl)cem(fg|pe) Gén(g|ta)ti(g!hwih|ql!clppt1)bus,(hg|cl-) (;) et(fg/ffoe|peS`vs>) pot(fgf|//to)é(g|vi)stas(g|vi) e(gh~|ta>)jus(g|ta) a(g|ta) ma(gh|pe)ri(g|ta) us(ghghGF|//toci-hh)que(gf|cllsc3) ad(f!gwhg/hih|ql!clppt1tohm) ma(gf!gwhgh|//cl-`qi!po)re.(gvFEfe|ci-cl-) (::)
+†() Et(g|vi) e(hf|cl)grés(g|vi)sus.(gj|pe) (::)

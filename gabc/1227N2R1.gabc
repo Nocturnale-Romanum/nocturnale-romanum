@@ -1,10 +1,18 @@
+name:Qui vicerit faciam V Vincenti dabo;
+office-part:re;
 mode:4;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(f3) Qui(c) ví(efg)ce(f)rit,<sp>*</sp>(f) fá(f)ci(f)am(h) il(hg/hif/g>)lum(ffO1e) (;) co(f)lúm(f!gw!h>)nam(f) in(f) tem(f)plo(ef) me(f!gwh!ivHGhwihi)o,(ih) (;)
-di(hi)cit(ihhf/hihivHG) Dó(f)mi(FGhvGFg)nus:(gf) (:)
-<sp>+</sp> Et(h) scri(kxh!iwjij!kv)bam(j) su(jiiO1h)per(hi) e(highvGFg)um(gf) no(FGhvGFE)men(f!gwhg/hih) me(hvGFg)um,(ffO1e) (;)
-et(e!fh~) no(h)men(g!ho1) ci(fe)vi(fg)tá(ffdf)tis(ef/eeO1c) no(ef)væ(fhffe) Je(hg/ho0!iv)rú(ihhvGFEfwgFEf) sa(FGhvGFg)lem.(gf) (::)
-<sp>V/</sp> Vin(f)cén(EFgwhhi~)ti(h) da(h)bo(h) é(ij)de(i)re(h) de(hg)li(hi)gno(gh) vi(f!gwhg)tæ,(gf) (;)
-quod(f) est(ef) in(f) pa(f)ra(f)dí(f)so(f!gwhGFE) De(f)i(hg/hih) me(hvGFg)i.(ffO1e) (::)
-<sp>+</sp> Et.(h) (::)
+initial-style: 1;
+name: Qui vicerit;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines: 1;
+%%
+(f3) Qui(c|ta) vi(e/fg|scM1)ce(f|ta)rit,(f|ta) *() fá(f|ta)ci(f|ta)am(h|vi) il(hg/hif/g>|cllsc2toS2hgvi>hh)lum(ffoe|pr) (,) co(f|````talsal4lse9)lúm(f!gwhf~|ql>ppt1lss3lsi6)nam(f|vi) in(g|vi) tem(f|vi-)plo(ef|pe) me(f!gwh/ivHG/hwihi|ql-ppt1vi-hjsut2qihj!pohj)o,(ih|cl-) (;) di(hi|peS)cit(ihhf/hih/ivHG|pflst2toS2vi-sut2) Dó(f|ta)mi(fg!hvGFg|//ci-pp2vi)nus:(gf|cl-) †(:) Et(h|vi-) scri(kxh!iwjij/kv|////vi-qlhj!po-1hj)bam(j|ta) su(jiiog|cl!pilsc2)per(hi|pe) e(hig/hvGFg|toSci-hhvihh)um(gf|cl-) (,) no(fg!hvGFE|//ci1pp2lsc3)men(f!gwhg/hih|ql!clppt1lsc2tohl) me(hvGFg|ci-vi)um(ffoe|pr) (;) et(e/fh~|``ta-lse4ta>hh) no(h|vi)men(g!ho|vslsc3) ci(fe|cllsc3)vi(fg|pe)ta(f/gef|ta-po)tis(ef/eeoc|peS``pr) (,) no(ef|peS)væ(fhffe|toS2cl-) Je(hghoi|cl/pqhg)rú(ihhvGFE/fwgFEf|////clSvi-su1sut2qi-hgsu2vihg)sa(fg!hvGFg|//ci-pp2vi)lem.(gf|cl-) (::)
 
+<sp>V/</sp> Vin(f|vi)cén(ef!gwhhi~|ql-hhppt2ta>hjlss3)ti(h|ta) da(ij|``pelsl4)bo(i|vi) é(hi|pe)de(h|ta)re(h|ta) de(hg|cllsc3)li(hi|pe)gno(gh|pe) vi(f!gwhg|ql!cl-ppt1)tæ,(gf|cl-) (;) quod(f|vi) est(ef|pe) in(f|ta) pa(f|ta)ra(f|ta)dí(f|ta)so(f!gwhGFE|ql-ppt1su1sut2) De(f|vi)i(hg/hih|////cllsc2tohg) me(hvGFg|ci-vi)i.(ffoe|pr) (::)
+*() Et(h|vi-) scri(kxh!iwjij/kv|////vi-qlhj!po-1hj)bam(j|ta) (::)

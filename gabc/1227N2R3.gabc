@@ -1,15 +1,21 @@
+name:In medio ecclesiae aperuit V Jucunditatem V Gloria;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)  In(cd>) mé(FGhvGEf)di(dcd)o(d!ewf) (,)
-Ec(cd)clé(ixdh!ivHGhgh)si(ih)æ(hggo~) (;)
-a(f!gwhg)pé(h)ru(gvFEfwgfg)it(gf) os(hvghg/e/fgf/go0!hv) e(d!ewfef)jus,(ed) (:)
-<sp>+</sp> Et(c) im(df~)plé(fef)vit(d!ewfeDCdc) e(ixf!go1!hv)um(ihgf~) Dó(gfg)mi(hg)nus(ghGFgf) (,)
-spí(f)ri(gh)tu(h) sa(hggO1e)pi(gf)én(f>)ti(dc)æ(c) (;)
-et(e) in(gh>)tel(gvfgeDCdweDC)lé(d!ewfef)ctus.(ed) (::)
-<sp>V/</sp> Ju(h)cun(h)di(h)tá(h)tem(hg/hggO1f) et(g) ex(g)sul(hf~)ta(gh)ti(gh)ó(ixh/iiO1h)nem(h) (;)
-the(gf)sau(gh~)ri(h)zá(h)vit(hg/hg) su(gf)per(f!gwhg/hih) e(hvGFEfwg!hv)um.(gf) (::)
-<sp>+</sp> Et.(c) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iiO1!h)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf) (::)
-<sp>+</sp> Et.(c) (::)
+initial-style: 1;
+name: In medio Ecclesiae;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(cb4) In(cd>|pe>1) mé(fghvGEf|vihhppt2su1suu1lss4lsc3vihh)di(dcd|``polsi4)o(d!ewf|``qlppt1lse4lsl3) *() Ec(cf|pe)clé(fhivGFhgh|pe-vihksu1suu1lss2lsc3pohk)si(ih|``cllsl2lsc3)æ(hggo|cl-orhg) a(f!gwhg|ql!clppt1)pé(h|vi)ru(gvFE/fwgfg|////vi-sut2qihg!pohg)it(gf|cl-) os(hv//ghGEfgfgoh|////vi-lsl2/toS2hisut1/tohklss2/pqhl) e(d!ewfef|ql!poppt1lsi4)jus,(ed|cl-) †(:) Et(c|``talse4) im(df~|ta>)plé(fef|pohg)vit(d!ewfEDCdc|ql!vsppt1su2cl-hg) e(f!goh|``salsl4lsim3)um(ihho|clorhg) Dó(gfg|po)mi(hg|clhglss2lsc3)nus(ghGFgf|pe-1su2cl-hg) (;) spí(f|``talse4)ri(gh|pe)tu(h|vi) sa(hggoe|cl!pilsc2)pi(gf|cllsl2lsc3)én(fe~|vi>-)ti(dc|cllsc3)æ(c|ta) (,) et(e|vi) in(gh>|``pe>1lsl2lsal3)tel(gv//fgFEC/dweDCd|////vi-toS2hisut2ql-hisu2``vihi)léc(d!ewfef|qi!poppt1)tus.(ed|cl-) (::)
 
+<sp>V/</sp> Ju(h|vi)cun(h|vi)di(h|vi)tá(h|vi)tem(hg/hggof|pflsc2``pihglst3) et(g|ta) ex(g|ta)sul(hf~|vi>lsi6)ta(gh|pe)ti(gh|pe)ó(h/iioh|//ta-pr)nem(h|ta) (;) the(hf|ta)sau(gh~|ta>)ri(h|ta)zá(h|ta)vit(hg/hg|pflsc2) su(hf|cllsc3)per(f!gwhg/hih|ql!clppt1lsc2tohk) e(hvGFEfwg/hv|vi-su1sut2ql-vihk)um.(gf|cl-) (::)
+†() Et(c|``talse4) im(df~|ta>)plé(fef|pohg)vit(d!ewfEDCdc|ql!vsppt1su2cl-hg) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|cl!pilsc2lst3) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(h/iioh|ta-pr)o,(h|ta-) (;) et(h|ta) Spi(h|vi)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(f!gwhg/hih|ql!clppt1tohk) Sanc(hvGFE/fwg/hv|vi-su1sut2ql-vihk)to.(gf|cl-) (::) 
+†() Et(c|``talse4) im(df~|ta>)plé(fef|pohg)vit(d!ewfEDCdc|ql!vsppt1su2cl-hg) (::)

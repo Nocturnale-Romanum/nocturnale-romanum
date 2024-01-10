@@ -1,14 +1,22 @@
+name:Angelis suis mandavit V Super aspidem V Gloria;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) An(dh)ge(h)lis(h!iwj) su(jkJH)is<sp>*</sp>(h) man(fh~)dá(hfhv)vit(ghg/e) de(f)te,(ix-ghghg/hif/d) (;)
-ut(d) cu(e)stó(gh)di(h!iwjh)ant(hvGFEfwgfg) te(gf) (,)
-in(fg) óm(g)ni(ge/fg)bus(f) vi(fg)is(ffe) tu(d!ewfd)is:(d) (:)
-<sp>+</sp> In(hjh~) (z0:c2) má(c)ni(d)bus(dwgfg) por(gf~)tá(gis!is!is)bunt(f!g>) te,(d) (;)
-ne(d) um(DGhV)quam(fd) of(f)fén(fs!fs/fed~)das(ed) ad(b) (z0:c4) lá(g)pi(h)dem(h/jkj/ijh!g/hig/e) pe(f/hjg)dem(EFgf/gh~) tu(d!ewfd)um.(d) (::)
-<sp>V/</sp> Su(h)per(hg/hggO1!f) ás(gh)pi(g)dem(g) et(g) ba(g)si(g)lís(g)cum(hf~) am(gh)bu(gh)lá(ixh/iiO1!h)bis,(h) (;)
-et(gf~) con(gh~)cul(h)cá(ixhi)bis(h) le(h)ó(h)nem(hg/hg) et(gf~) dra(ixf!gwhg/hih)có(hvGFEfwg!hv)nem.(gf) (::)
-<sp>+</sp> In.(hjh~) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(ix/0h)li(h/ii>Vh)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfg!h>)cto.(gf) (::)
-<sp>+</sp> In.(hjh~) (::)
+initial-style: 1;
+name: Angelis suis mandavit;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) An(dh|``peSlsi7lss2)ge(h|vi)lis(h!iwj|``vilse2qlhj) su(jkJH|pe-1hksu2lsl3)is(h|vi) <sp>*</sp> man(fh~|``ta>lsi7)dá(hfh|cl-vi)vit(ghGE|toS2sut1) de(f|vi) te,(ixghghg/hiFD|////////to!cl-toS2hgsut1lsi6) (;) ut(d|``talse4) cus(e|vi)tó(gh|peS)di(ixh!iwjh|ql!clppt1lse7)ant(hvGFE/fwgfg|vi-hhsuu3qihg!pohg) te(gf|cl-) (,) in(fg|peS) óm(g|vi)ni(ge/fg|cllsc2peS)bus(f|ta) vi(fg|pe-1)is(ffd|vi-`cl-) tu(d!ewfd|ql!cl-ppt1)is;(d|ta) (:)
+<sp>+</sp> In(ixhi>|////pe>1) má(g|ta)ni(h|vi)bus(hwkjk|qlhj!pohj) por(kj~|vi>hl)tá(k/msss|vi-hmtshp)bunt(jk>|pe>1hjlss3) te,(h|ta) (;) ne(h|``talse4) um(hk/l>|vi>hlppt2lss3)quam(jh|cl-hh) of(j|vihh)fén(jssjvI~H~|dshjcl>hjlsm2)das(ixih|////cl-) (,) ad(f|talsi8lst3) lá(g|vi)pi(h|vihg)dem(h/jkj/ijHG!ixhiFD|vi-hhtoS2hltoS2hmsut1toS2hlsut1lsi6) pe(f/hjh|vi-toS2hk)dem(e!fgf/gh~|//sflsc3`ta>hh) tu(d!ewfd|ql!cl-ppt1)um.(d|ta) (::)
 
+<sp>V/</sp> Su(h|vi)per(hg/hggof|clclhg!pihg) ás(gh|pe)pi(g|ta)dem(g|ta) et(g|ta) ba(g|ta)si(g|ta)lís(g|ta)cum(hf~|vi>) am(gh|pe)bu(gh|pe)lá(ixh/iioh|//////vi-``pr)bis,(h|ta) (;) et(hf~|vi>) con(gh~|ta>)cul(h|ta)cá(ixhi|pe)bis(h|ta) le(h|ta)ó(h|ta)nem(hg/hg|//pf1lsc2) et(hf~|vi>) dra(ixf!gwhg/hih|//////qi!clppt1tohl)có(hvGFE/fwg/hv|//vi-hhsu1suu2qi-hhvihl)nem.(gf|cl-) (::)
+<sp>+</sp> In(hi>|pe>1) má(g|ta)ni(h|vi)bus.(hwkjk|qlhj!pohj) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clclhg!pihg) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|vi)li(ixh/iioh|//////vi-``pr)o,(h|ta) (;) et(h|vi) Spi(h|vi)rí(hg/hg|//pf1lsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|//////ql!clppt1tohl) Sanc(hvGFE/fwg/hv|//vi-hhsu1sut2ql-hhvihk)to.(gf|cl-) (::)
+<sp>+</sp> In(hi>|pe>1) má(g|ta)ni(h|vi)bus.(hwkjk|qlhj!pohj) (::)

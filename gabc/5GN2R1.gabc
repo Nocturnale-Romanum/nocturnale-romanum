@@ -1,10 +1,19 @@
+name:Angelus Domini vocavit Abraham V Cumque extendisset;
+office-part:re;
 mode:2;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(f3) An(c)ge(c)lus(ef) Dó(fvgvECfv)mi(e!fwgfg)ni<sp>*</sp>(gf) (;)
-vo(e)cá(EFhgiqf)vit(f) A(f)bra(fg)ham(geg) di(g!hwihGFg)cens:(gf) (:)
-<sp>+</sp> Ne(i) ex(i)tén(kxi/jkj/ijg/hV!gf~)das(gf) ma(e!fwg!ho~)num(g) tu(e!fwg!ho~)am(g) su(g)per(hi~) pu(f)e(e!fwgfg)rum,(gf) (;)
-e(c!de!fg)o(f) quod(e) tí(ghgFE)me(fg)as(g) Dó(f/hqf/gf)mi(ef)num.(f) (::)
-<sp>V/</sp> Cum(EFgh/0hi)que(h) ex(h)ten(h)dís(ij)set(i) ma(hi)num(h) ut(h) im(h)mo(hg)lá(hi)ret(gh) fí(f)li(f!gwhg)um,(gf) (;)
-ec(f)ce(ef) An(f)ge(f)lus(f) Dó(fg)mi(f)ni(f) de(f) cœ(fg)lo(f) cla(f!gwhGFE)má(f)vit,(hg/hih) di(hvGFg)cens.(ffO1!e)  (::)
-<sp>+</sp> Ne(i) (::)
+initial-style: 1;
+name: Angelus Domini vocavit;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines:1;
+%%
+(c4) An(d|ta)ge(d|ta)lus(fg|peS) Dó(ghFDg|vivi-hksut2vihj)mi(f!gwhgh|ql!poppt1)ni(hg|cl-) (,) <sp>*</sp> vo(f|ta)cá(ixf!g!ig/jh|////////cl-hhppt2cl-hk)vit(g|ta) A(g|ta)bra(gh|pe)ham,(hfh|po) di(iyh!iwjIHGh|////ql!vsppt1su2vi)cens:(hg|cl-) (;)
+<sp>+</sp> Ne(j|vilsl3) ex(j|vihg)tén(ixlxj/klk|////////vi-hmtoS2hnlss2|jkh/ivH~G~|toS2hpcl>hp)das(hg|cl-hh) ma(ixf!gwh/io|////qlppt1orhk)num(h|vi) tu(ixf!gwh/io|////ql-ppt1orhk)am(h|ta) su(ixi|////vi)per(ij~|ta>) pú(g|vi)e(f!gwhgh|ql!poppt1)rum,(hg|cl-) (;) e(d!ewf/gh|ql-ppt1pehl)o(g|vi) quod(f|ta) tí(ixhiHGF|////toSsu2)me(gh|pe)as(h|vi) Dó(ixg/ig/hg|////ta-pfhjlsc2)mi(fg|pe)num.(g|ta) (::)
 
+<sp>V/</sp> Cum(ixfg!hwiij|ql-hhppu2pehj)que(i|ta) ex(ixi|////ta)ten(i|ta)dís(jk|``pehhlsl4)set(j|vi) ma(ixij|////pe)num(i|ta) (,) ut(ixi|////ta) im(ixi|////ta)mo(ih|cllsc3)lá(ij|pe)ret(hi|pe) fí(g|ta)li(ixg!hwih|////ql!cl-ppt1)um,(hg|cl-) (;) ec(g|vi)ce(fg|pe) An(g|ta)ge(g|ta)lus(g|ta) Dó(gh|pe)mi(g|ta)ni(g|ta) de(g|ta) cæ(g|ta)lo(g|ta) cla(ixg!hwiHGF|////ql-ppt1su1sut2)má(g|vi)vit,(ih/iji|//cllsc3`tohg) di(ixivHGh|////ci-vi)cens.(ggof|pr) (::)
+<sp>+</sp> Ne(j|vilsl3) ex(j|vihg)tén(ixlxj/klk|////////vi-hmtoS2hnlss2|jkh/ivH~G~|toS2hpcl>hp)das.(hg|cl-hh) (::)
