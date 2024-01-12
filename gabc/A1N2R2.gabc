@@ -1,18 +1,13 @@
 name:Salvatorem exspectamus V Sobrie;
 office-part:re;
 mode:3;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Salvatorem exspectamus;
-mode: 3;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: iii;
-nabc-lines: 1;
-%%
-(c4) Sal(g|ta)va(g|ta)tó(g!hwi/jo|qlppt1orhm)rem(i|ta) *() ex(jjoi|pr)spec(h|ta)tá(hjji|pe-cl-hg)mus(gh!iwjIHijggo/efe|ql-hhppt2su2tohiorhktohl) (,) Dó(e!foh|sa)mi(h|vi)num(ixh!iwj>|//vi-ql>hjlsal3) Je(g|vi)sum(f!go!h>|sa>lsi3) Chri(gv//fhggoFEf|vi-/tohjpihjsu1vihj)stum,(fe|cl-) †(;) Qui(e|``talse4) re(e|ta)for(fg~|ta>)má(gh|pe)vit(g|ta) cor(h>|vi>)pus(ixhg/hih|////cllsc2to) hu(gf|cllss8)mi(g|vihg)li(h!iwj|vi-hhqlhk)tá(jvjvIG|vi-hh``ci-hhlsi8)tis(jk|peShi) no(ixjh/hwihi|////cl-ql!po)stræ(hhog|pr) (;) con(ixhi~|////ta>)fi(h|ta)gu(h|ta)rá(h|ta)tum(hg~|vi>) cór(ixh!iwj|///ql>ppt1lsal3)po(g|vi)ri(ef!gwh/igfssded|qlhhppt2clShids-hjtohj) (,) cla(f|vi)ri(ghg|to)tá(ixh/ifg|////vi-pohilsi8)tis(g!hig/hg|clpp2cl-hi) su(egffs|tosthh)æ.(fe|cl-) (::)
+(c4) Sal(g|ta)va(g|ta)tó(g!hwi/jo|qlppt1orhm)rem(i|ta) <sp>*</sp>() ex(jjoi|pr)spec(h|ta)tá(hj_ji__|pe-hicl-hj)mus(g_h!iwj_IHijggo/efe|ql-hhppt2su2tohiorhktohl) (,) Dó(e!foh|sa)mi(h|vi)num(ixh!iwj>|//vi-ql>hjlsal3) Je(g|vi)sum(f!go!h>|sa>lsi3) Chri(gv_//fhggoFEf|vi-/tohjpihjsu1vihj)stum,(fe..|cl-) (;) 
 
-<sp>V/</sp> Só(ikjjs|//tohhsthj)bri(h!iwji|ql!clppt1)e,(hhog|pr) et(i|vi) ju(ij|vs)ste,(h|ta) et(h|ta) pi(hi|pe)e(h|ta) (,) vi(h|ta)vá(h|ta)mus(hg|cllsc3) in(h|vi) hoc(j|vihh) sǽ(i|ta)cu(ikjjs|//tohisthj)lo,(ji|cl-) (;) ex(ig|cl)spec(hi|pe)tán(i|ta)tes(i|ta) be(i|ta)á(i!jo|vs)tam(i|ta) spem,(i|ta) (,) et(i|ta) ad(i|ta)vén(i!jo|vs)tum(i|ta) gló(i|ta)ri(i|ta)æ(ikjjvIH/iwji|////trShhsut2qihj!clhj) ma(hg|cllsc3)gni(gh!iwj|``qlhhppt2) De(jiioh/ivHGh|//cl!pici-vihg)i.(hg|cl-) (::)
-†() Qui(e|``talse4) re(e|ta)for(fg~|ta>)má(gh|pe)vit(g|ta) (::)
+<sp>+</sp> Qui(e|``talse4) re(e|ta)for(fg~|ta>)má(gh|pe)vit(g|ta) cor(h>|vi>)pus(ixhg/hih|/////cllsc2to) hu(gf|cllss8)mi(g|vihg)li(h!iwj|vi-hhqlhk)tá(jv_jv_IG|vi-hh``ci-hhlsi8)tis(j_k|peShi) no(ixj_h/hwihi|////cl-ql!po)stræ(hhog.|pr) (;) con(ixhi~|////ta>)fi(h|ta)gu(h|ta)rá(h|ta)tum(hg~|vi>) cór(ixh!iwj|///ql>ppt1lsal3)po(g|vi)ri(e_f!gwh/igfssded|qlhhppt2clShids-hjtohj) (,) cla(f|vi)ri(ghg|to)tá(ixh_0//ifg|////vi-pohilsi8)tis(gh/ig/hg__|clpp2cl-hi) su(egffs|tosthh)æ.(fe..|cl-) (::)
+
+<sp>V/</sp> Só(ikjjs|//tohhsthj)bri(h!iwji|ql!clppt1)e,(hhog|pr) et(i|vi) ju(ij|vs)ste,(h|ta) et(h|ta) pi(hi|pe)e(h_|ta) (,) vi(h|ta)vá(h|ta)mus(hg|cllsc3) in(h|vi) hoc(j|vihh) sǽ(i|ta)cu(ikjjs|//tohisthj)lo,(ji..|cl-) (;) ex(ig|cl)spec(hi|pe)tán(i|ta)tes(i|ta) be(i|ta)á(i!jo|vs)tam(i|ta) spem,(i_|ta) (,) et(i|ta) ad(i|ta)vén(i!jo|vs)tum(i|ta) gló(i|ta)ri(i|ta)æ(ikjjvI__H/iwji|////trShhsut2qihj!clhj) ma(hg|cllsc3)gni(g_h!iwj|``qlhhppt2) De(jiioh/iv_HGh|//cl!pici-vihg)i.(hg..|cl-) (::) 
+
+<sp>+</sp> Qui(e|``talse4) re(e|ta)for(fg~|ta>)má(gh|pe)vit(g|ta) (::)
