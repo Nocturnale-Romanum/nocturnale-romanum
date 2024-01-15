@@ -1,0 +1,21 @@
+name:Synagoga populorum V Judica me Domine;
+office-part:re;
+mode:;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Synagoga populorum;
+mode:8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation:ii;
+nabc-lines:1;
+%%
+(f3) Sy(c|ta)na(c|ta)gó(e!fg|scM1)ga(f|ta) <sp>*</sp>() po(f|ta)pu(f|ta)ló(fg|pe)rum(f|ta) cir(f|ta)cum(f|ta)de(h|vi)dé(hgh|po)runt(f!g>|pe>) me:(ffoe|pr) (;) et(e|ta) non(f|vi) réd(hi|pe)di(h|ta)di(h|ta) re(h|ta)tri(h|ta)bu(h|ta)én(hi~|ta>)ti(h|ta)bus(hhog|pr) mi(f|ta)hi(hf/gwhg|cl-`qlhg!cl-hgppt1) ma(fg!hvGFg|//ci-pp2vihh)la.(gf|cl-) (:)
+<sp>+</sp> Con(hhg~|vs>)su(hi|pe)mé(hhog|pr)tur,(h!i>|pe>) Dó(hi|peS)mi(ghGFg|pe-1su2vi)ne,(gf|cl-) ne(f|ta)quí(fg|pe)ti(f|ta)a(fg!hvGFE|ci1hhpp2) pec(f|vi)ca(hg/hih|cltohg)tó(hvGFg|ci-vi)rum(ffoe|pr) (;) et(ef|peS) dí(hgho!iv|clpq)ri(ihhvGF|clS-ci-hg)ges(hf!gwhg|cl-`qihg!cl-hg) jus(fg!hvGFg|ci-hhpp2vihh)tum.(gf|cl-) (::)
+
+<sp>V/</sp> Jú(ef!gwhhi|```qlhhppt2pehj)di(h|ta)ca(h|ta) me,(h|ta) Dó(ij|pe)mi(i|vi)ne,(h|ta) se(h|ta)cún(hi~|ta>)dum(h|ta) jus(h|ta)tí(hg|cl)ti(hi|pe)am(gh~|pe) me(f!gwhg|ql!cl-ppt1)am,(gf|cl-) (;) et(f|vi) se(ef|pe)cún(f|ta)dum(f|ta) in(f|ta)no(f|ta)cén(fg~|ta>)ti(f|ta)am(f|ta) me(f!gwhGFE|ql-ppt1su1sut2)am(f|vi) su(hg/hih|cltohg)per(hvGFg|ci-vi) me.(ffoe|pr) (::)
+<sp>+</sp> Con(hhg~|vs)su(hi|pe)mé(hhog|pr)tur.(h!i>|pe>) (::)
+
+Sy(c|ta)na(c|ta)gó(e!fg|scM1)ga.(f|ta) (::)
