@@ -1,16 +1,32 @@
+name:Sancta et immaculata Virginitas V Benedicta tu V Gloria;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) San(f)cta(fhffe)
-<sp>*</sp> et(f) im(ge~)ma(f)cu(h)lá(ghgFEfg)ta(f) vir(f!gwh/ihhg>)gí(f)ni(FGhvGFg)tas,(gf) (;)
-qui(f)bus(fhg) te(h) láu(hji>)di(ih!ghvGFg)bus(gf) (,)
-éf(f)fe(FGhvGFE)ram,(f) né(hg/hih)sci(hvGFg)o:(ffO1e) (:)
-<sp>+</sp> Qui(e)a(e) quem(fh~) cœ(h)li(hg) cá(f)pe(g)re(fe) non(f>) pó(f/hfgo0!hv)te(e)rant(dxcd/ced!cdvCBcb) (;)
-tu(e)o(fh) gré(ghg)mi(e!fo1h)o(h) con(i)tu(hg)lí(fgf)sti.(f) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(fg)le(ehGF)lú(h/igh)ja.(f) (::)
-<sp>V/</sp> Be(f)ne(e)dí(efgwhhi)cta(h) tu(h) in(ij~) mu(hg)li(hi)é(gh)ri(f!gwhg)bus,(gf) (;)
-et(f) be(ef)ne(fg)díc(f)tus(f) fruc(f)tus(f!gwhGFE) ven(f)tris(hg/hih) tu(hvGFg>)i.(ffO1e) (::)
-<sp>+</sp> Qui(e)a.(e) (::)
-<sp>V/</sp> Gló(EFgwhhi)ri(h)a(h) Pa(hg)tri,(hi) et(gh) Fí(f)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(f!gwhGFE)tu(f)i(hg@hih) San(hvGFg>)cto.(ffO1!e) (::) 
-<sp>+</sp> Qui(e)a.(e) (::)
+(f3) San(f|vi)cta(fhffe__|///toS2`cl-lsco2) <sp>*</sp>(`) 
+et(f|vi) im(ge~|vi>)ma(f|vi)cu(h|vi)lá(ghG___FEf_g|////toSsu2peS)ta(f|ta) 
+vir(f!gwh/ihhg>__|qlppt1clShicl>hilst3)gí(f|ta)ni(fg!hv_GFg|//ci-pp2vihg)tas,(gf..|cl-) (;) 
+qui(f|``talse4)bus(fhg|//to) te(h|vi) láu(hji>|//to>lssc2)di(ivHG__hv_GFg|clSsut1ci-vihg)bus(gf__|cl-) (,) 
+éf(f|ta)fe(fg!hvGFE|ci1pp2lsc3)ram,(f|vi) (`) nés(hg/hih|cllslc2to)ci(hv_GFg|ci-vihg)o:(ffoe.|pr) (:) 
+
+<sp>+</sp> Qui(e|```talse4)a(e|ta) quem(fh~|ta>lsl2) cæ(h|vi)li(hg|cllsc3) 
+cá(fg|ta)pe(f|vi)re(fe|cllsc3) non(g>|vi>) pó(f_0//gfgoh|ta-cllsc2pq)te(e|vi)rant,(dxc_d//ceDCdvCBcb|//////peSlsi8toS2hisut1ci-hicl-hi) (;) 
+tu(e|vi)o(fg|pe) gré(ghg|//to)mi(e@fog|sa)o(g|vi) con(h_|vi-lsl3)tu(hg|cl)lís(fgf___|//toS)ti.(f.|ta) (::) 
+
+<i><c>T.P.</c></i> Al(fg|pe)le(ehGF|pesu2)lú(h_0//igh|poppu1)ia.(f.|ta) (::)
+
+<sp>V/</sp> Be(f|vi)ne(e|ta)díc(e_f!gwhhi|qlhhppt2pehi)ta(h|ta) tu(ij|pe) 
+in(ig~|vi>) mu(hi|pe)li(gh|pe)é(f|ta)ri(f!gwhg|ql!clppt1)bus,(gf..|cl-) (;) 
+et(f|vi) be(ef|pe)ne(f|ta)díc(fg|pe)tus(f|ta) fruc(f|ta)tus(f!gwh_GFE__|ql-ppt1su1sut2) 
+ven(f|vi)tris(hg/hih|cllslc2tohg) tu(hv_GFg|ci-vihg)i.(ffoe.|pr) (::)
+
+<sp>+</sp> Qui(e|```talse4)a.(e|ta) (::)
+
+<sp>V/</sp> Gló(e_f!gwh/hi|````qlhhppt2pehi)ri(h|ta)a(h|ta) Pa(hg|cllsc3)tri,(hi|pe) 
+et(gh|pe) Fí(f|ta)li(f!gwhg|ql!clppt1)o,(gf..|cl-) (;) 
+et(f|ta) Spi(f|ta)ri(f!gwh_GFE|ql-ppt1su3)tu(f|vi)i(hg/hih|cllslc2tohg) 
+San(hv_GFg>|ci-vi>hg)cto.(ffe.|pr) (::) 
+
+<sp>+</sp> Qui(e|```talse4)a.(e|ta) (::)
 
