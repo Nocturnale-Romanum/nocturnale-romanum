@@ -2,17 +2,24 @@ name:Christus resurgens ex mortuis V Mortuus est semel;
 office-part:re;
 mode:2;
 submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Chri(e)stus(fg) re(gf)súr(fhg)gens(gf..) (,) 
-<sp>*</sp> ex(hji) mór(gfh)tu(feg)is,(g_) (;) 
-jam(kxfjji!jw!kvJIj) non(gfh) mó(e)ri(fh)tur:(g//hiGFhvGEf.) (;) 
-mors(f) il(ghi)li(ig) ul(hiGFhhg)tra(g) (,) 
-non(efg) do(gf)mi(h)ná(gf)bi(fgf___)tur:(f.) (;) 
-quod(h) e(ij)nim(j) mór(kxkj)tu(i)us(h) est(hg) pec(ef)cá(fh)to,(gf__) (,) 
-mór(gih)tu(g)us(f) est(ghg) se(f.)mel;(f.) (:) 
+(f3) Chris(e|ta)tus(fg|pe) re(gf|cl)súr(fhg|to)gens(gf..|cl-) <sp>*</sp>(,) 
+ex(hji|tohh) mór(gfh|po)tu(feg|po)is,(g_|vi) (;) 
+jam(kxf_jj_i!jwk_JIj|//////peShkcl-hkql-hksu2vihk) non(gfh|po) mó(e|ta)ri(fh|pe)tur:(g_0//hiGFhvGEf.|ta/pehhsu2cilsc2vi-) (;) 
+mors(f|ta) il(g_0//hi~|pe~ppt1)li(ig|cl) ul(hiGFhhg|pesu2vicl)tra(g|ta) (,) 
+non(e_0//fg|peppt1) do(gf|cl)mi(h|vi)ná(gf|cl)bi(fgf___|toS)tur:(f.|ta) (;) 
+quod(h|vi) e(ij|pehh)nim(j|vihh) mór(kxkj|//////clhj)tu(i|vi)us(h|vi) est(hg|cl) pec(ef|pe)cá(fh|pe)to,(gf__|cl-) (,) 
+mór(gih_|toS2)tu(g|ta)us(f|ta) est(ghg|to) se(f.|ta)mel;(f.|ta) (:) 
 
-<sp>+</sp> Quod(f_g!hwi) au(ih/jhi)tem(ig/hiGFh) vi(hg)vit,(g_) (,) vi(ef/gf)vit(fh) De(gf)o,(f.) (;) al(fg!hi)le(ih/jhiig/hiGFh)lú(hg){ia},(g.) (,) al(ef/gf~)le(fh)lú(gf~){ia}.(f.) (::) 
+<sp>+</sp> Quod(f_g!hwi|``qlppt2) au(ih/jhi|//clhhpohh)tem(ig__/hiGFh|cl-hi/pehhsu2vihh) vi(hg|cl)vit,(g_|ta) (,) 
+vi(ef/gf|clpp2)vit(fh|pe) De(gf|cl)o,(f.|ta) (;) 
+al(f_g!hi|peppt2)le(ih_/jhiig/h_i_GFh|clSpocl/vi-vi-hjsu2vihh)lú(hg__|cl-)ia,(g.|vi) (,) 
+al(ef/gf~|vi>pp2)le(fh|pe)lú(gf~|vi>)ia.(f.|ta) (::) 
 
-<sp>V/</sp> Mór(ef!gwh/hi~)tu(h)us(h) est(h) se(ij)mel(i) pro(h)pter(h) de(hg)lí(hi)cta(gh) no(f!gwhg)stra,(gf..) (;) et(f) re(ef)sur(f)ré(fg)xit(f) pro(fg)pter(f) jus(f)ti(f)fi(f)ca(f)ti(f!gwhGFE)ó(f)nem(hg/hih) no(hv_GFg)stram.(ffoe.) (::)
+<sp>V/</sp> Mór(ef!gwh/hi~|`ql-hhppt2pe~hj)tu(h|//ta)us(h|/ta) est(h|ta) se(ij|``pelsl4)mel(i|vi) prop(h|ta)ter(h|ta) 
+de(hg|cl)líc(hi|pe)ta(gh|pe) nos(f!gwhg|ql!cl-ppt1)tra,(gf..|cl-) (;) 
+et(f|vi) re(ef|pe)sur(f|vi)ré(fg|pe)xit(f|vi) prop(f|vi)ter(f|vi) 
+jus(f|vi)ti(f|vi)fi(f|vi)ca(f|vi)ti(f!gwh_GFE|ql-ppt1su3)ó(f|vi)nem(hg/hih|cllsc2tohg) nos(hv_GFg|ci-vi)tram.(ffoe.|pr) (::)
 
-<sp>+</sp> Quod.(f_g!hwi) (::)
+<sp>+</sp> Quod.(f_g!hwi|``qlppt2) (::)
