@@ -1,13 +1,29 @@
+name:Dixit Judas Simoni V Accingimini filii;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)  Di(hg)xit(h) Ju(ihi!jv)das<sp>*</sp>(i) Si(i)mó(hih)ni(hf) fra(g)tri(hih) su(hf!gwhgFEf)o:(fe) (;)
-E(ei!jv)li(ij)ge(i) ti(ij)bi(i) vi(IJkvJIj)ros(ji) et(ig~) va(hih)de,(f!gwhg) (,)
-lí(f)be(i)ra(h) fra(g!ho1)tres(f) tu(ef)os(e) in(ef~) Ga(fvefc)li(de)lǽ(e!fwgfg)am;(fe) (:)
-e(ef)go(e) au(ef~)tem(e) et(e) Jó(ef)na(e)thas(e) fra(e)ter(e!fo1h) tu(hvGHihi!jv)us(i) (;)
-í(i)bi(hih)mus(hf) in(hg~) Ga(h)laa(hih)dí(hf!gwhgFEf)tim:(fe) (:)
-<sp>+</sp> Sic(hg)ut(h) fú(ij)e(i)rit(i) vo(i)lún(iih~)tas(g) in(i>) cœ(h/ijhhvGFE)lo,(fe) sic(ge/f!gwhGHjvIHhvGF) fi(hf!gwhgFEf)at.(fe) (::)
-<sp>V/</sp> Ac(i)cin(i)gí(i!jwkJI)mi(hf)ni,(h) fí(hi)li(h)i(h) po(h)tén(hi~)tes,(h) et(h) es(h)tó(ig)te(hi) pa(hi)rá(i!jwkj)ti:(ji) (;)
-quó(hi/hhO1g)ni(h)am(h) mé(h)li(h)us(h) est(h) no(hi)bis(h) mo(ig)ri(hi) in(hi) bel(h!iwji)lo,(ih) (;)
-quam(hi/hhg~) vi(hih)dé(i)re(i) ma(ij)la(i) gen(i)tis(i) no(i)stræ(ijijvIH) et(hg) san(h!iwji/jkj)ctó(ih!iwjij)rum.(ivHGhg) (::)
-<sp>+</sp> Sic(hg)ut.(h)  (::)
+(c3) Di(hg|cl)xit(h|vi) Ju(ihi//jv|po/vihi)das(i|ta) <sp>*</sp> 
+Si(i|vi)mó(hih|to)ni(hf|cllsc2) fra(g|vi)tri(hih|to) su(h_f!gwhGFEf|cl-ql!vssu2vi)o:(fe..|cl-lse6) (:) 
+E(ei_//jv|pe-/vihi)li(ij|pehh)ge(i|ta) ti(ij|pehh)bi(i|ta) vi(ij@kv_JIj|//ci-hkpp2vihj)ros(ji__|cl-hhlse6) (,) 
+et(i>|vi>) va(hih|to)de,(f!gwhg__|ql!cl-ppt1) lí(f|ta)be(i|vi)ra(h|vi) fra(g@ho|vs)tres(f|ta) tu(ef|pe)os(e|ta) 
+in(ef~|pe~) Ga(fv_//efc|vi-/toM1hj)li(de|pe)lǽ(e!fwgfg|viqlhi!pohi)am;(fe..|cl-lse6) (;) 
+e(ef|pe)go(e|ta) au(ef~|pe~)tem(e|ta) et(e|ta) Jó(ef|pe)na(e|ta)thas(e|ta) 
+fra(e|ta)ter(e@foh|sa) me(hv//gh/ihi//jv|vihhpohhpp2/vihk)us(i|vilse6) (,) 
+í(i|vi)bi(hih|to)mus(hg__|cl-) in(g>|vi>) Ga(g|vi)laa(hih|to)dí(h_f!gwhGFEf|cl-ql!vssu2vi)tim;(fe..|cl-) (:) 
 
+<sp>+</sp> Si(hg|cllss2lsc3)cut(h|vi) fú(ij|pehi)e(i|vi)rit(i|vi) 
+vo(i|vi)lún(iio~|vs>)tas(g|ta) in(i>|vi>) cæ(h_0//ijg_//hvG_FEf|to-1hhppt1/vihhsut1su2vihh)lo,(fe..|cl-) (,) 
+sic(ge__/f!gwh/gh!jvIHhv_GF|cl-/qlppt1/cihipp2/ci-) fi(h_f!gwhGFEf|cl-/ql!vssu2vi)at.(fe..|cl-) (::) 
+
+<sp>V/</sp> Ac(i|vi)cin(i|vi)gí(i!jwkJI|qlhjppt1su2)mi(hg|cl)ni,(h_i/hhog|peShhprhh) 
+fí(h|vi)li(h|vi)i(h|vi) po(h|vi)tén(hi~|pe~)tes,(h|vi) (,) 
+et(h|vi) es(h|vi)tó(iv_HG|ci-hh)te(hi|pehh) pa(hi|pehh)rá(iv_HG|ci-hh)ti:(hiHGh.|pehhsu2vihh) (;) 
+quó(e|ta)ni(ehg|to)am(hi|pe) mé(ij|pehh)li(i|ta)us(i|ta) est(i|ta) no(ij|pe)bis,(i|ta) 
+mo(ig|cllsc2)ri(hi|pe) in(hi|pe) bel(i!jwkj__|qlhi!cl-hippt1)lo,(ji..|cl-) (;) 
+quam(h_i/hhog|peSpr) vi(hi|pe)dé(i|vi)re(i|vi) ma(i|vi)la(i|vi) 
+gen(i|vi)tis(i|vi) nos(i|vi)træ(ijij_IH|/po-1hhsu2) et(ih|cl) 
+san(h!iwji/jkj|qlhh!clhhppt1tohk)ctó(i_h!iwjij|cl-hiqlhh!pohh)rum.(iv_HGhg..|ci-hicl-hi) (::)
+
+<sp>+</sp> Si(hg|cllss2lsc3)cut(h|vi) fú(ij|pehi)e(i|vi)rit.(i|vi) (::)
