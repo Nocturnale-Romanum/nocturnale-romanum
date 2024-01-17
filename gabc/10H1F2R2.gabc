@@ -1,9 +1,26 @@
+name:Ornaverunt V In hymnis et confessionibus;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)  Or(hg~)na(h)vé(ihi!jv)runt<sp>*</sp>(i) fá(i)ci(h)em(ihhg/h) tem(ijIHi!j>)pli(i) co(ikj/ko0!lv)ró(li)nis(ilk) áu(kvJIjwkJIs>)re(h!iwjIHi)is,(ih) (:)
-et(e/fef) de(ed)di(e)ca(f!gwh)vé(hg!hwihi)runt(ih) al(h)tá(hg/hvGFg!ho1)re(g!hwiHGFgwhGF) Dó(e)mi(EFgvFEf)no(eeO1d) (;)
-<sp>+</sp> Et(d/fh~) fac(hhO1g)ta(ihhvGF) est(HIjwkjkvJIji) læ(i)tí(ivjvkkj)ti(ih)a(hhO1g) ma(fe~)gna(HIjvji) in(ig!hwiHGFgwhGFs>) pó(e)pu(EFgvFEf)lo.(fe) (::)
-<sp>V/</sp> In(i) hy(i!jwkJIs>)mnis(hi/hhO1g) et(h) con(ig~)fes(hi)si(hi)ó(i)ni(i!jwkj)bus(ji) (;)
-be(i)ne(i)di(i)cé(ijijIH)bant(hg~) Dó(h!iwji/jkj)mi(ih!iwjij)num.(ivHGhg) (::)
-<sp>+</sp> Et.(d/fh~) (::)
+(c3) Or(hg~|vi>)na(h_|vi-)vé(ihijv|pohh/vihk)runt(i|ta) <sp>*</sp>() 
+fá(i|vi)ci(h|ta)em(ih__hg__//hv|cl-hilst2cl-hh/vihh) tem(i_j_IHi_j>|pe-1hksu2pe>1hj)pli(i|ta) (,) 
+co(ikj/kol|tohjlss2/pq-hllse6)ró(li__|cl-hllse6)nis(ilk|tohm) 
+áu(kvJ_I/jwk_JI>|vihksut2ql-hksu1sux1)re(h!iwk_JIj|ql-hkppt1su2vihk)is,(ji..|cl-hj) (;) 
+et(e_0//fef|````poppt1lsi4) de(ed|clMhh)di(e|vi)ca(f!gwh|````vi-/qlhj)vé(h_g!hwihi|cl-hhqlhj!pohj)runt(ih__|cl-) (`) 
+al(h|vi)tá(hg__/hv_GFg_0!ho|cl-ci-vs-)re(g!hwiHG___F/gwh_GF|ql-hhppt1sut3/ql-hhsu2) 
+Dó(e|ta)mi(ef!gv_FEf|//ci-pp2vi)no,(e_1eod.|pr-lse6) (:) 
 
+<sp>+</sp> Et(d/fh~|pe~ppt1) fac(h_1hog|pr-)ta(ihhv_GF|clS-hhci-hh) 
+est(h_i!jwkj|````qlhj!clhjppt2lsl1|kv_JIji__|ci-hi/cl-hi) (,) 
+læ(i_|vi-)tí(j_/k_koj|vi-hj/vi-hkpihk)ti(ih|cllsc2)a(h_1hog|pr-) 
+mag(fe~|```vi>lsi1)na(hi!jv_ji__|vi-hjpp2lsl2cl-hj) (,) 
+in(ig!hwiHG___F/gwh_GF>|clhjqi-hjsut3/ql-hjsu1sux1) pó(e|ta)pu(ef!gv_FEf|//ci-pp2vi)lo.(fe..|cl-) (::) 
+
+<sp>V/</sp>In(i|vihh) hym(i!jwkJI>|vihh/ql-hlsu1sux1)nis(hi/hhog|pe-1hiprhi) et(h|vi) 
+con(ig~|vi>)fes(hi|pe)si(hi|pe)ó(i|ta)ni(i!jwkj|qlhi!clhippt1)bus(ji|cl-hi) (;) 
+be(i|vihh)ne(i|vihh)di(i|vihh)cé(ijijIH|tr-1hjsu2)bant(ih~|vi>) 
+Dó(h!iwji/jkj|qlhi!clhippt1/tohl)mi(ih!iwjij|cl-hiqlhi!pohi)num.(ivHGhg|ci-hicl-hi) (::)
+
+<sp>+</sp> Et(d/fh~|pe~ppt1) fac(h_1hog|pr-)ta.(ihhv_GF|clS-hhci-hh) (::)
