@@ -1,12 +1,24 @@
+name:Tu Domine universorum V Tu elegisti Domine;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3)  Tu,(c) Dó(e!fg)mi(f)ne<sp>*</sp>(f) u(f)ni(f)ver(h)só(hg/hif/g)rum,(ffO1e) (;)
-qui(e) nul(f)lam(h) ha(hi)bes(h) in(hvGFEf)di(f!gwh/ihhO1g)gén(f)ti(FGhvGFg)am,(gf) (:)
-vo(h)lu(h)í(kxh!iwjij!kv)sti(j) tem(j>)plum(i>) tu(hi)um(h) fi(h)e(hg)r<e>i</e> in(hiio~) no(hig/hvGFg)bis;(gf) (:)
-<sp>+</sp> Con(f)sér(fg~)va(f) do(fg)mum(f) i(fg)stam(f) im(FGhvGFEs) ma(f)cu(hg/hih)lá(hvGFg)tam(ffO1e) (,)
-in(f) æ(ge)tér(f)num,(hf!gwhg>) Dó(f)mi(FGhvGFg)ne.(gf) (::)
-<sp>V/</sp> Tu(f) e(f)le(e)gí(EFgwhhi)sti,(h) Dó(ij)mi(i)ne,(h) do(h)mum(h) i(hi)stam(h) ad(h) in(h)vo(h)cán(hi~)dum(h) no(h)men(h)
-tu(hg)um(hi) in(gh) e(f!gwhg)a,(gf) (;)
-ut(f) es(ef)set(f) do(fg)mus(f)  o(f)ra(f)ti(f)ó(fg)nis(f) et(f) ob(f)se(f)cra(f)ti(f)ó(fg)nis(f) pó(f!gwhGFE)pu(f)lo(hg/hih) tu(hvGFg)o.(ffO1e) (::)
-<sp>+</sp> Con(f)sér(fg~)va.(f) (::)
+(f3) Tu,(c|gr) Dó(e_0//fg|vi-/pehi)mi(f|ta)ne(f|ta) u(f|ta)ni(f|ta)ver(h|vi)só(hg/hif_//gv|cl/to-1/vi)rum,(f_1foe|pr-) (,) 
+qui(e|gr) nul(f|vi)lam(h|vi) ha(hi|pehh)bes(h|ta) 
+in(hvG__FEf|vi-sut1su2vi)di(f!gwh/ih_/hog|qlppt1/clS-hipihilsco2)gén(f|ta)ti(fg!hv_GFg|//ci-pp2vi)am,(gf..|cl-) (;) 
+vo(h|vilsl2lse6)lu(h|//vi)ís(kxh!iwjijkv|/////viqlhj!pohj/vihm)ti(j|vihi) tem(j>|vi>hi)plum(i>|vi>hh) 
+tu(hi|pehh)um(h|ta) fí(h|ta)e(hg|cllsc2)ri(hi|pehhorhj) in(io) no(hig___hv_GFg|toShjci-hjvihj)bis;(gf..|cl-) (:) 
 
+<sp>+</sp> Con(f|````talse4)sér(fg~|pe~)va(f|ta) do(fg|pe)mum(f|ta) is(fg|pe)tam(f|ta) 
+im(fg!hvG~F~E~|//ci>pp2lsc3)ma(f|vi)cu(hg/hih|cllsc2/tohi)lá(hv_GFg|ci-vi)tam(ffoe|pr) (,) 
+in(f|vi) æ(ge|cllss2lsc3)tér(f|vi)num,(h_f!gwhg>|cl-ql!cl>) Dó(f|ta)mi(fg!hv_GFg|//ci-pp2vi)ne.(gf..|cl-) (::) 
+
+<sp>V/</sp> Tu(f|ta) e(f|ta)le(f|ta)gís(e_f!gwh/hi|``qlhgppt2pehj)ti,(h|//ta) Dó(ij|pehi)mi(i|vi)ne,(h|ta) 
+do(h|ta)mum(h|ta) is(hi|pe)tam(h|ta) (,) ad(h|ta) in(h|ta)vo(h|ta)cán(h|ta)dum(h|ta) no(h|ta)men(h|ta) 
+tu(hg|cllsc3)um(hi|pe) in(gh|pe) e(f!gwhg|ql!clppt1)a,(gf..|cl-) (;) 
+ut(f|vi) es(ef|pe)set(f|vi) do(f|vi)mus(f|vi) o(f|vi)ra(f|vi)ti(e|ta)ó(fg|pe)nis(f|vi) et(f|vi) 
+ob(f|vi)se(f|vi)cra(f|vi)ti(e|ta)ó(fg|pe)nis(f|ta) (,) 
+pó(f!gwh_GFE|ql-ppt1su3)pu(f|vi)lo(hg/hih|cllsc2tohg) tu(hv_GFg|ci-vi>hg)o.(ffoe.|pr) (::)
+
+<sp>+</sp> Con(f|````talse4)sér(fg~|pe~)va.(f|ta) (::)
