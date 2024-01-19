@@ -1,9 +1,23 @@
+name:Hic est fratrum amator V Vir iste in populo;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)  Hic(ef) est(E) fra(ef)trum<sp>*</sp>(e) a(efO1h)má(hvGHihi!jv)tor(i) et(i) pó(hih)pu(hf)li(g/hih) Is(hf/hef)ra(edewfef)ël:(fe) (:)
-<sp>+</sp> Hic(HIkvIHi!jwk!lv) est,(mi/jkj) qui(h) mul(i)tum(j) o(hj)rat(iji) pro(hiHG) pó(h/iji)pu(ivHG)lo(ghggo~/efe) (;)
-et(e) u(ghg/hih)ni(g)vér(gf)sa(fgf@efvEDCdc) sanc(d)ta(cb) ci(c)vi(df)tá(hvg!ho1!iv)te(ivjvIHgo0!hv) Je(fe/f!gwhg/hih)rú(fe!fwgf)sa(ed!ewfef)lem.(fe) (::)
-<sp>V/</sp> Vir(i) i(i!jwkJI)ste(hi/hhO1g) in(h) pó(ig)pu(hi)lo(hi) su(i!jwkj)o(ji) (;)
-mi(i)tís(i)si(i)mus(iji/jvIH) ap(hg)pá(h!iwji/jkj)ru(ih!iwjij)it.(ih) (::)
-<sp>+</sp> Hic.(HIkvIHi!jwk!lv) (::)
+(c3) Hic(ef|pe) est(e|ta) fra(ef|pe)trum(e|ta) <sp>*</sp>() 
+a(e!foh|sa)má(hv_//gh/ihi/jv|vi-popp2/vihj)tor(i|vi) (,) 
+et(i|vi) pó(hih|to)pu(hf|cllsc2)li(g_0//hih|vi-/tohj) Is(hf/hef|cl/po)ra(e_d!ewfef|cl-ql!po)ël:(fe..|cl-) (:) 
 
+<sp>+</sp> Hic(h_i!kvIH___i!jw!kl|``sc-hksut2/qlhhppt1vihn) est,(lh__/iji___|//cl-hm/toShk) (,) 
+qui(h|grlsl2) mul(i|vihh)tum(j|vihi) o(j_l_|pe-1hn)rat(klk|//toS3hn) 
+pro(j_k_JI|pe-1hlsu2) pó(j_0//klk|vi-hjtohn)pu(kv_JI|ci-hl)lo,(ijiio/ghg.|tohjorhjtohj) (;) 
+et(g|ta) u(iji/jkj|tohj/tohl)ni(i|vihh)vér(hg__|cl-)sa(giHG__hvG__FEfe__|to-1hhsuu1/vi-hhsuu1su2cl-) (`) 
+san(f|vi)cta(ed|cllsc2lsi9) ci(e|vi)vi(fh|pe)tá(hv_//f@hoi|vi-salsi7)te(i_0//jvHGhoi|vi-hh/cihhlsc2pqhh) 
+Je(fe__/f!gwhg/hih|cl-lsi7/ql!clppt1/to)rú(f_e!fwgf|cl-lsi7qi!cl)sa(e_d!ewfef|cl-lsi7ql!po)lem.(fe..|cl-) (::) 
+
+<sp>V/</sp> Vir(i|vi) is(i!jwk_JI|ql-hkppt1su2)te(h_i/hhog|peShhprhh) 
+in(h|vi) pó(ig|clhh)pu(hi|pehh)lo(hi|pehh) su(i!jwkj|qlhi!clhippt1)o(ji..|cl-hj) (;) 
+mi(h_i/hhog|peShhprhh)tís(hih|tohh)si(ij|pehh)mus(ijij_IH|tr-1hjsu2) 
+ap(ih|cllsc2)pá(h!iwji/jkj|qlhh!clhhppt1tohj)ru(i_h!iwjij|cl-hjqlhi!pohi)it.(iv_HGhg..|ci-hicl-hi) (::)
+
+<sp>+</sp> Hic(h_i!kvIH___i!jw!kl|``sc-hksut2/qlhhppt1vihn) est.(lh__/iji___|//cl-hm/toShk) (::)
