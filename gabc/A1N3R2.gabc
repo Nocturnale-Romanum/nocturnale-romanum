@@ -1,18 +1,19 @@
 name:Audite verbum V Annuntiate;
 office-part:re;
 mode:3;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Audite verbum Domini;
-mode: 3;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: iii;
-nabc-lines: 1;
-%%
-(c4) AU(ed~|vi>lsim2)dí(g|vi)te(h|vihg) ver(i|vihh)bum(j>|vi>lsi6) Dó(h|vi)mi(g|vi)ni,(f!goh|sa) Gen(gh~|ta>)tes,(e|ta) *(;) et(gffs|po) an(fd~|vi>)nun(g|vi)ti(hi|pe)á(i!jok|sa)te(kjjvIH|clShhci-hh) il(h!iwjijg~|ql!po>ppt1lsi3)lud(hg|cl-) (,) in(g|``talse4) fí(i|vi)ni(j|vi)bus(iioh|pr) ter(jvIHivH~G~|////ci-cl>-)ræ,(hg|cl-) †(;) Et(g|``talse4) in(h|vi) ín(i|vihg)su(h|ta)lis(i|vi) quæ(g|ta) pro(h|vi)cul(g|vi) sunt,(ge~|vi>lsal3) dí(f!goh|/sa)ci(fe|cl)te:(d!ewf|qlppt1) (;) Sal(fd~|vi>)vá(f|vi)tor(gh>|pe>) no(ixhiHGFgh|//////toSsu2peShg)ster(g|ta) ad(ixg!hig/hg|////clpp2cl>-hh)vé(e|ta)ni(egffs|//tosthh)et.(fe|cl-) (::)
+(c4) Au(ed~|vi>lsim2)dí(g|vi)te(h|vihg) ver(i|vihh)bum(j>|vi>lsi6) Dó(h|vi)mi(g|vi)ni,(f@goh|sa) Gen(gh~|ta>)tes,(e.|ta) <sp>*</sp>(;) 
+et(gffs|po) an(fd~|vi>)nun(g|vi)ti(hi|pe)á(i!jok|sa)te(kjjv_IH|clShici-hi) il(h!iwjijg~|ql!po>ppt1lsi3)lud(hg__|cl-) (,) 
+in(g|``talse4) fí(i|vi)ni(j|vi)bus(iioh|pr) ter(jv_IHiv_H~G~|////ci-hicl->hi)ræ,(hg..|cl-) (:) 
 
-<sp>V/</sp> An(i|vi)nun(i|vi)ti(i|vi)á(ikjjs|//tohisthk)te,(h!iwjihhog|ql!clppt1prhh) et(h|vi) au(ig|cllsc3)dí(h|vi)tum(j|vihg) fá(i|ta)ci(ikjjs|//tohisthk)te:(ji|cl-hh) (;) lo(i|ta)quí(i|ta)mi(i|ta)ni,(ikjjvIH/iwji|////trShisut2/qihi!cl-hi) et(hg|/cllsc3) cla(gh!iwj|``qlhippu2)má(jiioh/ivHGh|////clhh!pihhci-hhvihh)te.(hg|/cl-) (::)
-†() Et(g|``talse4) in.(h|vi) (::)
+<sp>+</sp> Et(g|``talse4) in(h|vi) ín(i|vihg)su(h|ta)lis(i|vi) quæ(g|ta) pro(h|vi)cul(g|vi) sunt,(ge~|vi>lsal3) dí(f@goh|/sa)ci(fe|cl)te:(d!ewf.|qlppt1) (;) 
+Sal(fd~|vi>)vá(f|vi)tor(gh>|pe>) nos(ixh_iH__GFg_h|//////toSsu2peShg)ter(g|ta) ad(ixgh/ig/h_g|/////clpp2cl->hh)vé(e|ta)ni(egffs|//tosthh)et.(fe..|cl-) (::) 
+
+<sp>V/</sp> An(i|vi)nun(i|vi)ti(i|vi)á(ikjjs|//tohisthk)te,(h!iwjihhog|ql!clppt1prhh) 
+et(h|vi) au(ig|cllsc3)dí(h|vi)tum(j|vihg) fá(i|ta)ci(ikjjs|//tohisthk)te:(ji..|cl-hh) (;) 
+lo(i|ta)quí(i|ta)mi(i|ta)ni,(ikj___jvI__H/iwji__|////trShksut2/qihj!cl-hj) et(hg|/cllsc3) 
+cla(g_h!iwj|``qlhippu2)má(jiioh/iv_HGh|////clhh!pihhci-hhvihh)te.(hg..|/cl-) (::)
+
+<sp>+</sp> Et(g|``talse4) in(h|vi) ín(i|vihg)su(h|ta)lis.(i|vi) (::)
