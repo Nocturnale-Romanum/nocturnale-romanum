@@ -1,0 +1,16 @@
+name:Dixit iniquis nolite loqui;
+office-part:an;
+mode:7c;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Dixi iniquis nolite loqui;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c;
+nabc-lines: 1;
+%%
+(c3) Di(i|vi-)xi(g|ta) i(h|vi)ní(iji|//to)quis:(g|vi-lsx9) (,) <sp>*</sp>No(f|ta)lí(gwh|ql)te(g|vi-) lo(ef|peS)qui(e|ta) (,) ad(gh|```peSlss4)ver(g|vihg)sus(f|vi) De(ef|peS)um(cd|peSlsi7) i(ed|cl)ni(ef|pe)qui(f|vi)tá(e|ta)tem.(e|ta) (::) <eu> Et(i) sic(i) fi(j)ni(i)á(h)tur.(gh) </eu>(::)
+
