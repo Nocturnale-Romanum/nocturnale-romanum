@@ -1,21 +1,16 @@
 name:Ecce ab austro V Aspiciam V Gloria;
 office-part:re;
 mode:5;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Ecce ab austro venio;
-mode: 5;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: v;
-nabc-lines: 1;
-%%
-(c3) Ec(g|ta)ce(gi/hssfgf|pe-ds-hjtohj) *() ab(f|ta) au(h|vi)stro(h|vi) vé(i|vihh)ni(gxhiHGFg|////toSsu2vihg)o,(gf|cl-) (;) e(d!eof|sa)go(gxge!fwgFE|////cl-qi-hgsu2) Dó(d|ta)mi(de!fvEDe|//ci-hhpp2vihh)nus(ed|cl-) (`) De(d|ta)us(ef|pe) ve(gxfvED/ewf/gvFE|//////ciS1ql-hgci-hi)ster,(fe|cl-) †(;) Vi(f|vi)si(gxgh|////pe)tá(h|vi)re(hg!hwi|cl-qlhg) vos(hih|tolsc4lst3) in(gxf!gwhGFE/fwgFE|////ql!vssut2ppt1qi-hgsu2) pa(de!fvEDe|//ci-hhpp2vihh)ce.(ed|cl-) (::)
+(c3) Ec(g|ta)ce(gi_/hshs_fgf|pe-hhds-hktohk) <sp>*</sp>~{a}b(f|ta) au(h|vi)stro(h|vi) vé(i|vihh)ni(gxhiH___GFg|////toSsu2vihg)o,(gf..|cl-) (;) e(d@eof|sa)go(gxg_e!fwg_FE|////cl-qi-hgsu2) Dó(d|ta)mi(de!fv_EDe|//ci-hhpp2vihh)nus(ed__|cl-) (`) De(d|ta)us(ef|pe) ve(gxfvE_D/ewf_/gv_FE|//////ciS1ql-hgci-hi)ster,(fe..|cl-) (:) 
+<sp>+</sp> Vi(f|vi)si(gxgh|////pe)tá(h|vi)re(h_g!hwi|cl-qlhg) vos(hih__|tolsc4lst3) in(gxf!gwhGF__E/fwg_FE|////ql!vssut2ppt1qi-hgsu2) pa(de!fv_EDe|//ci-hhpp2vihh)ce.(ed..|cl-) (::)
 
-<sp>V/</sp> A(h|vi)spí(h|vi)ci(h|vi)am(h|vi) vos,(hi/hssfgf|pe-ds-hjtohj) et(h|vi) cré(hf|cllsc3)sce(fi|pe)re(gh|pe) fá(h|vi)ci(hg!hwihi|cl-qi!po)am:(ih|cl-) (;) mul(d|ta)ti(f|vi)pli(h|vi)ca(h|vi)bí(hi|pe)mi(h|ta)ni,(h|ta) (,) et(h|ta) fir(h|ta)má(hi|pe)bo(h|ta) pac(h|ta)tum(h|ta) me(hg/hg|////pf1lsc2)um(gf|cllsc3) vo(hi|peS)bís(gxhg!hwiHGFg|////cl-qi!vssu2vi)cum.(gf|cl-) (::)
-†() Vi(f|vi)si(gxgh|////pe)tá(h|vi)re.(hg!hwi|cl-qlhg) (::)
+<sp>V/</sp> A(h|vi)spí(h|vi)ci(h|vi)am(h|vi) vos,(hi_/hshs_fgf|pe-hhds-hktohk) et(h|vi) cré(hf|cllsc3)sce(fi|pe)re(gh|pe) fá(h|vi)ci(h_g!hwihi|cl-qi!po)am:(ih..|cl-) (;) mul(d|ta)ti(f|vi)pli(h|vi)ca(h|vi)bí(hi|pe)mi(h|ta)ni,(h|ta) (,) et(h|ta) fir(h|ta)má(hi|pe)bo(h|ta) pac(h|ta)tum(h|ta) me(hg/hg|////pf1lsc2)um(gf|cllsc3) vo(h_i|peS)bís(gxh_g!hwiHGFg|////cl-qi!vssu2vi)cum.(gf..|cl-) (::)
 
-<sp>V/</sp> Gló(h|vi)ri(h|vi)a(gi/hssfgf|pe-ds-hjtohj) Pá(hf|cllsc3)tri,(fi|pe) et(gh|pe) Fí(h|ta)li(hg!hwihi|cl-`qi!po)o,(ih|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|////pf1lsc2)tu(gf|cllsc3)i(hi|peS) Sanc(gxhg!hwiHGFg|////cl-`ql!vssu2vihg)to.(gf|cl-) (::) 
-†() Vi(f|vi)si(gxgh|////pe)tá(h|vi)re.(hg!hwi|cl-qlhg) (::)
+<sp>+</sp> Vi(f|vi)si(gxgh|////pe)tá(h|vi)re.(h_g!hwi|cl-qlhg) (::)
+
+<sp>V/</sp> Gló(h|ta)ri(h|ta)a(hi_/hshs_/fgf|pe-hids-hjtohj) Pa(hf|clhhlsc3)tri,(fi|pehh) et(gh|pe) Fí(h|vi)li(h_g!hwihi|//cl-`qlhg!pohg)o,(ih..|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|//pf1lsc2)tu(gf|cllsc3)i(h_i|peS) San(gxh_g!hwiHGFg|//////cl-`qlhg!vshgsu2vihg)to.(gf..|cl-) (::)
+
+<sp>+</sp> Vi(f|vi)si(gxgh|////pe)tá(h|vi)re.(h_g!hwi|cl-qlhg) (::)
