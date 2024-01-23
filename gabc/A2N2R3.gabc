@@ -1,21 +1,17 @@
-name:Hierusalem plantabis V Exsulta satis V Gloria;
+name:Jerusalem plantabis V Exsulta satis V Gloria;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Jerusalem plantabis;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines: 1;
-%%
-(c4) Je(g|vi)rú(gffd!ewfED|pflst2ql-hgsu2)sa(cd|peS)lem,(ixf!gwhGF/g!hwihhog|////vi-ql-hjsut2qlhk!cl-hkppt1``pihplst3) *(,) plan(f|ta)tá(h|vi)bis(ji|cllss2lsc3) ví(g|ta)ne(ghhg|pe-cl-hg)am(g|vi-) in(ffoe>|pr>) món(g|vi)ti(hg|cl)bus(fg|pe) tu(ixgh!ivHGh|//////ci-hhpp2vi-hh)is:(g!hih|cl-hhppt2) (;) et(gf|clhdlsc3) ex(g|vi)sul(hj~|ta>lss2)tá(ji/jkh/iv|///clhhlsc2toS2hhlss2`vi-hi)bis,(hhog|pr) qui(i|vi-hh)a(i|vi-hg) di(i|vihh)es(i|vihh) Dó(ki!jok|clhhpqhh)mi(h|vi)ni(gfh|polsi2) vé(hjg|//toSlsi9)ni(gf!gwhgh|//cl-`qi!po)et.(hg|cl-) (:) Sur(jk~|ta>hhlsl2)ge,(kv/jsshih|vi-hh/ds-hltohk) Si(h!iwjkvJI/jwkjk|ql-hhppt1vi-hlsut2qihl!pohl)on,(kj|cl-hh) (;) con(gh~|ta>lsi7)vér(h>|vi>)te(ghGFg|pe-1su2vi)re(gf|cl-) ad(h|vi) De(jh!iwjIH|cl-`qi-hgsu2)um(h|ta) tu(hiih|pe-cl-hg)um.(h|ta) †(;) Gau(iioj|sa)de(jg|cllsal2lsc3) et(gji~|pe>lss3) læ(j|vihi)tá(klk|//tohk)re,(i|ta) Ja(ikjjs|``tohhlse4sthj)cob:(ji|cl-) (;) Qui(g|ta)a(g|ta) de(h!iwj|``vi-qlhj) mé(j|vi)di(jvIH|ci-)o(h|ta) gén(hgh>|//po>)ti(fg!hvGFg|//ci-hhpp2vi-hh)um(gf|cl-) (,) Sal(hf~|vi>)vá(ghg|//to)tor(h|vi) t{uu}s(hjHGhv//fgh!iwjIH/iwjIH|////toS2vi-ql-hjppt3sut2qi-hksu2) vé(g|ta)ni(gh!ivHGh|//ci-hhpp2vihh)et.(hg|cl-) (::)
+(c4) Je(g|vi)rú(gf__f_d!ewf_ED|pflst2ql-hgsu2)sa(c_d|peS)lem,(ixf!gwhGF___/g!hwih__ho_g|////vi-ql-hjsut2qlhk!cl-hkppt1``pihplst3) <sp>*</sp>(,) plan(f|ta)tá(h|vi)bis(ji|cllss2lsc3) ví(g|ta)ne(gh_hg__|pe-cl-hg)am(g_|vi-) in(ffoe>|pr>) món(g|vi)ti(hg|cl)bus(fg|pe) tu(ixgh!iv_HGh_|//////ci-hhpp2vi-hh)is:(g_h/ih..|cl-hhppt2) (;) et(gf|clhdlsc3) ex(g|vi)sul(hj~|ta>lss2)tá(ji/jkh_/iv_|///clhhlsc2toS2hhlss2`vi-hi)bis,(hhog|pr) qui(i_|vi-hh)a(i_|vi-hg) di(i|vihh)es(i|vihh) Dó(ki!jok|clhipqhi)mi(h|vi)ni(gfh|polsi2) vé(hjg___|//toShjlsi9)ni(g_f!gwhgh|//cl-`qi!po)et.(hg..|cl-) (:) Sur(jk~|ta>hhlsl2)ge,(kv_/jsshih|vi-hk/ds-hltohk) Si(h!iwj_kvJ__I/jwkjk|ql-hhppt1vi-hlsut2qihl!pohl)on,(kj..|cl-hh) (;) con(gh~|ta>lsi7)vér(h>|vi>)te(g_h_GFg|pe-1su2vi)re(gf__|cl-) ad(h|vi) De(j_h!iwj_IH|cl-hj`qi-hksu2)um(h|ta) tu(hi_ih__|pe-hhcl-hi)um.(h.|ta) (:) 
 
-<sp>V/</sp> Ex(j|vi)súl(ji|cllsc3)ta(jkj/iji/hhog|//tohhtohiprhi) sa(hi|pe)tis,(i|vi) fí(ih|cllsc3)li(ij|pe)a(hi|pe) Si(g!hwih|q!cl-ppt1)on:(hg|cl-) (:) jú(g|vi)bi(fg|pe)la,(g|ta) fí(g|ta)li(g|ta)a(ixhiHG/hih|//////pe-su2tohg) Je(ghf|toM1)rú(gh|peS)sa(iyh!iwji/jkJIH|//////ql!clppt1toS2hlsu2)lem.(hiHGhg|pe-1su2cl-) (::)
-†() Gau(iioj|sa)de.(jg|cllsal2lsc3) (::)
+<sp>+</sp> Gau(iioj|sa)de(jg|cllsal2lsc3) et(gji~|pe>lss3) læ(j|vihi)tá(klk|//tohk)re,(i|ta) Ja(ikjjs|``tohhlse4sthj)cob:(ji..|cl-) (;) Qui(g|ta)a(g|ta) de(h!iwj|``vi-qlhj) mé(j|vi)di(jv_IH|ci-)o(h|ta) gén(hgh>|//po>)ti(fg!hv_GFg|//ci-hhpp2vi-hh)um(gf__|cl-) (,) Sal(hf~|vi>)vá(ghg|//to)tor(h|vi) t{uu}s(hjHG_1hv_1//f_g_h!iwjI__H/iwj_IH|////toS2vi-ql-hjppt3sut2qi-hksu2) vé(g|ta)ni(gh!iv_HGh|//ci-hhpp2vihh)et.(hg..|cl-) (::)
 
-<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::)
-†() Gau(iioj|sa)de.(jg|cllsal2lsc3) (::)
+<sp>V/</sp> Ex(j|vi)súl(ji|cllsc3)ta(jkj/iji/hhog|//tohhtohiprhi) sa(hi|pe)tis,(i|vi) fí(ih|cllsc3)li(ij|pe)a(hi|pe) Si(g!hwih__|ql!cl-ppt1)on:(hg..|cl-) (:) jú(g|vi)bi(fg|pe)la,(g|ta) fí(g|ta)li(g|ta)a(ixhi_HG/hih|//////pe-hisu2tohj) Je(ghf|toM1hh)rú(g_h|peS)sa(iyh!iwji/jkJ_IH|//////ql!clppt1toS2hlsu2)lem.(h_i_HGhg..|pe-1hisu2cl-hi) (::)
+
+<sp>+</sp> Gau(iioj|sa)de.(jg|cllsal2lsc3) (::)
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hisu2tohj)tu(ghf|toM1hh)i(g_h|peS) San(iyh!iwji/jkJ_IH|////ql!clppt1toS2hmsu2)cto.(h_i_HGhg..|pe-1hisu2cl-hh) (::)
+
+<sp>+</sp> Gau(iioj|sa)de.(jg|cllsal2lsc3) (::)
