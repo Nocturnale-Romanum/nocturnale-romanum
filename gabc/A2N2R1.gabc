@@ -1,18 +1,11 @@
 name:Ecce veniet Dominus V Et dominabitur;
 office-part:re;
 mode:5;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Ecce veniet Dominus protector;
-mode: 5;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: v;
-nabc-lines: 1;
-%%
-(c3) Ec(h|vi)ce(f|ta) vé(hi|vi)ni(h|vi)et(gxg|////ta) Dó(h|vihg)mi(gxg|////vi)nus,(fgf|//toS2) *(,) pro(gxfg|//peSlse4)téc(h|vi)tor(g|ta) no(gf|cllsc3)ster,(e|ta) Sanc(f>|vi>)tus(gxghg|//////to) Is(gxge/gde|////////clpo)ra(cxdc!dwede|//////cl-`qi!po)ël,(ed|cl-) †(:) Co(h|``vilsl3)ró(ih/i!jwkkl|cl-hhql-hhppt1pehl)nam(k|ta) re(kl>|pe>1hm)gni(lvKJkvJIH|clShmsut1vi-hmsuu1su2) ha(h|ta)bens(gxhihho/fgf|//////toorhhtohh) (,) in(h|vilsl3) cá(ih/isksslkkvIHhvFEf|////clhhtsMhhclhmcihmlsc3cihmvihm)pi(f|vi)te(gxfhFE/fwgFE|//////toS2sut1qi-hgsu2) su(de!fvEDe|//ci-hhpp2vi-hh)o.(ed|cl-) (::)
+(c3) Ec(h|vi)ce(f|ta) vé(hi|vi)ni(h|vi)et(gxg|////ta) Dó(h|vihg)mi(gxg|////vi)nus,(fgf.|//toS2) *(,) pro(gxf_g|//peSlse4)téc(h|vi)tor(g|ta) no(gf|cllsc3)ster,(e|ta) Sanc(f>|vi>)tus(gxghg|//////to) Is(gxge/gde|////////clpo)ra(cxd_c!dwede|//////cl-`qi!po)ël,(ed..|cl-) (:) <sp>+</sp> Co(h|``vilsl3)ró(ih__/i!jwk_kl|cl-hiql-hippt1pehm)nam(k|tahi) re(k_l>|pe>1hm)gni(lvKJ__kvJ__IH|clShmsut1vi-hnsuu1su2) ha(h|ta)bens(gxhihho/fgf|//////toorhhtohh) (,) in(h|vilsl3) cá(ih/isksslkkvIHhvFEf|////clhhtsMhhclhmcihmlsc3cihmvihm)pi(f|vi)te(gxfhF_E/fwg_FE|//////toS2sut1qi-hgsu2) su(de!fv_EDe|//ci-hhpp2vi-hh)o.(ed..|cl-) (::)
 
-<sp>V/</sp> Et(h|vi) do(h|vi)mi(h|vi)ná(h|vi)bi(h|vi)tur(hi/hssfgf|pe-ds-hjtohj) a(h|vi) ma(hi|pe)ri(h|ta) us(hf|cllsc3)que(fi|pe) ad(gh|pe) ma(hg!hwihi|cl-`ql!po)re,(ih|cl-) (;) et(d|ta) a(f|vi) flú(hi|pe)mi(h|ta)ne(h|ta) us(h|ta)que(h|ta) ad(h|ta) tér(hi|pe)mi(h|ta)nos(h|ta) or(hg/hg|pflsc2)bis(gf|cllsc3) ter(hi|peS)rá(gxhg!hwiHGFg|////cl-`ql!vssu2vi-)rum.(gf|cl-) (::)
-†() Co(h|``vilsl3)ró(ih/i!jwkkl|cl-hhql-hhppt1pehl)nam.(k|ta) (::)
+<sp>V/</sp> Et(h|vi) do(h|vi)mi(h|vi)ná(h|vi)bi(h|vi)tur(hi_/hshs_fgf|pe-hhds-hktohk) a(h|vi) ma(hi|pe)ri(h|ta) us(hf|cllsc3)que(fi|pe) ad(gh|pe) ma(h_g!hwihi|cl-`ql!po)re,(ih..|cl-) (;) et(d|ta) a(f|vi) flú(hi|pe)mi(h|ta)ne(h|ta) us(h|ta)que(h|ta) ad(h|ta) tér(hi|pe)mi(h|ta)nos(h|ta) or(hg/hg|pflsc2)bis(gf|cllsc3) ter(h_i|peS)rá(gxh_g!hwiHGFg_|////cl-`ql!vssu2vi-)rum.(gf..|cl-) (::)
+
+<sp>+</sp> Co(h|``vilsl3)ró(i_h/i!jwk_kl|cl-hiql-hippt1pehm)nam.(k|tahi) (::)
