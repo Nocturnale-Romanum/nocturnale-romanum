@@ -1,21 +1,17 @@
 name:Descendet Dnus V Et adorabunt V Gloria;
 office-part:re;
 mode:4;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Descendet Dominus;
-mode: 4;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: iv;
-nabc-lines: 1;
-%%
-(c4) De(f|vi)scén(de~|ta>)det(e|vi) *() Dó(fe|cl-)mi(e|ta)nus(egFEfvEDed|toS2sut1ci-cl-) (,) sic(fe|cllsc3)ut(fg~|ta>) plú(g|vi)vi(fde/f|po-1vihl)a(e|ta) in(ef!hvGFghh|//ci-hhpp2tohh) vel(egffs|tosthh)lus:(eeof|sa) †(;) O(d|ta)ri(dh|pe)é(h|vi)tur(ixg/ivHGhffoe|////ta-cicl!pilsc2lst3) in(e|ta) di(e|ta)é(e!fo|vshe)bus(e|ta) e(e|ta)jus(e!fwgFE|ql-ppt1su2) ju(g|vi)stí(ghghGF|to-ci-hg)ti(e!fgffs|//pohhpp2)a(ed|cl-) (,) et(dc|cllsc3) ab(f|vi)un(gh~|ta>)dán(hv/fgoh|vi-sahh)ti(h|vi)a(ixhiGFghg|////pelsc2su2to) pa(egffs|tosthh)cis.(fe|cl-) (::)
+(c4) De(f|vi)scén(de~|ta>)det(e|vi) <sp>*</sp>() Dó(fe|cl-)mi(e|ta)nus(egFE__fv_EDed__|toS2sut1ci-cl-) (,) sic(fe|cllsc3)ut(fg~|ta>) plú(g|vi)vi(fde_/f|po-1vihl)a(e|ta) in(ef!hv_GFghg|//ci-hhpp2tohh) vel(egffs|tosthh)lus:(eeof.|sa) (:) 
 
-<sp>V/</sp> Et(h|vi) ad(h|vi)o(h|vi)rá(h|vi)bunt(gf!gwhg/hvGEfe|cl-`ql!clci-hhcl-hh) e(g|vi)um(gf|cl) om(gh|pe)nes(gf|cl) re(e!fwgf|ql!clppt1)ges,(fe|cl-) (;) om(f|vi)nes(de|pe) gen(ef~|ta>)tes(e|ta) sér(e!fwgFE|ql-ppt1su2)vi(g|vi)ent(ghghGF|to/ci-hg) e(e!fgffs|//pohhpp2)i.(ed|cl-) (::)
-†() O(d|ta)ri(dh|pe)é(h|vi)tur.(ixg/ivHGhffoe|////ta-cicl!pilsc2lst3) (::)
+<sp>+</sp> O(d|ta)ri(dh|pe)é(h|vi)tur(ixg_0//ivHGhffo_e|////ta-cicl!pilsc2lst3) in(e|ta) di(e|ta)é(e@fo|vshe)bus(e|ta) e(e|ta)jus(e!fwg_FE|ql-ppt1su2) ju(g|vi)stí(gh_gh_GF|to-ci-hg)ti(ef/gffs|//pohhpp2)a(ed__|cl-) (,) et(dc|cllsc3) ab(f|vi)un(gh~|ta>)dán(hv_/f@goh|vi-sahh)ti(h|vi)a(ixhiGFghg|////pesu2lsc2to) pa(egffs|tosthh)cis.(fe..|cl-) (::)
 
-<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`ql!clci-hhcl-hh) Pá(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;)et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|to/ci-hg) Sanc(e!fgffs|//pohhpp2)to.(ed|cl-) (::)
-*() O(d|ta)ri(dh|pe)é(h|vi)tur.(ixg/ivHGhffoe|////ta-cicl!pilsc2lst3)) (::)
+<sp>V/</sp> Et(h|vi) ad(h|vi)o(h|vi)rá(h|vi)bunt(g_f!gwhg/hv_GEfe__|cl-`ql!clci-hhcl-hh) e(g|vi)um(gf|cl) om(gh|pe)nes(gf|cl) re(e!fwgf|ql!clppt1)ges,(fe..|cl-) (;) om(f|vi)nes(de|pe) gen(ef~|ta>)tes(e|ta) sér(e!fwg_FE|ql-ppt1su2)vi(g|vi)ent(ghgh_GF|to/ci-hg) e(ef/gffs|//pohhpp2)i.(ed..|cl-) (::)
+
+<sp>+</sp> O(d|ta)ri(dh|pe)é(h|vi)tur.(ixg_0//ivHGhffo_e|////ta-cicl!pilsc2lst3) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(g_f!gwhg/hv_GEfe__|cl-`ql!clci-hhcl-hh) Pá(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf__|ql!cl-ppt1)o,(fe..|cl-) (;)et(e|ta) Spi(e|ta)rí(e!fwg_FE|ql-ppt1su2)tu(g|vi)i(ghgh_GF|to/ci-hg) Sanc(ef/gffs|//pohhpp2)to.(ed..|cl-) (::) 
+
+<sp>+</sp> O(d|ta)ri(dh|pe)é(h|vi)tur.(ixg_0//ivHGhffo_e|////ta-cicl!pilsc2lst3) (::)
