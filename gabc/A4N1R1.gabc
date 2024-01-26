@@ -1,18 +1,13 @@
 name:Canite tuba V Annuntiate;
 office-part:re;
 mode:1;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Canite tuba;
-mode: 1;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: i;
-nabc-lines: 1;
-%%
-(cb4) Cá(e|vilsam2)ni(c|ta)te(d|vi) tu(dh/iv|scG-1)ba(h|ta) *(`) in(hggof~|cllsc2or>) Si(ghgh/iv|//tr-3vihj)on,(hggo|clor>) (,) vo(f!gwhg|ql!clppt1lsc3)cá(h|vihh)te(g|vi) Gen(fd!ewfef|cl-`qlhg!pohg)tes;(ed|cl-) (;) an(d|ta)nun(fgf|//to)ti(fd|cl)á(f|vi)te(gh|pe) pó(hg/hfg|cllsc2pohg)pu(fe!fwgfg|cl-`qihg!pohg)lis(gf|cl-) †(;) Et(h|vilss3) di(hgh|//po)ci(f|vi)te:(d|ta) (:) Ec(f|```vilsal2lsew3)ce(f|vi) De(f|vi)us(dfddc|toS2cl-) Sal(dc~|vi>)vá(f|vi)tor(gh>|pe>) no(hvGFE/fwgfg|vi-sut3qi!po)ster(f|ta) ad(fssghffoe|ds/toS2pihglst2)vé(d|ta)ni(de!fvEDe|//ci-hhpp2vihh)et.(ed|cl-) (::)
+(cb4) Cá(e|vilsam2)ni(c|ta)te(d|vi) tu(dh_/iv|scG-1)ba(h|ta) *(`) in(hggof~|cllsc2or>) Si(ghgh_/iv|//tr-3vihj)on,(hggo|clor>) (,) vo(f!gwhg|ql!clppt1lsc3)cá(h|vihh)te(g|vi) gen(f_d!ewfef|cl-`qlhg!pohg)tes,(ed..|cl-) (;) an(d|ta)nun(fgf|//to)ti(fd|cl)á(f|vi)te(gh|pe) pó(hg/hfg|cllsc2pohg)pu(f_e!fwgfg|cl-`qihg!pohg)lis,(gf..|cl-) (;) et(h|vilss3) di(hgh|//po)ci(f|vi)te:(d|ta) (:) 
 
-<sp>V/</sp> An(h|vi)nun(h|vi)ti(h|vi)á(h|vi)te,(hg/hggof|pflsc2`pihglst2) et(g|vi) au(hf~|vi>)dí(gh|pe)tum(gh|pe) fá(h|ta)ci(ixh/iioh|////ta-pr)te:(h|ta) (;) lo(hf|cllsc3)quí(gh|pe)mi(h|vi)ni,(hg/hg|pflsc2) et(hf|cllsc3) cla(ixf!gwhg/hih|////ql!clppt1tohm)má(hvGFE/fwg/hv|vi-su1sut2ql-vihk)te.(gf|cl-) (::)
-†() Et(h|vilss3) di(hgh|//po)ci(f|vi)te.(d|ta) (::)
+<sp>+</sp> Ec(f|```vilsal2lsew3)ce(f|vi) De(f|vi)us(dfddc__|toS2cl-) Sal(dc~|vi>)vá(f|vi)tor(gh>|pe>) no(hvGF___E/fwgfg|vi-sut3qi!po)ster(f|ta) ad(fssghffo_e|ds/toS2pihglst2)vé(d|ta)ni(de!fv_EDe|//ci-hhpp2vihh)et.(ed..|cl-) (::)
+
+<sp>V/</sp> An(h|vi)nun(h|vi)ti(h|vi)á(h|vi)te,(hg/hggo_f|pflsc2`pihglst2) et(g|vi) au(hf~|vi>)dí(gh|pe)tum(gh|pe) fá(h|ta)ci(ixh_0//iioh|////ta-pr)te:(h|ta) (;) lo(hf|cllsc3)quí(gh|pe)mi(h|vi)ni,(hg/hg|pflsc2) et(hf|cllsc3) cla(ixf!gwhg/hih|////ql!clppt1tohm)má(hv_GF_E/fwg_/hv|vi-su1sut2ql-vihk)te.(gf..|cl-) (::)
+
+<sp>+</sp> Ec(f|vilsew3)ce(f|vi) De(f|vi)us.(dfddc__|toS2cl-) (::)
