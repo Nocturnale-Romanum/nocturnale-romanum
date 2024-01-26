@@ -1,18 +1,13 @@
 name:Juravi dicit Dnus ut ultra V Juxta est salus;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Juravi Dicit Dominus;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines: 1;
-%%
-(c4) Ju(h|vi)rá(hg|``cl-lse1)vi,(gf|cl-) *() di(h|vi)cit(hji|//cllsc3) Dó(g|ta)mi(ghhg|pe-`cl-hh)nus,(g|vi) (,) ut(f|ta) ul(gh|pe)tra(h|vi) jam(ge|clM-) non(g|vi) i(f|ta)rás(fe|cl)car(d|ta) (`) su(fe|cl)per(fg~|ta>) ter(g!hwihi|ql!po>ppt1)ram:(hg|cl-) (;) mon(jjh~|vi-`vi>)tes(ixih|////cl-) e(ixh/jvIG|ta-cilsc3)nim(gf|cl-) et(fh~|ta>) col(ixhiH~G~|////to>2)les(hg|cl-) (,) su(f|ta)cí(gh|pe)pi(hg|cl)ant(g>|vi>) ju(f|ta)stí(gh|pe)ti(gf|cl)am(f|ta) me(fd!ewfEDCd|cl-`qi!vssu2vi-)am,(de!f!gwhhg|qi-hippt3cl-hj) †(:) Et(g|vi-) te(d|ta)sta(g|vi)mén(gf|cl-)tum(gffe>|clScl>-) pa(f!gwhgh|ql!poppt1)cis(hg|cl-) (,) e(jvjv|bv-)rit(kvJIjvIHGhg|clShhsut1vi-hhsuu1su2cl-hh) in(ih~|vi>) Je(j|vi)rú(h|vi)sa(g|vi)lem.(fvEDf!gwhhg|vi-hhsut2ql-hgppt1`cl-hi) (::)
+(c4) Ju(h|vi)rá(hg__|``cl-lse1)vi,(gf__|cl-) <sp>*</sp>() di(h|vi)cit(hji|//cllsc3) Dó(g|ta)mi(gh_hg__|pe-`cl-hh)nus,(g|vi) (,) ut(f|ta) ul(gh|pe)tra(h|vi) jam(ge__|clM-) non(g|vi) i(f|ta)rás(fe|cl)car(d|ta) (`) su(fe|cl)per(fg~|ta>) ter(g!hwihi|ql!po>ppt1)ram:(hg..|cl-) (;) mon(j_jh~|vi-hhvi>hh)tes(ixih__|////cl-hh) e(ixh_0//jvIG|/////ta-hhcihhlsc3)nim(gf__|cl-) et(fh~|ta>) col(ixh_iH~G~|////to>2)les(hg__|cl-) (,) su(f|ta)cí(gh|pe)pi(hg|cl)ant(g>|vi>) ju(f|ta)stí(gh|pe)ti(gf|cl)am(f|ta) me(f_d!ewfE__DCd_|cl-`qi!vssu2vi-)am,(d_e_/f!gwh_hg..|qi-hippt3cl-hj) (:) 
 
-<sp>V/</sp> Jux(j|vi)ta(ji|cl) est(jkj/iji/hhog|//tohhtohiprhi) sa(hi|pe)lus(i|vi) me(ih|cllsc3)a,(ij|pe) ut(hi|pe) vé(g|ta)ni(g!hwih|ql!cl-ppt1)at:(hg|cl-) (;) et(g|vi) ju(fg|pe)stí(g|ta)ti(g|ta)a(g|ta) me(gh|pe)a,(g|ta) ut(ixhiHGhih|////pe-su2tohg) re(ghf|//toM1)ve(gh|peS)lé(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)tur.(hiHGhg|pe-1su2cl-) (::)
-†() Et(g|vi-) te(d|ta)sta(g|vi)mén(gf|cl-)tum.(gffe>|clScl>-) (::)
+<sp>+</sp> Et(g_|vi-) te(d|ta)sta(g|vi)mén(gf__|cl-)tum(gff_e>|clScl->) pa(f!gwhgh|ql!poppt1)cis(hg__|cl-) (,) e(jv_jv_|bv-)rit(kvJI__jvI__HGhg__|clShisut1vi-hjsuu1su2cl-hh) in(ih~|vi>) Je(j|vi)rú(h|vi)sa(g|vi)lem.(fvED___f!gwh_hg..|vi-hhsut2ql-hgppt1`cl-hi) (::)
+
+<sp>V/</sp> Jux(j|vi)ta(ji|cl) est(jkj/iji/hhog|//tohhtohiprhi) sa(hi|pe)lus(i|vi) me(ih|cllsc3)a,(ij|pe) ut(hi|pe) vé(g|ta)ni(g!hwih__|ql!cl-ppt1)at:(hg..|cl-) (;) et(g|vi) ju(fg|pe)stí(g|ta)ti(g|ta)a(g|ta) me(gh|pe)a,(g|ta) ut(ixhi_HGhih|////pe-su2tohg) re(ghf|//toM1)ve(g_h|peS)lé(iyh!iwji/jkJ_IH|////ql!clppt1toS2hmsu2)tur.(h_i_HGhg..|pe-1su2cl-) (::)
+
+<sp>+</sp> Et(g_|vi-) te(d|ta)sta(g|vi)mén(gf__|cl-)tum(gff_e>|clScl->) pa(f!gwhgh|ql!poppt1)cis.(hg__|cl-) (::)
