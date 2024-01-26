@@ -1,21 +1,19 @@
 name:Modo veniet V Orietur in diebus V Gloria;
 office-part:re;
 mode:6;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Modo veniet;
-mode: 6;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vi;
-nabc-lines: 1;
-%%
-(c2) Mo(g|vi)do(exe|////ta) vé(f|vihe)ni(e|ta)et(evev/fgf|bv-toShi) *() Do(ec|cllsc3lsi8)mi(f|vi)ná(f!goh|sa)tor(i|vi) Dó(hhog|pr)mi(iggof/gv|cl!pivi)nus,(gf|cl-) †(;) Et(f<|ta>he) no(h|vi)men(f|ta) e(g>|vi>he)jus(fvfvgvDCded|bv-vi-hisuu2toShj) (,) Em(f|vi-)má(c|ta)nu(f|vi)el(ffoe|pr) vo(gh!jvHG/hwiHG|`vi-hhppt2suu2lsl4qi-hisu2)cá(f|ta)bi(fg!hvGFg|//ci-hhpp2vihh)tur.(gf|cl-) (::)
+(c2) Mo(g|vi)do(exe|////ta) vé(f|vihe)ni(e|ta)et(ev_ev_/fgf___|bv-toShi) 
+<sp>*</sp>~Do(ec|cllsc3lsi8)mi(f|vi)ná(f@goh|sa)tor(i|vi) Dó(hhog|pr)mi(iggof/gv|cl!pivi)nus,(gf..|cl-) (:) 
 
-<sp>V/</sp> Ec(f!goh|sa)ce(ih/ivHGhg|cl-ci-cl-) Do(h!iwj/kv|ql-ppt1vihl)mi(jh|cllsc3)ná(i|vi)tor(gh>|pe>) Dó(f|ta)mi(f!gwhg|ql!clppt1)nus(gf|cl-) (;) cum(f|ta) vir(f|ta)tú(ghf|//to)te(gf|cl) vé(f!goh|sa)ni(ig!hwiHG|cl-ql-hgsu2)et.(ghGFgf|pe-1su2cl-) (::)
-*() Et(f<) no(h)men.(f) (::)
+<sp>+</sp> Et(f<|ta>he) no(h|vi)men(f|ta) e(g>|vi>he)jus(fv_fv_gvDC___ded___|bv-vi-hisuu2toShj) (,) 
+Em(f|vi-)má(c|ta)nu(f|vi)el(ffoe|pr) vo(g_h!jvH__G/hwi_HG|`vi-hjppt2suu2lsl4qi-hisu2)cá(f|ta)bi(fg!hv_GFg|//ci-hhpp2vihh)tur.(gf..|cl-) (::) 
 
-<sp>V/</sp> Gló(f!goh|sa)ri(h|vi)a(ih/ivHGhg|cl-ci-cl-) Pa(h!iwj/kv|ql-ppt1vihl)tri,(j|ta) et(jh~|vi>) Fí(ij|pe)li(ih|cllsc3)o,(h|ta) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(i|vi)i(gh|pe) Sanc(f!gwhg|ql!clppt1)to.(gf|cl-) (::) 
-*() Et(f<) no(h)men.(f) (::)
+<sp>V/</sp> O(f|ta)ri(f|ta)é(f@goh|sa)tur(ih__/iv_HGhg__|cl-hhci-hhcl-hh) in(h|vi) di(h|vi)é(h!iwj_/k>|ql-hhppt1vi>hm)bus(j|vihh) e(jh|clhhlsc3)jus(i|vi) jus(gh|pe)tí(f|ta)ti(f!gwhg|ql!clppt1)a,(gf..|cl-) (;) et(f|ta) a(f|ta)bun(f|ta)dán(ghf|//to)ti(gf|cl)a(f!goh|sa) pa(i_g!hwi_HG|cl-hiql-hjsu2)cis.(g_h_GFgf..|pe-1su2cl-) (::)
+
+<sp>+</sp> Et(f<|ta>he) no(h|vi)men.(f|ta) (::)
+
+<sp>V/</sp> Gló(f@goh|sa)ri(h|ta)a(ih__/iv_HGhg__|/cl-ci-cl-) Pa(h!iwj_//kv|``vi-ql-hjvihm)tri,(j|vihh) et(jh~|vi>) Fí(ij|pehh)li(ih|cllsc3)o,(h_|ta-) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(i|vihh)i(gh|pe) San(f!gwhg__|ql!cl-ppt1)cto.(gf..|cl-) (::)
+
+<sp>+</sp> Et(f<|ta>he) no(h|vi)men.(f|ta) (::)
