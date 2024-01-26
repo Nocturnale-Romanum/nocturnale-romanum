@@ -1,21 +1,19 @@
 name:Virgo Israel V In caritate V Gloria;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Virgo Israel;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines: 1;
-%%
-(c4) Vir(g>|vi>)go(fgFD|pe-1su2) Is(fe|cllsc3)ra(fg|pe)ël(g|vi) *(,) re(g|vi)vér(g>|vi>)te(f|ta)re(fe|cllsc3) in(fd~|vi>lsal3) ci(fe|cllsc3)vi(f|pe)tá(hg|cllsc3)tes(fg|pe) tu(ixgh!ivHGh|////ci-hhpp2vihh)as;(g!hih|cl-hhppu2) †(,) Us(f|ta-lst2)que(g|vi)quo(gjjv|pe-``vi-hg) do(h/jgh|ta-hhpohh)lens(ggof|``prlst2) a(h|vi)vér(h/kgh>|vipo>hhlss2)te(gf!gwhgh|cl-`qihg!pohg)ris?(hg|cl-) (:) Ge(f|talsi3)ne(h|``vilsc2)rá(jk|pehh)bis(j|ta) Dó(j|vi)mi(jsss|//ts)num(h|vi) sal(gf~|vi>)va(hj|pe)tó(ji!jwkjk|cl-`qihg!pohg)rem,(kj|cl-hh) (,) ob(jh|clhhlsc3lsi8)la(j|vi)ti(klk|//tohk)ó(l|``vihklss2)nem(k>|vi>hj) no(jvIH|cilsc3)vam(ixh/iioh|////ta-pr) ‡(;) In(h|vi) ter(h>|vi>)ra(ixg/ivHGhg|////ta-cilsc3`cl) am(f|ta)bu(ghg|//to)lá(h|vi)bunt(ge|cl-) hó(g|vihh)mi(f|vi)nes(efEDed|pe-1su2cl-) (,) in(ffoe|pr) sal(fd~|vi>)va(fe|cllsc3)ti(fg|pe)ó(g!hwihi|ql!poppt1)nem.(hg|cl-) (::)
+(c4) Vir(g>|vi>)go(f_g_FD|pe-1su2) Is(fe|cllsc3)ra(fg|pe)ël(g|vi) <sp>*</sp>(,) re(g|vi)vér(g>|vi>)te(f|ta)re(fe|cllsc3) in(fd~|vi>lsal3) ci(fe|cllsc3)vi(f|pe)tá(hg|cllsc3)tes(fg|pe) tu(ixgh!iv_HGh|///////ci-hhpp2vihh)as:(g_h/ih..|cl-hhppu2) (:) 
 
-<sp>V/</sp> In(j|vi) ca(j|vi)ri(j|vi)tá(ji|cl)te(jkj/iji/hhog|////tohhtohiprhi) per(ih|cllsc3)pé(jk|pehhlsl3)tu(ji|cllsc3)a(ih|cllsc3) di(ij|pe)lé(hi|pe)xi(g!hwih|ql!cl-ppt1) te:(hg|cl-) (;) íd(g|vi)e(fg|pe)o(g|ta) at(g|ta)trá(gh|pe)xi(g|ta) te(g|ta) mí(ixhiHGhih|////pe-su2tohh)se(ghf|//toM1)rans(gh|peS) tu(iyh!iwji/jkjIH|////ql!clppt1toS2hmsu2)i.(hiHGhg|pe-1su2cl-) (::)
-†() Us(f|ta-lst2)que(g|vi)quo.(gjjv|pe-``vi-hg) (::)
+<sp>+</sp> Us(f|ta-lst2)que(g|vi)quo(gj_jv_|pe-hi``vi-hj) do(h_0//jgh|ta-hhpohh)lens(ggo_f|``prlst2) a(h|vi)vér(h/kgh>|vipo>hhlss2)te(g_f!gwhgh|cl-`qihg!pohg)ris?(hg__|cl-) (;) Ge(f|talsi3)ne(h|``vilsc2)rá(jk|pehh)bis(j|ta) Dó(j|vi)mi(jsss|//ts)num(h|vi) sal(gf~|vi>)va(hj|pe)tó(j_i!jwkjk|cl-hi`qihi!pohi)rem,(kj..|cl-hk) (;) ob(jh|clhhlsc3lsi8)la(j|vi)ti(klk|//tohk)ó(l|``vihklss2)nem(k>|vi>hj) no(jvIH|cilsc3)vam(ixh_0//iioh|////ta-pr) (,) in(h|vi) ter(h>|vi>)ra:(ixg/ivHGhg..|////ta-cilsc3`cl) (:) 
 
-<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::) 
-‡() In(h|vi) ter(h>|vi>)ra.(ixg/ivHGhg|////ta-cilsc3`cl) (::)
+<sp>‡</sp> Am(f|ta)bu(ghg|//to)lá(h|vi)bunt(ge__|cl-) hó(g|vihh)mi(f|vi)nes(e_f_EDed__|pe-1su2cl-) (,) in(ffoe|pr) sal(fd~|vi>)va(fe|cllsc3)ti(fg|pe)ó(g!hwihi|ql!poppt1)nem.(hg..|cl-) (::)
+
+<sp>V/</sp> In(j|vi) ca(j|vi)ri(j|vi)tá(ji|cl)te(jkj/iji/hhog|////tohhtohiprhi) per(ih|cllsc3)pé(jk|pehhlsl3)tu(ji|cllsc3)a(ih|cllsc3) di(ij|pe)lé(hi|pe)xi(g!hwih__|ql!cl-ppt1) te:(hg..|cl-) (;) íd(g|vi)e(fg|pe)o(g|ta) at(g|ta)trá(gh|pe)xi(g|ta) te(g|ta) mí(ixhi_HGhih|////pe-su2tohh)se(ghf|//toM1)rans(g_h|peS) tu(iyh!iwji/jkJ_IH|////ql!clppt1toS2hmsu2)i.(h_i_HGhg..|pe-1hhsu2cl-hh) (::)
+
+<sp>+</sp> Us(f|ta-lst2)que(g|vi)quo.(gj_jv_|pe-hi``vi-hj) (::)
+ 
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-su2tohg)tu(ghf|toM1)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|////ql!clppt1toS2hmsu2)to.(h_i_HGhg..|pe-1su2cl-) (::) 
+
+<sp>‡</sp> Am(f|ta)bu(ghg|//to)lá(h|vi)bunt.(ge__|cl-) (::)
