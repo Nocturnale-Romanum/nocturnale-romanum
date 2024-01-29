@@ -1,21 +1,17 @@
 name:Germinaverunt campi eremi V Ex Sion V Gloria;
 office-part:re;
 mode:1;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Germinaverunt campi;
-mode: 1;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: i;
-nabc-lines: 1;
-%%
-(c4) Ger(de>|pe>1lsi6)mi(c|ta)na(d|vi)vé(fg|`peSlse3)runt(gf~|/vi>lsal3) *() cam(ghgh>|//tr>)pi(ge|cllsc3) e(fg|peS)ré(efEDe|pe-1su2vi)mi(ed|cl-) (,) ger(f|vi)men(fe|cl) od(d|ta)ó(f!goh|vi-pqhi)ris(fefog|cllsi2/pqhg) Is(gffvED|clSci-)ra(c!dwfEDe|ql-ppt1su2vi)ël,(ed|cl-) (;) qui(d|ta)a(d|ta) ec(f/gh|scM1)ce(g|ta) De(g|vi)us(g|vi) no(gfg|//po)ster(fg/ffod|peS``pr) (,) cum(d|ta) vir(d|ta)tú(fgf|//to)te(fd|cllsc3) vé(f!goh|sa)ni(hvGFE/fwgfg|vi-suu3qihg!pohg)et,(f!ghg|cl-ppt2) †(;) Et(d|talsi8) splen(fe~|vi>)dor(fg|pe) e(g>|vi>)jus(gffvED|clSci-) cum(cd|pe) e(de!fvEDe|//ci-hhpp2vihh)o.(ed|cl-) (::)
+(c4) Ger(d_e>|pe>1lsi6)mi(c|ta)na(d|vi)vé(f_g|`peSlse3)runt(gf~|/vi>lsal3) <sp>*</sp>() cam(ghgh>|//tr>)pi(ge|cllsc3) e(f_g|peS)ré(e_f_EDe|pe-1su2vi)mi(ed__|cl-) (,) ger(f|vi)men(fe|cl) od(d|ta)ó(f_0@goh|vi-pqhi)ris(fefog|cllsi2/pqhg) Is(gffv_ED|clSci-)ra(c!dwf_EDe|ql-ppt1su2vi)ël,(ed..|cl-) (;) qui(d|ta)a(d|ta) ec(f_0//gh|scM1)ce(g|ta) De(g|vi)us(g|vi) no(gfg|//po)ster(f_g/ffod|peS``pr) (,) cum(d|ta) vir(d|ta)tú(fgf|//to)te(fd|cllsc3) vé(f@goh|sa)ni(hvGF___E/fwgfg|vi-suu3qihg!pohg)et,(f_g/hg..|cl-ppt2) (:) 
 
-<sp>V/</sp> Ex(h|vi) Si(h|vi)on(hg/hggof|pflsc2`pihhlst2) spé(gh|pe)ci(g|ta)es(g|ta) de(hf|cllsc3)có(gh|pe)ris(gh|pe) e(ixh/iioh|////ta-pr)jus:(h|ta) (;) De(hf|cllsc3)us(gh|pe) no(ixhi|////pe)ster(h|ta) ma(h|ta)ni(h|ta)fé(hg/hg|pf1lsc2)ste(gf|cl) vé(ixf!gwhg/hih|////ql!clppt1tohm)ni(hvGFE/fwg/hv|vi-su1sut2qi-vihk)et.(gf|cl-) (::)
-†() Et(d|talsi8) splen(fe~|vi>)dor.(fg|pe) (::)
+<sp>+</sp> Et(d|talsi8) splen(fe~|vi>)dor(fg|pe) e(g>|vi>)jus(gffv_ED|clSci-) cum(cd|pe) e(de!fv_EDe|//ci-hhpp2vihh)o.(ed..|cl-) (::)
 
-<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh/iioh|////ta-pr)o,(h|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pf1lsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohmlsc3) Sanc(hvGFE/fwg/hv|vi-su1sut2ql-vihk)to.(gf|cl-) (::) 
-†() Et(d|talsi8) splen(fe~|vi>)dor.(fg|pe) (::)
+<sp>V/</sp> Ex(h|vi) Si(h|vi)on(hg/hggo_f|pflsc2`pihhlst2) spé(gh|pe)ci(g|ta)es(g|ta) de(hf|cllsc3)có(gh|pe)ris(gh|pe) e(ixh_0//iioh|////ta-pr)jus:(h.|ta) (;) De(hf|cllsc3)us(gh|pe) no(ixhi|////pe)ster(h|ta) ma(h|ta)ni(h|ta)fé(hg/hg|pf1lsc2)ste(gf|cl) vé(ixf!gwhg/hih|////ql!clppt1tohm)ni(hv_GF_E/fwg_/hv|vi-su1sut2qi-vihk)et.(gf..|cl-) (::)
+
+<sp>+</sp> Et(d|talsi8) splen(fe~|vi>)dor.(fg|pe) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh_0//iioh|////ta-pr)o,(h.|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pf1lsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohmlsc3) Sanc(hv_GF_E/fwg_/hv|vi-su1sut2ql-vihk)to.(gf..|cl-) (::) 
+
+<sp>+</sp> Et(d|talsi8) splen(fe~|vi>)dor.(fg|pe) (::)
