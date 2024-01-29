@@ -1,21 +1,17 @@
 name:Videbunt Gentes justum V Et eris corona V Gloria;
 office-part:re;
 mode:4;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Videbunt gentes;
-mode: 4;
-office-part: Responsorium;
-annotation: Resp. ;
-annotation: iv;
-nabc-lines: 1;
-%%
-(c4) Vi(f|vi)dé(de|pe)bunt(e|ta) gen(ef~|ta>)tes(e|ta) *() Ju(e!fo|vshelsc3)stum(e|ta) t{uu}m,(fvegFEfvEDed|//vi-/toS2hisut1ci-hicl-hi) (,) et(ef|peS) cunc(g|vi)ti(ge|``cllse1lsc3) re(f|vi)ges(e|vi) ín(dc~|vi>he)cly(d|vi)tum(f|vihh) tu(egffs|//tolsi7sthh)um;(eeof|sa) †(;) Et(d|ta) vo(g|vi)cá(ixhi|////pe)bi(h|ta)tur(h|ta) ti(ixhi|////pe)bi(h|ta) no(hggof|cl!pilsc2)men(gh>|pe>) no(ghGFEf|toSsu2vi-)vum,(fe|cl-) (;) quod(e|ta) os(e!fog|sa) Dó(h|vi)mi(gf!gwhgh|cl-`qi!po)ni(hg|cl-) no(hggof|cl!pilsc2)mi(ixfg!hv/ig/hg|////vi-pp2pfShj)ná(egffs|//tosthh)vit.(fe|cl-) (::)
+(c4) Vi(f|vi)dé(de|pe)bunt(e|ta) gen(ef~|ta>)tes(e|ta) <sp>*</sp>() Ju(e@fo|vshelsc3)stum(e|ta) t{uu}m,(fv_//egFE__fv_EDed..|//vi-/toS2hisut1ci-hicl-hi) (,) et(e_f|peS) cunc(g|vi)ti(ge|``cllse1lsc3) re(f|vi)ges(e|vi) ín(dc~|vi>he)cly(d|vi)tum(f|vihh) tu(egffs|//tolsi7sthh)um;(eeof.|sa) (:) 
 
-<sp>V/</sp> Et(h|vi) e(h|vi)ris(gf!gwhg/hvGEfe|cl-`ql!clci-hhcl-hh) co(g|vi)ró(g|vi)na(g|vi) gló(gh|pe)ri(g|ta)æ(g|ta) in(gf~|vi>) ma(gh|pe)nu(gf|cl) Dó(e|ta)mi(e!fwgf|ql!clppt1)ni,(fe|cl-) (;) et(f|vi) di(de|pe)a(e|ta)dé(e!fo|vshe)ma(e|ta) re(ef~|ta>)gni(e|ta) in(e|ta) ma(e|ta)nu(e!fwgFE|ql-ppt1su2) De(g|vi)i(ghghGF|//tr-1su2) tu(e!fgffs|pohhpp2)i.(ed|cl-) (::)
-†() Et(d|ta) vo(g|vi)cá(ixhi|////pe)bi(h|ta)tur.(h|ta) (::)
+<sp>+</sp> Et(d|ta) vo(g|vi)cá(ixhi|////pe)bi(h|ta)tur(h|ta) ti(ixhi|////pe)bi(h|ta) no(hggof|cl!pilsc2)men(gh>|pe>) no(ghG___FEf_|toSsu2vi-)vum,(fe..|cl-) (;) quod(e|ta) os(e!fog|sa) Dó(h|vi)mi(g_f!gwhgh|cl-`qi!po)ni(hg__|cl-) no(hggof|cl!pilsc2)mi(ixfg!hv_//ig/hg|////vi-pp2pfShj)ná(egffs|//tosthh)vit.(fe..|cl-) (::)
 
-<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`ql!clci-hhcl-hh) Pá(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;)et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|to/ci-hg) Sanc(e!fgffs|//pohhpp2)to.(ed|cl-) (::)
-*() Et(d|ta) vo(g|vi)cá(ixhi|////pe)bi(h|ta)tur.(h|ta) (::)
+<sp>V/</sp> Et(h|vi) e(h|vi)ris(g_f!gwhg/hv_GEfe__|cl-`ql!clci-hhcl-hh) co(g|vi)ró(g|vi)na(g|vi) gló(gh|pe)ri(g|ta)æ(g|ta) in(gf~|vi>) ma(gh|pe)nu(gf|cl) Dó(e|ta)mi(e!fwgf|ql!clppt1)ni,(fe..|cl-) (;) et(f|vi) di(de|pe)a(e|ta)dé(e@fo|vshe)ma(e|ta) re(ef~|ta>)gni(e|ta) in(e|ta) ma(e|ta)nu(e!fwg_FE|ql-ppt1su2) De(g|vi)i(ghgh_GF|//tr-1su2) tu(ef/gffs|pohhpp2)i.(ed..|cl-) (::)
+
+<sp>+</sp> Et(d|ta) vo(g|vi)cá(ixhi|////pe)bi(h|ta)tur.(h|ta) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(g_f!gwhg/hv_GEfe__|cl-`ql!clci-hhcl-hh) Pá(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf__|ql!cl-ppt1)o,(fe..|cl-) (;)et(e|ta) Spi(e|ta)rí(e!fwg_FE|ql-ppt1su2)tu(g|vi)i(ghgh_GF|to/ci-hg) Sanc(ef/gffs|//pohhpp2)to.(ed..|cl-) (::)
+
+<sp>+</sp> Et(d|ta) vo(g|vi)cá(ixhi|////pe)bi(h|ta)tur.(h|ta) (::)
