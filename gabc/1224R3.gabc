@@ -1,21 +1,18 @@
 name:Sanctificamini filii V Crastina die;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Sanctificamini filii;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines: 1;
-%%
-(c4) SAnc(d|ta)ti(d|ta)fi(d|ta)cá(f/gh|scM1)mi(g|ta)ni,(g|ta) *() fí(gh|pe)li(g|ta)i(g|ta) Is(gh|pe)ra(h|vi)ël,(ixhg/higgf|////cltoS2cl-) (,) di(jvjvIH|bv-su2)cit(i!jwkJIH/iwjIH|qihh!vshhppt1sut2qi-hisu2) Dó(g|ta)mi(gh!ivHGh|//ci-hhpp2vihh)nus:(hg|cl-) (:) in(h|```vilsal2) di(jkj|//tohh)e(jh|clhhlsc3) e(jkj|//tohh)nim(jk|pehh) crás(kijok|clhhpqhh)ti(h!iwjIHGh|qi!vsppt1su2vui)na(hg|cl-) (,) de(h|vi)scén(h/jvIG|vi-cihi)det(jvjv|bv-) Dó(kvJIjvIHG|clShhsut1vi-hhsut1su2)mi(hg/hvGFg|cl-ci-vi)nus,(gf|cl-) †(:) Et(fh|peSlse7lss3) áu(hjgh~|tr-~1lsl2)fe(g|ta)ret(ghGE|pe-1su2) a(g|vi) vo(fef|//po)bis(dec/d!ewfe/fvED|toM1ql!clppt1ci-hh) (;) om(ghGFgh>|pe-1su2pe>1)nem(g|ta) lan(gh!iwjIH/iwjI!Hs>|ql-hhppt2sut2qi-hisu1sux1)guó(gh!ivHGh|//ci-hhpp2vihh)rem.(hg|cl-) (::)
+(c4) Sanc(d|ta)ti(d|ta)fi(d|ta)cá(f_0//gh|scM1)mi(g|ta)ni,(g|ta) <sp>*</sp>~fí(gh|pe)li(g|ta)i(g|ta) Is(gh|pe)ra(h|vi)ël,(ixhg/higgf..|////cltoS2cl-) (,) di(jv_jv_IH|bv-hisu2)<nlba>cit(i!jwkJI___H/iwj_IH|qihk!vshkppt1sut2qi-hjsu2)</nlba> Dó(g|ta)mi(gh!iv_HGh|//ci-hhpp2vihh)nus:(hg..|cl-) (:) in(h|```vilsal2) di(jkj|//tohh)e(jh|clhhlsc3) e(jkj|//tohh)nim(jk|pehh) crás(kijok|clhh/pqhh)ti(h!iwjI__HGh|qihh!vshhppt1su2vihh)na(hg__|cl-) (,) de(h|vi)scén(h_0//jvIG|vi-/cihj)det(jv_jv_|bv-hi) Dó(kvJI__jvI__HG|clShksut1vi-hksut1su2)mi(hg__/hv_GFg|cl-ci-vi)nus,(gf..|cl-) (:) 
 
-<sp>V/</sp> Cras(j|vi)tí(ji|cllsc3)na(jkj/iji/hhog|//tohhtohiprhi) di(hi|pe)e(i|vi) de(ih|cllsc3)lé(jk|``pehhlss4)bi(j|vi)tur(j|vi) in(ji|cllsc3)í(ih|cllsc3)qui(ij|pe)tas(hi|pe) ter(g!hwih|ql!cl-ppt1)ræ,(hg|cl-) (;) et(g|vi) re(fg|pe)gná(g|ta)bit(g|ta) su(gh|pe)per(g|ta) nos(g|ta) Sal(ixhiHGhih|////pe-su2tohh)vá(ghf|//toM1)tor(gh|peS) mun(iyh!iwji/jkJIH|////ql!clppt1toS2hlsu2)di.(hiHGhg|pe-1su2cl-) (::)
-†() Et(fh|peSlse7lss3) áu(hjgh~|tr-~1lsl2)fe(g|ta)ret.(ghGE|pe-1su2) (::)
+<sp>+</sp> Et(f_h|peSlse7lss3) áu(h_jgh~|tr-~1lsl2)fe(g|ta)ret(g_h_GE|pe-1su2) a(g|vi) vo(fef|//po)bis(dec/d!ewfe/fv_ED|toM1ql!clppt1ci-hh) (;) om(g_h_GFg_0h>|pe-1su2pe>1)nem(g|ta) lan(g_h!iwjI__H/iwj_IH>|ql-hjppt2sut2qi-hksu1sux1)guó(gh!iv_HGh|//ci-hhpp2vihh)rem.(hg..|cl-) (::)
 
-<sp>V/</sp> Gló(j|vi)ri(ji|cl)a(jkj/iji/hhog|//tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|//toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|//ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::) 
-†() Et(fh|peSlse7lss3) áu(hjgh~|tr-~1lsl2)fe(g|ta)ret.(ghGE|pe-1su2) (::)
+<sp>V/</sp> Cras(j|vihh)tí(ji|clhhlsc3)na(jkj/iji/hhog|//tohhtohiprhi) di(hi|pe)e(i|vi) de(ih|cllsc3)lé(jk|``pehilss4)bi(j|vihh)tur(j|vihh) in(ji|clhhlsc3)í(ih|cllsc3)qui(ij|pe)tas(hi|pe) ter(g!hwih__|ql!cl-ppt1)ræ,(hg..|cl-) (;) et(g|vi) re(fg|pe)gná(g|ta)bit(g|ta) su(gh|pe)per(g|ta) nos(g|ta) Sal(ixhi_HGhih|////pe-hhsu2tohh)vá(ghf|//toM1hh)tor(g_h|peS) mun(iyh!iwji/jkJ_IH|////ql!clppt1toS2hlsu2)di.(h_i_HGhg..|pe-1hisu2cl-) (::)
+
+<sp>+</sp> Et(f_h|peSlse7lss3) áu(h_jgh~|tr-~1lsl2)fe(g|ta)ret.(g_h_GE|pe-1su2) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhh)a(jkj/iji/hhog|//tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hhsu2tohi)tu(ghf|//toM1hh)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|//ql!clppt1toS2hmsu2)to.(h_i_HGhg..|pe-1su2cl-) (::) 
+
+<sp>+</sp> Et(f_h|peSlse7lss3) áu(h_jgh~|tr-~1lsl2)fe(g|ta)ret.(g_h_GE|pe-1su2) (::)
+
