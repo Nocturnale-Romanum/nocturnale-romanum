@@ -1,18 +1,10 @@
 name:Sanctificamini hodie V Hodie scietis;
 office-part:re;
 mode:7;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Sanctificamini hodie;
-mode: 7;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vii;
-nabc-lines: 1;
-%%
-(c2) Sanc(c|ta)ti(cfe|//to)fi(f|vi)cá(g|vihh)mi(f|vi)ni(df|peS) *() hó(fefog|cllsc2pq)di(d!ewfEDCd|qi!vsppt1su2vi-)e,(dc|cl-) (,) et(e|vilsal3lse8) es(e|vi)tó(fe|cllsc3)te(d|ta) pa(fe|cllsc3)rá(cd!evDCd|//ci-hhpp2vihh)ti,(dc|cl-) †(;) Qui(g|``vilsl2)a(hf|cllss2lsc3) di(g|vi)e(gj|pelsl3) crás(j|vi)ti(i|ta)na(ij!kvJIHivHGhg|vihhpp2su1sut2lsc3ci-hhcl-hh) (,) vi(gh!iwj|qihhppt2)dé(j|vi)bi(ig!hwihi|cl-qi!po)tis(hg|cl-) (;) ma(hg~|vi>-lsi3)jes(fh|pe)tá(hih|//to)tem(ffog|sa) De(ge!fwg|cl-ql)i(ghGFfvED/dgFE|pesu1suu1ciSpe-1sut2) in(fvED/ewfEDdo|vi-suu2qi-su2or>) vo(cd!evDCd|//ci-hhpp2vihh)bis.(dc|cl-) (::)
+(c2) Sanc(c|ta)ti(cfe|//to)fi(f|vi)cá(g|vihh)mi(f|vi)ni(d_f|peS) <sp>*</sp>~hó(fefog|cllsc2/pq)di(d!ewfE__DCd_|qi!vsppt1su2vi-)e,(dc..|cl-) (,) et(e|vilsal3lse8) es(e|vi)tó(fe|cllsc3)te(d|ta) pa(fe|cllsc3)rá(cd!ev_DCd|//ci-hhpp2vihh)ti,(dc..|cl-) (:) <sp>+</sp> Qui(g|``vilsl2)a(hf|cllss2lsc3) di(g|vi)e(gj|pelsl3) crás(j|vi)ti(i|ta)na(ij!kvJIH__iv_HGhg__|vihipp2su1sut2lsc3ci-hicl-hi) (,) vi(g_h!iwj|qihhppt2)dé(j|vi)bi(i_g!hwihi|cl-qi!po)tis(hg__|cl-) (;) ma(hg~|vi->lsi3)jes(fh|pe)tá(hih|//to)tem(ffog|sa) De(g_e!fwg|cl-ql)i(ghGF_0fvED_0/d_gFE___|pesu1suu1ciSpe-1sut2) in(fvE__D/ewf_EDdo|vi-suu2qi-su2or>) vo(cd!ev_DCd|//ci-hhpp2vihh)bis.(dc..|cl-) (::)
 
-<sp>V/</sp> Hó(g!hwiHG|ql-ppt1su2)di(fe|cl)e(fg/ffoe|peS``pr) sci(f|ta)é(fg|pe)tis(f|ta) qui(f|ta)a(f|ta) vé(ge|cllsc3)ni(fg|pe)et(fg|pe) Dó(g|ta)mi(g!hwih|ql!clppt1)nus,(hg|cl-) (;) et(fg/ffoe~|peS`vs>) ma(fgf|//to)ne(g|vi) vi(g|vi)dé(gh|pe)bi(g|ta)tis(g|ta) gló(ghghGF|////to-ci-hh)ri(gf|cl)am(f!gwhg/hih>|ql!clppt1to>hm) e(gf!gwhgh>|////cl-qi!po>)jus.(gvFEfe|ci-cl-) (::)
-*() Qui(g|``vilsl2)a.(hf|cllss2lsc3) (::)
+<sp>V/</sp> Hó(g!hwi_HG|ql-ppt1su2)di(fe|cl)e(f_g/ffoe|peS``pr) sci(f|ta)é(fg|pe)tis(f|ta) qui(f|ta)a(f|ta) vé(ge|cllsc3)ni(fg|pe)et(fg|pe) Dó(g|ta)mi(g!hwih|ql!clppt1)nus,(hg..|cl-) (;) et(f_g/ffoe~|peS`vs>) ma(fgf|//to)ne(g|vi) vi(g|vi)dé(gh|pe)bi(g|ta)tis(g|ta) gló(gh_gh_GF|////to-ci-hh)ri(gf|cl)am(f!gwhg/hih>|ql!clppt1to>hm) e(g_f!gwhgh>|////cl-qi!po>)jus.(gv_FEfe..|ci-cl-) (::)
+<sp>+</sp>  Qui(g|``vilsl2)a.(hf|cllss2lsc3) (::)
