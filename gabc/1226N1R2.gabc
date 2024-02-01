@@ -1,18 +1,12 @@
 name:Videbant omnes Stephanum V Stephanus autem;
 office-part:re;
 mode:4;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Videbant omnes Stephanum;
-mode: 4;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: iv;
-nabc-lines: 1;
-%%
-(c4) Vi(f|vi)dé(de|pe)bant(e|ta) om(ef~|ta>)nes(e|ta) *() Sté(fe|cl-)pha(e|ta)num(egFEfvEDed|toS2sut1ci-hgcl-hg) (,) qui(fd|cllss2lsc3) e(dfe|//to)rant(fg~|ta>) in(ghd~|pe>1lsl2lsi6) con(ef!hvGFghg|////cipp2lsc3tohg)cí(e|ta)li(egffs|//tosthh)o(eeof|sa) †(;) Et(d|``talsim3) in(g|vi)tu(ixhi|////pe)e(h|ta)bán(hi~|ta>)tur(h|ta) vul(hggof~|cllsc2or>)tum(gh|pe) e(gh>|pe>1)jus(e|ta) (,) tam(e|ta)quam(e|ta) vul(e|ta)tum(g|vi) An(fg>|pe>1)ge(fvED|ci-)li(d!ewf|qlppt1) (,) stan(eeofd~|sa>)tis(f|vi) in(f|``vilse1)ter(ixfg!hv/ig/hg|////vi-pp2pfShj) il(egffs|//tosthh)los.(fe|cl-) (::)
+(c4) Vi(f|vi)dé(de|pe)bant(e|ta) om(ef~|ta>)nes(e|ta) <sp>*</sp>() Sté(fe__|cl-)pha(e|ta)num(egFE__fv_EDed__|toS2sut1ci-hgcl-hg) (,) qui(fd|cllss2lsc3) e(dfe|//to)rant(fg~|ta>) in(g_hd~|pe>1lsl2lsi6) con(ef!hvGFghg|////cipp2lsc3tohg)cí(e|ta)li(egffs|//tosthh)o(eeof.|sa) (:) 
+<sp>+</sp> Et(d|``talsim3) in(g|vi)tu(ixhi|////pe)e(h|ta)bán(hi~|ta>)tur(h|ta) vul(hggof~|cllsc2or>)tum(gh|pe) e(g_h>|pe>1)jus(e|ta) (,) tam(e|ta)quam(e|ta) vul(e|ta)tum(g|vi) An(f_g>|pe>1)ge(fv_ED|ci-)li(d!ewf|qlppt1) (,) stan(eeofd~|sa>)tis(f|vi) in(f|``vilse1)ter(ixfg!hv_/ig/hg|////vi-pp2pfShj) il(egffs|//tosthh)los.(fe..|cl-) (::)
 
-<sp>V/</sp> Sté(h|vi)pha(gh|pe)nus(gf!gwhg/hvGEfe|cl-`ql!cl``ci-cl-) au(dg~|ta>)tem(g|ta) ple(g|ta)nus(g|ta) grá(ixhi|////pe)ti(h|ta)a(h|ta) et(gf~|vi>) for(gh|pe)ti(gf|cllsc3)tú(e|ta)di(e!fwgf|ql!clppt1)ne(fe|cl-) (;) fa(f|vi)ci(de|pe)é(e|ta)bat(e|ta) prod(e|ta)í(e!fo|vshe)gi(e|ta)a(e|ta) et(e|ta) si(e|ta)gna(e|ta) ma(e|ta)gna(e!fwgFE|ql-ppt1su2) in(g|vi) pó(ghghGF|to-ci-hg)pu(e!fgffs|popp2)lo.(ed|cl-) (::)
-*() Et(d|``talsim3) in(g|vi)tu(ixhi|////pe)e(h|ta)bán(hi~|ta>)tur(h|ta) (::)
+<sp>V/</sp> Sté(h|vi)pha(gh|pe)nus(g_f!gwhg/hv_GEfe__|cl-`ql!cl``ci-cl-) au(dg~|ta>)tem(g|ta) ple(g|ta)nus(g|ta) grá(ixhi|////pe)ti(h|ta)a(h|ta) et(gf~|vi>) for(gh|pe)ti(gf|cllsc3)tú(e|ta)di(e!fwgf|ql!clppt1)ne(fe..|cl-) (;) fa(f|vi)ci(de|pe)é(e|ta)bat(e|ta) prod(e|ta)í(e@fo|vshe)gi(e|ta)a(e|ta) et(e|ta) si(e|ta)gna(e|ta) ma(e|ta)gna(e!fwg_FE|ql-ppt1su2) in(g|vi) pó(gh_gh_GF|to-ci-hg)pu(ef/gffs|popp2)lo.(ed..|cl-) (::)
+
+<sp>+</sp> Et(d|``talsim3) in(g|vi)tu(ixhi|////pe)e(h|ta)bán(hi~|ta>)tur.(h|ta) (::)
