@@ -1,21 +1,16 @@
 name:Intuens in caelum V Cum autem esset V Gloria;
 office-part:re;
 mode:4;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Intuens in caelum;
-mode: 4;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: iv;
-nabc-lines: 1;
-%%
-(c4) In(d|ta)tu(fd|cllss2lsc3)ens(e|vi) *() in(e|vi) cæ(fe|cl-)lum(egFEfvEDed|toS2sut1ci-cl-) be(cd/ccob|peS``pr)á(de|peS)tus(fd/gv//f!ghgh|poG-lss2pohlpp2) Sté(e|ta)pha(egffs|tosthh)nus,(eeof|sa) (;) vi(ixd!ewg/hi|ql-ppt1pehk)dit(h|ta) gló(ixhi|////pe)ri(h|ta)am(h|ta) De(hggof|cl!pi)i(g|vi) et(h|vi) a(ghGFEf|toSsu2vihg)it:(eeof|sa) †(;) Ec(dg|peSlsi7lss3)ce(g|vi) ví(hiHG/hwi/jo|pe-su2ql-hgorhj)de(i|ta)o(i|ta) cæ(i!jok|sa)los(jvjvIH|bv-su2) a(h!iwjij|ql!poppt1)pér(h!iwjijg~|ql!po>ppt1)tos,(ixhg/hih|//////cllsc2to) (;|) et(fsss|//ts) Fí(fd|cllsc3)li(fe|cl)um(fg|pe) hó(gh|peS)mi(gf!gwhgh|cl-`qlhg!pohg)nis(hg|cl-) (,) stan(ixghffvfv//def!gh!jvHGF/gwh/ivH~G~|////toSbv-hgvi-hkppt5suu3/ql-hkcl>hmlst3)tem(hg|cl-) (;) a(gh|peS) dex(h|vi)tris(hgfssded|clSds-tolsi7) vir(f!gwhg~|vi-ql>hjlsi6)tú(ixh/ifg|////vi-pohjlsi8)tis(g!hig/hg|//pfSpp2) De(egffs|//tosthh)i.(fe|cl-) (::)
+(c4) In(d|ta)tu(fd|cllss2lsc3)ens(e|vi) <sp>*</sp>() in(e|vi) cæ(fe__|cl-)lum(egFE__fv_EDed__|toS2sut1ci-cl-) be(c_d/ccob|peS``pr)á(d_e|peS)tus(fd__//gv_//fg/hgh|poG-lss2pohlpp2) Sté(e|ta)pha(egffs|tosthh)nus,(eeof.|sa) (;) vi(ixd!ewg_/hi|ql-ppt1pehk)dit(h|ta) gló(ixhi|////pe)ri(h|ta)am(h|ta) De(hggof|cl!pi)i(g|vi) et(h|vi) a(ghG___FEf|toSsu2vihg)it:(eeof.|sa) (:) 
+<sp>+</sp> Ec(d_g|peSlsi7lss3)ce(g|vi) ví(hi_HG/hwi_/jo|pe-hhsu2ql-hgorhj)de(i|ta)o(i|ta) cæ(i@jok|sahh)los(jv_jv_IH|bv-hhsu2) a(h!iwjij|ql!poppt1)pér(h!iwjijg~|ql!po>ppt1)tos,(ixhg/hih.|//////cllsc2to) (;) et(fsss|//ts) Fí(fd|cllsc3)li(fe|cl)um(fg|pe) hó(g_h|peS)mi(g_f!gwhgh|cl-`qlhg!pohg)nis(hg__|cl-) (,) stan(ixghf___fv_fv_//d_ef_!gh_!jvHG___F/gwh_/iv_H~G~|////toSbv-hgvi-hkppt5suu3/ql-hkcl>hmlst3)tem(hg__|cl-) (;) a(g_h|peS) dex(h|vi)tris(hg_fsfs_ded|clSds-tolsi7) vir(f!gwhg~|vi-ql>hjlsi6)tú(ixh_0//ifg|////vi-pohjlsi8)tis(gh/ig/hg|//pfSpp2) De(egffs|//tosthh)i.(fe..|cl-) (::)
 
-<sp>V/</sp> Cum(h|vi) au(gh~|ta>)tem(gf!gwhghvGEfe|cl-`qlhg!cl-hgci-hicl-hi) es(g|vi)set(g|vi) Sté(gh|pe)pha(g|ta)nus(g|ta) ple(g|ta)nus(g|ta) Spí(gf|cllsc3)ri(gh|pe)tu(gf|cllsc3) Sanc(e!fwgf|ql!cl-ppt1)to,(fe|cl-) (;) in(f|vi)tén(de~|ta>)dens(e|ta) in(e|ta) cæ(e!fo|vshe)lum,(e|ta) (,) vi(e|ta)dit(e|ta) gló(e!fo|vshe)ri(e|ta)am(e|ta) De(e!fwgFE|ql-ppt1su2)i(g|vi) et(ghghGF|to-ci-hg) a(e!fgffs|pohhpp2)it.(eeof|sa) (::)
-†() Ec(dg|peSlsi7lss3)ce(g|vi) (::)
+<sp>V/</sp> Cum(h|vi) au(gh~|ta>)tem(g_f!gwhg__hv_GEfe__|cl-`qlhg!cl-hgci-hicl-hi) es(g|vi)set(g|vi) Sté(gh|pe)pha(g|ta)nus(g|ta) ple(g|ta)nus(g|ta) Spí(gf|cllsc3)ri(gh|pe)tu(gf|cllsc3) Sanc(e!fwgf__|ql!cl-ppt1)to,(fe..|cl-) (;) in(f|vi)tén(de~|ta>)dens(e|ta) in(e|ta) cæ(e@fo|vshe)lum,(e|ta) (,) vi(e|ta)dit(e|ta) gló(e@fo|vshe)ri(e|ta)am(e|ta) De(e!fwg_FE|ql-ppt1su2)i(g|vi) et(gh_gh_GF|to-ci-hg) a(ef/gffs|pohhpp2)it.(eeof.|sa) (::)
 
-<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`qlhg!cl-hgcl-hg) Pá(gf|cllsc3)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|toci-hg) Sánc(e!fgffs|pohhpp2)to.(eeof|sa) (::) 
-†() Ec(dg|peSlsi7lss3)ce(g|vi) (::)
+<sp>+</sp> Ec(d_g|peSlsi7lss3)ce.(g|vi) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(g_f!gwhg__/hv_GEfe__|cl-`qlhg!cl-hgcl-hg) Pá(gf|cllsc3)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf__|ql!cl-ppt1)o,(fe..|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwg_FE|ql-ppt1su2)tu(g|vi)i(ghgh_GF|toci-hg) Sánc(ef/gffs|pohhpp2)to.(eeof.|sa) (::) 
+
+<sp>+</sp> Ec(d_g|peSlsi7lss3)ce.(g|vi) (::)
