@@ -1,9 +1,13 @@
+name:Praeparate corda vestra V Convertimini;
+office-part:re;
 mode:3;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)  Præ(c)pa(d)rá(edh!iv)te<sp>*</sp>(h) cor(hi~)da(h) ves(h)tra(GH!iwj) Dó(jvIHih)mi(h!iwjIHi)no,(ih) (;)
-et(g) ser(hj~)ví(j)te(ij) il(hggo~)li(hi) so(hhgh)li:(gh/ggO1e) (:)
-<sp>+</sp> Et(ed~) li(g)be(h!iwj)rá(jvIH)bit(gf!gwhgh) vos(g) de(g) má(gh)ni(fe)bus(d) (;)
-in(dc)i(f)mi(gh)có(hihGFgh)rum(g) ve(GHiwjIHighwiHG)stró(egffs)rum.(fe) (::)
-<sp>V/</sp> Con(i)ver(i)tí(ikjjs)mi(h!iwji)ni(hhO1g) ad(i) e(i!jo1)um(h) in(h) to(h)to(hg) cor(h)de(j) ve(ikjjs)stro,(ji) (;)
-et(hg~) auf(hi)fér(i)te(i) de(i)os(i) a(i)li(i)é(i!jo1)nos(i) de(i) mé(ikjIHiwji)di(hg)o(GHiwj) ve(jiiO1hivHGh)stri.(hg) (::)
-<sp>+</sp> Et.(ed~) (::)
+(c4) Præ(c|gr)pa(d|vi)rá(ixfeh_/iv|/////po-1lss2/vihj)te(h|vi) <sp>*</sp>(`) cor(h<|pe~)da(h|ta) ves(h|vi)tra(g_h!iwj|qlhhppt2) Dó(jv_IHih__|ci-hi/cl-hi)mi(g!hwj_IHi|ql-hippt1su2vihi)no,(ih..|cl-hi) (;) et(g|gr) ser(hj~|pe~hh)ví(j|vihh)te(ij|pehh) il(hggof~|clor>)li(gh|pe~) so(g_0//hfg|poppu1)li,(f_g_/ffod.|pe-1pr) (:) 
+
+<sp>+</sp> Et(fd~|vi>) li(g|vi)be(h!iwj|``vi-/qlhi)rá(jv_IH|/ci-hi)bit(g_f!gwhgh|cl-ql!po) vos(g|ta) (,) de(h|vi) má(g_h|peS)ni(fe|cllsc2)bus(d|ta) i(dc|cllsc2)ni(f|vi)mi(gh|pe)có(ixh_iH__GFg_h|/////toShisu2/peShi)rum(g|ta) ves(iyg_h!iwjIH___ig__ixhwiHG___|ql-hippt2sut2/clhj/qi-hksut2)tró(egffs|tosthh)rum.(fe..|cl-) (::) 
+
+<sp>V/</sp> Con(i|vi)ver(i|vi)tí(ikjjs|tohisthk)mi(h!iwji|qlhh!clhhppt1)ni(hhog|prhh) ad(i|vi) e(i@jo|vs)um(h|ta) in(h|ta) to(h|ta)to(ig|cl) cor(h|vi)de(j|vihh) ves(ikjjs|trhi)tro,(ji..|cl-hh) (;) et(ig|cl) au(hi|pe)fér(i|vi)te(i|vi) de(i|vi)os(i|vi) a(i|vi)li(i|vi)é(i@jo|vs)nos(i|vi) (,) de(i|vi) mé(ikjjv_IH/iwji|//tohi/ci-hi/qlhh!clhh)di(hg|cl)o(g_h!iwj|`qlppt2) ves(jiiohiv_HGh|clhh!pihh/ci-hivihi)tri.(hg..|cl-) (::)
+
+<sp>+</sp> Et.(fd~|vi>) (::)
