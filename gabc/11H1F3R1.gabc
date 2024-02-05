@@ -1,9 +1,13 @@
+name:A facie furoris tui V Domine Dominus noster;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3)  A(c) Fá(e!fg)ci(f)e<sp>*</sp>(f) fu(e)ró(g)ris(f) tu(g)i,(hwi) De(fef)us,(ef/eeO1c) (;)
-con(ec~)tur(ef~)bá(f)ta(e) est(gffO1e) o(fh)mnis(g/hih) ter(gihhs)ra:(ggo1!hv) (;)
-<sp>+</sp> Sed,(e) tu(f) Dó(hf/h/io0!jv)mi(hvGF)ne,(ffO1e) mi(fg)se(g)ré(fef)re(dxce/fgf@efvECdc) (;)
-et(c) ne(e) fá(fg)ci(f!gwhgh)as(gf) con(g!ho1!iv)sum(i)ma(ihhO1g)ti(hf!gwhg)ó(FGhvGFg)nem.(gf) (::)
-<sp>V/</sp> Dó(EFgwhhi)mi(h)ne,(h) Dó(hg)mi(hi)nus(gh) no(f!gwhg)ster,(gf) (;)
-quam(f) ad(ef~)mi(f)rá(fg)bi(f)le(f) est(f!gwhGFE) no(f)men(hg/hih) tu(hvGFg)um!(ffO1e) (::)
-<sp>+</sp> Sed.(e) (::)
+(c4) A(d|gr) fá(f_0//gh|vi-/pehi)ci(g|vi)e(g|vi) <sp>*</sp>() fu(f|gr)ró(h|vi)ris(g|ta) tu(h|vi)i,(ixiwj|////qlhh) De(gfg|po)us,(f_g_/ffod|pe-1prM) (,) con(fe~|vi>)tur(f<|pe~)bá(g|vi)ta(f|ta) est(gf_/fo_e|clS-`pihglst2lsco2) om(g_h|peS)nis(ixh_0//iji|////vi-/tohi) ter(ixhjiis|/////tohhsthj)ra;(hhoi.|sahg) (:) 
+
+<sp>+</sp> Sed(g|ta) tu,(h|vi) Dó(jh__/j@kol|cl-hi/saM2hk)mi(jv_IH|ci-hi)ne,(h_hog|pr-hg) mi(hi|```pelss3)se(i|//vi)ré(hgh|//po)re,(e_f/egFE__fv_EDed..|peS/to-1hhsuu1/ci-hh/cl-hhlse6) (;) et(d|ta) ne(e|``vi) fá(g_h|````peSlsl1)ci(g!hwihi|ql!poppt1)as(ih__|cl-hh) con(i@jok|``saMhhlss1)sum(k|vihk)ma(kj/joi|clShjpihklsco2)ti(jh!iwji__|clhh/qlhh!cl-hh)ó(hi!jv_IHi|//ci-hipp2vihh)nem.(ih..|cl-) (::) 
+
+<sp>V/</sp> Dó(g_h!iwj/jk|````qlhhppt2/pehk)mi(j|ta)ne,(j|ta) Dó(ji|clhh)mi(jk|pehi)nus(ij|pehh) nos(h!iwji__|qlhh!cl-hhppt1)ter,(ih..|cl-) (;) quam(h|vi) ad(gh~|pe~)mi(h|vi)rá(hi|pe)bi(h|ta)le(h|ta) est(h!iwj_IHG|ql-hhppt1su3) no(h_0|vi-)men(ji/jkj|clhh/tohj) tu(jv_IHi|ci-hjvihi)um!(h_hog.|pr-) (::) 
+
+<sp>+</sp> Sed(g|ta) tu.(h|vi) (::)
