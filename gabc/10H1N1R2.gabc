@@ -1,10 +1,26 @@
+name:Exaudiat Dominus V Det vobis cor;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Ex(c)áu(e!f!g>)di(f)at<sp>*</sp>(h) Dó(hgh)mi(fg)nus(ffO1e) o(e)ra(f)ti(h)ó(hvGFEf)nes(f!gwh/ihhO1g) ve(FGhvGFg)str{a}s,(gf) (;)
-et(h)  re(kxh!iwji/jkj)con(i>)ci(hi)li(h)é(hhO1g)tur(h!i>) vo(hig/hvGFg)bis(gf) (:)
-nec(fg) vos(f) dé(fg)se(f)rat(f) in(f) tém(FGhvGFEs)po(f)re(hg/hih) ma(hvGFg)lo(ffO1e) (;)
-<sp>+</sp> Dó(fvhvGE)mi(f)nus,(hvv) De(h)us(ihhO1g) no(FGhvGFg)ster.(gf) (::)
-<sp>V/</sp> Det(EFgwhhi) vo(hg)bis(hi) cor(gh~) ó(f)mni(f!gwhg)bus,(gf) (;)
-ut(f) co(ef)lá(fZ)tis(f) e(fg)um(f) et(f) fa(f)ci(f)á(fg)tis(f) e(f)jus(f!gwhGF) vo(f)lun(hg/hih)tá(hvGFg)tem.(ffO1e) (::)
-<sp>+</sp> Dó(fvhvGE)mi(f)nus,(hvv) (::)
+(f3) Ex(c|gr)áu(e_0//fg>|vi-/pe>hi)di(f|ta)at(f|vi) 
+Dó(hgh|po)mi(fg|pe)nus(f_1foe|pr-) (`) 
+<sp>*</sp> o(e|grhc)ra(f|vihc)ti(h|vihe)ó(hvG__FEf|vi-suu1su2vihh)nes(f!gwh/ih_hog|qlppt1clShkpihllsco2) 
+ve(fg!hv_GFg|//ci-pp2vihg)stras(gf..|cl-) (;) 
+et(h|vilsl2) re(kxh!iwji/jkj|////vi-qlhj!clhjtohm)con(i>|vi>hd)ci(hi|pe)li(h|ta)é(h_1hog|pr-)tur(hi>|pe>) 
+vo(highv____GFg|toShici-hivihj)bis,(gf..|cl-) (;) 
+nec(fg|pe) vos(f|ta) dé(fg|pe)se(f|ta)rat(f|ta) in(f|ta) 
+tém(fg!hvG~F~E~|ci>pp2lsc2)po(f|vi)re(hg/hih|clto) ma(hv_GFg|ci-vihg)lo(f_1foe.|pr-) (;) 
+
+<sp>+</sp> Dó(f_0/hvGE|vi-cilsc2)mi(f|ta)nus(hv_hv_|bv-) 
+De(h|vi)us(ih_hog|clS-hgpihhlsco2) no(fg!hv_GFg|//ci-pp2vihg)ster.(gf..|cl-) (::)
+
+<sp>V/</sp> Det(f|vi) vo(e_f!gwh_hi|ql-ppt2pehi)bis(h|ta) 
+cor(h|ta) óm(ij|``pelss1)ni(i|vi)bus,(h_|ta-) (,) 
+ut(h|ta) co(hg|cllsc3)lá(hi|pe)tis(gh|pe) e(f!gwhg__|ql!cl-ppt1)um(gf..|cl-) (;) 
+et(f|vi) fa(ef|pe)ci(f|ta)á(fg|pe)tis(f|ta) e(f|ta)jus(f!gwhGF___E|ql-ppt1sut2su1) 
+vo(f|vi)lun(hg/hih|cltohg)tá(hv_GFg|ci-vihg)tem.(f_1foe.|pr-) (::)
+
+<sp>+</sp> Dó(f_0/hvGE|vi-cilsc2)mi(f|ta)nus.(hv_hv_|bv-) (::)
 
