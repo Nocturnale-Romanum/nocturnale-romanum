@@ -1,12 +1,13 @@
+name:Peto Domine V Omnia enim judicia;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Pe(hhg)to,(hf) Dó(fhGFg)mi(fe)ne,(fge@fd) (;)
-<sp>*</sp> ut(fe~) de(fg) vín(g>)cu(e)lo(fge/fd) im(fe~)pro(fg)pé(g)ri(e)i(e) hu(fgffe>)jus(dc) ab(ecdv)sól(d)vas(deed) me,(d) (:)
-aut(hg) cer(ghGF)te(FGhvhg) dé(hf)su(g)per(hj~) ter(j)ram(jiihivHGhg) e(g)rí(hj)pi(jssjvIH)as(hiih) me:(h) (;)
-<sp>+</sp> Ne(h) re(g)mi(hg)ni(fg)scá(GHivHGh)ris(hg) de(e)lí(gh)cta(g) me(fd!ewfeDCd)a(CDed) (:)
-vel(c) pa(d)rén(f)tum(fe) me(d)ó(f)rum,(FGhvhg) ne(hf)que(g) vin(hj~)dí(j)ctam(jiihivHGhg) su(hjh/io0!jv)mas(ih) de(ffO1e) pec(d)cá(-dfe)tis(fg~) me(GHivHGh)is:(hg) (;)
-qui(GHivHGh)a(hg) é(g)ru(fefvEDe)is(ed) su(fe)sti(f)nén(ixhi>)tes(gf) te,(gvfvfvfddO1cCEfo1!gvFGhvGFgvFE) Dó(ed)mi(d!ewfef)ne.(ed) (::)
-<sp>V/</sp> O(h)mni(h)a(hg/hggO1f) e(gh)nim(g) ju(g)dí(gh)ci(g)a(hf) tu(gh)a(gh) ju(h)sta(ixh/iiO1h) sunt,(h) (;)
-et(gf~) o(gh~)mnes(g) vi(g)æ(g) tu(gh)æ(g) mi(g)se(GH/io1!jv) ri(h)có(h)di(hf)a(gh) et(gh) vé(h)ri(ixh/iiO1h)tas:(h) (;)
-et(gf~) nunc,(gh) Dó(h)mi(h)ne,(h) me(hg/hg)mén(gf)to(ixf!gwhg/hih) me(hvGFEfwg!hv)i.(gf) (::)
-<sp>+</sp> Ne.(h) (::)
+(c4) Pe(hhg___|vi-cl-)to,(hf__|clM-) Dó(fhGFg|pesu2lsc2vi)mi(fe|cllsc2)ne,(fge___/fd__|toS!cl-) <sp>*</sp>(,) ut(fe~|vi>) de(fg|pe) vín(g>|vi>)cu(f|ta)lo(fge_/fd__|to-1cl-) (`) im(fe~|vi>)pro(fg|pe)pé(g|vi)ri(f|ta)i(e|ta) hu(fge/fvE~C~|to!cl>)jus(dc__|cl-) (,) ab(e_c_d|cl-lsal2vi)sól(d|vi)vas(de_/ed__|pe-cl-) me,(d.|ta) (;) aut(hg__|cl-) cer(g_h_GF|pe-1su2)te(fg!hv_hg__|vi-pp2cl-) dé(hf|cllss2lsc2)su(g|vi)per(hj~|pe~hhlsl2) ter(j|vihh)ram(ixjh__/ih__iv_HGhg__|/////pfhilst2ci-hicl-hi) (,) e(h|vi)rí(hj_|pe-hi)pi(iyjsjs_jv_IH|/////ds-hilsx6ci-hi)as(ixhi_/ih__|/////pe-hhcl-hh) me;(h.|vi-) (:) 
+
+<sp>+</sp> Ne(h|vi) re(g|ta)mi(hg|cllsc2)nis(fg|pe)cá(ixgh!iv_HGh|///////ci-hhpp2vihh)ris(hg__|cl-) de(f|ta)líc(g_h|peS)ta(g|vi) me(f_d!ewfE__DCd|cl-ql!vssu2vi)a(c_d/ed__|cl-ppt2) (,) vel(c|gr) pa(d|vihd)rén(f|vi)tum(fe|cllsc2) me(d|ta)ó(f|vilse6)rum,(fg!hv_hg..|vi-pp2cl-) (;) ne(hf|cllss2lsc2)que(g|vi) vin(hj~|pe~lsl2)díc(j|vihh)tam(ixjh__/ih__iv_HGhg__|/////pfhilst2ci-hicl-hi) su(ixhjh/ioj|/////tohhlss9pqhh)mas(ih__|cl-) (`) de(f_foe|pr-lsi1) pec(d|ta)cá(dfe|to)tis(fg~|pe~) me(ixgh!iv_HGh|///////ci-hhpp2lsi2vihh)is:(hg..|cl-) (;) qui(ixghiv_HGh|///////ci-hhpp2lsi2vihh)a(hg__|cl-) é(g|vi)ru(fe__fv_EDe|cl-/ci-vi)is(ed__|cl-) (`) sus(fe|cllsc2)ti(f|vi)nén(ixh_i>|////pe>1lsi9)tes(ge__|clM-) te,(gv_//fv_fv_fd__do_c//ce@fog_/ce@fog_/ef!hv_GFgvFE___|vi-lsx6bv-cl-pihglst2sa-pp1sa-pp1ci-pp2lsc3vi-sut2) Dó(ed|cllsc2)mi(d!ewfef|ql!poppt1)ne.(ed..|cl-) (::) 
+
+<sp>V/</sp> Om(h|vi)ni(h|vi)a(hg/hggof|cl/cl!pi) e(g|vi)nim(g|vi) ju(g|vi)dí(g|vi)ci(g|vi)a(g|vi) tu(g|vi)a(g|vi) jus(gh|pe)ta(g|vi) sunt,(g|vi) (,) et(g|vi) om(g|vi)nes(g|vi) vi(g|vi)æ(g|vi) tu(gh|pe)æ(g|vi) mi(g|vi)se(g|vi)ri(g|vi)cór(g|vi)di(hf|cl)a(gh|pe) et(gh~|pe~) vé(h|vi)ri(ixh_0//iioh|/////vi-pr-)tas:(h.|ta) (;) et(hf|cl) nunc,(gh|pe) Dó(ixhi|/////pehh)mi(h|ta)ne,(h|ta) me(hg/hg|cl/cl)mén(hf|cl)to(ixf!gwhg/hih|/////ql!clppt1/tohj) me(hv_GF_E/fwg/hv|vi-hhsu1sut2ql/vihj)i.(gf..|cl-) (::)
+
+<sp>+</sp> Ne.(h|vi) (::)
