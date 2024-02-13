@@ -1,11 +1,13 @@
+name:Adonai Domine V Benedictus est Dne qui non derelinquis;
+office-part:re;
 mode:3;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) A(ed)Do(g)ná(hj)i,(j) Dó(j)mi(j)ne,<sp>*</sp>(h) De(h!iwjiHG)us(GHiwjIHijggo~efe) (;)
-ma(dfgwh)gne(h!iwj) et(ggO1f) mi(fg)rá(gf/gffs)bi(fvDFgvFEf)lis,(fe) (:)
-qui(e) de(e)dí(e!fwg!hv)sti(g) sa(gh)lú(h)tem(hg/hggf) in(h) ma(j)nu(j) 
-fé(iiO1h)mi(jh!iwjiHGh)næ,(hg) (;)
-<sp>+</sp> Ex(h)áu(h)di(hg) pre(hIJGh)ces(EFgwh/igfssded) ser(fh~)vó(hihGFgh)rum(g) tu(GHiwjIHjghwiHG)ó(egffs)rum.(fe) (::)
-<sp>V/</sp> Be(i)ne(i)dí(ikjjs)ctus(h!iwjihhO1g) es,(i) Dó(i!jo1)mi(h)ne,(h) qui(h) non(h) de(h)re(h)lín(ij~)quis(h) præ(h)su(hg)mén(h)tes(j) de(ikjjs) te,(ji) (;)
-et(hg~) de(hi) su(i)a(i) vir(i)tú(i!jo1)te(i) glo(i)ri(i)án(i)tes(ikjIHiwji) hu(hg)mí(GHiwj)li(jiiO1hivHGh)as.(hg) (::)
-<sp>+</sp> Ex(h)áu(h)di.(hg) (::)
+(c4) A(ed|cllsc2)do(g|vi)ná(hi|pe)i,(i|vi) <sp>*</sp>(`) Dó(i|vi)mi(j|vi)ne,(h|ta) De(h!iwjI__HG|qlhh!vshhppt1su2)us(g_h!iwj_IHijggo/efe.|ql-hippt2su2tohkorhktohk) (;) mag(e_f!gwh|``qippt2lse6)ne(ixh!iwj|////qlppt1) et(g_gof|pr-) mi(fg|pe)rá(gf/gffs|clclsthg)bi(fv_//df!gv_FEf|vi-ci-pp2vi)lis,(fe..|cl-) (;) qui(e|```talse4) de(e|ta)dís(e!fwg_/hv|qi-ppt1/vihj)ti(g|ta) sa(gh_|`pe-)lú(h|/vi)tem(hg/hggf__|cllsc2/clS/cl-) (`) in(h|vi) ma(i|vihg)nu(j|vihh) fé(i_ioh|pr-hh)mi(j_h!iwjI__HGh|cl-hhqlhh!vshhsu2vihh)næ,(hg..|cl-) (:) 
 
+<sp>+</sp> E(h|vi)xáu(h|vi)di(hg|cllsc2) pre(h_0//jsjsgs_hv_|vi-/tgS-hhvi-hj)ces(ixe_f!gwh/ig_fsfs_ded|//qippt2/clS-hids-hitohj) (`) ser(fh~|pe~)vó(ixh_iH__GFg_h|/////toShisu2peShi)rum(g|ta) tu(g_h!iwjIH___ig__/ixhwiHG___|ql-hhppt2sut2cl-hhqi-hisut2)ó(egffs|tosthh)rum.(fe..|cl-) (::) 
+
+<sp>V/</sp> Be(i|ta)ne(i|ta)díc(ikjjs|tohhsthi)tus(h!iwji__|ql!cl-ppt1) es,(hhog|prhh) Dó(ij|pehh)mi(h|ta)ne,(h|ta) qui(h|ta) non(h|ta) de(h|ta)re(h|ta)lín(hi~|pe~)quis(h|ta) præ(h|ta)su(ig|cllsc3)mén(h|vi)tes(j|vihh) de(ikjjs|tohisthj) te,(ji..|cl-hh) (;) et(ig|cllsc3) de(hi|pe) su(i|vi)a(i|vi) vir(i|vi)tú(i@jo|vslsc2)te(i|ta) (,) glo(i|ta)ri(i|ta)án(i|ta)tes(ikj___jvI__H/iwji__|////toShkvi-hksu2qihk!cl-hk) hu(hg|cllsc3)mí(g_h!iwj|qlhhppt2)li(ji/ioh/iv_HGh|////clhh!pihhci-hhvihi)as.(hg..|cl-) (::)
+
+<sp>+</sp> E(h|vi)xáu(h|vi)di.(hg|cllsc2) (::)
