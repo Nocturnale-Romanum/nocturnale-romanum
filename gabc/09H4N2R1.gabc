@@ -1,11 +1,13 @@
+name:Nos alium V Indulgentiam;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Nos(c) á(e!fg)li(f)um<sp>*</sp>(f) De(f)um(h) ne(hgh)scí(fg)mus(ffO1e) præ(e)ter(fh~) Dó(h)mi(hg!hwihi)num,(ih) (;) 
-in(hihhg>) quo(f) spe(hf!gwhg)rá(FGhvGFg)mus:(gf) (:)
-<sp>+</sp> Qui(h) non(kxh!iwji/jkj) de(i)spí(hhO1g)ci(hi)at(highvGFg) nos,(gf) (;)
-nec(fg) á(f)mo(fg)vet(f) sa(FGhvGFE)lú(f)tem(hghih) su(hvGFg)am(ffO1e) (,)
-a(f) gé(fvhvGE)ne(hvv)re(ihhO1g) no(FGhvGFg)stro.(gf) (::)
-<sp>V/</sp> In(f>)dul(e)gén(EFgwhhi~)ti(h)am(h) e(ij~)jus(i) per(h)fú(h)sis(h) lá(hi)cri(h)mis(hg) po(hi)stu(gh)lé(f!gwhg)mus,(gf) (;)
-et(f) hu(ef)mi(f)li(f)é(f)mus(f) il(fg~)li(f) á(f!gwhGFE)ni(f)mas(hg/hih) no(hvGFG)stras.(ffO1e) (::) 
-<sp>+</sp> Qui.(f) (::)
+(f3) Nos(c|ta) á(e_0//fg|vi-/pehi)li(f|ta)um(f|ta) De(f|ta)um(h|vi) nes(hgh|po)cí(fg|pe)mus(f_foe|pr-) (,) præ(e|ta)ter(f<|pe~) Dó(h|vi)mi(h_g!hwihi|cl-ql!po)num,(ih__|cl-hh) (`) in(hig___/hg>|toShh/cl>hj) quo(g|vi) spe(h_f!gwhg|clql!cl)rá(fg!hv_GFg|//ci-pp2vi)mus,(gf..|cl-) (;) 
 
+<sp>+</sp> Qui(h|vilsl2) non(kxh!iwji/jkj|///ql!clppt1lse4/tohj) des(i|vi)pí(h_hog|pr-)ci(hi|pe)et(hig___hv_GFg|toShhci-hhvihg) nos,(gf..|cl-) (,) nec(fg|pe) a(f|ta)mó(fg|pe)vet(f|ta) sa(fg!hvGFE|vipp2su3lsc2)lú(f|vi)tem(hg/hih|cllsc2to) su(hv_GFg|ci-vi)am(f_foe|pr-) (,) a(f|vi) gé(f_0//hvGE|vi-/cihjlsc2)ne(hv_hv_|bv-)re(ih_hog|clS-pilsco2) nos(fg!hv_GFg|//ci-pp2vi)tro.(gf..|cl-) (::) 
+
+<sp>V/</sp> In(f>|vi>)dul(e|ta)gén(e_f!gwh/hi~|qlppt2/pe~hi)ti(h|ta)am(h|ta) e(ij~|pe~hh)ius(i|vi) fú(h|ta)sis(h|ta) lá(hi|pe)cri(h|ta)mis(hg|cl) pos(hi|pe)tu(gh|pe)lé(f!gwhg__|ql!cl-ppt1)mus,(gf..|cl-) (;)et(f|vi) hu(ef|pe)mi(f|vi)li(f|vi)é(f|vi)mus(f|vi) il(fg~|pe~)li(f|vi) á(f!gwh_GFE|ql-ppt1su3)ni(f|vi)mas(hg/hih|clto) nos(hv_GFg|ci-vi)tras.(ffoe.|pr) (::)
+
+<sp>+</sp> Qui(h|vilsl2) non.(kxh!iwji/jkj|///ql!clppt1lse4/tohj) (::)
