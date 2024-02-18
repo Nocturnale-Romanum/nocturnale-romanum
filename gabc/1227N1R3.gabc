@@ -1,21 +1,17 @@
 name:Hic est beatissimus V Hic est discipulus ille V Gloria;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Hic est beatissimus;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines: 1;
-%%
-(c4) Hic(f/gh|ta-pehg) est(g|ta) be(g|ta)a(ixg!hoi|////sa1)tís(h|vi)si(h|vi)mus(hg/h!iwjg/hv/ggof|//cl-ql!cl-ppt1`vi-hi``prhi) *(,) E(hf|cllsc3)van(ghg|//to)ge(h|vi)lí(hj|ql)sta(hg|cllsc3) et(h|vihg) A(gf|cllsc3)pó(gh|pe)sto(g|ta)lus(g|ta) Jo(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hhsu2)án(gh!ivHGh|//ci-pp2vihg)nes,(hg|cl-) †(:) Qui(jkj|tohilsl4lsc3) pri(jh|clhhlsc3)vi(jk|pehi)lé(ki/jok|//clhipqhi)gi(h!iwjIHGh|ql!vsppt1su2vihg)o(hg|cl-) a(h|vi)mó(h/jvIG|vi-cilsc3)ris(jvjv|bv-) (,) præ(kvJIjvIHG|clShisut1vi-hisut1su2)cí(gh|pe)pu(hg/hvGFg|cl-ci-/vihg)i,(gf|cl-) (;) cé(fg!hjg|//tohhpp2lsc3)te(ge|cllsc3)ris(g|vi) ál(f!goh|sa)ti(fe|cllsc3)us(dec/d!ewfe/fvED|toS2heql!cl-ppt1``ci-hh) (,) a(d|ta) Dó(f/gh|scM1)mi(g|ta)no(ixg/hig/hv/ggof|////ta-toS2hgvi-hh``prhh) mé(iyfh!iwjjk|ql-hhppt2pehj)ru(j|ta)it(j|ta) ho(j|ta)no(jkJIH/iwjIH|////pe-1hisut3qi-hjsu2)rá(gh!ivHGh|//ci-pp2vihg)ri.(hg|cl-) (::)
+(c4) Hic(f_0//gh|ta-pehg) est(g|ta) be(g|ta)a(ixg@hoi|////sa1)tís(h|vi)si(h|vi)mus(hg__/h!iwjg__/hv_/ggof|//cl-ql!cl-ppt1`vi-hi``prhi) <sp>*</sp>(,) E(hf|cllsc3)van(ghg|//to)ge(h|vi)lís(hj|ql)ta(hg|cllsc3) et(h|vihg) A(gf|cllsc3)pós(gh|pe)to(g|ta)lus(g|ta) Jo(g_h!iwjI__H/iwj_IH|ql-hhppt2sut2qi-hhsu2)án(gh!iv_HGh|//ci-hhpp2vihi)nes,(hg..|cl-) (:) 
 
-<sp>V/</sp> Hic(ji|cllsc3) est(jkj/iji/hhog|////tohhtohiprhj) di(hi|pe)scí(i|ta)pu(i|ta)lus(ih|cllsc3) il(jk|``pehhlsl4)le,(j|ta) (,) quem(j|ta) di(ji|cllsc3)li(ih|cllsc3)gé(ij|pe)bat(hi|pe) Je(g!hwih|ql!cl-ppt1)sus,(hg|cl-) (;) qui(g|vi) su(fg|pe)pra(g|ta) pec(g|ta)tus(g|ta) Dó(gh|pe)mi(g|ta)ni(g|ta) in(g|ta) cœ(g|ta)na(ixhiHGhih|////pe-su2/tohg) re(ghf|//to)cú(gh|peS)bu(iyh!iwji/jkjIH|////qlhi!clhippt1toS2hlsu2hl)it.(hiHGhg|pe-1su2cl-hg) (::)
-†() Qui(jkj|tohilsl4lsc3) pri(jh|clhhlsc3)vi(jk|pehi)lé(ki/jok|//clhipqhi)gi(h!iwjIHGh|ql!vsppt1su2vihg)o(hg|cl-) (::)
+<sp>+</sp> Qui(jkj|tohilsl4lsc3) pri(jh|clhhlsc3)vi(jk|pehi)lé(ki/jok|//clhipqhi)gi(h!iwjI__HGh|qlhh!vshhppt1su2vihg)o(hg__|cl-) a(h|vi)mó(h_0//jvIG|vi-cilsc3)ris(jv_jv_|bv-) (,) præ(kvJI__jvI__HG|clShjsut1vi-hjsut1su2)cí(gh|pe)pu(hg__/hv_GFg|cl-ci-/vihg)i,(gf..|cl-) (;) cé(fg/hjg|//tohhpp2lsc3)te(ge|cllsc3)ris(g|vi) ál(f@goh|sa)ti(fe|cllsc3)us(dec_/d!ewfe__/fv_ED|toS2heql!cl-ppt1``ci-hh) (,) a(d|ta) Dó(f_0//gh|scM1)mi(g|ta)no(ixg_0//hig_/hv_/ggof|////ta-toS2hgvi-hh``prhh) mé(iyf_h!iwj_jk|ql-hhppt2pehj)ru(j|ta)it(j|ta) ho(j|ta)no(j_kJI___H/iwj_IH|/////pe-1hlsut3qi-hksu2)rá(gh!iv_HGh|//ci-pp2vihg)ri.(hg..|cl-) (::) 
 
-<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhj) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|//to)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hlsu2)to.(hiHGhg|pe-1su2cl-) (::)
-†() Qui(jkj|tohilsl4lsc3) pri(jh|clhhlsc3)vi(jk|pehi)lé(ki/jok|//clhipqhi)gi(h!iwjIHGh|ql!vsppt1su2vihg)o(hg|cl-) (::)
+<sp>V/</sp> Hic(ji|cllsc3) est(jkj/iji/hhog|////tohhtohiprhj) dis(hi|pe)cí(i|ta)pu(i|ta)lus(ih|cllsc3) il(jk|``pehhlsl4)le,(j|ta) (,) quem(j|ta) di(ji|cllsc3)li(ih|cllsc3)gé(ij|pe)bat(hi|pe) Je(g!hwih__|ql!cl-ppt1)sus,(hg..|cl-) (;) qui(g|vi) su(fg|pe)pra(g|ta) pec(g|ta)tus(g|ta) Dó(gh|pe)mi(g|ta)ni(g|ta) in(g|ta) cœ(g|ta)na(ixhi_HGhih|////pe-su2/tohg) re(ghf|//to)cú(g_h|peS)bu(iyh!iwji/jkJ_IH|////qlhi!clhippt1toS2hlsu2)it.(h_i_HGhg..|pe-1hhsu2cl-hi) (::)
+
+<sp>+</sp> Qui.(jkj|tohilsl4lsc3) (::) 
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhj) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-su2tohg)tu(ghf|//to)i(g_h|peS) San(iyh!iwji/jkJ_IH|////ql!clppt1toS2hlsu2)cto.(h_i_HGhg..|pe-1su2cl-) (::)
+
+<sp>+</sp> Qui.(jkj|tohilsl4lsc3) (::)
