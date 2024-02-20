@@ -1,21 +1,17 @@
 name:O Regem caeli V Natus est nobis hodie V Gloria;
 office-part:re;
 mode:1;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: O Regem caeli;
-mode: 1;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: i;
-nabc-lines: 1;
-%%
-(c4) O(hhog|vi-cl-hh) Re(hhog>|vi-cl->1hg)gem(fg|peS) cæ(ixivHGhi|////ci-peS)li,(hggo|clorhg) *(,) cu(f|ta)i(ghg|//to) tá(h|vi)li(gf|cllsc3lsi8)a(fe/fvEDed|cl-ci-cl-hg) (,) fa(fe|cllsc3)mu(fg|pe)lán(ghg>|//to>lsc2)tur(fefog|cllsc2pq) ob(ghGFE/fwgFE|pe-1sut3qi-sut2)sé(ed|cllsc3)qui(d!ewfef|ql!poppt1)a!(ed|cl-) (:) in(f|vi) stá(h|``vihhlss2)bu(g|vihg)lo(f!goh|sa) pó(hg/hfg|////clpo)ni(fgFD|pe-1su2)tur,(d!ewf/ggof|ql-ppt1`prhh) (,) qui(d|ta) cón(fgf|//to)ti(fe|cllsc3)net(f!goh|sa) mun(hvGFE/fwg/hvG!Fs>|vi-suu3ql-cl>hhlst2)dum,(gf|cl-) †(;) Ja(ixhi|//pelsl1lsc3)cet(h|ta) in(hggoe~|cllsc2orhg) præ(gh|pe)sé(gh|peS)pi(fvED|ci-)o(d!ewfEDCded|ql-ppt1su1sut2toShh) (,) et(c|``talsi4) in(df~|ta>lsal3) cæ(fgFEf!goh|pe-1su2sa)lis(hg/hf/gvFE|clclvi-suu2) re(d!ewfef|ql!poppt1)gnat.(ed|cl-) (::)
+(c4) O(h_ho_g|vi-cl-hh) Re(h_ho_g>|vi-cl->1hg)gem(f_g|peS) cæ(ixiv_HGh_i|////ci-hhpeShh)li,(hggo|clorhg) <sp>*</sp>(,) cu(f|ta)i(ghg|//to) tá(h|vi)li(gf|cllsc3lsi8)a(fe__/fv_EDed__|cl-ci-cl-hg) (,) fa(fe|cllsc3)mu(fg|pe)lán(ghg>|//to>lsc2)tur(fefog|cllsc2pq) ob(g_hGF___E/fwgFE___|pe-1sut3qi-sut2)sé(ed|cllsc3)qui(d!ewfef|ql!poppt1)a!(ed..|cl-) (:) In(f|vi) stá(h|``vihhlss2)bu(g|vihg)lo(f@goh|sa) pó(hg/hfg|////clpo)ni(f_gFD___|pe-1su2)tur,(d!ewf_/ggof|ql-ppt1`prhh) (,) qui(d|ta) cón(fgf|//to)ti(fe|cllsc3)net(f@goh|sa) mun(hvGF___E/fwg_/hv_GF>|vi-suu3ql-cl>hhlst2)dum,(gf..|cl-) (:) 
 
-<sp>V/</sp> Na(ixh/jvjvHGhiGF//|////ta-vi-hhlsl2``vi-hhsuu2//pe-1hhsut2|ghjvjvHGhiGF/|vi-hgppt2``vi-hksut2pe-1hjsut2|ghffs/fd/efDC/|tohist-hkclhilsc3pe-1hisut2|dsfvfv!iygh!iwjIH|sthhlsl4bv-hjlss2ql-hmppt2su1sux1)tus(gh|pe-) est(gf|cllsc3) no(gh|pe)bis(h|ta) hó(h|ta)di(h|ta)e(hji|//tolss2lsc3) Sal(gh|pe)vá(ixh/iioh|////ta-pr)tor,(h|ta) (;) qui(hf|cllsc3) est(gh|pe) Chri(h|ta)stus(h|ta) Dó(ixhi|////pe)mi(h|ta)nus,(h|ta) (,) in(h|ta) ci(h|ta)vi(hg/hgh|////cl!polsc2)tá(ge|`cllsi2lsc3)te(fg|pq-) Da(gefd|pflsm2)vid.(dfDC/d!ewf/ggof|pe-1sut2ql-ppt1``prhh) (::)
-†() Ja(ixhi|//pelsl1lsc3)cet.(h|ta) (::)
+<sp>+</sp> Ja(ixhi|//pelsl1lsc3)cet(h|ta) in(hggoe~|cllsc2orhg) præ(gh|pe)sé(g_h|peS)pi(fv_ED|ci-)o(d!ewf_EDC__ded___|ql-ppt1su1sut2toShh) (,) et(c|``talsi4) in(df~|ta>lsal3) cæ(f_gFE___/f@goh|pe-1su2sa)lis(hg/hf/gvFE___|clclvi-suu2) re(d!ewfef|ql!poppt1)gnat.(ed..|cl-) (::) 
 
-<sp>V/</sp> Gló(ixh/jvjvHGhiGF//|////ta-vi-hh``vi-hhsuu2//pe-1hhsut2|ghjvjvHGhiGF/|vi-hgppt2``vi-hksut2pe-1hjsut2|ghffs/fd/efDC/|tohist-hkclhilsc3pe-1hisut2|dsfvfv!iygh!iwjIH|sthhlsl4bv-hjlsl2ql-hmppt2su2lss2)ri(gh|pe-)a(gf|cllsc3) Pa(gh|pe)tri,(h|vi) et(h|vihg) Fí(h!iwj|vihgqlhl)li(ji|cllsc3)o,(g|ta) (`) et(h|vi) Spi(g|ta)rí(gf|cllsc3)tu(gh|pe)i(h!iwj|`vi-qlhj) Sanc(ji~|vi>)to(hjjss|pe-/ds-hk) (::) 
-†() Ja(ixhi|//pelsc3)cet.(h|ta) (::)
+<sp>V/</sp> Na(ixh_0//jv_jvHG___hiGF___//|////ta-vi-hilsl2``vi-hisuu2//pe-1hisut2|gh_!jv_jvHG___hiGF___/|vi-hhppt2``vi-hksut2pe-1hjsut2|ghffs_/fd/e_fDC___/|tohist-hkclhilsc3pe-1hisut2|dsfv_fv_!iyg_h!iwj_IH|sthhlsl4bv-hjlss2ql-hmppt2su2)tus(gh_|pe-) est(gf|cllsc3) no(gh|pe)bis(h|ta) hó(h|ta)di(h|ta)e(hji|//tohhlss2lsc3) Sal(gh|pe)vá(ixh_0//iioh|////ta-pr)tor,(h.|ta) (;) qui(hf|cllsc3) est(gh|pe) Chri(h|ta)stus(h|ta) Dó(ixhi|////pe)mi(h|ta)nus,(h|ta) (,) in(h|ta) ci(h|ta)vi(hg/hgh|////cl!polsc2)tá(ge|`cllsi2lsc3)te(fog_|pq-) Da(gefd|pflsm2)vid.(d_fDC___|pe-1sut2|d!ewf_/ggof.|ql-ppt1``prhh) (::)
+
+<sp>+</sp> Ja(ixhi|//pelsl1lsc3)cet.(h|ta) (::) 
+
+<sp>V/</sp> Gló(ixh_0//jv_jvHG___hiGF___//|////ta-vi-hilsl2``vi-hisuu2//pe-1hisut2|gh_!jv_jvHG___hiGF___/|vi-hhppt2``vi-hksut2pe-1hjsut2|ghffs_/fd/e_fDC___/|tohist-hkclhilsc3pe-1hisut2|dsfv_fv_!iyg_h!iwj_IH|sthhlsl4bv-hjlss2ql-hmppt2su2)ri(gh_|pe-)a(gf|cllsc3) Pa(gh|pe)tri,(h|vi) et(h|vihg) Fí(h!iwj|vihgqlhl)li(ji|clhhlsc3)o,(g|ta) (`) et(h|vi) Spi(g|ta)rí(gf|cllsc3)tu(gh|pe)i(h!iwj|`vi-qlhj) Sanc(ji~|vi>hh)to.(hj_jss_|pe-hi/ds-hk) (::) 
+
+<sp>+</sp> Ja(ixhi|//pelsl1lsc3)cet.(h|ta) (::)
