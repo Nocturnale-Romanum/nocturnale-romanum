@@ -1,21 +1,17 @@
 name:Vidi sub altare Dei animas V Sub throno V Gloria;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 0;
-name: Vidi sub altare Dei;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines: 1;
-%%
-(c4) Vi(dgf/gh|to/pehh)di(g|ta) sub(g|ta) al(g|ta)tá(g|ta)re(ixg!hoi|////sa1) De(h|vi)i(ixhg/h!iwjg/hv/ggof|////cl-hgqlhg!cl-hgppt1vi-hi``prhi) (,) á(ixhiHGFgh|////toSsu2peS)ni(g|ta)mas(g|ta) in(g|ta)ter(g|ta)fe(gh!iwjIH/iwjIH|ql-hippt2sut2qi-hjsu2)ctó(gh!ivHGh|//ci-hhpp2vihi)rum(hg|cl-hh) (;) prop(jkj|//tohilsc2)ter(jh~|vi>hhlsi6) ver(jkj|//tohh)bum(jk|pehh) De(ki/jkh/iv|clhilsc2toS2hivi-hi)i(hhog|pr) quod(h/jvIG|vi-hh/ciShklsc3) ha(jvjvkvJIjvIHG|////bv-hiclShjsut1vi-hjsuu1su2)bé(hg/hvGFg|clci-vi)bant,(gf|cl-) (:) et(fg!hjg|toM1hhpp2) vo(g|ta)ce(g|ta) ma(g|vi)gna(e|ta) di(g|vi)cé(fef|po)bant(dec/d!ewfe/fvED|toS2ql!cl-ppt1`ci-hi) †(:) Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f/gh|scM1)mi(g|ta)ne,(g|ta) sán(gh|pe)gui(g|ta)nem(g|ta) ser(g|ta)vó(gh|pe)rum(g|ta) tu(ixg!hoi|////sa1)ó(h|ta)rum,(hg/h!iwjg/hv/ggof|cl-ql!cl-ppt1vi-hi``prhi) (;) qui(hf/gh!iwjjv|cl-ql-hhppt2`vi-hh) ef(jkJIH/iwjIH|////pe-1hhsut3qi-hgsu2)fú(g|ta)sus(gh!ivHGh|//ci-hhpp2vihh) est.(hg|cl-) (::)
-<sp>V/</sp> Sub(j|vi) thro(j|vi)no(j|vi) De(ji|cllsc3)i(jkj/iji/hhog|////tohhtohiprhi) om(hi|pe)nes(ih|cllsc3) San(ij|pe)cti(hi|pe) cla(g!hwih|ql!cl-ppt1)mant.(hg|cl-) (::)
+(c4) Vi(dgf/gh|to/pehh)di(g|ta) <sp>*</sp>() sub(g|ta) al(g|ta)tá(g|ta)re(ixg@hoi|////sa1) De(h|vi)i(ixhg/h!iwjg__/hv_/ggof|////cl-hgqlhg!cl-hgppt1vi-hi``prhi) (,) á(ixh_iH__GFg_h|////toSsu2peS)ni(g|ta)mas(g|ta) in(g|ta)ter(g|ta)fe(g_h!iwjI__H/iwj_IH|ql-hjppt2sut2qi-hksu2)ctó(gh!iv_HGh|//ci-hhpp2vihi)rum(hg__|cl-hh) (;) prop(jkj|//tohilsc2)ter(jh~|vi>hhlsi6) ver(jkj|//tohi)bum(jk|pehi) De(ki/jkh_/iv_|clhilsc2toS2hivi-hi)i(hhog|pr) (,) quod(h_0//jvIG_0|vi-hh/ciShklsc3) ha(jv_jv_kvJI__jvI__HG|////bv-hiclShjsut1vi-hjsuu1su2)bé(hg/hv_GFg|clci-vi)bant,(gf..|cl-) (:) et(fg/hjg|toM1hhpp2) vo(g|ta)ce(g|ta) ma(g|vi)gna(e|ta) di(g|vi)cé(fef|po)bant(dec_/d!ewfe__/fv_ED.|toS2ql!cl-ppt1`ci-hi) (:) 
 
-†() Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f/gh|scM1)mi(g|ta)ne.(g|ta) (::)
+<sp>+</sp> Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f_0//gh|scM1)mi(g|ta)ne,(g|ta) sán(gh|pe)gui(g|ta)nem(g|ta) ser(g|ta)vó(gh|pe)rum(g|ta) tu(ixg@hoi|////sa1)ó(h|ta)rum,(hg__/h!iwjg__/hv_/ggof.|cl-ql!cl-ppt1vi-hi``prhi) (;) qui(hf__/g_h!iwj_jv_|cl-hgql-hippt2`vi-hi) ef(j_kJI___H/iwj_IH|////pe-1hksut3qi-hjsu2)fú(g|ta)sus(gh!iv_HGh|//ci-hhpp2vihh) est.(hg..|cl-) (::) 
 
-<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|////tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hlsu2)to.(hiHGhg|pe-1su2cl-) (::)
-†() Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f/gh|scM1)mi(g|ta)ne.(g|ta) (::)
+<sp>V/</sp> Sub(j|vihh) thro(j|vihh)no(j|vihh) De(ji|clhhlsc3)i(jkj/iji/hhog|////tohitohjprhi) om(hi|pe)nes(ih|cllsc3) San(ij|pe)cti(hi|pe) cla(g!hwih__|ql!cl-ppt1)mant.(hg..|cl-) (::)
+
+<sp>+</sp> Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f_0//gh|scM1)mi(g|ta)ne.(g|ta) (::) 
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj/iji/hhog|////tohitohjprhi) Pa(ih|cllsc3)tri,(ij|pehg) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-su2tohg)tu(ghf|toM1)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|////ql!clppt1toS2hlsu2)to.(h_i_HGhg..|pe-1su2cl-) (::) 
+
+<sp>+</sp> Vín(d|talsc3)di(d|ta)ca,(d|ta) Dó(f_0//gh|scM1)mi(g|ta)ne.(g|ta) (::) 
