@@ -1,21 +1,17 @@
 name:Isti sunt sancti qui non V Hi sunt V Gloria;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Isti sunt Sancti qui non;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines: 1;
-%%
-(c4) Is(g|vi)ti(gffd!ewfED|pflst2ql-su2) sunt(cd|peSlsi7) Sanc(ixf!gwhGFg!hwih/ivH~G~|////ql-ppt1sut2lsl4ql!cl!cl>ppt1lst3)ti,(hg|cl-) (,) qui(gjjv|``pe-lse4``vi-) non(j|vi) in(j|vihh)qui(j|vihg)na(jk|pehi)vé(kvJIjvIHGh|////clShisut1vi-hisuu1su2vihg)runt(hg|cl-) (,) ve(h|vi)sti(ji|cllsc3)mén(j|vi)ta(hjIHi|pesu2lsc3) su(ghg|//toS)a;(g|vi) †(;) Am(fh|peSlsi7)bu(h|vihg)lá(hfg|//po)bunt(hggof~|clorhg) me(jvjv|bv-lss3)cum(jk|pehi) in(kvJIjvIHG|clShisut1vi-hisuu1su2) al(hg/hvG~F~|//cl-cl>-)bis,(gf|cl-) (;) qui(hfg/hjHG|``po-1lss1/toS2hjsut1)a(hf/gh!iwjIH/iwjIH|cl-ql-hhppt2sut2qi-hisu2) di(g|ta)gni(gh!ivHGh|///ci-pp2vihg) sunt.(hg|cl-) (::)
+(c4) Is(g|vi)ti(gf__f_d!ewf_ED|pflst2ql-su2) sunt(c_d|peSlsi7) Sanc(ixf!gwhGF___g!hwih/iv_H~G~|////ql-ppt1sut2lsl4ql!cl!cl>ppt1lst3)ti,(hg__|cl-) <sp>*</sp>(,) qui(gj_jv_|``pe-hilse4``vi-hi) non(j|vihh) in(j|vihh)qui(j|vihh)na(jk|pehj)vé(kvJI__jvI__HGh|////clShjsut1vi-hjsuu1su2vihh)runt(hg__|cl-) (,) ve(h|vi)sti(ji|cllsc3)mén(j|vi)ta(hjIHi|pesu2lsc3vi) su(ghg___|//toS)a;(g.|vi) (:) 
 
-<sp>V/</sp> Hi(ji|cllsc3) sunt(jkj/iji/hhog|tohhtohiprhi) qui(hi|pe) cum(i|vi) mu(i|vi)li(ih|pe)é(jk|pehh)ri(j|ta)bus(j|ta) non(jk~|ta>hh) sunt(ji|cl-) co(ih|cllsc3)in(ij|pe)qui(hj|pe)ná(g!hwih|ql!clppt1)ti,(hg|cl-) (;|) vír(g|ta)gi(ixhiHGhih|////pe-su2tohg)nes(ghf|//toM1) e(gh|peS)nim(iyh!iwji/jkJIH|////qi!clppt1toS2hlsu2) sunt.(hiHGhg|pe-1su2cl-) (::)
-†() Am(fh|peSlsi7)bu(h|vihg)lá(hfg|//po)bunt(hggof~|clorhg) (::)
+<sp>+</sp> Am(f_h|peSlsi7)bu(h|vihg)lá(hfg|//po)bunt(hggof~|clorhg) me(jv_jv_|bv-hilss3)cum(jk|pehi) in(kvJI__jvI__HG|clShjsut1vi-hjsuu1su2) al(hg__/hv_G~F~|//cl-cl->)bis,(gf..|cl-) (;) qui(hfg_//hjHG__|``po-1lss1/toS2hjsut1)a(hf__//g_h!iwjI__H/iwj_IH|cl-ql-hhppt2sut2qi-hisu2) di(g|ta)gni(gh!iv_HGh|///ci-pp2vihg) sunt.(hg..|cl-) (::)
 
-<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohh)tu(ghf|//toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|////ql!clppt1toS2hlsu2)to.(hiHGhg|pe-1su2cl-) (::) 
-†() Am(fh|peSlsi7)bu(h|vihg)lá(hfg|//po)bunt(hggof~|clorhg) (::)
+<sp>V/</sp> Hi(ji|clhhlsc3) sunt(jkj/iji/hhog|tohitohjprhi) qui(hi|pe) cum(i|vi) mu(i|vi)li(ih|pe)é(jk|pehi)ri(j|ta)bus(j|ta) non(jk~|ta>hh) sunt(ji__|cl-hi) co(ih|cllsc3)in(ij|pehg)qui(hj|pehg)ná(g!hwih|ql!clppt1)ti,(hg..|cl-) (;) vír(g|ta)gi(ixhi_HGhih|////pe-hhsu2tohi)nes(ghf|//toM1) e(g_h|peS)nim(iyh!iwji/jkJ_IH|////qi!clppt1toS2hlsu2) sunt.(h_i_HGhg..|pe-1hhsu2cl-hh) (::)
+
+<sp>+</sp> Am(f_h|peSlsi7)bu(h|vihg)lá(hfg|//po)bunt.(hggof~|clorhg) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj/iji/hhog|tohitohjprhi) Pa(ih|cllsc3)tri,(ij|pehg) et(hi|pehg) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hhsu2tohj)tu(ghf|//toM1)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|////ql!clppt1toS2hlsu2)to.(h_i_HGhg..|pe-1hhsu2cl-hh) (::) 
+
+<sp>+</sp> Am(f_h|peSlsi7)bu(h|vihg)lá(hfg|//po)bunt.(hggof~|clorhg) (::)
