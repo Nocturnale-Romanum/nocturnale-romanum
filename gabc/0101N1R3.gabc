@@ -2,14 +2,16 @@ name:Benedictus qui venit V Haec dies V Gloria;
 office-part:re;
 mode:5;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Be(d)ne(fh)díc(h)tus(f) qui(hg) ve(giHGF)nit(fhEDeffe) (,) in(d) nó(gx-efe/f!go)mi(f)ne(fhFE/fwgFE) Dó(d)mi(de!fvEDe)ni,(ed) (;) De(hvGF)us(hoi) Dó(ivHGFgf)mi(ef)nus(fhe/fv/eeod) (,) et(d) il(ef~)lú(fHHE)xit(gxf!gwhGFE/fwgFE) no(de!fvEDe)bis:(ed) (:) <sp>+</sp> Al(df~)le(h)lú(hi){ia},(hi!kvJHjvIHgh) (,) al(df>)le(gxehhf!gwhgFEfwgFE)lú(de!fvEDe){ia}.(ed) (::)
+(c3) Be(d|ta)ne(fh|``pelsl1)díc(h|vi)tus(f|ta) <sp>*</sp>() qui(hg__|cl-) ve(giHGF|``pesu3lss2lsc3)nit(fhEDef_fe__|pesu2lsc3pe-`cl-hg) (,) in(d|ta) nó(gxefe/f@go|////tovslsc2)mi(f|ta)ne(f_hF__E/fwg_FE|pe-1sut2ql-hgsu2) Dó(d|ta)mi(de!fv_EDe|//ci-hhpp2vihh)ni,(ed..|cl-) (;) De(hv_GF|`ci-lsl2)us(ho_i|``pqlst2) Dó(ivH_GFgf|clSsu2cllsc3)mi(ef|pe)nus,(fhe___/fv_/eeod.|toSvi-hh``prhh) (,) et(d|``talse4) il(ef~|ta>)lú(f_0//HHE|ta-tghh)xit(gxf!gwhGF___E/fwg_FE|////ql!vsppt1sut2qi-hgsu2) no(de!fv_EDe|//ci-hhpp2vihh)bis:(ed..|cl-) (:) 
 
-<sp>V/</sp> Hæc(h) di(h)es(hiHssfgf) quam(hf~) fe(hi)cit(gh) Dó(h)mi(hg!hwihi)nus,(ih) (;)
-ex(d)sul(f)té(h)mus(h) et(h) læ(h)té(hg/hg)mur(gf) in(hi) e(hg!hwihGFg)a.(gf) (::)
+<sp>+</sp> Al(d_f~|``peSlse4)le(h|vilsl3)lú(h_i>|pe>1lss2){ia},(h_i!kvJHjvIH__hs_|`cihjppt2lsc2lsi6clShjsut1st-hl) (,) al(d_f>|pe>1lsi7)le(gxehh_f!gwhG__E/fwg_FE|////tavihhcl-hi`ql-hisut2ql-hjsu2)lú(de!fv_EDe|//ci-hhpp2vihh){ia}.(ed..|cl-) (::)
 
-<sp>+</sp> Al(df~)le(h)lú(hi){ia},(hi!kvJHjvIHgh) (::) 
+<sp>V/</sp> Hæc(h|vi) di(h|vi)es(hi_hshs_fgf|pe-hgds-hhtohh) quam(hf~|vi>lsi6) fe(fi|pe)cit(gh|pe) Dó(h|vi)mi(h_g!hwihi|cl-`qi!po)nus,(ih..|cl-) (;) ex(d|talsi7)sul(f|vi)té(h|vi)mus(h|vi) et(h|vi) læ(h|vi)té(hg/hg|pflsc2)mur(gf|cllsc3) in(h_i|peS) e(gxh_g!hwiH__GFg|////cl-`qihg!vshgsu2vihg)a.(gf..|cl-) (::)
 
-<sp>V/</sp> Gló(h)ri(h)a(hi/hss/fgf) Pá(hf)tri,(fi) et(gh) Fí(h)li(hg!hwihi)o,(ih) (;) et(h) Spi(h)rí(hg/hg)tu(gf)i(hi) Sán(gxhg!hwiHGFg)cto.(gf) (::) 
+<sp>+</sp> Al(d_f~|``peSlse4)le(h|vilsl3)lú(h_i>|pe>1lss2){ia}.(h_i!kvJHjvIH__hs_|`cihjppt2lsc2lsi6clShjsut1st-hl) (::)
 
-<sp>+</sp> Al(df~)le(h)lú(hi){ia},(hi!kvJHjvIHgh) (::)
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hi_/hshs_/fgf|pe-hgds-hhtohh) Pa(hf|cllsc3)tri,(fi|pe) et(gh|pe) Fí(h|vi)li(h_g!hwihi|cl-qihg!pohg)o,(ih..|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(gf|cllsc3)i(h_i|peS) Sanc(gxh_g!hwiH__GFg|////cl-`qihg!vshgsu2vihg)to.(gf..|cl-) (::) 
+
+<sp>+</sp> Al(d_f~|``peSlse4)le(h|vilsl3)lú(h_i>|pe>1lss2){ia}.(h_i!kvJHjvIH__hs_|`cihjppt2lsc2lsi6clShjsut1st-hl) (::)
