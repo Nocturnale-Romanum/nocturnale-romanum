@@ -1,4 +1,7 @@
-mode:8c;
+name:Salvavit eos Dominus;
+office-part:an;
+mode:1a;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Sal(j)vá(j)vit(j) e(j)os(j) Dó(h)mi(j)nus(ivHG) <v>\greheightstar</v>(,) prop(f)ter(h) no(j)men(ij~) su(hg)um.(g) (::) E(j) U(j) O(h) U(j) A(k) E.(j) (::)
-
+(c4) Sal(h|vi)vá(h|vi)vit(g|ta) e(h|vi)os(gf|cl) Dó(g|vi)mi(f|ta)nus(f_|ta) <sp>*</sp>(,) prop(f|vi)ter(e_f|peS) no(g|vi)men(f_e~|vi->) su(d.|ta)um.(d.|ta) (::) <eu>E(h) U(h) O(g) U(f) A(g) E.(h) </eu>(::)
