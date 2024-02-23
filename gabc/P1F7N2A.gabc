@@ -1,6 +1,7 @@
-mode:8c;
+name:Alleluia alleluia alleluia (Sabbato T.P. in II Nocturno);
+office-part:an;
+mode:1a;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) AL(j)le(j)lu(jk)ia,<sp>*</sp>(j) (,) 
-al(h)le(j)lu(ih)ia,(g) (,) al(hvGF)le(gh)lu(g)ia.(g) 
-(::) <eu> E(j) U(j) O(h) U(j) A(k) E.(j)  </eu> (::)
-
+(c4) Al(h|vi)le(g|ta)lú(h|vi)ia,(gf__|cl-) <sp>*</sp>(,) al(e|ta)le(f|vi)lú(g|vi)ia,(e|ta) al(f|vi)le(e|vi)lú(d.|ta)ia.(d.|ta) (::) <eu>E(h) U(h) O(g) U(f) A(g) E.(h) </eu>(::)
