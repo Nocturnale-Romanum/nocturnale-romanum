@@ -1,19 +1,13 @@
 name:Sperent in te qui noverunt V Exsurge Dne;
 office-part:re;
 mode:7;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Sperent in te qui noverunt;
-mode: 7;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vii;
-nabc-lines: 1;
-%%
-(c3) Spe(ehg|//to)rent(h|vi) in(ih!iwjij|cl-ql!po) te,(ji|cl-) <sp>*</sp>(;) qui(i|``talse4) no(i|vi)vé(h/ijhhg|ta-to!cl)runt(ef!gwhe/fv/eeod|qlhh!cl-hhppt2vi-hh``prhh) (,) no(e|vi)men(ef!gwhGF/gwhG!Fs>|////ql-hhppt2sut2qi-hgsu1sux1) tu(ef!gvFEf|//ci-hhpp2vihh)um:(fe|cl-) (;)
-<sp>+</sp>() Quón(ei/jv|scG-1)i(i|ta)am(ij!kwlKI/jwkJ!Is>|ql-hnppt2sut2qi-hmsu1sux1) non(i>|vi>) de(i|vi)re(g|ta)li(i|vi)quís(h/ijhhg|ta-to!cl)ti(ef!gwhe/fv/eeod|qlhh!cl-hhppt1vihh``prhh) (;) quæ(e|vi)rén(ef|pe)tes(e|ta) te,(ef!gwhGF/gwhGF|ql-hhppt2sut2qi-hgsu2) Dó(e|ta)mi(ef!gvFEf|//ci-hhpp2vihh)ne.(fe|cl-) (::)
+(c3) Spe(ehg|//to)rent(h|vi) in(i_h!iwjij|cl-hhqlhh!pohh) te,(ji..|cl-hh) <sp>*</sp>(;) qui(i|``talse4) no(i|vi)vé(h_0//ijhhg|ta-to!cl)runt(e_f!gwhe__/fv_/eeod|qlhh!cl-hhppt2vi-hh``prhh) (,) no(e|vi)men(e_f!gwhG__F/gwh_GF>|////ql-hhppt2sut2qi-hgsu1sux1) tu(ef!gv_FEf|//ci-hhpp2vihh)um:(fe..|cl-) (;) 
 
-<sp>V/</sp> Ex(i|vi)súr(i!jwkJI|qlhjppt1su2)ge,(hi/hhog|peShh``prhh) Dó(h|vi)mi(h|vi)ne,(ig|cllsc2) ád(hi|pe)ju(hi|pe)va(i!jwkj|qlhj!cl-hjppt1) nos,(ji|cl-hh) (;) et(hi/hhog|peS``pr) lí(hih|//to)be(i|vi)ra(i|vi) nos(i|vi) prop(i|vi)ter(ijijIH|//tr-1su2) no(ih|cllsc3)men(h!iwji/jkj|ql!clppt1tohm) tu(ih!iwjij|cl-ql!po)um.(ivHGhg|ci-cl-) (::)
-<sp>+</sp> Quó(ei/jv|scG-1)ni(i|ta)am.(ij!kwlKI/jwkJ!Is>|ql-hnppt2sut2qi-hmsu1sux1) (::)
+<sp>+</sp> Quó(ei_//jv|scG-1hg)ni(i|ta)am(i_j!kwlK__I/jwk_JI>|ql-hnppt2sut2qi-hmsu1sux1) non(i>|vi>) de(i|vi)re(g|ta)li(i|vi)quís(h_0//ijhhg|ta-to!cl)ti(e_f!gwhe__/fv_/eeod|qlhh!cl-hhppt2vi-hh``prhh) (;) quæ(e|vi)rén(ef|pe)tes(e|ta) te,(e_f!gwhG__F/gwh_GF|ql-hhppt2sut2qi-hgsu2) Dó(e|ta)mi(ef!gv_FEf|//ci-hhpp2vihh)ne.(fe..|cl-) (::) 
+
+<sp>V/</sp> Ex(i|vi)súr(i!jwkJI|qlhjppt1su2)ge,(h_i/hhog|peShh``prhh) Dó(h|vi)mi(h|vi)ne,(ig|cllsc2) ád(hi|pe)ju(hi|pe)va(i!jwkj__|qlhj!cl-hjppt1) nos,(ji..|cl-hh) (;) et(h_i/hhog|peS``pr) lí(hih|//to)be(i|vi)ra(i|vi) nos(i|vi) prop(i|vi)ter(ijij_IH|//tr-1su2) no(ih|cllsc3)men(h!iwji/jkj|ql!clppt1tohm) tu(i_h!iwjij|cl-ql!po)um.(iv_HGhg..|ci-cl-) (::) 
+
+<sp>+</sp> Quó(ei_//jv|scG-1hg)ni(i|ta)am.(i_j!kwlK__I/jwk_JI>|ql-hnppt2sut2qi-hmsu1sux1) (::)
