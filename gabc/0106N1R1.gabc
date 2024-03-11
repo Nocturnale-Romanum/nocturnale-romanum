@@ -1,19 +1,13 @@
 name:Hodie in Jordane V Descendit Spiritus;
 office-part:re;
 mode:3;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Hodie in Jordane;
-mode: 3;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: iii;
-nabc-lines: 1;
-%%
-(c4) Hó(g|ta)di(hi|pe)e(i|ta) <sp>*</sp>(,) in(jjoi>|pr>) Jor(h|ta)dá(hjji|pe-cl-hg)ne(gh!iwjIHijggo/efe|ql-hhppt2su2tohgorhitohj) (,) bap(e|ta)ti(fg|pe)zá(g|vihg)to(hggof|cl!pilsm2) Dó(g|vi)mi(ixhgh/iv|////po-1vihl)no(h|ta) (,) a(h|ta)pér(jhjsss|cllsc2tshh)ti(g|ta) sunt(ghGFghg|pe-tohg) cæ(egffs|tolsi7sthh)li,(fe|cl-) (:) et(gffs|cllss2sthh) sic(fd|cllsc3)ut(gh|``peSlsl4) co(g|ta)lúm(ighsjsskjjs|////cllsl2tsMclhisthj)ba(ji|cl-) (,) su(g|ta)per(gh!iwj|`ql-hhppt2) e(jiioh/ivHGh|////cl!pilsc2ci-vi-)um(hg|cl-) (,) Spí(i|vi)ri(j|vi)tus(iioh|pr) man(jvIHivH~G~|////ci-cl>lst3)sit,(hg|cl-) (:) et(gh|``peSlse4) vox(j/kjk|vi-lsl2pohilss2) Pa(i!jo|vshelsc3)tris(h|ta) in(h|ta)tó(hgh|//po)nu(fge/fvEDe|toSci-hhvihh)it:(ed|cl-) (:)
+(c4) Hó(g|ta)di(hi|pe)e(i|ta) <sp>*</sp>(,) in(jjoi>|pr>) Jor(h|ta)dá(hj_ji__|pe-hhcl-hi)ne(g_h!iwj_IHijggo/efe|ql-hhppt2su2tohgorhitohj) (,) bap(e|ta)ti(fg|pe)zá(g|vihg)to(hggof|cl!pilsm2) Dó(g|vi)mi(ixhgh_/iv|////po-1vihl)no(h|ta) (,) a(h|ta)pér(jhjsss|cllsc2tshh)ti(g|ta) sunt(gh_GFghg|pe-su2tohg) cæ(egffs|tolsi7sthh)li,(fe..|cl-) (;) et(gffs|cllss2sthh) sic(fd|cllsc3)ut(g_h|``peSlsl4) co(g|ta)lúm(ighsjsskjjs|////cllsl2tsMclhisthj)ba(ji__|cl-hh) (,) su(g|ta)per(g_h!iwj_|`ql-hhppt2) e(jiioh/iv_HGh_|////clhh!pihhlsc2ci-hhvi-hh)um(hg__|cl-) (,) Spí(i|vi)ri(j|vi)tus(iioh|pr) man(jv_IHiv_H~G~|////ci-hhcl>hhlst3)sit,(hg..|cl-) (;) et(g_h|``peSlse4) vox(j_0//kjk|vi-lsl2pohilss2) Pa(i!jo|vshelsc3)tris(h|ta) in(h|ta)tó(hgh|//po)nu(fge___/fv_EDe|toSci-hhvihh)it:(ed..|cl-) (:)
 
-<sp>+</sp>() Hic(gvfssded|vi-ds-hitohi|/g!hwiHG/hwi/jo|ql-hippt1sut2qi-hjorhm) est(i|ta) (,) Fí(j|vi)li(ji|cllsc3)us(h|ta) me(h|vi)us(gf|cllsc3) di(gh|pe)léc(g|ta)tus,(ge/fvEDed|//cl-ci-cl-) (;) in(f|vi) quo(ghg|//to) mi(ixhiHGFgh|////toSsu2peShh)hi(g|ta) com(iygh!iwjIHig!ixhwiH!Gs>|//////ql-hippt2sut2cl-hiql-hjsut1sux1)plá(e|ta)cu(egffs|//tosthh)i.(fe|cl-) (::)
-<sp>V/</sp> De(i|ta)scén(ikjjs|//tohhsthj)dit(h!iwjihhog|qlhh!cl-hhppt1prhj) Spí(i|vi)ri(i|vi)tus(i|vi) Sanc(i!jo|vs)tus(h|ta) (,) cor(h|ta)po(h|ta)rá(h|ta)li(h|ta) spé(hi|pe)ci(h|ta)e(h|ta) (,) sic(h|ta)ut(h|ta) co(h|ta)lúm(hg|cllsc3)ba(h|vi) in(j|vi) ip(ikjjs|tohhsthj)sum,(ji|cl-hh) (;) et(i|tahh) vox(i|tahh) de(i|tahh) cæ(ikjjvIH/iwji|////toShhci-hiqlhi!cl-hi)lo(hg|clhhlsc3) fac(gh!iwj|```ql-hjppt2)ta(jiioh/ivHGh|////clhh!pihhci-hhvihh) est:(hg|cl-) (::)
-<sp>+</sp>() Hic(gvfssded|vi-ds-hitohi|/g!hwiHG/hwi/jo|ql-hippt1sut2qi-hjorhm) est.(i|ta) (::)
+<sp>+</sp> Hic(gv_fsfs_ded|vi-ds-hitohi|/g!hwiH__G/hwi_/jo|ql-hippt1sut2qi-hjorhm) est(i|ta) (,) Fí(j|vi)li(ji|clhglsc3)us(h|ta) me(h|vi)us(gf|cllsc3) di(gh|pe)léc(g|ta)tus,(ge__/fv_EDed..|//cl-ci-cl-) (;) in(f|vi) quo(ghg|//to) mi(ixh_iH__GFg_h|////toSsu2peShh)hi(g|ta) com(iyg_h!iwjIH___|////ql-hjppt2sut2|ig__!ixhwiH__G>_|cl-hjql-hksut1sux1)plá(e|ta)cu(egffs|//tosthh)i.(fe..|cl-) (::)
+
+<sp>V/</sp> De(i|ta)scén(ikjjs|//tohhsthj)dit(h!iwji__hhog|qlhh!cl-hhppt1prhj) Spí(i|vi)ri(i|vi)tus(i|vi) Sanc(i!jo|vs)tus(h|ta) (,) cor(h|ta)po(h|ta)rá(h|ta)li(h|ta) spé(hi|pe)ci(h|ta)e(h|ta) (,) sic(h|ta)ut(h|ta) co(h|ta)lúm(hg|cllsc3)ba(h|vi) in(j|vi) ip(ikjjs|tohhsthj)sum,(ji..|cl-hh) (;) et(i|tahh) vox(i|tahh) de(i|tahh) cæ(ikj___jv_IH/iwji__|////toShkci-hkqlhi!cl-hi)lo(hg|clhhlsc3) fac(g_h!iwj_|```ql-hjppt2)ta(jiioh/iv_HGh|////clhh!pihhci-hhvihh) est:(hg..|cl-) (::)
+
+<sp>+</sp> Hic(gv_fsfs_ded|vi-ds-hitohi|/g!hwiH__G/hwi_/jo|ql-hippt1sut2qi-hjorhm) est.(i|ta) (::)
