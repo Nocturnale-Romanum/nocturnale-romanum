@@ -1,14 +1,17 @@
+name:Magi veniunt ab Oriente V Vidimus stellam V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ma(f!g!h>)gi<sp>*</sp>(g) vé(gh)ni(g)unt(g) ab(g) O(g)ri(g!ho0!iv)én(h)te(hg/h!iwjg/h/ggO1f) Hie(f)ro(h)só(j)ly(h)mam,(g) (;)
-quæ(h)rén(hihGFgh>)tes,(g) et(g) di(GHiwjIHiwjIH)cén(GHivHGh)tes:(hg) (:)
-U(jkj)bi(jh) est(jki) qui(jk) na(ki/jo0!kv)tus(h!iwjiHGh) est,(hg) (,)
-cu(FGhih)jus(hg) stel(j)lam(j) ví(jijvIHG)di(hghvGFg)mus?(gf) (;)
-<sp>+</sp> Et(gf~) vé(g)ni(gefvEDe)mus(ed) ad(fe)o(fg)rá(g)re(GHiwjIHiwjIH) Dó(g)mi(GHivHGh)num.(hg) (::)
-<sp>V/</sp> Ví(j)di(ji)mus(jkj/iji/hhO1g) stel(ij)lam(hi) e(g!hwih)jus(hg) (;) 
-in(hiHGhih) Or(ghf)ri(gh)én(h!iwji/jkjIH)te.(hiHGhg) (::)
-<sp>+</sp> Et.(gf~) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Et.(gf~) (::)
+(c4) Ma(f_0//gh>|ta-/pe>)gi(g|ta) <sp>*</sp>() vé(gh|pe)ni(g|ta)unt(g|ta) ab(g|ta) O(g|ta)ri(ixg_0//hoi|////ta-pq)én(h|ta)te(hg__/h!iwjg__/hv_/ggof|cl-ql!cl-ppt1``vi-hk``prhk) (,) Je(g|vi)ro(h|vihg)só(j|vihi)ly(h|vihg)mam,(g|ta) (,) quæ(g|ta)rén(ixh_iH__GFg_h>|//////toShhsu2pe>1hh)tes(g|ta) et(g|ta) di(g_h!iwjI__H/iwj_IH|ql-hippu2sut2qi-hisu2)cén(gh!iv_HGh|//ci-hhpp2vihh)tes:(hg..|cl-) (:) U(jkj|tohhlss1)bi(jh|clhhlsc3) est(jkj|//tohhlsl3) qui(jk|pehi) na(kijok|clhilsc3pqhi)tus(h!iwjI__HGh|qihh!vshhsu2ppt1vi) est,(hg__|cl-) (,) cu(ixfg/hih|////tohhpp2lsi7)jus(hg|cllsc3) stel(iyi|////vi)lam(j|vi) ví(ji__/jvI__HG|cl-hhvi-hisuu1su2vihh)di(hg__/hv_GFg|cl-ci-vi)mus?(gf..|cl-) (:) 
 
+<sp>+</sp> Et(h>|vi>) vé(g|vi)ni(ge__/fv_EDe|cl-ci-vi)mus(ed__|cl-) (,) ad(fe|cllsc3)o(fg|pe)rá(g|vi)re(g_h!iwj_IH/iwj_IH|ql-hippt2su2qi-hjsu2) Dó(g|ta)mi(gh!iv_HGh|//ci-hhpp2vihh)num.(hg..|cl-) (::)
+
+<sp>V/</sp> Ví(j|vihg)di(ji|clhglsc3)mus(jkj/iji/hhog|tohhtohiprhi) stel(ij|pe)lam(hi|pe) e(g!hwih__|ql!cl-ppt1)jus(hg..|cl-) (;) in(ixhi_HGhih|/////pe-su2tohg) O(ghf|//toM1)ri(g_h|peS)én(iyh!iwji/jkJ_IH|/////ql!clppt1toS2hmsu2)te.(h_i_HGhg..|pe-1su2cl-) (::)
+
+<sp>+</sp> Et(h>|vi>) vé(g|vi)ni(ge__/fv_EDe|cl-ci-vi)mus.(ed__|cl-) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(g_h|peS) San(h!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)cto.(h_i_HGhg..|pe-1su2/cl-) (::)
+
+<sp>+</sp> Et(h>|vi>) vé(g|vi)ni(ge__/fv_EDe|cl-ci-vi)mus.(ed__|cl-) (::)
