@@ -1,18 +1,10 @@
 name:Deus noster in terris V Hic adinvenit;
 office-part:re;
 mode:4;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Deus noster in terris;
-mode: 4;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: iv;
-nabc-lines: 1;
-%%
-(c4) De(f|vi)us(de|pe) nos(e|vi)ter(eg/fssded|pe-ds-hitohj) <sp>*</sp>(,) in(fd|cllsc2lsl3) ter(dfe|//to)ris(fg|pe) vi(ghGFghg|pe-su2tohg)sus(egffs|//tosthh) est,(eeof|sa) (;)
-<sp>+</sp> Et(d|ta) cum(d|``talse4) ho(dh|``pelse7)mí(h|vi)ni(hvGF/gwhgh|ciS1qlhg!pohg)bus(hg|cl-) con(hggof~|po>)ver(ixfg!hv/ig/hg|////vi-pp2pfShj)sá(e|ta)tus(egffs|//tosthh) est.(fe|cl-) (::)
-<sp>V/</sp> Hic(h|vi) ad(h|vi)in(h|vi)vé(gh|pe)nit(gf/gwhg/hvGEfe|cl-ql!cl-ci-hgcl-hg) om(g|vi)nem(g|vi) vi(g|vi)am(gf|cllsc3) di(gh|pe)sci(gf|cllsc3)plí(e!fwgf|ql!cl-ppt1)næ,(fe|cl-) (;) et(f|vi) trá(de|pe)di(e|ta)dit(e|ta) il(e|ta)lam(e|ta) Ja(e!fo|vshe)cob(e|ta) pú(e!fwgFE|ql-ppt1su2)e(g|vi)ro(ghghGF|tr-1su2) su(e!fgffs|clpp2sthj)o.(ed|cl-) (::)
+(c4) De(f|vi)us(de|pe) nos(e|vi)ter(eg_/fsfs_ded|pe-ds-hitohj) <sp>*</sp>(,) in(fd|cllsc2lsl3) ter(dfe|//to)ris(fg|pe) vi(gh_GFghg|pe-su2tohg)sus(egffs|//tosthh) est,(eeof.|sa) (:)
+<sp>+</sp> Et(d|ta) cum(d|``talse4) ho(dh|``pelse7)mí(h|vi)ni(hvG_F/gwhgh|ciS1qlhg!pohg)bus(hg__|cl-) con(hggof~|po>)ver(ixfg!hv_/ig/hg__|////vi-pp2pfShj)sá(e|ta)tus(egffs|//tosthh) est.(fe..|cl-) (::)
+<sp>V/</sp> Hic(h|vi) ad(h|vi)in(h|vi)vé(gh|pe)nit(g_f!gwhg__/hv_GEfe__|cl-ql!cl-ci-hgcl-hg) om(g|vi)nem(g|vi) vi(g|vi)am(gf|cllsc3) di(gh|pe)sci(gf|cllsc3)plí(e!fwgf__|ql!cl-ppt1)næ,(fe..|cl-) (;) et(f|vi) trá(de|pe)di(e|ta)dit(e|ta) il(e|ta)lam(e|ta) Ja(e@fo|vshe)cob(e|ta) pú(e!fwg_FE|ql-ppt1su2)e(g|vi)ro(ghgh_GF|tr-1su2) su(ef/gffs|clpp2sthj)o.(ed..|cl-) (::)
 <sp>+</sp> Et(d|talse9) cum.(d|ta) (::)
