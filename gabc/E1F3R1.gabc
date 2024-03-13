@@ -1,20 +1,12 @@
 name:Auribus percipe Domine V Complaceat;
 office-part:re;
 mode:2;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Auribus percipe Domine;
-mode: 2;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: ii;
-nabc-lines: 1;
-%%
-(f3) Au(f>|vi>)ri(efEC|pe-1su2)bus(eof|pq) pér(f!gwh|``vi-lse4qlhj)ci(hg|cllsc3)pe,(f!gwhg|ql!cl-ppt1) <sp>*</sp> Dó(hf!gwhGF|cl-`qi-hgsu2)mi(ef!gvFEf|//ci-hhpp2vihh)ne,(ef/eeoc|pe-1``pr) (;) lá(f/hvGE|vi-cihjlss2lsc3)cri(hvhv|bv-lsal3)mas(ihhog|clScl-) me(fg!hvGFg|//ci-hhpp2vihh)as :(gf|cl-) (:) Ne(feh|``polse7) sí(ijij|trlsl1)le(i|vi)as(hi|peS) a(kxkvJIjk|////ci-hilsl2peShi) me,(jiio|cl-orhg) (,) re(h!iwji|qi!cl-ppt1)mít(j|vihh)te(i|vi) mi(hf!gwhgh|//cl-`qi!po)hi:(gf|cl-) (;)
-<sp>+</sp> Quón(f|``talse4)iam(fi|pe) ín(i|vi)co(hi>|pe>1)la(hvGF|ci-) e(fih|//tolss3)go(h|vi) sum(hg|cllsc3) a(ef!gvgf|vi-pp2`cl-hj)pud(f|vi) te,(fe/fgef|cl/trhg) (ef/eeoc|peS``pr) (,) et(f/hvGE|vi-cihjlss2lsc3) per(gh!iji|tohhpp2)e(hhog|pr)grí(giHGhvGF/gwhgh|////toS2sut1vi-sut2qlhg!pohg)nus(gf|cl-) (::)
+(f3) Au(f>|vi>)ri(e_f_EC|pe-1su2)bus(eof|pq) pér(f!gwh|``vi-lse4qlhj)ci(hg|cllsc3)pe,(f!gwhg__|ql!cl-ppt1) <sp>*</sp> Dó(h_f!gwh_GF|cl-`qi-hgsu2)mi(ef!gv_FEf|//ci-hhpp2vihh)ne,(e_f_/eeoc.|pe-1``pr) (;) lá(f_0//hvGE|vi-cihjlss2lsc3)cri(hv_hv_|bv-lsal3)mas(ihhg__|clScl-) me(fg!hv_GFg|//ci-hhpp2vihh)as:(gf..|cl-) (;) ne(feh|``polse7) sí(ijij|trlsl1)le(i|vi)as(h_i|peS) a(kxkv_JIj_k|////////ci-hjlsl2peShj) me,(ji__io|cl-hiorhj) (,) re(h!iwji__|qihh!cl-hhppt1)mít(j|vihh)te(i|vi) mi(h_f!gwhgh|//cl-`qi!po)hi:(gf..|cl-) (:)
+<sp>+</sp> Quón(f|``talse4)iam(fi|pe) ín(i|vi)co(h_i>|pe>1)la(hv_GF|ci-) e(fih|//tolss3)go(h|vi) sum(hg|cllsc3) a(ef!gv_gf__|vi-pp2`cl-hj)pud(f|vi) te,(fe/fgef|cl/trhg|e_f/eeoc.|peS``pr) (,) et(f_0//hvGE|vi-cihjlss2lsc3) per(gh/iji|tohhpp2)e(hhog|pr)grí(giHG__hvG__F/gwhgh|////toS2sut1vi-sut2qlhg!pohg)nus(gf..|cl-) (::)
 
-<sp>V/</sp> Com(f|vi)plá(ef!gwhhi|ql-hhppt2pehj)ce(h|ta)at(h|ta) ti(ij|pe)bi,(i|vi) ut(h|ta) e(hg|cllsc3)rí(hi|pe)pi(gh|pe)as(f!gwhg|ql!cl-ppt1) me:(gf|cl-) (;) Dó(f|vi)mi(ef|pe)ne,(f|ta) (,) ad(f|ta) ad(f|ta)ju(f|ta)ván(f|ta)dum(f!gwhGFE|//ql-ppt1su1sut2) me(f|vi) fes(hg/hih|cllsc2tohg)tí(hvGFg|ci-vi)na.(ffoe|pr) (::)
-<sp>+</sp> Quón(f|``talse4)iam.(fi|pe) (::)
+<sp>V/</sp> Com(f|vi)plá(e_f!gwh_hi|ql-hhppt2pehj)ce(h|ta)at(h|ta) ti(ij|pe)bi,(i|vi) ut(h|ta) e(hg|cllsc3)rí(hi|pe)pi(gh|pe)as(f!gwhg__|ql!cl-ppt1) me:(gf..|cl-) (;) Dó(f|vi)mi(ef|pe)ne,(f|ta) (,) ad(f|ta) ad(f|ta)ju(f|ta)ván(f|ta)dum(f!gwh_GFE__|//ql-ppt1su1sut2) me(f|vi) fes(hg/hih|cllsc2tohg)tí(hv_GFg|ci-vi)na.(ffoe.|pr) (::)
 
+<sp>+</sp> Quón(f|ta)iam(fi|pe) ín(i|vi)co(h_i>|pe>1)la.(hv_GF|ci-) (::)
