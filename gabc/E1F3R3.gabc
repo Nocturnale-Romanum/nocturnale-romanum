@@ -1,22 +1,14 @@
 name:Ego dixi Domine V Ab omnibus V Gloria;
 office-part:re;
 mode:4;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Ego dixi Domine;
-mode: 4;
-office-part: Responsorium;
-annotation: Resp. ;
-annotation: iv;
-nabc-lines:1;
-%%
-(c4) E(e|ta)go(eg/fssded|pe-ds-hhtohh) di(fe|cl)xi:(fg|pe) Dó(g|vi)mi(gf!gwhgh|cl-`qihg!pohg)ne,(hg|cl-) (;) mi(ixg!hwiHG/hwiHG|////ql-ppt1sut2qi-hhsu2)se(gffvED|clSci-)ré(f!goh|sa)re(f|vi) me(egffs|tosthh)i:(fe|cl-) (;)
-<sp>+</sp> Sa(f|vi)na(gh|pe) á(h|vi)ni(hggof|cl!pilsc2)mam(gh>|pe>) me(ghGFEf|toSsu2vi)am,(fe|cl-) (;) qui(e|ta)a(e!fwg/hv|qlppt1vihn) pec(g|ta)cá(hggof|cl!pi)vi(ixfg!hv/ig/hg|////vi-pp2/pfShmlss2) ti(egffs|tosthh)bi.(fe|cl-) (::)
+(c4) E(e|ta)go(eg_/fsfs_ded|pe-ds-hhtohh) di(fe|cl)xi:(fg|pe) (`) Dó(g|vi)mi(g_f!gwhgh|cl-`qihg!pohg)ne,(hg__|cl-) (,) mi(ixg!hwiH__G/hwi_HG|////ql-hgppt1sut2qi-hisu2)se(gffv_ED|clSci-)ré(f@goh|sa)re(f|vi) me(egffs|tosthh)i:(fe..|cl-) (:)
+<sp>+</sp> Sa(f|vi)na(gh|pe) á(h|vi)ni(hggof|cl!pilsc2)mam(gh>|pe>) me(g_hG__FEf|toSsu2vi)am,(fe..|cl-) (;) qui(e|ta)a(e!fw!gh|qlppt1vihn) pec(g|ta)cá(hggof|cl!pi)vi(ixfg!hv_/ig/hg__|////vi-pp2/pfShmlss2) ti(egffs|tosthh)bi.(fe..|cl-) (::)
 
-<sp>V/</sp> Ab(h|vi) óm(h|vi)ni(gh|pe)bus(gf!gwhghvGEfe|cl-`qihg!cl-hg``ci-hjcl-hj) i(g|vi)ni(g|vi)qui(g|vi)tá(gf|cllsc3)ti(gh|pe)bus(gf|cllsc3) me(e!fwgf|ql!cl-ppt1)is(fe|cl-) (;) é(e|ta)ri(e|ta)pe(e!fwgFE|ql-ppt1su2) me,(g|vi) Dó(ghghGF|////tr-1su2)mi(e!fgffs|//popp2)ne.(ed|cl-) (::)
-<sp>+</sp> Sa(f|vi)na(gh|pe) (::)
+<sp>V/</sp> Ab(h|vi) óm(h|vi)ni(gh|pe)bus(g_f!gwhg__hv_GEfe__|cl-`qihg!cl-hg``ci-hjcl-hj) i(g|vi)ni(g|vi)qui(g|vi)tá(gf|cllsc3)ti(gh|pe)bus(gf|cllsc3) me(e!fwgf__|ql!cl-ppt1)is(fe..|cl-) (;) é(e|ta)ri(e|ta)pe(e!fwg_FE|ql-ppt1su2) me,(g|vi) Dó(ghgh_GF|////tr-1su2)mi(ef/gffs|//popp2)ne.(ed..|cl-) (::)
+<sp>+</sp> Sa(f|vi)na(gh|pe) á(h|vi)ni(hggof|cl!pilsc2)mam.(gh>|pe>) (::)
 
-<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`qlhg!cl-hg``ci-hj) Pa(gf|cllsc3)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|////tr-1su2) Sán(e!fgffs|//popp2)cto.(ed|cl-) (::)
-<sp>+</sp> Sa(f|vi)na(gh|pe) (::)
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(g_f!gwhg__/hv_GEfe__|cl-`qlhg!cl-hg``ci-hj) Pa(gf|cllsc3)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf__|ql!cl-ppt1)o,(fe..|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwg_FE|ql-ppt1su2)tu(g|vi)i(ghgh_GF|////tr-1su2) Sán(ef/gffs|//popp2)cto.(ed..|cl-) (::)
+<sp>+</sp> Sa(f|vi)na(gh|pe) á(h|vi)ni(hggof|cl!pilsc2)mam.(gh>|pe>) (::)
