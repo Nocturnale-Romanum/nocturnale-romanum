@@ -1,22 +1,15 @@
 name:Sicut per inoboedientiam V Venit Nazareth V Gloria;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Sicut per inoboedientiam;
-mode: 7;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vii;
-nabc-lines: 1;
-%%
-(c4) Sic(f/gh|scG)ut(g|talsew3) <sp>*</sp> per(g|ta) i(g|ta)no(g|ta)bœ(g|ta)di(g|ta)én(gh|pe)ti(h|vi)am(ixhg/higgf|////cltoS2cl-) (,) u(g|ta)ní(gh|pe)us(g|ta) hó(h|vi)mi(h/jvIH|ta-ci)nis(ghGF|pe-1su2) pec(g|vi)ca(g|vi)tó(goh|pq)res(d|``grlsi4) (,) con(g|vilsl3)sti(g|ta)tú(gh|pe)ti(g|ta) sunt(g/hfg|///ta-po) mul(g!hwihi|//ql!poppt1)ti:(hg|cl-) (;)
-<sp>+</sp> I(jvjv|bv)ta(klKJI/jwkkj|//pe-1hksut3qi-hkcl-hl) et(ji|clhhlsc3) per(ig|clhhlsc3) u(h|vi)ní(hi|pe)us(i|ta) ob(j|vilsl2)œ(ji|cllsc3)di(j|vi)ti(jkj|//tohh)ó(jh!iwjIHGh|cl-`qlhg!vshgsu2vihh)nem(hg|cl-) (;) jus(hvGFgh|ci-peS)ti(g|ta) con(g|ta)sti(gh|pe)tu(g|ta)én(g|ta)tur(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hisu2) mul(gh!ivHGh|//ci-hhvihh)ti.(hg|cl-) (::)
+(c4) Sic(f_0//gh|scG)ut(g|talsew3) <sp>*</sp> per(g|ta) i(g|ta)no(g|ta)bœ(g|ta)di(g|ta)én(gh|pe)ti(h|vi)am(ixhg/higgf__|////cltoS2cl-) (,) u(g|ta)ní(gh|pe)us(g|ta) hó(h|vi)mi(h_0//jvIH|ta-ci)nis(g_h_GF|pe-1su2) pec(g|vi)ca(g|vi)tó(goh|pq)res(d|``grlsi4) (,) con(g|vilsl3)sti(g|ta)tú(gh|pe)ti(g|ta) sunt(g_0//hfg|///ta-po) mul(g!hwihi|//ql!poppt1)ti:(hg..|cl-) (:)
+<sp>+</sp> I(jvjv|bv)ta(k_lKJ___I/jwk_kj__|//pe-1hnsut3qi-hncl-hn) et(ji|clhhlsc3) per(ig|clhhlsc3) u(h|vi)ní(hi|pe)us(i|ta) ob(j|vihhlsl2)œ(ji|clhhlsc3)di(j|vihh)ti(jkj|//tohi)ó(j_h!iwjI__HGh|cl-hi`qlhj!vshjsu2vihk)nem(hg__|cl-) (;) jus(hv_GFg_h|ci-peS)ti(g|ta) con(g|ta)sti(gh|pe)tu(g|ta)én(g|ta)tur(g_h!iwjI__H/iwj_IH|`ql-hippt2sut2qi-hjsu2) mul(gh!iv_HGh|//ci-hipp2vihi)ti.(hg..|cl-) (::)
 
-<sp>V/</sp> Ve(ji|cl)nit(jkj/iji/hhog|////totohgprhg) Ná(hi|pe)za(i|vi)reth(i|vi) (,) et(ih|cllsc3) e(jk|``pehhlsl4)rat(ji|clhhlsc3) súb(ih|cllsc3)di(ij|pe)tus(hi|pe) il(g!hwih|ql!cl-ppt1)lis.(hg|cl-) (::)
-<sp>+</sp> I(jvjv|bv)ta.(klKJI/jwkkj|//pe-1hksut3qi-hkcl-hl) (::)
+<sp>V/</sp> Ve(ji|clhhlsc3)nit(jkj|tohk|iji|tohk|hhog|prhi) Ná(hi|pe)za(i|vi)reth(i|vi) (,) et(ih|cllsc3) e(jk|``pehilsl4)rat(ji|clhhlsc3) súb(ih|cllsc3)di(ij|pehh)tus(hi|pe) il(g!hwih__|ql!cl-ppt1)lis.(hg..|cl-) (::)
+<sp>+</sp> I(jvjv|bv)ta.(k_lKJ___I/jwk_kj__|//pe-1hnsut3qi-hncl-hn) (::)
 
-<sp>V/</sp> Gló(j|vi)ri(ji|//tohh)a(jkj/iji/hhog|tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-su2tohg)tu(ghf|//toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::)
-<sp>+</sp> I(jvjv|bv)ta.(klKJI/jwkkj|//pe-1hksut3qi-hkcl-hl) (::)
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(g_h|peS) San(h!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)cto.(h_i_HGhg..|pe-1su2/cl-) (::)
+
+<sp>+</sp> I(jvjv|bv)ta.(k_lKJ___I/jwk_kj__|//pe-1hnsut3qi-hncl-hn) (::)
