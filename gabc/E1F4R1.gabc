@@ -1,19 +1,13 @@
 name:Ne perdideris me V Non intres in judicium;
 office-part:re;
 mode:6;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Ne perdideris me;
-mode: 6;
-office-part: Responsorium;
-annotation: Resp. ;
-annotation: vi;
-nabc-lines:1;
-%%
-(cb4) NE(fg|pe) per(f|ta)dí(gh|pe)de(i|vi)ris(hhog|pr) me,(iggof!gwhg/hiHGgo|cl!pilst2ql!clpehhsu2orhh) Dó(f|ta)mi(fg!hvGFg|ci-hhpp2vihh)ne,(gf|cl-) (;) cum(f|ta) in(fc|cllsc3)i(f|vi)qui(gh|pe)tá(hhoi|sa)ti(g|ta)bus(iviv|bv-) me(hjiis|//tosthh)is:(ih|cl-) (;)
-<sp>+</sp> Ne(i|vi)que(ivHGhg|ci-cl-) in(i|vi) fi(i!jwkj|vi-qlhk!cl-hk)nem(i|vi) i(hhog|pr)rá(h|vi)tus(gvFE/fwg/hvGFgf|vi-sut2ql-/ci-hjcl-hj) (,) re(f!gwhg|ql!clppt1lsc3)sér(g!hwiivHFgf/g!hwih/ijI~G~|////vi-hcql-hg`vi-hhsut2cl-hhqlhi!clhippt1to>hp)ves(hg|cl-) (,) ma(h/iji|vi-tohj)la(hggo|cl-orhh) me(f!gwhgh|ql!poppt1)a.(gf|cl-) (::)
+(cb4) Ne(fg|pe) per(f|ta)dí(gh|pe)de(i|vi)ris(hhog|pr) me,(ig__gof!gwhg/hiHGgo|cl!pilst2ql!clpehhsu2orhh) <sp>*</sp> Dó(f|ta)mi(fg!hv_GFg|ci-hhpp2vihh)ne,(gf__|cl-) (;) cum(f|ta) in(fc|cllsc3)i(f|vi)qui(gh|pe)tá(hhoi|sa)ti(g|ta)bus(iv_iv_|bv-hh) me(hjiis|//tohgsthi)is:(ih..|cl-) (:) 
 
-<sp>V/</sp> Non(f|ta) in(f!go1!h>|sa>)tres(ihivHGhg|cl-ci-cl-) in(i|vihh) ju(gh|pe)dí(f|ta)ci(f!gwhg|ql!cl-ppt1)um(gf|cl-) (;) cum(f|vi) ser(df~|ta>lsal3)vo(f|ta) tu(ghf|tolss3)o,(gf|cllsc3) Dó(f!go1!hv|sa)mi(ig!hwiHG|cl-qi-su2)ne.(ghGFgf|pe-1su2cl-) (::)
-<sp>+</sp> Ne(i|vi)que(ivHGhg|ci-cl-) in(i|vi) fi(i!jwkj|vi-qlhk!cl-hk)nem(i|vi) (::)
+<sp>+</sp> Ne(i|vi)que(iv_HGhg__|ci-hhcl-hh) in(i|vi) fi(i!jwkj__|vi-qlhk!cl-hk)nem(i|vi) i(hhog|pr)rá(h|vi)tus(gvF__E/fwg_/hv_GFgf__|vi-sut2ql-/ci-hjcl-hj) (,) re(f!gwhg|ql!clppt1lsc3)sér(g!hwi_ivHF___gf__/g!hwih/ijI~G~|////vi-hcql-hg`vi-hhsut2cl-hhqlhh!clhhppt1to>hm)ves(hg__|cl-) (,) ma(h_0//iji|vi-tohj)la(hg__go|cl-orhh) me(f!gwhgh|ql!poppt1)a.(gf..|cl-) (::)
+
+<sp>V/</sp> Non(f|ta) in(f@goh>|sa>)tres(ih__iv_HGhg__|cl-hhci-hhcl-hh) in(i|vihh) ju(gh|pe)dí(f|ta)ci(f!gwhg__|ql!cl-ppt1)um(gf..|cl-) (;) cum(f|vi) ser(df~|ta>lsal3)vo(f|ta) tu(ghf|tolss3)o,(gf|cllsc3) Dó(f@goh|sa)mi(i_g!hwi_HG|cl-hhqi-hhsu2)ne.(g_h_GFgf..|pe-1su2cl-) (::) 
+
+<sp>+</sp> Ne(i|vi)que(iv_HGhg__|ci-hhcl-hh) in(i|vi) fi(i!jwkj__|vi-qlhk!cl-hk)nem.(i|vi) (::)
