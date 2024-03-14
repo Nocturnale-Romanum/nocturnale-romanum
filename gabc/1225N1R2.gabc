@@ -1,18 +1,13 @@
-name:Hodie nobis de coelo pax V Hodie illuxit;
+name:Hodie nobis de caelo pax V Hodie illuxit;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Hodie nobis de caelo;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines: 1;
-%%
-(c4) Hó(g|```talsew2)di(g|ta)e(g|ta) no(g|ta)bis(gf|cllsc3) de(h!iwj|viqlhj) cæ(ji!jwkjk|cl-hh`qlhh!pohh)lo(kj|cl-hh) (;) Pax(j|``vihglse4) ve(ji/jvIHi!jo|cl-hgci-hgvs)ra(i|ta) de(i!jwkJIH/iwjIH|qlhh!vshhppt1su2qi-hjsu2)scén(gh!ivHGh|//ci-pp2vihg)dit,(hg|cl-) †(:) Hó(ji|cl-)di(ji|cllsc3)e(h/ijijg|ta-tohh!clhhlsm3) (,) per(g|ta) to(iji|//to)tum(ghg|//to) mun(ixhiH~F~|////to>)dum(gf|cl-) (;) mel(g!hji|clpp2)lí(j|vi)flu(hgi|``polsi4)i(i|vi) fac(jkj|//tohi)ti(h!iwj|qlppt1) sunt(i!jwkJIH/iwjI!Hs>|qlhh!vshhppt1sut2/qi-hisu1sux1) cæ(gh!ivHGh|//ci-pp2vihg)li.(hg|cl-) (::)
+(c4) Hó(g|```talsew2)di(g|ta)e(g|ta) no(g|ta)bis(gf|cllsc3) de(h!iwj|viqlhj) cæ(j_i!jwkjk|cl-hi`qlhi!pohi)lo(kj__|cl-hk) (;) Pax(j|``vihglse4) ve(ji__/jv_IHi@jo|cl-hici-hivshh)ra(i|ta) de(i!jwkJ__IH/iwj_IH|qlhj!vshjppt1su2qi-hksu2)scén(gh!iv_HGh|//ci-hhpp2vihi)dit,(hg..|cl-) (:) 
 
-<sp>V/</sp> Hó(j|vi)di(ji|cl)e(jkj/iji/hhog|////tohh/tohjprhi) il(hi|pe)lú(i|vi)xit(i|vi) no(i|vi)bis(ih|cllsc3) di(jk|``pehhlsl4)es(j|ta) (,) red(j|vi)em(ji|cllsc3)pti(ih|cllsc3)ó(ij|pe)nis(hi|pe) no(g!hwih|ql!cl-ppt1)væ,(hg|cl-) (;) re(g|vi)pa(fg|pe)ra(g|ta)ti(g|ta)ó(g|ta)nis(g|ta) an(g|ta)tí(gh|pe)quæ,(g|ta) (,) fe(g|ta)li(g|ta)ci(g|ta)tá(ixhiHG/hih|////pe-su2tohg)tis(ghf|//to) æ(gh|peS)tér(iyh!iwji/jkJIH|////qi!clppt1toS2hmsu2)næ.(hiHGhg|pe-1su2cl-) (::)
-†() Hó(ji|cl-)di(ji|cllsc3)e.(h/ijijg|ta-tohh!clhhlsm3) (::)
+<sp>+</sp> Hó(ji__|cl-hh)di(ji|clhhlsc3)e(h_0//ijijg|ta-tohh!clhhlsm3) (,) per(g|ta) to(iji|//tohh)tum(ghg|//to) mun(ixhiH~F~|////to>)dum(gf__|cl-) (;) mel(gh/ji|clpp2)lí(j|vi)flu(hgi|``polsi4)i(i|vi) fac(jkj|//tohi)ti(h!iwj|qlppt1) sunt(i!jwkJI___H/iwj_IH>|qlhj!vshjppt1sut2/qi-hksu1sux1) cæ(gh!iv_HGh|//ci-hhpp2vihg)li.(hg..|cl-) (::) 
+
+<sp>V/</sp> Hó(j|vihg)di(ji|clhg)e(jkj/iji/hhog|////tohi/tohjprhi) il(hi|pe)lú(i|vi)xit(i|vi) no(i|vi)bis(ih|cllsc3) di(jk|``pehjlsl4)es(j|tahh) (,) red(j|vihh)em(ji|clhhlsc3)pti(ih|cllsc3)ó(ij|pehg)nis(hi|pe) no(g!hwih__|ql!cl-ppt1)væ,(hg..|cl-) (;) re(g|vi)pa(fg|pe)ra(g|ta)ti(g|ta)ó(g|ta)nis(g|ta) an(g|ta)tí(gh|pe)quæ,(g|ta) (,) fe(g|ta)li(g|ta)ci(g|ta)tá(ixhi_HG/hih|////pe-hgsu2tohh)tis(ghf|//to) æ(g_h|peS)tér(iyh!iwji/jkJ_IH|////qi!clppt1toS2hmsu2)næ.(h_i_HGhg..|pe-1su2cl-) (::) 
+
+<sp>+</sp> Hó(ji__|cl-hh)di(ji|clhhlsc3)e.(h_0//ijijg|ta-tohh!clhhlsm3) (::)
