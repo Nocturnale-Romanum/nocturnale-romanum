@@ -1,19 +1,11 @@
 name:Repleatur os meum laude V Gaudebunt labia;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Repleatur os meum laude;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines:1;
-%%
-(c4) Re(d|ta)ple(d|ta)á(f/gh|scM1)tur(g|ta) <sp>*</sp> os(g|ta) me(g|ta)um(ixg!ho!i>|////sa>2) lau(h|vi)de,(ixhg/h!iwjg/hv/ggof|//////cl-ql!cl-ppt1vi-hj``prhj) (,) ut(hf|cl) hym(g|vi)num(hj~|ta>) di(ji|cl-)cam(i!jwkJIjvIHGhg|ql-hippt1sut2vi-hisuu1su2cl-hj) (,) gló(g|ta)ri(g|ta)æ(gji/jkj|//totohilss3) tu(jh!iwjIHGh|cl-qihg!vshgsu2vi)æ,(hg|cl-) (;) to(gji|//to)ta(jk|pehi) di(kg/hji/klh|////clMhjtoS2hjtohl)e(ixhg/hih|////cllsc3`tohh) (,) mag(gh>|pe>1)ni(g|vi)fi(g|vi)cén(hgh|//po)ti(g|vi)am(fg|peS) tu(ixivHGhi|//////ci-peShg)am :(hggo|cl-orhg) (;|ta) no(f)li(gh|pe) me(h|vi) pro(hg|cl)jí(h|vi)ce(gh|pe)re(g|ta) in(g>|vi>) tém(h>|vi>hg)po(g|vi)re(ge|cl-) se(gffs|clsthg)nec(f|vi)tú(fd!ewfe|cl-`qlhg!clhg)tis,(dc/ded/ev|cltoS2vi-hg) (;)
-<sp>+</sp> Cum(d|ta) de(d|ta)fé(f/gh|scM1)ce(g|ta)rit(g|ta) vir(g|ta)tus(gh|pe) me(h|vi)a,(ixhg/higgf|//////cltoS2cl-) (,) De(f!goh|sa)us,(hg/hggof|//cllsc2clScl-) (`) ne(f@hoj|sa) de(ji/jkj|////clhhlsc2tohi)re(jvIHG|//vi-su1suu2)lín(g|ta)quas(g!hwihi|ql!poppt1) me.(hg|cl-) (::)
+(c4) Re(d|ta)ple(d|ta)á(f_0//gh|scM1)tur(g|ta) <sp>*</sp>() os(g|ta) me(g|ta)um(ixg@hoi>|////sa>2) lau(h|vi)de,(ixhg__/h!iwjg__/hv_/ggof.|//////cl-ql!cl-ppt1vi-hj``prhj) (;) ut(hf|cl) hym(g|vi)num(hj~|ta>) di(ji__|cl-hi)cam(i!jwkJI___jvI__HGhg__|ql-hkppt1sut2vi-hlsuu1su2cl-hk) (,) gló(g|ta)ri(g|ta)æ(gji/jkj|//totohilss3) tu(j_h!iwjI__HGh|cl-hhqihi!vshisu2vihh)æ,(hg..|cl-) (;) to(gji|//tohh)ta(jk|pehi) di(kg/hji_/klh|////clMhjtoS2hjtohl)e(ixhg/hih|////cllsc3`tohh) (,) mag(g_h>|pe>1)ni(g|vi)fi(g|vi)cén(hgh|//po)ti(g|vi)am(f_g|peS) tu(ixiv_HGh_i|//////ci-hhpeShi)am:(hg__go.|cl-orhg) (;|ta) no(f)li(gh|pe) me(h|vi) pro(hg|cl)jí(h|vi)ce(gh|pe)re(g|ta) in(g>|vi>) tém(h>|vi>hg)po(g|vi)re(ge__|cl-) se(gffs|clsthg)nec(f|vi)tú(f_d!ewfe|cl-`qlhg!clhg)tis,(dc/de/de..|cltoS2vi-hg) (;)
+<sp>+</sp> Cum(d|ta) de(d|ta)fé(f_0//gh|scM1)ce(g|ta)rit(g|ta) vir(g|ta)tus(gh|pe) me(h|vi)a,(ixhg/higgf__|//////cltoS2cl-) (,) De(f@goh|sa)us,(hg/hggf__|//cllsc2clScl-) (`) ne(f@hoj|sa) de(ji/jkj|////clhhlsc2tohi)re(jv_IHG__|///vi-hisu1suu2)lín(g|ta)quas(g!hwihi|ql!poppt1) me.(hg..|cl-) (::)
 
-<sp>V/</sp> Gau(j|vi)dé(ji|cllsc3)bunt(jkj/iji/hhog|tohhtohiprhi) lá(hi|pe)bi(i|ta)a(ih|cl) me(jk|pehh)a(j|ta) (,) cum(j|ta) can(ji|cllsc3)tá(ih|cllsc3)ve(ij|pe)ro(hi|pe) ti(g!hwih|ql!clppt1)bi,(hg|cl-) (;) et(g|vi) á(fg|pe)ni(g|ta)ma(g|ta) me(gh|pe)a(g|ta) quam(hig|//tolss3) red(jvjv|bv-)e(kvJIjvIHG|////clShhsut1vi-hhsuu1su2)mís(hg/hvGFg|cl-ci-vi)ti.(gf|cl-) (::)
-<sp>+</sp> Cum(d|ta) de(d|ta)fé(f/gh|scM1)ce(g|ta)rit(g|ta) (::)
+<sp>V/</sp> Gau(j|vihh)dé(ji|clhhlsc3)bunt(jkj/iji/hhog|tohjtohkprhj) lá(hi|pe)bi(i|ta)a(ih|cl) me(jk|pehi)a(j|ta) (,) cum(j|ta) can(ji|clhhlsc3)tá(ih|cllsc3)ve(ij|pehh)ro(hi|pe) ti(g!hwih|ql!clppt1)bi,(hg..|cl-) (;) et(g|vi) á(fg|pe)ni(g|ta)ma(g|ta) me(gh|pe)a(g|ta) quam(hig|//tolss3) red(jv_jv_|bv-hi)e(kvJI__jvI__HG|////clShjsut1vi-hjsuu1su2)mís(hg__/hv_GFg|cl-ci-vi)ti.(gf..|cl-) (::)
+<sp>+</sp> Cum(d|ta) de(d|ta)fé(f_0//gh|scM1)ce(g|ta)rit.(g|ta) (::)
