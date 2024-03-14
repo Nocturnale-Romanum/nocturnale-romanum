@@ -1,21 +1,14 @@
 name:Adjutor meus tibi psallam V Laetabor et exsultabo V Gloria;
 office-part:re;
 mode:7;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Adjutor meus tibi psallam;
-mode: 7;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vii;
-nabc-lines:1;
-%%
-(c3) Ad(f|vi)jú(d|ta)tor(fh~|ta>lsl2) me(h|vi)us(hf|cllsc3) <sp>*</sp> ti(h|vi)bi(hi|pe) psal(ijiio|toorhh)lam,(HI!jjoi/HI!jjoi|////prpp2lsc2////prhhpp2lsc3) (,) qui(h|ta)a,(i|vi) De(j|vihg)us,(k|vihi) sus(i|vihg)cép(hiHF|pe-1su2)tor(h>|vi>) me(gxgh|////peS)us(gf|cllsc3) es:(e/fhffe|ta-toS2cl-) (;)
-<sp>+</sp> De(e|ta)us(f<|ta>lsl3) me(h|vi)us(gxhg|////cllsc3lsal9) mi(f|vilsc3)se(fe|cl)ri(d|ta)cór(gxe/fg~|vi-ta>hj)di(hf|`cllsal2lsc3)a(ggof|pr) me(gxef!gvFEf|////ci-hhvihh)a.(fe|cl-) (::)
-<sp>V/</sp> Læ(i|ta)tá(i!jwkJI|ql-hhppt1su2)bor,(hi/hhog|peS``pr) et(h|vi) ex(h|vi)sul(ig~|vi>lsi6)tá(hi|pe)bo(hi|pe) in(i!jwkj|ql!cl-ppt1) te,(ji|cl-) (;) psal(hi/hhog|peS``pr)lam(hih|//to) nó(ij|vpe)mi(i|ta)ni(i|ta) tu(i|ta)o,(ijijIH|///to-`ci-hg) Al(ih|cl)tís(h!iwji/jkj|ql!clppt1tohm)si(ih!iwjij|cl-`qihg!pohg)me.(ivHGhg|ci-cl-) (::)
-<sp>+</sp> De(e|ta)us(f<|ta>lsl3) me(h|vi)us(gxhg|////cllsc3lsal9) (::)
+(c3) Ad(f|vi)jú(d|ta)tor(fh~|ta>lsl2) me(h|vi)us(hf|cllsc3) <sp>*</sp>() ti(h|vi)bi(hi|pe) psal(ijiio|toorhh)lam,(hi!jjoi/hi!jjoi|////prhhpp2lsc2////prhipp2lsc3) (,) qui(h|ta)a,(i|vi) De(j|vihg)us,(k|vihi) sus(i|vihg)cép(h_i_HF|pe-1hhsu2)tor(h>|vi>) me(gxg_h|////peS)us(gf|cllsc3) es:(e_0//fhffe..|ta-toS2cl-) (;)
+<sp>+</sp> De(e|ta)us(f<|ta>lsl3) me(h|vi)us(gxhg|////cllsc3lsal9) mi(f|vilsc3)se(fe|cl)ri(d|ta)cór(gxe_0/fg~|vi-ta>hj)di(hf|`cllsal2lsc3)a(ggof|pr) me(gxef!gv_FEf|////ci-hhvihh)a.(fe..|cl-) (::)
+<sp>V/</sp> Læ(i|ta)tá(i!jwk_JI|ql-hippt1su2)bor,(h_i/hhog|peS``pr) et(h|vi) ex(h|vi)sul(ig~|vi>lsi6)tá(hi|pe)bo(hi|pe) in(i!jwkj__|qlhi!cl-hippt1) te,(ji..|cl-hh) (;) psal(h_i/hhog|peS``pr)lam(hih|//to) nó(ij|pehg)mi(i|ta)ni(i|ta) tu(i|ta)o,(ij_ij_IH|///to-hh`ci-hi) Al(ih|cl)tís(h!iwji/jkj|ql!clppt1tohm)si(i_h!iwjij|cl-hh`qihi!pohi)me.(iv_HGhg..|ci-hhcl-hh) (::)
+<sp>+</sp> De(e|ta)us(f<|ta>lsl3) me(h|vi)us.(gxhg|////cllsc3lsal9) (::)
 
-<sp>V/</sp> Gló(i!jwkJI|ql-hhppt1su2)ri(hg|clhhlsc3)a(hi/hhog|peShh``prhh) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj|qlhh!cl-hhppt1)o,(ji|cl-hh) (:) et(i|ta) Spi(i|ta)rí(ijijIH|to-`ci-hg)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) San(ih!iwjij|cl-`qihg!pohg)cto.(ivHGhg|ci-cl-) (::)
-<sp>+</sp> De(e|ta)us(f<|ta>lsl3) me(h|vi)us(gxhg|////cllsc3lsal9) (::)
+<sp>V/</sp> Gló(i!jwk_JI|ql-hjppt1su2)ri(hg|cllsc3)a(h_ihog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj__|qlhh!cl-hhppt1)o,(ji..|cl-) (;) et(i|ta) Spi(i|ta)rí(ij_ij_IH|///to-hh`ci-hi)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) San(i_h!iwjij|////cl-`qi!po)cto.(iv_HGhg..|//ci-cl-) (::)
+
+<sp>+</sp> De(e|ta)us(f<|ta>lsl3) me(h|vi)us.(gxhg|////cllsc3lsal9) (::)
