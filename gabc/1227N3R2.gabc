@@ -1,21 +1,17 @@
 name:Iste est Joannes V Fluenta Evangelii V Gloria;
 office-part:re;
 mode:1;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Iste est Joannes;
-mode: 1;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: i;
-nabc-lines: 1;
-%%
-(c4) I(ixdh/iv|////scG-1)ste(h|vi) est(h|vi) Jo(hvGFg|ci-vi)án(ixhwiHGhi>|ql-su2pe>1)nes,(hggo|cllst2```orhg) *(;) qui(g|``vilse1) su(f|ta)pra(ghg|//to) pec(h|vihg)tus(g|vi) Dó(fg|peS)mi(gffvED|clSci-)ni(dfddc|toS2cl-) (,) in(cd>|pe>1lse7) cœ(fgFE|pe-1su2)na(f!goh|sa) re(hg/hf/gvFE|pflsc2vi-hgsut2)cú(ed|cl)bu(d!ewfef|qi!poppt1)it:(ed|cl-) †(:) Be(d|ta)á(f/gh|scM1)tus(g|ta) A(gh|pe)pó(h|vihh)sto(hgh|pohg)lus,(ghFEfvEDed|////toS2sut1ci-cl-hg) (;) cu(d!ewf/gf|qlppt1clhllsc3)i(fd|clMhhlsc3) re(f|vi)ve(ghg|//tohg)lá(h|vi)ta(gvFE/fwgfg|////vi-sut2qihg!pohg) sunt(f!ghg|cl-ppt2) (;) se(cd|peSlsi7)cré(fgFE|pe-1su2)ta(f!goh|sa) cæ(hg/hf/gvFE|////pf1lsc2vi-hgsut2)lé(ed|cl)sti(d!ewfef|ql!poppt1)a.(ed|cl-) (::)
+(c4) I(ixdh_/iv|////scG-1)ste(h|vi) est(h|vi) Jo(hv_GFg|ci-vi)án(ixhwi_HGh_i>|ql-hhsu2pe>1hh)nes,(hg__go|cllst2```orhg) <sp>*</sp>(;) qui(g|``vilse1) su(f|ta)pra(ghg|//to) pec(h|vihg)tus(g|vi) Dó(f_g|peS)mi(gffv_ED|clSci-)ni(dfddc__|toS2cl-) (,) in(c_d>|pe>1lse7) cœ(f_g_FE|pe-1su2)na(f@goh|sa) re(hg/hf/gvFE___|pflsc2vi-hgsut2)cú(ed|cl)bu(d!ewfef|qi!poppt1)it:(ed..|cl-) (:) 
 
-<sp>V/</sp> Flu(h|vi)én(h|vi)ta(hg/hggof|pflsc2``pilst3) E(hf|cllsc3)van(gh|pe)gé(h|ta)li(ixh/iioh|////ta-pr)i(h|ta-) (;) de(hf|cllsc3) ip(gh|pe)so(h|ta) sa(h|ta)cro(h|ta) Do(h|ta)mí(ixhi|////pe)ni(h|ta)ci(h|ta) péc(ixhi|////pe)to(h|ta)ris(h|ta) fon(hg/hg|pflsc2)te(hf|cllsc3) po(ixf!gwhg/hih|////ql!clppt1tohl)tá(hvGFE/fwg/hv|vi-su1sut2ql-vihk)vit.(gf|cl-) (::)
-†() Be(d|ta)á(f/gh|scM1)tus.(g|ta) (::)
+<sp>+</sp> Be(d|ta)á(f_0//gh|scM1)tus(g|ta) A(gh|pe)pó(h|vihh)sto(hgh|pohg)lus,(ghFE__fv_EDed__|////toS2sut1ci-cl-hg) (;) cu(d!ewf/gf|qlppt1clhllsc3)i(fd|clMhhlsc3) re(f|vi)ve(ghg|//tohg)lá(h|vi)ta(gvF__E/fwgfg|////vi-sut2qihg!pohg) sunt(f_g/hg__|cl-ppt2) (;) se(c_d|peSlsi7)cré(f_g_FE|pe-1su2)ta(f@goh|sa) cæ(hg/hf/gvFE___|////pf1lsc2vi-hgsut2)lé(ed|cl)sti(d!ewfef|ql!poppt1)a.(ed..|cl-) (::)
 
-<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|cl!pilsc2lst3) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(h/iioh|ta-pr)o,(h|ta-) (;) et(h|ta) Spi(h|vi)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(f!gwhg/hih|ql!clppt1tohk) Sanc(hvGFE/fwg/hv|vi-su1sut2ql-vihk)to.(gf|cl-) (::) 
-†() Be(d|ta)á(f/gh|scM1)tus.(g|ta) (::)
+<sp>V/</sp> Flu(h|vi)én(h|vi)ta(hg/hggo_f|pflsc2``pilst3) E(hf|cllsc3)van(gh|pe)gé(h|ta)li(ixh_0//iioh|////ta-pr)i(h.|ta-) (;) de(hf|cllsc3) ip(gh|pe)so(h|ta) sa(h|ta)cro(h|ta) Do(h|ta)mí(h|ta)ni(h|ta)ci(h|ta) péc(ixhi|////pe)to(h|ta)ris(h|ta) fon(hg/hg|pflsc2)te(hf|cllsc3) po(ixf!gwhg/hih|////ql!clppt1tohl)tá(hv_GF_E/fwg_/hv|vi-su1sut2ql-vihk)vit.(gf..|cl-) (::)
+
+<sp>+</sp> Be(d|ta)á(f_0//gh|scM1)tus.(g|ta) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggo_f|cl!pilsc2lst3) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(h_0//iioh|ta-pr)o,(h.|ta-) (;) et(h|ta) Spi(h|vi)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(f!gwhg/hih|ql!clppt1tohk) Sanc(hv_GF_E/fwg_/hv|vi-su1sut2ql-vihk)to.(gf..|cl-) (::) 
+
+<sp>+</sp> Be(d|ta)á(f_0//gh|scM1)tus.(g|ta) (::)
