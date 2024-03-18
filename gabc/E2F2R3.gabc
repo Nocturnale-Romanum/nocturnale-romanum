@@ -1,22 +1,15 @@
 name:Benedicam Dominum in omni V In Domino laudabitur V Gloria;
 office-part:re;
 mode:5;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Benedicam Dominum;
-mode: 5;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: v;
-nabc-lines:1;
-%%
-(c4) BE(f|ta)ne(hj|pe)dí(j|vi)cam(h|ta) <sp>*</sp> Dó(hj!kjk|//pohjpp2)mi(ixij|////pe)num(hjg/hv/ggof|////toSvi-`pr) (,) in(ffoe|pr) om(ghgh>|////tr>)ni(gh|pe) tém(f|ta)po(fg|peS)re:(gffod/fv|cl-pivi-) (;)
-<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv/egffd~|vi-toS2vi>)jus(dc|cl-) (,) in(ffoe|pr) o(ghgh|//tr)re(ixjhiGF|////posu1sut1lssc2|//eg!hv/ig!hwiHG|//vi-hgpp2cl-hjqi-hjsu2) me(fg!hvGFg|//ci-hhpp2vihh)o.(gf|cl-) (::)
+(c4) Be(f|ta)ne(hj|pehh)dí(j|vihh)cam(h|ta) <sp>*</sp> Dó(hj/kjk|//pohjpp2)mi(ixij|////pe)num(hjg___/hv_/ggof|////toShivi-hi`prhi) (,) in(ffoe|pr) om(ghgh>|////tr>)ni(gh|pe) tém(f|ta)po(f_g|peS)re:(gf__fod/fv.|cl-pivi-) (:) 
+<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv_//egf_fd~|vi-toS2vi>)jus(dc__|cl-) (,) in(ffoe|pr) o(ghgh|//tr)re(ixjhiGF_0|////posu1sut1lssc2|//eg!hv_//i_g!hwi_HG|//vi-hgpp2cl-hjqi-hjsu2) me(fg!hv_GFg|//ci-hhpp2vihh)o.(gf..|cl-) (::)
 
-<sp>V/</sp> In(j|vi) Dó(j|vi)mi(j|vi)no(jk/jsshih|pe-hids-hitohj) lau(j|vi)dá(jk|pehh)bi(j|ta)tur(j|ta) á(jh|clhhlsc3)ni(hk|pehh)ma(ij|pehh) me(ji!jwkjk|////cl-hhqihh!pohh)a,(kj|cl-hh) (;) áu(f|``talsi7)di(h|vi)ant(j|vihh) man(j|vihh)su(j|vihh)é(j|vi)ti(ji/ji|////pf1hhlsc2) et(ih~|vi>hh) læ(jk|``peShhlss7)tén(ixji!jwkJIHi|//////cl-hhqlhh!vshhsu2vihh)tur.(ih|cl-) (::)
-<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv/egffd~|vi-toS2vi>)jus(dc|cl-) (::)
+<sp>V/</sp> In(j|vi) Dó(j|vi)mi(j|vi)no(jk_/jsjshih|pe-hkds-hktohk) lau(j|vi)dá(jk|pehi)bi(j|ta)tur(j|ta) á(jh|clhhlsc3)ni(hk|pehh)ma(ij|pehh) me(j_i!jwkjk|////cl-hiqihi!pohi)a,(kj__|cl-hj) (;) áu(f|``talsi7)di(h|vi)ant(j|vihh) man(j|vihh)su(j|vihh)é(j|vi)ti,(ji/ji|////pf1hhlsc2) et(ih~|vi>hh) læ(j_k|``peShjlss7)tén(ixj_i!jwkJ__IHi|//////cl-hiqlhj!vshjsu2vihj)tur.(ih..|cl-) (::)
+<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv_//egf_fd~|vi-toS2vi>)jus.(dc__|cl-) (::)
 
-<sp>V/</sp> Gló(j|vihh)ri(j|vihh)a(jk/jss/hih|pe-hhds-hitohi) Pa(jh|clhhlsc3)tri,(hk|pehh) et(ij|pehh) Fí(j|tahh)li(ji!jwkjk|////cl-hhqlhh!pohh)o,(kj|cl-hh) (;) et(j|ta) Spi(j|ta)rí(ji/ji|pf1hhlsc2)tu(ih|clhh)i(jk|peShh) Sanc(ixji!jwkJIHi|//////cl-hhqlhh!vshhsu2vihh)to.(ih|cl-hh) (::)
-<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv/egffd~|vi-toS2vi>)jus(dc|cl-) (::)
+<sp>V/</sp> Gló(j|ta)ri(j|ta)a(jk_/jsjs_hih|pe-hjds-hktohi) Pa(jh|clhhlsc3)tri,(hk|pehh) et(ij|pe) Fí(j|vi)li(j_i!jwkjk|cl-hiqlhi!pohi)o,(kj..|cl-hi) (;) et(j|tahg) Spi(j|tahg)rí(ji/ji|//pf1hglsc2)tu(ih|cllsc3)i(j_k|peShi) San(ixj_i!jwkJ__IHi|////cl-hjqlhj!vshjsu2vihj)cto.(ih..|cl-hh) (::) 
+
+<sp>+</sp> Sem(f|vi)per(gh~|``ta>lsl1) laus(ixh!iwjG~F~|////vi-qlhj!cl>hj) e(fv_//egf_fd~|vi-toS2vi>)jus.(dc__|cl-) (::)
