@@ -1,22 +1,16 @@
 name:Factus est mihi Dominus V Eripuit me V Gloria;
 office-part:re;
 mode:7;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Factus est mihi Dominus;
-mode: 7;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vii;
-nabc-lines:1;
-%%
-(c3) Fac(ef|pe)tus(e|ta) est(e|ta) <sp>*</sp> mi(e|ta)hi(ef!gwh|qlhhppt2) Dó(hihhg|to!cl)mi(h!iwjij|ql!poppt1)nus(ji|cl-) (,) in(iioh~|vs>) re(ijji|pe-`cl-hg)fú(hi>|pe>1lsi3)gi(fhg/hiffoe/fv|////toStohh!pihhlsc2vihi)um:(e!fgf|cl-ppt2) (;) 
-<sp>+</sp> Et(ed~|vi>lsi6) De(e|vi)us(f!gwh|vihgqlhk) me(hg!hwihi|cl-`qlhg!pohg)us(ih|cl-) (,) in(h|vi) au(g!ho!i>|sa>)xí(hi|peS)li(ghGFEf|toSsu2vi)um(fe|cl-) spe(g|vi)i(g!hwiHGF/gwhGF|ql!vsppt1sut2qi-hhsu2) me(ef!gvFEf|//ci-hhpp2)æ.(fe|pr) (::)
+(c3) Fac(ef|pe)tus(e|ta) est(e|ta) <sp>*</sp>() mi(e|ta)hi(e_f!gwh|qlhhppt2) Dó(hihhg|to!cl)mi(h!iwjij|ql!poppt1)nus(ji__|cl-hi) (,) in(iioh~|vs>) re(ij_ji__|pe-hi`cl-hi)fú(h_i>|pe>1lsi3)gi(fhg___/hiffoe/fv|////toStohh!pihhlsc2vihi)um:(e_f/gf..|cl-ppt2) (;) 
+<sp>+</sp> Et(ed~|vi>lsi6) De(e|vi)us(f!gwh|vihgqlhk) me(h_g!hwihi|cl-`qlhg!pohg)us(ih__|cl-hh) (,) in(h|vi) au(g@hoi>|sa>)xí(h_i|peS)li(g_hG__FEf|toSsu2vi)um(fe__|cl-) spe(g|vi)i(g!hwiHG___F/gwh_GF|qlhg!vshgppt1sut2qi-hisu2) me(ef!gv_FE|//ci-hhpp2)æ.(ffoe.|pr) (::)
 
-<sp>V/</sp> E(i|ta)rí(i|ta)pu(i|ta)it(i!jwkJI|ql-hhppt1su2) me(hi/hhog|peS``pr) de(h|ta) i(h|ta)ni(h|ta)mí(hi|pe)cis(h|ta) me(ig|cllsc3)is(hi|pe) for(hi|pe)tís(i|ta)si(i!jwkj|qlhh!cl-hhppt1)mis,(ji|cl-hh) (;) et(hi/hhg~|peSvs>) fac(hih|//to)tus(i|vi) est(i|vi) Dó(ij|pe)mi(i|ta)nus(i|ta) pro(ijijIH|//toci-hh)téc(ih|cllsc3)tor(h!iwji/jkj|ql!clppt1tohm) me(ih!iwjij|cl-`qlhg!pohg)us.(ivHGhg|ci-cl-) (::)
-<sp>+</sp> Et(ed~|vi>lsi6) De(e|vi)us.(f!gwh|vihgqlhk) (::)
+<sp>V/</sp> E(i|ta)rí(i|ta)pu(i|ta)it(i!jwk_JI|ql-hippt1su2) me(h_i/hhog|peS``pr) de(h|ta) i(h|ta)ni(h|ta)mí(hi|pe)cis(h|ta) me(ig|cllsc3)is(hi|pe) for(hi|pe)tís(i|ta)si(i!jwkj__|qlhi!cl-hippt1)mis,(ji..|cl-hh) (;) et(h_i/hhg~|peSvs>) fac(hih|//to)tus(i|vi) est(i|vi) Dó(ij|pe)mi(i|ta)nus(i|ta) pro(ijij_IH|//tohici-hj)téc(ih|cllsc3)tor(h!iwji/jkj|ql!clppt1tohm) me(i_h!iwjij|cl-hh`qlhi!pohi)us.(iv_HGhg..|ci-hhcl-hh) (::) 
 
-<sp>V/</sp> Gló(i!jwkJI|ql-hhppt1su2)ri(hg|clhhlsc3)a(hi/hhog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj|qlhg!cl-hgppt1)o,(ji|cl-) (:) et(i|ta) Spi(i|ta)rí(ijijIH|//tr-1su2)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) San(ih!iwjij|cl-`qlhg!pohg)cto.(ivHGhg|ci-cl-) (::)
-<sp>+</sp> Et(ed~|vi>lsi6) De(e|vi)us.(f!gwh|vihgqlhk) (::)
+<sp>+</sp> Et.(ed~|vi>lsi6) (::)
+
+<sp>V/</sp> Gló(i!jwk_JI|ql-hjppt1su2)ri(hg|cllsc3)a(h_ihog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj__|qlhh!cl-hhppt1)o,(ji..|cl-) (;) et(i|ta) Spi(i|ta)rí(ijij_IH|////tr-1hhsu2)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) San(i_h!iwjij|////cl-`qi!po)cto.(iv_HGhg..|//ci-hhcl-hh) (::)
+
+<sp>+</sp> Et.(ed~|vi>lsi6) (::)
