@@ -2,18 +2,12 @@ name:Diligam te Domine virtus V Liberator meus;
 office-part:re;
 mode:4;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Dí(fsss)li(d@fwge__)gam(f!gwhg~) te,(hg..) <sp>*</sp>(,)
-Dó(h)mi(f!gwhg__)ne,(ge__) vir(gffs)tus(d!ewf) me(egffs)a :(eeof.) (;)
-Dó(d)mi(g)nus(ixhih)
-fir(ixhi~)ma(h)mén(hggof~)tum(gh/ig/hg>__) me(egffs)um,(eeo@fe..) (;)
+(c4) Dí(fsss|ts)li(d@fwge__|ql!cl-ppt1)gam(f!gwhg~|ql>ppt1) te,(hg..|cl-) <sp>*</sp>(,) Dó(h|vi)mi(f!gwhg__|ql!cl-ppt1)ne,(ge__|cl-) vir(gffs|cllsc2sthh)tus(d!ewf|qlppt1) me(egffs|//tosthh)a:(eeof.|sa) (;) Dó(d|talsi8)mi(g|vi)nus(ixhih|////tolsl2) fir(ixhi~|ta>)ma(h|ta)mén(hggof~|cllsc2or>)tum(gh/ig/hg>__|//pf>hipp2lsc2lst3) me(egffs|//tosthh)um,(eeo@fe..|//sa!cl-) (;) 
 
-<sp>+</sp> Et(c) re(de)fú(e_f_ED)gi(fog)um(ixgv_/fg!hv_/ig/hg)
-me(egffs)um.(fe..) (::)
+<sp>+</sp> Et(c|ta) re(de|pe)fú(e_f_ED|pe-1su2)gi(fog|pq)um(ixgv_//fg!hv_//ig/hg|//////vi-vi-hhpp2pfShl) me(egffs|tosthh)um.(fe..|cl-) (::) 
 
-<sp>V/</sp> Li(h)be(h)rá(gh)tor(g_f!gwhg/hv_GEfe__) me(g)us,(gf)
-De(gh)us(gf) me(e!fwgf)us,(fe..) (;)
-ad(e!fwg_FE)jú(g)tor(ghg/hv_GF) me(ef/gef)us.(ed..) (::) 
+<sp>V/</sp> Li(h|vi)be(h|vi)rá(h|vi)tor(g_f!gwhg/hv_GEfe__|cl-ql!clci-hhcl-hh) me(g|vi)us,(gf|cllsc3) De(gh|pe)us(gf|cllsc3) me(e!fwgf|ql!cl-ppt1)us,(fe..|cl-) (;) ad(e!fwg_FE|ql-ppt1su2)jú(g|vi)tor(ghg/hv_GF|toci-hh) me(ef/gffs|clhhpp2sthj)us.(ed..|cl-) (::) 
 
-<sp>+</sp> Et(c) re(de)fú(e_f_ED)gi(fog)um(ixgv_/fg!hv_/ig/hg)
-me(egffs)um.(fe..) (::)
+<sp>+</sp> Et(c|ta) re(de|pe)fú(e_f_ED|pe-1su2)gi(fog|pq)um(ixgv_//fg!hv_//ig/hg|//////vi-vi-hhpp2pfShl)me(egffs|tosthh)um.(fe..|cl-) (::)
