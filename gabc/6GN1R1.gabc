@@ -1,19 +1,12 @@
 name:Dixit Dominus ad Noe V Fac tibi arcam;
 office-part:re;
 mode:6;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Dixit Dominus ad Noe;
-mode: 6;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vi;
-nabc-lines:1;
-%%
-(cb4) Di(f|ta)xit(f|ta) Dó(gh|pe)mi(h|vi)nus(h|vi) ad(h|vi) No(h|vi)ë:(ig/ivivjiioh|cllsc3bv-clSpi) (,) <sp>*</sp> Fi(f|ta)nis(gh|pe) u(h|vi)ni(h|vi)vér(hi~|ta>)sæ(h|vi) car(hg/hvGfg~|cl-vi-su1ta>)nis(fgffo/ded|//toorhgtohg) (,) ve(fgf|//to)nit(f!goh|sa) co(hg/hfg|//cllsc3po)ram(fe!fwg/hvG~F~|cl-ql-cl->hg) me;(gf|cl-) (:)
-<sp>+</sp> Re(h|vi)plé(f!gwh/io|ql-ppt1orhk)ta(h|vi) est(h|vi) ter(hg/hvGFg|//cl-ci-vi)ra(gf|cl-) (`) i(g|vi)ni(f|ta)qui(g|vi)tá(g|vi)te(f|ta) e(g|vi)ó(gsissjiis|//stdshiclhisthk)rum,(ih|cl-) (;) et(h|``talse4) e(h!iwj/k|ql-ppt1vihl)go(j|vihh) dis(i|vi)pér(ij~|ta>)dam(i|vi) e(ig!hwiHGFg|cl-ql!vssu2vi)os(gf|cl-) (,)cum(fd/f!goh//ig!hwiHG|cllsc3sacl-hjql-hksu2) ter(fg!hvGFg|//ci-hhpp2vihh)ra.(gf|cl-) (::)
+(cb4) Di(f|ta)xit(f|ta) Dó(gh|pe)mi(h|vi)nus(h|vi) ad(h|vi) No(h|vi)ë:(ig/iv_iv_jiioh.|cllsc3bv-clSpi) <sp>*</sp>(;) Fi(f|ta)nis(gh|pe) u(h|vi)ni(h|vi)vér(hi~|ta>)sæ(h|vi) car(hg__/h_g/fg~|cl-vi-su1ta>)nis(fgffo/ded|//toorhgtohg) (,) ve(fgf|//to)nit(f@goh|sa) co(hg/hfg|//cllsc3po)ram(f_e!fwg_/hv_G~F~|cl-ql-cl->hg) me;(gf..|cl-) (:)
+<sp>+</sp> Re(h|vi)plé(f!gwh_/io|ql-ppt1orhk)ta(h|vi) est(h|vi) ter(hg__/hv_GFg|//cl-ci-vi)ra(gf__|cl-) (`) i(g|vi)ni(f|ta)qui(g|vi)tá(g|vi)te(f|ta) e(g|vi)ó(gsissjiis|//stdshiclhisthk)rum,(ih..|cl-) (;) et(h|``talse4) e(h!iwj_/k|ql-ppt1vihl)go(j|vihh) dis(i|vi)pér(ij~|ta>)dam(i|vi) e(i_g!hwiH__GFg|cl-ql!vssu2vi)os(gf__|cl-) (,) cum(fd/f@goh//i_g!hwi_HG|cllsc3sacl-hjql-hksu2) ter(fg!hv_GFg|//ci-hhpp2vihh)ra.(gf..|cl-) (::)
 
-<sp>V/</sp> Fac(f|ta) ti(f!goh|sa)bi(ih/ivHGhg|cl-ci-cl-) ar(h!iwj/kv|vi-ql-hjvihn)cam(j|vi) de(j|vi) lig(j|vi)nis(jh|cllsc3) læ(i|vi)vi(gh|pe)gá(f!gwhg|ql!cl-ppt1)tis,(gf|cl-) (;) man(f|vi)si(df|pe)ún(fg|pe)cu(f|ta)las(f|ta) in(f|ta) e(ghf|//to)a(gf|cllsc3) fá(f!goh|sa)ci(ig!hwiHG|cl-ql-hhsu2)es.(ghGFgf|pe-1su2cl-)
-<sp>+</sp> Re(h|vi)plé(f!gwh/io|ql-ppt1orhk)ta(h|vi) est.(h|vi) (::)
+<sp>V/</sp> Fac(f|ta) ti(f@goh|sa)bi(ih__/iv_HGhg__|cl-hhci-hhcl-hh) ar(h!iwj_/kv|vi-/ql-hjvihn)cam(j|vihg) de(j|vihg) lig(j|vihg)nis(jh|clhglsc3) læ(i|vi)vi(gh|pe)gá(f!gwhg__|ql!cl-ppt1)tis,(gf..|cl-) (;) man(f|vi)si(df|pe)ún(fg|pe)cu(f|ta)las(f|ta) in(f|ta) e(ghf|//to)a(gf|cllsc3) fá(f@goh|sa)ci(i_g!hwi_HG|cl-ql-hhsu2)es.(g_h_GFgf..|pe-1su2cl-) (::) 
+
+<sp>+</sp> Re(h|vi)plé(f!gwh_/io|ql-ppt1orhk)ta(h|vi) est.(h|vi) (::)
