@@ -1,22 +1,15 @@
 name:Quadraginta dies et noctes V In articulo V Gloria;
 office-part:re;
 mode:5;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Quadraginta dies et noctes;
-mode: 5;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: v;
-nabc-lines:1;
-%%
-(c3) Qua(d|ta)dra(fh|pe)gín(hshs/Hs>|ts)ta(hf|cl-) <sp>*</sp> di(f!gwh/ivHG/hwihi|qlppt1vi-hksut2qihk!pohk)es(ih|cl-) (,) et(i|vi>) noc(hf!gwh|cl-ql)tes(ihhf/he/fv/eeod|////pflst2clM-vi-``pr) (;) a(d|ta)pér(gxefef/g>|//////tr-3vi>hj)ti(f|ta) sunt(gxfhFE/fwgF!Es>|//////pe-1sut2ql-hgsu1sux1) cæ(de!fvEDe|//ci-hhpp2vihh)li,(ed|cl-) (:) et(d|ta) ex(d|ta) om(d|ta)ni(f!gwh|vi-qlhh) car(hg!hwi/jvIH~|cl-ql-hgcl->hh)ne(ih|cl-) ha(h|ta)bén(h|ta)tem(ij|pe) spí(ij|peS)ri(hi|peS)tum(hg>|cl->) vi(f!gwh/ivHG/hwihi|qlppt1vi-hlsuu2qlhl!pohl)tæ(ih|cl-) (;) In(i>|vi>)grés(hhg|vi-`cl-)si(fe|cllsc3) sunt(f|vi) in(fh|pe) ar(gxhf/fwgfg|////cl-ql!po)cam;(gf|cl-) (:)
-<sp>+</sp> Et(d/fh~|ta-lsi7ta>hg) clau(h|vi)sit(hg|cl) a(f|ta) fo(f!gwh/ivHG/hwihi|////ql-ppt1vi-hlsuu2qihl!pohl)ris(ih|cl-) (,) os(gxihhvGFEfg|//////clSvi-suu1su2peS)ti(f|vi)um(fhFE/fwgF!Es>|pe-1sut2qi-hgsu1sux1) Dó(d|ta)mi(de!fvEDe|//ci-hhpp2vihh)nus.(ed|cl-) (::)
+(c3) Qua(d|ta)dra(fh|pe)gín(hshs/Hs>|ts)ta(hf__|cl-) <sp>*</sp>() di(f!gwh/ivH__G/hwihi|qlppt1vi-hksut2qihk!pohk)es(ih__|cl-) (,) et(i|vi>) noc(h_f!gwh|cl-ql)tes(ih__hf__/he__/fv_/eeod|////pfhhlst2clM-hhvi-hh``prhh) (;) a(d|ta)pér(gxefef_/g>|//////tr-3vi>hj)ti(f|ta) sunt(gxf_hF__E/fwg_FE>|//////pe-1sut2ql-hgsu1sux1) cæ(de!fv_EDe|//ci-hhpp2vihh)li,(ed..|cl-) (:) et(d|ta) ex(d|ta) om(d|ta)ni(f!gwh|vi-qlhh) car(h_g!hwi_/jv_I~H~|cl-ql-hhcl->hh)ne(ih__|cl-hh) ha(h|ta)bén(h|ta)tem(ij|pehg) spí(i_j|peShh)ri(h_i|peS)tum(h_g>_|cl->) vi(f!gw!hiH__G/hwihi|qlppt1vi-hlsuu2qlhl!pohl)tæ(ih__|cl-hg) (;) in(i>|vi>)grés(h_hg__|vi-`cl-)si(fe|cllsc3) sunt(f|vi) in(fh|pe) ar(gxh_f/fwgfg|////cl-ql!po)cam;(gf..|cl-) (:)
+<sp>+</sp> Et(d_0//fh~|ta-lsi7ta>hg) clau(h|vi)sit(hg|cl) a(f|ta) fo(f!gwh_/ivH__G/hwihi|////ql-ppt1vi-hlsuu2qihl!pohl)ris(ih__|cl-) (,) os(gxihhvG__FEf_g|//////clSvi-suu1su2peS)ti(f|vi)um(f_hF__E/fwg_FE>|pe-1sut2qi-hgsu1sux1) Dó(d|ta)mi(de!fv_EDe|//ci-hhpp2vihh)nus.(ed..|cl-) (::)
 
-<sp>V/</sp> In(h|vi) ar(h|vi)tí(h|vi)cu(h|vi)lo(hi/hssfgf|pe-ds-hhtohi) di(h|vi)é(h|vi)i(h|vi) il(h|vi)lí(hi|pe)us(h|ta) (,) in(h|ta)grés(hi|pe)sus(h|ta) est(h|ta) No(h|ta)ë(h|ta) in(h|ta) ar(hi~|ta>lsal3)cam(h|ta) et(h|ta) fí(hf|cllsc3)li(fi|pe)i(gh|pe) e(hg!hwihi|cl-qlhg!pohg)jus,(ih|cl-) (;) et(d|ta) u(f|vihe)xó(h|vi)res(h|vi) fi(h|vi)li(hg/hg|pflsc2)ó(gf|cllsc3)rum(hi|peS) e(gxhg!hwiHGFg|//////cl-qlhg!vshgsu2vihg)jus.(gf|cl-) (::)
-<sp>+</sp> Et(d/fh~|ta-lsi7ta>hg) clau(h|vi)sit(hg|cl) (::)
+<sp>V/</sp> In(h|vi) ar(h|vi)tí(h|vi)cu(h|vi)lo(hi_/hshs_fgf|pe-hhds-hhtohi) di(h|vi)é(h|vi)i(h|vi) il(h|vi)lí(hi|pe)us(h|ta) (,) in(h|ta)grés(hi|pe)sus(h|ta) est(h|ta) No(h|ta)ë(h|ta) in(h|ta) ar(hi~|ta>lsal3)cam(h|ta) et(h|ta) fí(hf|cllsc3)li(fi|pe)i(gh|pe) e(h_g!hwihi|cl-qlhg!pohg)jus,(ih..|cl-) (;) et(d|ta) u(f|vihe)xó(h|vi)res(h|vi) fi(h|vi)li(hg/hg|pflsc2)ó(gf|cllsc3)rum(h_i|peS) e(gxh_g!hwiH__GFg|//////cl-qlhg!vshgsu2vihg)jus.(gf..|cl-) (::)
+<sp>+</sp> Et(d_0//fh~|ta-lsi7ta>hg) clau(h|vi)sit.(hg|cl) (::)
 
-<sp>V/</sp> Gló(h|ta)ri(h|ta)a(hi/hss/fgf|pe-ds-hhtohi) Pa(hf|cllsc3)tri,(fi|pe) et(gh|pe) Fí(h|vi)li(hg!hwihi|cl-qlhg!pohg)o,(ih|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(gf|cllsc3)i(hi|peS) San(gxhg!hwiHGFg|//////cl-qlhg!vshgsu2vihg)cto.(gf|cl-) (::)
-<sp>+</sp> Et(d/fh~|ta-lsi7ta>hg) clau(h|vi)sit(hg|cl) (::)
+<sp>V/</sp> Gló(h|ta)ri(h|ta)a(hi_/hshs_/fgf|pe-hids-hjtohj) Pa(hf|clhhlsc3)tri,(fi|pehh) et(gh|pe) Fí(h|vi)li(h_g!hwihi|//cl-`qlhg!pohg)o,(ih..|cl-) (;) et(h|ta) Spi(h|ta)rí(hg/hg|//pf1lsc2)tu(gf|cllsc3)i(h_i|peS) San(gxh_g!hwiH__GFg|//////cl-`qlhg!vshgsu2vihg)cto.(gf..|cl-) (::)
+
+<sp>+</sp> Et(d_0//fh~|ta-lsi7ta>hg) clau(h|vi)sit.(hg|cl) (::)
