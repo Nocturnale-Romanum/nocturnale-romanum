@@ -1,19 +1,11 @@
 name:Noe vir justus V Fecit sibi arcam;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Noe vir justus;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines:1;
-%%
-(c4) No(d|ta)ë,(dgfg|//tr) <sp>*</sp> vir(gh/ggo|peS`vshe) jus(f!ghhog/hv|vi-hhpp2pihmvihm)tus(ixg!hih|//////cl-ppt2) (,) at(f|ta)que(gh|pe) per(h>|vi>)féc(gf|cllsc3)tus,(fg!hvGFEfvEDed|vihhpp2su1sut2lsc2ci-hhcl-hh) (;) cum(d|ta) De(f/gh|scM1)o(g|ta) am(ghf~|pe>lsi6)bu(g|ta)lá(g!hwihi|ql!poppt1)vit:(hg|cl-) (:)
-<sp>+</sp> Et(f|ta) fe(gh|pe)cit(h|vi) óm(gh>|pe>1)ni(gf|cllsc3)a(fg!hvGFEfvEDed|vihhpp2su1sut2lsc2ci-hgcl-) (,) quæ(g|``vilss2)cúm(dg~|ta>lss3)que(g|ta) præ(h|vi)cé(gf|cllsc3)pit(hj|pe) e(jvjvIH|bv-su2)i(i!jwkJIH/iwjIH|///qlhi!vshippt1sut2qi-hksu2) De(gh!ivHGh|//ci-hhpp2vihh)us.(hg|cl-) (::)
+(c4) No(d|ta)ë,(dgfg|//tr) <sp>*</sp> vir(g_h/ggo|peS`vshe) jus(fg!hv_hog/hv|vi-hhpp2pihmvihm)tus(ixg_h/ih__|//////cl-ppt2) (,) at(f|ta)que(gh|pe) per(h>|vi>)féc(gf|cllsc3)tus,(fg!hvGFE__fv_EDed__|vihhpp2su1sut2lsc2ci-hhcl-hh) (;) cum(d|ta) De(f_0//gh|scM1)o(g|ta) am(ghf~|pe>lsi6)bu(g|ta)lá(g!hwihi|ql!poppt1)vit:(hg..|cl-) (:)
+<sp>+</sp> Et(f|ta) fe(gh|pe)cit(h|vi) óm(g_h>|pe>1)ni(gf|cllsc3)a(fg!hvGFE__fv_EDed__|vihhpp2su1sut2lsc2ci-hgcl-) (,) quæ(g|``vilss2)cúm(dg~|ta>lss3)que(g|ta) præ(h|vi)cé(gf|cllsc3)pit(hj|pehg) e(jv_jv_IH|bv-hisu2)i(i!jwkJI___H/iwj_IH|///qlhj!vshjppt1sut2qi-hksu2) De(gh!iv_HGh|//ci-hhpp2vihh)us.(hg..|cl-) (::)
 
-<sp>V/</sp> Fe(ji|clhhlsc3)cit(jkj/iji/hhog|////tohhtohiprhi) si(ij|pe)bi(hi|pe) ar(g!hwih|ql!cl-ppt1)cam,(hg|cl-) (;) ut(g|vi) sal(fg|pe)va(g|ta)ré(gh|pe)tur(g|ta) u(g|ta)ni(ixhiHGhih|/////pe-su2tohg)vér(ghf~|//pe>)sum(gh|peS) se(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)men.(hiHGhg|pe-1su2cl-) (::)
-<sp>+</sp> Et(f|ta) fe(gh|pe)cit(h|vi) óm(gh>|pe>1)ni(gf|cllsc3)a(fg!hvGFEfvEDed|vihhpp2su1sut2lsc2ci-hgcl-) (::)
+<sp>V/</sp> Fe(ji|clhhlsc3)cit(jkj/iji/hhog|////tohitohjprhj) si(ij|pehg)bi(hi|pe) ar(g!hwih__|ql!cl-ppt1)cam,(hg..|cl-) (;) ut(g|vi) sal(fg|pe)va(g|ta)ré(gh|pe)tur(g|ta) u(g|ta)ni(ixhi_HGhih|/////pe-su2tohg)vér(ghf~|//pe>)sum(g_h|peS) se(iyh!iwji/jkJ_IH|//////ql!clppt1toS2hmsu2)men.(h_i_HGhg..|pe-1hhsu2cl-hh) (::)
+<sp>+</sp> Et(f|ta) fe(gh|pe)cit(h|vi) óm(g_h>|pe>1)ni(gf|cllsc3)a.(fg!hvGFE__fv_EDed__|vihhpp2su1sut2lsc2ci-hgcl-) (::)
