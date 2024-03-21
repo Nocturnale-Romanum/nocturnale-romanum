@@ -1,22 +1,17 @@
 name:Per memetipsum juravi V Arcum meum V Gloria;
 office-part:re;
 mode:6;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Per memetipsum juravi;
-mode: 6;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vi;
-nabc-lines:1;
-%%
-(c4) Per(f|ta) me(f|ta)me(f|ta)típ(gf/gh|cllsc3peS)sum(g|ta) <sp>*</sp> ju(h|vilsl3)rá(ixh/ijiis|//////vi-trhi)vi,(ih|cl-) (,) di(f!goh|sa)cit(hg/hg|clcl-hg) Dó(f|ta)mi(fg!hvGFg|//ci-hhpp2vihh)nus,(gf|cl-) (;) non(f|ta) ad(fc|cllsc3lsi8)ji(f|vi)ci(gh|pe)am(g|vi) ul(gh~|ta>)tra(g|ta) (,) a(ixh!ioj|`salsal4)quas(j/kjk|vi-pohjlsal2) di(ixih|////cl-)lú(h!ioj|sa)vii(hhg|vi-cl-hg) su(f!goh|sa)per(gh~|ta) ter(fg!hvGFg|//ci-hhpp2vihh)ram,(gf|cl-) (:) pac(jvjvjv|tv-lss1)ti(ixhiHF|//////pe-1su2) me(ixf!gwhgh/iv|//////ql!poppt1vihk)i(h|vi) re(g|ta)cor(gh~|ta>)dá(fg!hvGFg|//ci-hhpp2vihh)bor,(gf|cl-) (;)
-<sp>+</sp> Ut(f|ta) non(ixghgh/jkj/hihhg|//////tr-3toS2hklss3toS2hkcl-hk) per(ixh!iwjh/hwihi|//////ql!cl-ppt1qihk!pohk)dam(hg|cl-) (,) a(ixhf!gwhgh|//////cl-ql!po)quis(hg|cl-) di(ixf!gwhgh/iv|//////ql!po-1ppt1vihm)lú(h|vi)vii(hvGFfvEDed|clSsu1ci-cl-) (,) om(ffoe/ggo!h>|//prsa>lsal3)nem(ghg>|//to>) car(fg!hvGFg|//ci-hhpp2vihh)nem.(gf|cl-) (::)
+(c4) Per(f|ta) me(f|ta)me(f|ta)típ(gf/g_h|cllsc3peS)sum(g|ta) <sp>*</sp>() ju(h|vilsl3)rá(ixh_0//ijiis|//////vi-trhi)vi,(ih__|cl-hg) (,) di(f@goh|sa)cit(hg/hg__|clcl-hg) Dó(f|ta)mi(fg!hv_GFg|//ci-hhpp2vihh)nus,(gf..|cl-) (;) non(f|ta) ad(fc|cllsc3lsi8)ji(f|vi)ci(gh|pe)am(g|vi) ul(gh~|ta>)tra(g|ta) (,) a(ixh@ioj|`salsal4)quas(j_0//kjk|vi-pohjlsal2) di(ixih__|////cl-hg)lú(h@ioj|sa)vii(h_hg__|vi-cl-hg) su(f@goh|sa)per(gh~|ta) ter(fg!hv_GFg|//ci-hhpp2vihh)ram,(gf..|cl-) (;) pac(jv_jv_jv_|tv-hjlss1)ti(ixh_i_HF|//////pe-1hhsu2) me(ixf!gwhgh/iv|//////ql!poppt1vihk)i(h|vi) re(g|ta)cor(gh~|ta>)dá(fg!hv_GFg|//ci-hhpp2vihh)bor,(gf..|cl-) (:) 
 
-<sp>V/</sp> Po(f!goh|sa)nam(ixih/ivHGhg|//////cl-ci-cl-) ar(ixh!iwj/k>|vi-qi-hjvi>hn)cum(jh~|vi>) me(ixij|////pe)um(ih|cl) in(h|ta) nú(hg|cllsc3)bi(ixi|////vi)bus(gh|pe) cæ(f!gwhg|ql!clppt1)li,(gf|cl-) (;) et(f|vi) ju(df|pe)rá(fg|pe)bo(f|ta) per(f|ta) déx(ghf|//tolsl2)te(gf|cllsc3)ram(f!goh|sa) me(ixig!hwiHG|//////cl-ql-su2)am.(ghGFgf|pe-1su2cl-) (::)
-<sp>+</sp> Ut(f|ta) non.(ixghgh/jkj/hihhg|//////tr-3toS2hklss3toS2hkcl-hk) (::)
+<sp>+</sp> Ut(f|ta) non(ixghgh_/jkj_/hih_/hg__|//////tr-3toS2hklss3toS2hkcl-hk) per(ixh!iwj_h/hwihi|//////qlhg!cl-hgppt1qihk!pohk)dam(hg__|cl-) (,) a(ixh_f!gwhgh|//////cl-ql!po)quis(hg__|cl-) di(ixf!gwhgh_/iv|//////ql!po-1ppt1vihm)lú(h|vi)vii(hvG_Ffv_EDed__|clSsu1ci-cl-) (,) om(ffoe/ggo!h>|//prsa>lsal3)nem(ghg>|//to>) car(fg!hv_GFg|//ci-hhpp2vihh)nem.(gf..|cl-) (::) 
 
-<sp>V/</sp>. Gló(f!goh|sa)ri(h|ta)a(ixih/ivHGhg|//////cl-ci-cl-) Pa(ixh!iwj/kv|//vi-ql-hjvihm)tri,(j|vi) et(jh~|vi>) Fí(ixij|////pe)li(ih|cllsc3)o,(h|ta) (,|ta) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(ixi|////vi)i(gh|pe) San(f!gwhg|ql!clppt1)cto.(gf|cl-) (::)
-<sp>+</sp> Ut(f|ta) non.(ixghgh/jkj/hihhg|//////tr-3toS2hklss3toS2hkcl-hk) (::)
+<sp>V/</sp> Po(f@goh|sa)nam(ixih__/iv_HGhg__|//////cl-hgci-hgcl-hg) ar(ixh!iwj_/k>|vi-qi-hjvi>hn)cum(jh~|vi>hg) me(ixij|////pehg)um(ih|cl) in(h|ta) nú(hg|cllsc3)bi(ixi|////vi)bus(gh|pe) cæ(f!gwhg|ql!clppt1)li,(gf..|cl-) (;) et(f|vi) e(df|pe)rit(f|vi) sig(f|ta)num(f|ta) fœ́(fg|pe)de(f|ta)ris(f_|ta-) (,) in(f|ta)ter(f|ta) me(f|ta) et(ghf|//tolsl2) in(gf|cllsc3)ter(f@goh|sa) ter(ixi_g!hwi_HG|//////cl-hhql-hhsu2)ram.(g_h_GFgf..|pe-1su2cl-) (::) 
+
+<sp>+</sp> Ut.(f|ta) (::) 
+
+<sp>V/</sp> Gló(f@goh|sa)ri(h|ta)a(ixih__/iv_HGhg__|/////cl-ci-cl-) Pa(ixh!iwj_//kv|//vi-ql-hjvihm)tri,(j|vihh) et(jh~|vi>) Fí(ixij|////pehh)li(ih|cllsc3)o,(h_|ta-) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(ixi|////vihh)i(gh|pe) San(f!gwhg|ql!clppt1)cto.(gf..|cl-) (::) 
+
+<sp>+</sp> Ut.(f|ta) (::) 
