@@ -1,19 +1,12 @@
 name:Ponam arcum meum in nubibus V Cumque obduxero;
 office-part:re;
 mode:1;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Ponam arcum meum in nubibus;
-mode: 1;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: i;
-nabc-lines:1;
-%%
-(c4) Po(f|ta)nam(gh|pe) ar(hhg|vi-`cl-hg)cum(hggo>|clorhg) <sp>*</sp> me(ixf!gwhgh/iv|//////ql!po-1ppt1vihl)um(h|vi) (,) in(f!gwhg~|ql>ppt1) nú(h|vi)bi(g|vi)bus(fdg|`polsi1) cæ(gffvED|clScilsc3)li,(dfddc|toS2cl-) (;) di(fe|cllsc3)xit(fg~|ta) Dó(ggfg|vi-pohg)mi(d|ta)nus(dgffvED|toS2ci-) ad(d|ta) No(de!fvEDe|//ci-hhpp2vihh)ë,(ed|cl-) (:)
-<sp>+</sp> Et(dc~|vi>) re(f|vi)cor(ghg~|pe>)dá(ixhvGF/gwhgh/iv|//////vi-suu2ql!po-1vihk)bor(h|vi) fœ́(f|ta)de(gh|pe)ris(h|vi) me(gf|cl-)i,(fg!hvGFEfvEDCdc|vihhpp2su1sut2vi-hisut1su2cl-hh) (;) quod(fe~|vi>) pé(fg|pe)pi(ggfg|vi-`pohg)gi(dgffvED|to-1lsi7ci-) te(de!fvEDe|//ci-hhvihh)cum.(ed|cl-) (::)
+(c4) Po(f|ta)nam(gh|pe) ar(h_hg__|vi-`cl-hg)cum(hggo>|clorhg) <sp>*</sp>() me(ixf!gwhgh_/iv|//////ql!po-1ppt1vihl)um(h|vi) (,) in(f!gwhg~|ql>ppt1) nú(h|vi)bi(g|vi)bus(fdg|`polsi1) cæ(gf_fvED|clScilsc3)li,(dfd_dc..|toS2cl-) (;) di(fe|cllsc3)xit(fg~|ta) Dó(g_gfg|vi-pohg)mi(d|ta)nus(dgffv_ED|toS2ci-) ad(d|ta) No(de!fv_EDe|//ci-hhpp2vihh)ë,(ed..|cl-) (:)
+<sp>+</sp> Et(dc~|vi>) re(f|vi)cor(ghg~|pe>)dá(ixhvG__F/gwhgh_/iv|//////vi-suu2ql!po-1vihk)bor(h|vi) fœ́(f|ta)de(gh|pe)ris(h|vi) me(gf__|cl-)i,(fg!hvGFE__fvE__DCdc..|vihhpp2su1sut2vi-hisut1su2cl-hh) (;) quod(fe~|vi>) pé(fg|pe)pi(g_gfg|vi-`pohg)gi(dgf_fv_ED|to-1lsi7ci-) te(de!fv_EDe|//ci-hhpp2vihh)cum.(ed..|cl-) (::)
 
-<sp>V/</sp> Cum(h|vi)que(hg/hggof|clclpi) ob(g|vi)dú(gh|pe)xe(g|ta)ro(g|ta) nú(hf|cllsc3)bi(gh|pe)bus(gh|pe) cæ(ixh/iioh|ta-lse1pr)lum,(h|ta) (;) ap(hf|cl)pa(gh|pe)ré(ixhi|pe)bit(h|ta) ar(hi~|ta>)cus(h|ta) me(h|ta)us(hg/hg|pflsc2) in(hf~|vi>) nú(ixf!gwhg/hih|//////ql!clppt1)bi(hvGFE/fwg/hv|vi-su1suu2ql-vi-hk)bus.(gf|cl-) (::)
-<sp>+</sp> Et(dc~|vi>) re(f|vi)cor(ghg~|pe>)dá(ixhvGF/gwhgh/iv|//////vi-suu2ql!po-1vihk)bor.(h|vi) (::)
+<sp>V/</sp> Cum(h|vi)que(hg/hggof|clclpi) ob(g|vi)dú(gh|pe)xe(g|ta)ro(g|ta) nú(hf|cllsc3)bi(gh|pe)bus(gh|pe) cæ(ixh_0/iioh|ta-lse1pr)lum,(h.|ta) (;) ap(hf|cl)pa(gh|pe)ré(ixhi|pe)bit(h|ta) ar(hi~|ta>)cus(h|ta) me(h|ta)us(hg/hg|pflsc2) in(hf~|vi>) nú(ixf!gwhg/hih|//////ql!clppt1)bi(hv_GF_E/fwg_/hv_|vi-su1suu2ql-vi-hk)bus.(gf..|cl-) (::)
+
+<sp>+</sp> Et.(dc~|vi>) (::)
