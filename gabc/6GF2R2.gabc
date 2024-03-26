@@ -1,19 +1,11 @@
 name:Recordatus Dominus Noe V Reversaeque sunt;
 office-part:re;
 mode:3;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Recordatus Dominus Noe;
-mode: 3;
-office-part: Responsorium;
-annotation: Resp. ;
-annotation: iii;
-nabc-lines:1;
-%%
-(c4) Re(g|vi)cor(gd~|vi>lsi6)dá(gh|pe)tus(g|ta) Dó(hi|pe)mi(i|ta)nus(i|ta) No(i|ta)ë,(jh/jss/khhog|////clhhlsc3ds-hjclShjpihj) (;) <sp>*</sp> ad(gk|```pehhlse4)dú(kj/kjjs|///clhiclhisthk)xit(ji|cl-) spí(gh!jvHGFgh|ci1hipp2peShh)ri(g|ta)tum(g|ta) su(hggof|cl!pilsc2)per(ixfg!hv/ig/hg|//////vi-hhpp2pfShk) ter(egffs|tost)ram,(fe|cl-) (:) et(gffd|clcl) im(gh|pe)mi(g|ta)nú(hiHG/hwi/jo|pe-su1sut1qi-hgorhj)tæ(i|ta) sunt(jvjvI~G~|bv-su2) a(hi|pe)quæ(hg|cl-) (:)
-<sp>+</sp> Et(ij|pe) pro(ih|cllsc3)hí(i!jo|vs)bi(i|ta)tæ(jvjvIHG|bv-su3) sunt(h>|vi>) plú(ixhi|////pe)vi(h|ta)æ(h|ta) de(hggof/ghg|//cl!pilsc2tohg) cæ(egffs|tosthh)lis.(fe|cl-) (::)
+(c4) Re(g|vi)cor(gd~|vi>lsi6)dá(gh|pe)tus(g|ta) Dó(hi|pe)mi(i|ta)nus(i|ta) No(i|ta)ë,(jh/jsjs_/kh_hog.|////clhhlsc3ds-hjclShjpihj) <sp>*</sp>(;) ad(gk|```pehhlse4)dú(kj/kjjs|///clhiclhisthk)xit(ji__|cl-hi) spí(gh!jvHGFg_h|ci1hipp2peShh)ri(g|ta)tum(g|ta) su(hggof|cl!pilsc2)per(ixfg!hv_//ig/hg__|//////vi-hhpp2pfShk) ter(egffs|tost)ram,(fe..|cl-) (:) et(gffd|clcl) im(gh|pe)mi(g|ta)nú(hi_HG/hwi/jo|pe-hhsu1sut1qi-hiorhk)tæ(i|ta) sunt(jv_jv_I~G~|bv-hisu2) a(hi|pe)quæ(hg..|cl-) (:)
+<sp>+</sp> Et(ij|pehh) pro(ih|cllsc3)hí(i@jo|vs)bi(i|ta)tæ(jv_jv_IHG|bv-hisu3) sunt(h>|vi>) plú(ixhi|////pe)vi(h|ta)æ(h|ta) de(hggof/ghg|//cl!pilsc2tohg) cæ(egffs|tosthh)lis.(fe..|cl-) (::)
 
-<sp>V/</sp> Re(i|vi)ver(i|vi)sǽ(ikjjs|//tohisthk)que(h!iwji|ql!cl-ppt1) sunt(hhog|pr) a(ij|pe)quæ(h|ta) de(h|ta) ter(hi|pe)ra(h|ta) (,) e(h|ta)ún(hi|pe)tes(h|ta) et(hg~|vi>) re(h|vi)de(j|vihh)ún(ikjjs|//tohhsthj)tes,(ji|cl-) (;) et(ig~|vi>lsi6) cœ(hi|pe)pé(i|ta)runt(i|ta) mí(i!jo|vs)nu(i|ta)i(i|ta) (,) post(i|ta) cen(i|ta)tum(i|ta) quin(i|ta)qua(ikjjvIH/iwji|///toShivi-hksut2qihj!cl-hj)gín(hg|cllsc3)ta(gh!iwj|```qlhhppt2) di(jiioh/ivHGh|clhh!pihhci-hhvihh)es.(hg|cl-) (::)
-<sp>+</sp> Et(ij|pe) pro(ih|cllsc3)hí(ijo|vs)bi(i|ta)tæ(jvjvIHG|bv-su3) sunt.(h>|vi>) (::)
+<sp>V/</sp> Re(i|vi)ver(i|vi)sǽ(ikjjs|//tohisthk)que(h!iwji__|qlhg!cl-hgppt1) sunt(hhog|pr) a(ij|pe)quæ(h|ta) de(h|ta) ter(hi|pe)ra(h|ta) (,) e(h|ta)ún(hi|pe)tes(h|ta) et(hg~|vi>) re(h|vi)de(j|vihh)ún(ikjjs|//tohhsthj)tes,(ji..|cl-hh) (;) et(ig~|vi>lsi6) cœ(hi|pe)pé(i|ta)runt(i|ta) mí(i@jo|vs)nu(i|ta)i(i|ta) (,) post(i|ta) cen(i|ta)tum(i|ta) quin(i|ta)qua(ikj___jvI__H/iwji__|///toShkvi-hlsut2qihj!cl-hj)gín(hg|cllsc3)ta(g_h!iwj|```qlhhppt2) di(jiioh/iv_HGh|clhh!pihhci-hhvihh)es.(hg..|cl-) (::)
+<sp>+</sp> Et(ij|pehh) pro(ih|cllsc3)hí(i@jo|vs)bi(i|ta)tæ(jv_jv_IHG|bv-hisu3) sunt.(h>|vi>) (::)
