@@ -1,17 +1,18 @@
+name:Gaude Maria Virgo V Benedicta tu V Gloria;
+office-part:re;
 mode:6;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c2) Gau(dc~)de,<sp>*</sp>(f) Ma(-hig)rí(hih)a(hg) Vir(h/iji)go,(hihGFgf) (;)
-cun(f)ctas(g) hǽ(g!hwih)re(g)ses(f) so(g)la(f) in(gffo~)te(f)re(exe)mí(dfeEs)sti:(ddo1!ev) (:)
-<sp>+</sp> Quæ(dc) Ga(f)bri(gi)é(h!io1!jv)lis(h) Arch(hg~)án(hj>)ge(g)li(f) dic(g)tis(fe) cre(g)di(gh)dí(f)sti,(FGhwig/hih) (;)
-dum(f) vir(gh~)go(f) De(g)um(fg) et(f) hó(fg)mi(f)nem(ge/fo0!g>) ge(de)nu(dc)í(CDewfEDe)sti,(dc) (;)
-et(f) post(g) par(hih)tum(f) vir(g>)go(f) in(fef>)vi(f)o(f)lá(fh!ivHG)ta(ge) per(gh>)man(ghg>)sí(FGhvGFg)sti.(gf) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(fg~)le(giHG)lú(hggfg)ja.(gf) (::)
-<sp>V/</sp> Be(f)ne(f)dí(f!go1!hv)cta(ihivHGhg) tu(hi) in(jh~) mu(i)li(gh)é(f)ri(f!gwhg)bus,(gf) (;)
-et(f) be(df)ne(f)dí(fg)ctus(f) fru(f)ctus(ghf) ven(fe~)tris(f!go1!hv) tu(ig!hwiHG)i.(ghGFgf) (::)
-<sp>+</sp> Quæ.(dc) (::)
-%Redone for (c2):
-<sp>V/</sp> Gló(f!go1@hv)ri(h)a(ihivHGhg) Pa(h!iwj!kv)tri,(j) et(jh) 
-Fí(gh)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(ghf)tu(fez)i(f!go@hv) San(ig!hwiH!gs<)cto.(ghGFgf) (::)
-<sp>+</sp> Quæ.(dc)  (::)
+(c2) Gau(dc~|vi>lsim2)de(f|vi) Ma(ghg|tolss2)rí(hih|tolsal2)a(hg__|cl-) <sp>*</sp>() Vir(h_0//iji|vi-tohk)go,(h_iH__GFgf..|toShhsu2cl-hh) (;) cun(f|ta)ctas(g|vi) hǽ(g!hwih__|````ql!cl-ppt1lse4)re(g|vi)ses(f|ta) (,) so(g|vi)la(f|ta) in(gffod~|cllsc2or>)te(f|vihg)re(exe|vi)mís(dfees|tosthh)ti,(ddoe.|sa) (;) quæ(ec|cllsc3) Ga(f|vi)bri(gh|pe)é(h@ioj|saMlsc2lsal3)lis(i|vi) Ar(hg~|vi>)chán(h_j>|pe>1hh)ge(g|vi)li(f|ta) (,) dic(g|vi)tis(fe|cllsc2lss6) cre(g|vi)di(gh|pe)dís(f|ta)ti:(f_g!hwig/hih.|ql!clppt2lsc2tohk) (:) <sp>+</sp> Dum(f|ta) Vir(gh~|pe~)go(f|ta) De(g|vi)um(fg|pe) et(f|talse6) hó(f_g|peS)mi(f|ta)nem(gefog>|cllsc2pq>lss3) ge(d_e|peS)nu(dc|cl)ís(c_d!ewf_EDe|ql-ppt2su2vi)ti,(dc..|cl-) (;) et(f|vi) post(g|vi) par(hih>|to>)tum(f|ta) vir(g>|vi>)go(f|ta) (,) in(gffe~|po>)vi(f|vi)o(f|vi)lá(f_h_//ivHG|pe-1/cihh)ta(ge__|cl-) per(g_h>|pe>1)man(ghg>|to>)sís(fg!hv_GFg|//ci-pp2vi)ti.(gf..|cl-) (::) 
+
+<c><i>T.P.</i></c> Al(fg~|pe~)le(g_0//ivHG|//////ta-/cilsc2)lú(hg/gofgv|cl!pivi)ia.(gf..|cl-) (::) 
+
+<sp>V/</sp> Be(f|ta)ne(f|ta)díc(f@goh|sa)ta(iv_HG|ci-hi) tu(gj_|pe-hi) (,) in(ji__|cl-hj) mu(h|vi)li(ghg|to)é(f|ta)ri(fg!hv_GFg|//ci-pp2vi)bus,(gf..|cl-) (;) et(h|ta) be(gh|pe)ne(gf|cl)díc(gh|pe)tus(h|vi) fruc(hg__|cl-)tus(fe|cl) ven(g|vi)tris(gh|pe) tu(f|ta)i.(f_g!hwig/hih.|ql!clppt2tohj) (::) 
+
+<sp>+</sp> Dum(f|ta) Vir(gh~|pe~)go.(f|ta) (::) 
+
+<sp>V/</sp> Gló(f@goh|sa)ri(i|vi)a(hg|cl) Pa(gj|pehh)tri,(j|vihh) (,) et(j|vihh) Fí(jk|pehj)li(j|vihh)o,(hg__/iioh.|cl-pr) (;) et(gh|pe) Spi(f|ta)rí(fe|cllsc3)tu(g|vi)i(gh|pe) San(f|ta)cto.(f_g!hwig/hih.|ql!clppt2tohj) (::) 
+
+<sp>+</sp> Dum(f|ta) Vir(gh~|pe~)go.(f|ta) (::) 
 
