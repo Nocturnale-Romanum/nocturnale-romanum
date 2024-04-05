@@ -1,19 +1,14 @@
 name:Ecce nunc tempus V In omnibus exhibeamus;
 office-part:re;
 mode:3;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Ecce nunc tempus;
-mode: 3;
-office-part: Responsorium;
-annotation: Resp. ;
-annotation: iii;
-nabc-lines:1;
-%%
-(c4) Ec(d|ta)ce(dfd|//tolss3) nunc(e|vi) <sp>*</sp> tem(ef~|ta>)pus(e|ta) ac(e|ta)cep(e|ta)tá(e/fgf|ta-/tohg)bi(fvED|ci-)le,(fd/efe|//cltohg) (;) ec(e|vihh)ce(d|vihg) nunc(ccob~|vs>) di(de|pe)es(e|vi) sa(fe/fhGFghg|//cl-pesu2to)lú(egffs|//tosthh)tis:(eeof|sa) (:) com(d|ta)men(g|vi)dé(ixhi|////pe)mus(h|ta) nos(h|vi)met(ixg!hoi|////sa)íp(h/igh|ta-/pohg)sos(e|ta) (,) in(e|ta) mul(e@g@hg|//clhhpp2lsc3)ta(ge|cllsc3) pa(g|vi)ti(g|vi)én(g>|vi>)ti(f/ghe/fvED|ta-/toS2hgci-hh)a,(ed|cl-) (;) in(c|talsi8) je(de|pe)jú(eeof|sa)ni(dcd|//po)is(d|vi) mul(dgfg/h>|tr-3vi>hj)tis,(g|ta) (;)
-<sp>+</sp> Per(g|ta) ar(iio!j>|````sa>lsal7lsi3)ma(h|vi) jus(g|ta)tí(ixh!iwj|vi-qlhj)ti(g|vi)æ(ef!gwh/igfssded|ql-hhppt2clShlds-hl/tohm) (,) vir(f!gwhg~|viql>hj)tu(ixh/ifg|//////vi-pohj)tis(g!hig/hg|pfShhpp2lss2) De(egffs|tosthh)i.(fe|cl-) (::)
+(c4) Ec(d|ta)ce(dfd|//tolss3) nunc(e|vi) <sp>*</sp> tem(ef~|ta>)pus(e|ta) ac(e|ta)cep(e|ta)tá(e_0//fgf|ta-/tohg)bi(fv_ED|ci-)le,(fd/efe|//cltohg) (;) ec(e|vihh)ce(d|vihg) nunc(ccob~|vs>) di(de|pe)es(e|vi) sa(fe__/fhGFghg|//cl-pesu2to)lú(egffs|//tosthh)tis:(eeof.|sa) (:) com(d|ta)men(g|vi)dé(ixhi|////pe)mus(h|ta) nos(h|vi)met(ixg@hoi|////sa)íp(h_0//igh|ta-/pohg)sos(e|ta) (,) in(e|ta) mul(eg/hg|//clhhpp2lsc3)ta(ge|cllsc3) pa(g|vi)ti(g|vi)én(g>|vi>)ti(f_0//ghe_/fv_ED|ta-/toS2hgci-hh)a,(ed__|cl-) (;) in(c|talsi8) je(de|pe)jú(eeof|sa)ni(dcd|//po)is(d|vi) mul(dgfg_/h>|tr-3vi>hj)tis,(g.|ta) (;) 
 
-<sp>V/</sp> In(i|ta) óm(ikjjs|//tohisthk)ni(h!iwji|ql!clppt1)bus(hhog|pr) ex(i|vi)hi(i!jo|vslsc3)be(h|ta)á(hi|pe)mus(h|ta) nos(h|ta)me(h|ta)típ(hi|pe)sos(h|ta) (,|ta) si(h|ta)cut(h|ta) De(hg|cllsc3)i(h|vi) mi(j|vihh)nís(ikjjs|//tohisthk)tros,(ji|cl-hi) (;) ut(ig~|vi>) non(hi~|ta>) vi(i|ta)tu(i|ta)pe(i|ta)ré(i!jo|vslsc3)tur(i|ta) mi(i|ta)nis(i|ta)té(ikjjvIH/iwji|////toShjvi-hlsuu2qihl!clhl)ri(hg|cl)um(gh!iwj|qlhhppt2) nos(jiioh/ivHGh|clhh!pihhci-hivihi)trum.(hg|cl-) (::)
-<sp>+</sp> Per(g|ta) ar(iio!j>|````sa>lsal7lsi3)ma.(h|vi) (::)
+<sp>+</sp> Per(g|ta) ar(iio!j>|````sa>lsal7lsi3)ma(h|vi) jus(g|ta)tí(ixh!iwj|vi-qlhj)ti(g|vi)æ(e_f!gwh_/ig_fsfs_ded|ql-hhppt2clShlds-hl/tohm) (,) vir(f!gwhg~|viql>hj)tu(ixh_0//ifg|//////vi-pohj)tis(gh/ig/hg__|pfShhpp2lss2) De(egffs|tosthh)i.(fe..|cl-) (::)
+
+<sp>V/</sp> In(i|ta) óm(ikjjs|//tohisthk)ni(h!iwji|ql!clppt1)bus(hhog|pr) ex(i|vi)hi(i@jo|vslsc3)be(h|ta)á(hi|pe)mus(h|ta) nos(h|ta)me(h|ta)típ(hi|pe)sos(h|ta) (,|ta) si(h|ta)cut(h|ta) De(hg|cllsc3)i(h|vi) mi(j|vihh)nís(ikjjs|//tohisthk)tros,(ji..|cl-hi) (;) ut(ig~|vi>) non(hi~|ta>) vi(i|ta)tu(i|ta)pe(i|ta)ré(i@jo|vslsc3)tur(i|ta) mi(i|ta)nis(i|ta)té(ikj___jvI__H/iwji|////toShkvi-hlsuu2qihk!clhk)ri(hg|cl)um(g_h!iwj|qlhhppt2) nos(jiioh/iv_HGh|clhh!pihhci-hivihi)trum.(hg..|cl-) (::) 
+
+<sp>+</sp> Per(g|ta) ar(iio!j>|````sa>lsal7lsi3)ma(h|vi) jus(g|ta)tí(ixh!iwj|vi-qlhj)ti(g|vi)æ.(e_f!gwh_/ig_fsfs_ded|ql-hhppt2clShlds-hl/tohm) (::)
+
