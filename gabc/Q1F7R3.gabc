@@ -1,22 +1,16 @@
 name:Abscondite elemosynam V Date elemosynam V Gloria;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Abscondite eleemosynam;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines:1;
-%%
-(c4) As(d|ta)scón(f/gh>|vi-/pe>hl)di(g|ta)te(g|ta) <sp>*</sp> e(g|ta)lee(g|ta)mó(gh|pe)sy(g|ta)nam(g|talse9) (`) in(g|ta) si(ggoe|pr)nu(g|vi) páu(f!go!h>|sa>)pe(fe|cllsc3)ris,(dec//d!ewfe/fvED|toqlhh!cl-hhppt1``ci-hm) (,) et(dc|cllsc3) ip(f|vi)sa(-ghg|//to) o(h|vi)rat(g|ta) pro(g|ta) vo(gh|pe)bis(g|ta) ad(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hjsu2) Dó(g|ta)mi(gh!ivHGh|//ci-hhpp2vihh)num:(hg|cl-) (:)
-<sp>+</sp> Qui(h|vi-lsal2)a(gf|cl) si(g|vihe)cut(h|vi) a(jk|``peShilsal2)qua(ji/jkkj|clhhlsc2pe-hhcl-hi) (,) ex(h|vi)tín(gf~|vi>lsi2)guit(g!hwji/jkj|vi-qlhj!clhjtohm) ig(jvIHivH~G~|////ci-hhcl>hh)nem,(hg|cl-) (;) i(gh|````pelse4)ta(g|ta) e(g|ta)lee(g|vi)mó(f!goh|sa)sy(fe|cllsc3)na(dec//d!ewfe/fvED|toqlhg!cl-hgppt1``ci-hk) (,) ex(g|vi)tín(ghGFgh>|pe-1su2pe>1)guit(g|ta) pec(gh!iwjIH/iwjIH|ql-hhppt2sut2qi-hisu2)cá(gh!ivHGh|//ci-hhpp2vihh)tum.(hg|cl-) (::)
+(c4) As(d|ta)scón(f_0//gh>|vi-/pe>hl)di(g|ta)te(g|ta) <sp>*</sp>() e(g|ta)lee(g|ta)mó(gh|pe)sy(g|ta)nam(g|talse9) (`) in(g|ta) si(ggoe|pr)nu(g|vi) páu(f@goh>|sa>)pe(fe|cllsc3)ris,(dec//d!ewfe__/fv_ED.|toqlhh!cl-hhppt1``ci-hm) (,) et(dc|cllsc3) ip(f|vi)sa(ghg|//to) o(h|vi)rat(g|ta) pro(g|ta) vo(gh|pe)bis(g|ta) ad(g_h!iwjI__H/iwj_IH|ql-hhppt2sut2qi-hjsu2) Dó(g|ta)mi(gh!iv_HGh|//ci-hhpp2vihh)num:(hg..|cl-) (:)
+<sp>+</sp> Qui(h_|vi-lsal2)a(gf|cl) si(g|vihe)cut(h|vi) a(j_k|``peShilsal2)qua(ji/jk_kj__|clhklsc2pe-hkcl-hk) (,) ex(h|vi)tín(gf~|vi>lsi2)guit(g!hwji/jkj|vi-qlhj!clhjtohm) ig(jv_IHivH~G~|////ci-hicl>hi)nem,(hg..|cl-) (;) i(gh|````pelse4)ta(g|ta) e(g|ta)lee(g|vi)mó(f@goh|sa)sy(fe|cllsc3)na(dec//d!ewfe__/fv_ED|toqlhg!cl-hgppt1``ci-hk) (,) ex(g|vi)tín(g_h_GFg_h>|pe-1su2pe>1)guit(g|ta) pec(g_h!iwjI__H/iwj_IH|ql-hhppt2sut2qi-hisu2)cá(gh!iv_HGh|//ci-hhpp2vihh)tum.(hg..|cl-) (::)
 
-<sp>V/</sp> Da(ji|cllsc3)te(jkj/iji/hhog|//tohhtohiprhi) e(ij|pe)lee(hi|pe)mó(g|ta)sy(g!hwih|ql!cl-ppt1)nam,(hg|cl-) (;) et(g|vi) ec(fg|pe)ce(g|ta) óm(gh|pe)ni(g|ta)a(g|ta) mun(ixhiHGhih|//////pe-su2tohg)da(ghf|//toM1hh) sunt(gh|peS) vo(iyh!iwji/jkJIH|//////ql!clppt1toS2hlsu2)bis.(hiHGhg|pe-1su2cl-) (::)
-<sp>+</sp> Qui(h|vi-lsal2)a(gf|cl) si(g|vihe)cut(h|vi) a(jk|``peShilsal2)qua.(ji/jkkj|clhhlsc2pe-hhcl-hi) (::)
+<sp>V/</sp> Da(ji|cllsc3)te(jkj/iji/hhog|//tohhtohiprhi) e(ij|pe)lee(hi|pe)mó(g|ta)sy(g!hwih__|ql!cl-ppt1)nam,(hg..|cl-) (;) et(g|vi) ec(fg|pe)ce(g|ta) óm(gh|pe)ni(g|ta)a(g|ta) mun(ixhi_HGhih|//////pe-hhsu2tohi)da(ghf|//toM1hh) sunt(g_h|peS) vo(iyh!iwji/jkJ_IH|//////ql!clppt1toS2hlsu2)bis.(h_i_HGhg..|pe-1su2cl-) (::) 
 
-<sp>V/</sp> Gló(j|vi)ri(ji|clhhlsc3)a(jkj/iji/hhog|//tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|vi) Spi(g|vi)rí(ixhiHG/hih|//////pe-su2tohg)tu(ghf|//toM1hh)i(gh|/peS) San(iyh!iwji/jkJIH|///ql!clppt1toS2hmsu2)cto.(hiHGhg|pe-1su2cl-) (::) 
-<sp>+</sp> Qui(h|vi-lsal2)a(gf|cl) si(g|vihe)cut(h|vi) a(jk|``peShilsal2)qua.(ji/jkkj|clhhlsc2pe-hhcl-hi) (::)
+<sp>+</sp> Qui(h_|vi-lsal2)a.(gf|cl) (::) 
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(g_h|peS) San(iyh!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)cto.(h_i_HGhg..|pe-1hgsu2/cl-hh) (::) 
+
+<sp>+</sp> Qui(h_|vi-lsal2)a.(gf|cl) (::) 
