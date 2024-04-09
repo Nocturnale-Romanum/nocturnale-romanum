@@ -1,19 +1,11 @@
 name:Pater peccavi in caelum V Quanti mercenarii;
 office-part:re;
 mode:7;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Pater peccavi in caelum;
-mode: 7;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vii;
-nabc-lines:1;
-%%
-(c3) Pa(ehf/gv|toSlsm2vi-hi)ter,(fe|cl-) (,) <sp>*</sp> pec(gh|````peSlsal4)cá(i|vihg)vi(g|ta) in(i>|vi>) cæ(hig/hvGFEf|////toSvi-hisuu1su2vihh)lum(fe|cl-) (;) et(ef//df/gv/hf!gwhGF|pe-1/vi-pp2`cl-hiqi-hjsu2) co(e|ta)ram(ef!gvFEf|//ci-hhpp2vihh) te;(fe|cl-) (:) jam(g|vi) non(e!fwg/ho|ql-ppt1orhl) sum(g|ta) dig(gh~|ta>)nus(g|ta) vo(g!hoi|````salse4)cá(hg|cl-)ri(giHGhvGFEfe|toS2sut1vi-hhsut1su2cl-hh) (,) fí(i|vi)li(ih|cllss2lsc3)us(h!ioj|sa) tu(ijIHGh|//toSsu2vi)us:(hhog|pr-) (;)
-<sp>+</sp> Fac(g!hwi/jv|ql-ppt1vihm) me(i|ta) sic(i|vi)ut(h|ta) u(h/ijhhg|ta-/tohglsm2clhg)num(ef!gwhe/fv/eeod|```qlhh!cl-hhppt2``vi-hj``prhj) (,) ex(d|``talse4) mer(e|vihe)cen(f!gwh|```vi-qlhj)ná(hg/hvGFg!ho|//cl-hici-hjvshj)ri(g|ta)is(g!hwiHGF/gwhGF|ql!vsppt1sut2qi-hhsu2) tu(ef!gvFEf|//ci-hhpp2vihh)is.(fe|cl-) (::)
+(c3) Pa(ehf___/gv_|toSlsm2vi-hi)ter,(fe__|cl-) <sp>*</sp>(,) pec(g_h|````peSlsal4)cá(i|vihg)vi(g|ta) in(i>|vi>) cæ(hig___/hvG__FEf|////toShhvi-hisuu1su2vihh)lum(fe__|cl-) (;) et(e_f_//df!gv_/h_f!gwh_GF|pe-1/vi-pp2`cl-hiqi-hjsu2) co(e|ta)ram(ef!gv_FEf|//ci-hhpp2vihh) te:(fe..|cl-) (;) jam(g|vi) non(e!fwg_/ho|ql-ppt1orhl) sum(g|ta) dig(gh~|ta>)nus(g|ta) vo(g@hoi|````salse4)cá(hg__|cl-)ri(giHG__hvG__FEfe__|toS2sut1vi-hhsut1su2cl-hh) (,) fí(i|vi)li(ih|cllss2lsc3)us(h@ioj|sa) tu(i_jI__HGh|//toShisu2vihi)us:(h_hog.|pr-) (:)
+<sp>+</sp> Fac(g!hwi_/jv|ql-ppt1vihm) me(i|ta) sic(i|vi)ut(h|ta) u(h_0//ijhhg|ta-/tohglsm2clhg)num(e_f!gwhe__/fv_/eeod|```qlhh!cl-hhppt2``vi-hj``prhj) (,) ex(d|``talse4) mer(e|vihe)cen(f!gwh|```vi-qlhj)ná(hg__/hv_GFg@ho|//cl-hici-hjvshj)ri(g|ta)is(g!hwiHG___F/gwh_GF|qlhh!vshhppt1sut2qi-hisu2) tu(ef!gv_FEf|//ci-hhpp2vihh)is.(fe..|cl-) (::)
 
-<sp>V/</sp> Quan(i!jwkJ!Is>|ql-hjppt1su1sux1)ti(hi/hhog|peS``pr) mer(h|ta)cen(h|ta)ná(hi|pe)ri(h|ta)i(h|ta) in(h|ta) do(h|ta)mo(h|ta) pa(h|ta)tris(h|ta) me(hi|pe)i(h|ta) a(ig|cllsc3)bún(hi|pe)dant(hi|pe) pá(i|``talse4)ni(i!jwkj|qlhh!cl-hhppt1)bus,(ji|cl-hh) (;) e(hi/hhog|peS``pr)go(hih|//tohh) au(ij~|ta>hh)tem(i|tahh) hic(i|tahh) fa(ikj|//tohhlss3)me(hi|pe) pé(i|``talse4)re(i!jwkj|qlhi!cl-hippt1)o!(ji|cl-hh) (;) Sur(hi/hhog~|pe`vs>)gam,(hih|//to) et(i|vi) i(ij|pe)bo(i|ta) ad(i|ta) pa(i|ta)trem(i|ta) me(ij|pe)um,(i|ta) et(ijijIH|//toci-hi) di(ih|cllsc3)cam(h!iwji/jkj|ql!clppt1tohk) e(ih!iwjij|//cl-hh`qihi!pohi)i:(ivHGhg|ci-cl-) (::)
-<sp>+</sp> Fac(g!hwi/jv|ql-ppt1vihm) me(i|ta) si(i|vi)cut.(h|ta) (::)
+<sp>V/</sp> Quan(i!jwk_JI>|ql-hkppt1su1sux1)ti(h_i/hhog|peS``pr) mer(h|ta)cen(h|ta)ná(hi|pe)ri(h|ta)i(h|ta) in(h|ta) do(h|ta)mo(h|ta) pa(h|ta)tris(h|ta) me(hi|pe)i(h|ta) a(ig|cllsc3)bún(hi|pe)dant(hi|pe) pá(i|``talse4)ni(i!jwkj__|qlhi!cl-hippt1)bus,(ji..|cl-hh) (;) e(h_i/hhog|peS``pr)go(hih|//tohh) au(ij~|ta>hh)tem(i|tahh) hic(i|tahh) fa(ikj|//tohhlss3)me(hi|pe) pé(i|``talse4)re(i!jwkj__|qlhi!cl-hippt1)o!(ji|cl-hh) (;) Sur(hi/hhog~|pe`vs>)gam,(hih|//to) et(i|vi) i(ij|pe)bo(i|ta) ad(i|ta) pa(i|ta)trem(i|ta) me(ij|pe)um,(i|ta) et(ijij_IH|//tohhci-hj) di(ih|cllsc3)cam(h!iwji/jkj|ql!clppt1tohk) e(i_h!iwjij|//cl-hh`qihi!pohi)i:(iv_HGhg..|ci-hhcl-hh) (::)
+<sp>+</sp> Fac(g!hwi_/jv|ql-ppt1vihm) me(i|ta) si(i|vi)cut.(h|ta) (::)
