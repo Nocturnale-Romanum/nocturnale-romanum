@@ -1,19 +1,11 @@
 name:Vidi Dominum facie ad faciem V Et dixit nequaquam;
 office-part:re;
 mode:6;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Vidi Dominum facie ad faciem;
-mode: 6;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vi;
-nabc-lines:1;
-%%
-(c4) Vi(h|vi)di(f|ta) Dó(g|vi)mi(f|ta)num(fvfvghg|bv-toShj) <sp>*</sp> fá(ixf!gwhgh/iv|//////ql!po-1ppt1vihm)ci(h|ta)e(h|ta) ad(ixhjHG/hwiHG|////pe-1suu2qi-hgsu2) fá(f|ta)ci(fg!hvGFg|//ci-hhpp2vihh)em(gf|cl-) (;)
-<sp>+</sp> Et(f|ta) sal(h>|vi>)va(f|ta) fac(g|vi)ta(f|ta) est(////fvfvgvDCded|bv-vi-hjsuu2toShl) (,) á(ffoe|pr)ni(g|vi)ma(ixgh!jvHG/hwiHG|//////vi-hippu2suu2qi-hjsu2) me(fg!hvGFg|//ci-hhpp2vihh)a.(gf|cl-) (::)
+(c4) Vi(h|vi)di(f|ta) Dó(g|vi)mi(f|ta)num(fv_fv_ghg___|bv-toShj) <sp>*</sp> fá(ixf!gwhgh_/iv|//////ql!po-1ppt1vihm)ci(h|ta)e(h|ta) ad(ixh_jH__G/hwi_HG|////pe-1hisuu2qi-hjsu2) fá(f|ta)ci(fg!hv_GFg|//ci-hhpp2vihh)em(gf..|cl-) (;)
+<sp>+</sp> Et(f|ta) sal(h>|vi>)va(f|ta) fac(g|vi)ta(f|ta) est(////fv_fv_gvDC___ded___|bv-vi-hjsuu2toShl) (,) á(ffoe|pr)ni(g|vi)ma(ixgh_!jvH__G/hwi_HG|//////vi-hippu2suu2qi-hjsu2) me(fg!hv_GFg|//ci-hhpp2vihh)a.(gf..|cl-) (::) 
 
-<sp>V/</sp> Et(f|ta) di(f!goh|sa)xit:(ixih/ivHGhg|//////cl-ci-cl-) Né(ixh!iwj/kv|///qlppt1vihl)qua(j|ta)quam(j|ta) vo(j|ta)cá(ixjh|////cllsc3)be(i|vi)ris(gh|pe) Ja(f!gwhg|ql!cl-ppt1)cob,(gf|cl-) (;) sed(f|vi) Is(df|pe)ra(f|vi)ël(f|vi) e(f|vi)rit(ghf|//to) no(gf|cl)men(f!goh|sa) tu(ixig!hwiHG|////cl-qi-hgsu2)um.(ghGFgf|pe-1su2cl-) (::)
-<sp>+</sp> Et(f|ta) sal(h>|vi>)va(f|ta) fac(g|vi)ta(f|ta) est(////fvfvgvDCded|bv-vi-hjsuu2toShl) (::)
+<sp>V/</sp> Et(f|ta) di(f@goh|sa)xit:(ixih__/iv_HGhg__|//////cl-hhci-hhcl-hh) Né(ixh!iwj/kv|///qlppt1vihl)qua(j|ta)quam(j|ta) vo(j|ta)cá(ixjh|////cllsc3)be(i|vi)ris(gh|pe) Ja(f!gwhg__|ql!cl-ppt1)cob,(gf..|cl-) (;) sed(f|vi) Is(df|pe)ra(f|vi)ël(f|vi) e(f|vi)rit(ghf|//to) no(gf|cl)men(f@goh|sa) tu(ixi_g!hwi_HG|////cl-hhqi-hisu2)um.(g_h_GFgf..|pe-1su2cl-) (::)
+<sp>+</sp> Et(f|ta) sal(h>|vi>)va(f|ta) fac(g|vi)ta(f|ta) est.(////fv_fv_gvDC___ded___|bv-vi-hjsuu2toShl) (::)
