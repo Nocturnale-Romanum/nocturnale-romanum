@@ -1,19 +1,12 @@
 name:Videns Jacob V Tulerunt autem;
 office-part:re;
 mode:6;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Videns Jacob vestimenta;
-mode: 6;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vi;
-nabc-lines:1;
-%%
-(c4) Vi(ffg|vi-pe)dens(f|ta) Ja(fg|pe)cob(f|ta) <sp>*</sp> ves(f|ta)ti(gh|pe)mén(hg~|vi>)ta(hgfvfvgvDCded|cl-bv-vi-hjsut2toShj) Jo(cd|pe)seph,(ffoe/gwhg/hvGFEfggf|prqlhg!clhgvi-hisuu3pe-hg`cl-hh) (,) sci(hf/gh!iwjjk|cl-ql-hhppt2pehk)dit(j|vi) ves(h|ta)ti(j|vi)mén(j|vi)ta(ij|pe) su(hjggof/gv|to!pilsc2vi)a(gf|cl-) (,) cum(df~|ta>lsi7) fle(ffoe|pr)tu(g|vi) et(ixg!hjHG/hwiHG|vi-hhppt2sut2ql-hisu2) di(fg!hvGFg|//ci-hhpp2vihh)xit:(gf|cl-) (:)
-<sp>V/</sp> Fe(ixhi|peSlsl1)ra(hg|cl-) pés(ixhi|////peS)si(h>|vi>)ma(gf/ghg|//cllsc3``tohg) (`) de(c|talsi7)vo(d|vi)rá(ffg|vi-pehg)vit(f|ta) fí(g|vi)li(f|ta)um(f|ta) me(f|vi)um(efd/ev/CDfvfde|toSvi-hhvi-hipp2`pohl) Jo(cd|pe)seph.(ffoe/gwhg/hvGFEfggf|prqlhi!clhivi-hksuu3/pe-hj`cl-hj) (::)
+(c4) Vi(f_0fg|vi-pe)dens(f|ta) Ja(fg|pe)cob(f|ta) <sp>*</sp>() ves(f|ta)ti(gh|pe)mén(hg~|vi>)ta(hg__fv_fv_gvDC___ded___|cl-bv-vi-hjsut2toShj) Jo(cd|pe)seph,(ffoe/gwhg|prqlhg!clhg|hvGFE____fg_gf..|vi-hisuu3pe-hg`cl-hh) (;) sci(h_f/g_h!iwj_jk|`cl-ql-hippt2pehk)dit(j|vihg) ves(h|ta)ti(j|vihg)mén(j|vihg)ta(ij|pehg) su(hjggof/gv|tohg!pihglsc2vihg)a(gf__|cl-) (,) cum(df~|ta>lsi7) fle(ffoe|pr)tu(g|vi) et(ixg_h!jvH__G/hwi_HG|//vi-hjppt2sut2ql-hisu2) di(fg!hv_GFg|//ci-hhpp2vihh)xit:(gf..|cl-) (:) 
 
-<sp>V/</sp> Tu(f|ta)lé(f!goh|sa)runt(ixih/ivHGhg|//////cl-ci-cl-) au(ixh!iwj/kv|vi-ql-hkvihn)tem(j|ta) fra(j|ta)tres(j|ta) e(jk|pe)jus(j|ta) tú(j|ta)ni(j|ta)cam(j|ta) il(j|ta)lí(jk|pehh)us,(j|ta) (,) mit(j|ta)tén(jh|cllsc3)tes(ixi|////vi) ad(gh|pe) pa(f!gwhg|ql!cl-ppt1)trem:(gf|cl-) (;) quam(f|vi) cum(df|pe) cog(f|ta)no(f|ta)vís(f|ta)set(ghf|//to) pa(gf|cllsc3)ter,(f!goh|sa) a(ixig!hwiHG|////cl-ql-hgsu2)it:(ghGFgf|pe-1su2cl-) (::)
-<sp>+</sp> Fe(ixhi)ra(hg) pés(ixhi)si(h>)ma.(gf/ghg) (::)
+<sp>+</sp> Fe(ixh_i|peSlsl1)ra(hg__|cl-) pés(ixh_i|////peS)si(h>|vi>)ma(gf/ghg|//cllsc3``tohg) (`) de(c|talsi7)vo(d|vi)rá(f_0fg|vi-pehg)vit(f|ta) fí(g|vi)li(f|ta)um(f|ta) me(f|vi)um(efd___/ev_/cd!fv_fde|toSvi-hhvi-hipp2`pohl) Jo(cd|pe)seph.(ffoe/gwhg/hvGFE____fg_gf..|prqlhi!clhivi-hksuu3/pe-hj`cl-hj) (::)
+
+<sp>V/</sp> Tu(f|ta)lé(f@goh|sa)runt(ixih__/iv_HGhg|//////cl-hhci-hhcl-hh) au(ixh!iwj_/kv|vi-ql-hkvihn)tem(j|tahh) fra(j|tahh)tres(j|tahh) e(jk|pehi)jus(j|tahh) tú(j|tahh)ni(j|tahh)cam(j|tahh) il(j|tahh)lí(jk|pehi)us,(j.|tahh) (,) mit(j|tahh)tén(jh|clhhlsc3)tes(ixi|////vi) ad(gh|pe) pa(f!gwhg__|ql!cl-ppt1)trem:(gf..|cl-) (;) quam(f|vi) cum(df|pe) cog(f|ta)no(f|ta)vís(f|ta)set(ghf|//to) pa(gf|cllsc3)ter,(f@goh|sa) a(ixi_g!hwi_HG|////cl-hhql-hisu2)it:(g_h_GFgf..|pe-1su2cl-) (::)
+<sp>+</sp> Fe(ixh_i|peSlsl1)ra(hg__|cl-) pés(ixh_i|////peS)si(h>|vi>)ma.(gf/ghg|//cllsc3``tohg) (::)
