@@ -1,19 +1,11 @@
 name:Iste est frater vester V Attollens autem;
 office-part:re;
 mode:7;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Iste est frater vester minimus;
-mode: 7;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: vii;
-nabc-lines:1;
-%%
-(c3) Is(e|ta)te(ei|pe) est(i|vi) fra(i|vi)ter(h|vihe) ves(g|ta)ter(h|vi) <sp>*</sp> mí(ijij|//tr)ni(hi|peS)mus(ivHGhvGFEfe|clShhsut1vi-hisuu1su2cl-hh) (,) de(e|ta) quo(ei|pe) di(i|vihg)xe(h|vi)rá(f|ta)tis(hf!gwhGF|cl-`ql-hgsu2) mi(ef!gvFEf|//ci-hhpp2vihh)hi?(fe|cl-) (:) De(ihili|pohilsl2cl-hklsal3)us(i|ta) mi(i|ta)se(j|vi)re(k|vihh)á(j|vi)tur(i|ta) ti(j|vihg)bi,(ihhog|cllst2````pi) fi(h!iwji|cl-qlhg!cl-hg)li(ih!iwjij|//cl-hh`qihi!pohi) mi!(ji|cl-) (:)
-<sp>+</sp> Fes(i|```talse4)ti(i|ta)na(i|ta)vít(ki!jwkj|cl-hi`qlhi!cl-hi)que(i|vi) in(hhog|pr) do(hf!gwhGFEf|///cl-`qihg!vshgsu2vihg)mum(fe|cl-) et(ef|peS) plo(fd!ewfEDe|cl-`ql-hgsu2vi)rá(ef!gvFEf|//ci-hhpp2vihh)vit,(fe|cl-) (;) qui(f|vi)a(ed|cllsc3) e(e|vihe)rum(f|vi)pé(hi|```peSlsl4)bant(ih/ihhog|pflst2pilsm2) lá(h!iwji|vi-qlhj!cl-hj)cry(ih!iwjij|//cl-hh`qlhi!pohi)mæ,(ji|cl-hh) (,) et(g/hi~|vi-/ta>) non(i>|vi>) pót(hg/hoi|clpqhg)e(f!gwhGFEf|ql!vsppt1su2vi)rat(fe|cl-) se(e|ta-) con(fefd~|po>)ti(e|vi)né(e!fwgfg|ql!poppt1lse4)re.(fe|cl-) (::)
+(c3) Is(e|ta)te(ei|pe) est(i|vi) fra(i|vi)ter(h|vihe) ves(g|ta)ter(h|vi) <sp>*</sp>() mí(ijij|//tr)ni(h_i|peS)mus(ivHG__hvG__FEfe__|clShhsut1vi-hisuu1su2cl-hh) (,) de(e|ta) quo(ei|pe) di(i|vihg)xe(h|vi)rá(f|ta)tis(h_f!gwh_GF|cl-`ql-hgsu2) mi(ef!gv_FEf|//ci-hhpp2vihh)hi?(fe..|cl-) (:) De(ihili__|````pohilsl2cl-hklsal3)us(i|ta) mi(i|ta)se(j|vi)re(k|vihh)á(j|vi)tur(i|ta) ti(j|vihg)bi,(ihho_g|cllst2````pi) fi(h!iwji__|qlhg!cl-hgppt1)li(i_h!iwjij|//cl-hh`qihi!pohi) mi!(ji..|cl-) (:)
+<sp>+</sp> Fes(i|```talse4)ti(i|ta)na(i|ta)vít(k_i!jwkj__|cl-hj`qlhj!cl-hj)que(i|vi) in(hhog|pr) do(h_f!gwhG__FEf|///cl-`qihg!vshgsu2vihg)mum(fe__|cl-) et(e_f|peS) plo(f_d!ewf_EDe|cl-`ql-hgsu2vi)rá(ef!gv_FEf|//ci-hhpp2vihh)vit,(fe..|cl-) (;) qui(f|vi)a(ed|cllsc3) e(e|vihe)rum(f|vi)pé(h_i|```peSlsl4)bant(ih__/ih__ho_g|pflst2pilsm2) lá(h!iwji__|vi-qlhj!cl-hj)cry(i_h!iwjij|//cl-hh`qlhi!pohi)mæ,(ji..|cl-hh) (,) et(g_0//hi~|vi-/ta>hh) non(i>|vi>) pót(hg/hoi|clpqhg)e(f!gwhG__FEf|ql!vsppt1su2vi)rat(fe__|cl-) se(e_|ta-) con(fefd~|po>)ti(e|vi)né(e!fwgfg|ql!poppt1lse4)re.(fe..|cl-) (::)
 
-<sp>V/</sp> At(i|ta)tól(i!jwkJ!Is|//ql-hkppt1su1sux1)lens(hi/hhog|peS``pr) au(h<|ta>)tem(h|ta) Jo(hi|pe)seph(h|ta) ó(hi|pe)cu(h|ta)los,(h|ta) (,) vi(h|ta)dit(h|ta) Bén(ig~|vi>)ja(hi|pe)min(hi|pe) stan(i!jwkj|qlhh!cl-hhppt1)tem;(ji|cl-hh) (;) com(hi|pe)mó(ikksskvJIH|pe-hjdshlvihlsut3|HIkssskol|tshmpp2pqhp)ta(i|ta) sunt(i>|vi>) óm(i>|vi>)ni(h|ta)a(hg|cl) vís(hi|pe)ce(i|vi)ra(hi|pe) e(i!jwkj|qlhh!clhhppt1)jus(ji|cl-hh) (;) su(i|ta)per(ijijIH|//toci-hi) fra(ih|cl)tre(h!iwji/jkj|qlhh!clhhppt1tohm) su(ih!iwjij|//cl-`qihg!pohg)o.(ivHGhg|ci-cl-) (::)
-<sp>+</sp> Fes(i|```talse4)ti(i|ta)na(i|ta)vít(ki!jwkj|cl-hi`qlhi!cl-hi)que.(i|vi) (::)
+<sp>V/</sp> At(i|ta)tól(i!jwk_JI>|//ql-hkppt1su1sux1)lens(h_i/hhog|peS``pr) au(h<|ta>)tem(h|ta) Jo(hi|pe)seph(h|ta) ó(hi|pe)cu(h|ta)los,(h|ta) (,) vi(h|ta)dit(h|ta) Bén(ig~|vi>)ja(hi|pe)min(hi|pe) stan(i!jwkj__|qlhh!cl-hhppt1)tem;(ji..|cl-hh) (;) com(hi|pe)mó(ik_kskskvJIH___|pe-hjdshlvihlsut3|hikssskol|tshmpp2pqhp)ta(i|ta) sunt(i>|vi>) óm(i>|vi>)ni(h|ta)a(hg|cl) vís(hi|pe)ce(i|vi)ra(hi|pe) e(i!jwkj|qlhh!clhhppt1)jus(ji..|cl-hh) (;) su(i|ta)per(ijij_IH|//tohhci-hj) fra(ih|cl)tre(h!iwji/jkj|qlhh!clhhppt1tohm) su(i_h!iwjij|//cl-`qihg!pohg)o.(iv_HGhg..|ci-hhcl-hh) (::)
+<sp>+</sp> Fes(i|```talse4)ti(i|ta)na(i|ta)vít(k_i!jwkj__|cl-hj`qlhj!cl-hj)que.(i|vi) (::)
