@@ -1,19 +1,11 @@
 name:Splendida facta est facies V Cumque descendisset;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Splendida facta est facies;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines:1;
-%%
-(c4) Splén(dgf/gh>|tope>hh)di(g|ta)da(gh|````pelse7) fac(h|vi)ta(g|ta) est(ixg/higgf|////ta-/toS2hgcl-hh) <sp>*</sp> fá(gh/jij|pohhppu2)ci(hg|cl)es(g<|ta>) Móy(hvGFgh>|ci-pe>1)si,(g|ta) (;) dum(g|ta) res(h|vi)pí(jij|po)ce(h|ta)ret(h|ta) in(h|ta) e(h|ta)um(hfh|polsi8) Dó(hjg|peS)mi(gf!gwhgh|//cl-`qihg!pohg)nus;(hg|cl-) (;)
-<sp>+</sp> Vi(h|vi)dén(jh/jk~|clhhta>hh)tes(k|vihi) se(k|vihi)ni(k|vihi)ó(ki/jkh/iv|//clhitoS2hjvihk)res(hhog|pr) cla(f|ta)ri(ixhih|//////to)tá(hg|cllsc3)tem(iyi|vi) vul(ji/jvIHG|cl-hhvi-hhsuu1su2)tus(gh|pe) e(hg/hvG~F~|cl-cl->)jus,(ffog|vi-pq) (,) ad(f|ta)mi(gh|pe)rán(h>|vi>)tes(ghFEfvEDed|toS2sut1ci-cl-) (,) ti(fe|cl)mu(fg|pe)é(g|ta)runt(gh!iwjIH/iwjIH|```ql-hhppt2suu2qi-hjsu2) val(gh!ivHGh|//ci-hhpp2vihh)de.(hg|cl-) (::)
+(c4) Splén(dgf/gh>|tope>hh)di(g|ta)da(gh|````pelse7) fac(h|vi)ta(g|ta) est(ixg_0//higgf__|////ta-/toS2hgcl-hh) <sp>*</sp> fá(g_h/jij|pohhppu2)ci(hg|cl)es(g<|ta>) Móy(hv_GFg_h>|ci-pe>1)si,(g.|ta) (;) dum(g|ta) res(h|vi)pí(jij|po)ce(h|ta)ret(h|ta) in(h|ta) e(h|ta)um(hfh|polsi8) Dó(hjg___|toShh)mi(g_f!gwhgh|//cl-`qihg!pohg)nus;(hg..|cl-) (:)
+<sp>+</sp> Vi(h|vi)dén(jh/jk~|clhhta>hh)tes(k|vihi) se(k|vihi)ni(k|vihi)ó(ki/jkh_/iv|//clhitoS2hjvihk)res(hhog|pr) cla(f|ta)ri(ixhih|//////to)tá(hg|cllsc3)tem(iyi|vi) vul(ji__/jvI__HG|cl-hhvi-hhsuu1su2)tus(gh|pe) e(hg__/hv_G~F~|cl-cl->)jus,(f_0fog.|vi-pq) (,) ad(f|ta)mi(gh|pe)rán(h>|vi>)tes(ghFE__fv_EDed__|toS2sut1ci-cl-) (,) ti(fe|cl)mu(fg|pe)é(g|ta)runt(g_h!iwjI__H/iwj_IH|```ql-hhppt2suu2qi-hjsu2) val(gh!iv_HGh|//ci-hhpp2vihh)de.(hg..|cl-) (::)
 
-<sp>V/</sp> Cum(ji~|vi>hh)que(jkj/iji/hhog|tohhtohiprhi) des(hi|pe)cen(i|ta)dís(i|ta)set(i|ta) de(i|ta) mon(i|ta)te(ih|cllsc3) Sí(jk|``pehilsl4)na(j|ta)i,(j|ta) (,) por(j|ta)tá(jk|pehi)bat(j|ta) du(j|ta)as(j|ta) tá(j|ta)bu(ji|clhhlsc3)las(ih|cllsc3) tes(ij|pe)ti(hi|pe)mó(g|ta)ni(g!hwih|ql!cl-ppt1)i,(hg|cl-) (;) ig(g|vi)nó(fg|pe)rans(g|ta) quod(g|ta) cor(g|ta)nú(g|ta)ta(g|ta) es(g|ta)set(g|ta) fá(g|ta)ci(g|ta)es(g|ta) e(gh|pe)jus(g|ta) (,) ex(g|ta) con(g|ta)sór(gh|pe)ti(g|ta)o(g|ta) ser(ixhiHGhih|//////pe-su2tohg)mó(ghf|toM1hh)nis(gh|peS) De(h!iwji/jkJIH|ql!clppt1toS2hmsu2)i.(hiHGhg|pe-1su2cl-) (::)
-<sp>+</sp> Vi(h|vi)dén(jh/jk~|clhhta>hh)tes(k|vihi) se(k|vihi)ni(k|vihi)ó(ki/jkh/iv|//clhitoS2hjvihk)res.(hhog|pr) (::)
+<sp>V/</sp> Cum(ji~|vi>hh)que(jkj/iji/hhog|tohhtohiprhi) des(hi|pe)cen(i|ta)dís(i|ta)set(i|ta) de(i|ta) mon(i|ta)te(ih|cllsc3) Sí(jk|``pehilsl4)na(j|ta)i,(j|ta) (,) por(j|ta)tá(jk|pehi)bat(j|ta) du(j|ta)as(j|ta) tá(j|ta)bu(ji|clhhlsc3)las(ih|cllsc3) tes(ij|pe)ti(hi|pe)mó(g|ta)ni(g!hwih__|ql!cl-ppt1)i,(hg..|cl-) (;) ig(g|vi)nó(fg|pe)rans(g|ta) quod(g|ta) cor(g|ta)nú(g|ta)ta(g|ta) es(g|ta)set(g|ta) fá(g|ta)ci(g|ta)es(g|ta) e(gh|pe)jus(g|ta) (,) ex(g|ta) con(g|ta)sór(gh|pe)ti(g|ta)o(g|ta) ser(ixhi_HGhih|//////pe-su2tohg)mó(ghf|to)nis(g_h|peS) De(h!iwji__/jkJ_IH|ql!cl-ppt1toS2hmsu2)i.(h_i_HGhg..|pe-1hhsu2cl-hh) (::)
+<sp>+</sp> Vi(h|vi)dén(jh/jk~|clhhta>hh)tes.(k|vihi) (::)
