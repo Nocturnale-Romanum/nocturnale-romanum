@@ -1,10 +1,11 @@
+name:Adjutor et susceptor meus V Iniquos odio;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ad(f)ju(eeo1@fv)tor <sp>*</sp>(fd) et(dfe~) sus(f)cé(ghg)ptor(fe~) me(dfO1h)us(h) tu(gfg) es,(ghGFghg) Dó(e)mi(egffs)ne:(eeo1!fv) (:)
-et(d) in(g) ver(hi~)bum(h) tu(hggO1f)um(g) spe(h)rá(ghgFEf)vi:(eeo1!fv) (:)
-<sp>+</sp> De(d)cli(g)ná(hi)te(h) a(h) me,(hggO1f) ma(gh)lí(ghgFEf)gni:(fe) (:)
-et(e) scru(g)tá(fvvED)bor(fd/efe) man(c)dá(df)ta(fvED) De(fg)i(gvFGhvig/hg) me(egffs)i.(fe) (::)
-<sp>V/</sp> I(h)ní(gh)quos(gf!gwhghvGEfe) ó(gf)di(gh)o(gf) há(e)bu(e!fwgf)i:(fe) (;)
-et(f) le(de)gem(e) tu(e!fwgFE)am(g) di(ghghvGF) lé(EFgef)xi.(ed) (::)
-<sp>+</sp> De(d)cli(f)ná(hi)te.(h) (::)
+(c4) Ad(e_|vi-)jú(eeof|sa)tor(fd|cllsc3) <sp>*</sp>() et(dfe~|pe>) su(f|vi)cép(ghg|//to)tor(e>|vi>) me(d@foh|sa)us(h|vi) (,) tu(gfg|//po) es,(gh_GFghg|pe-su2tohg) Dó(e|ta)mi(egffs|//tosthh)ne,(eeof.|sa) (;) et(d|``talsi7) in(g|vi) ver(ixhi|////ta>)bum(h|ta) tu(hggof|cl!pi)um(g|vi) spe(h|vi)rá(g_hG__FEf|toSsu2vi)vi.(eeof.|sa) (:)
+<sp>+</sp> De(d|ta)cli(g|vi)ná(ixhi|////pe)te(h|ta) a(h|ta) me,(hggof|cl!pi) ma(gh|pe)líg(g_hG__FEf|toSsu2vi)ni,(fe..|cl-) (;) et(e|```talse4) scu(g|vi)tá(fv_fv_ED|bv-su2)bor(fd/efe|cllsl2tohglsc2) (,) man(c|ta)dá(de|pe)ta(fv_ED|ci-lsl3) De(f_g|peS)i(ixgv_//fg!hv_//ig/hg__|//////vi-vi-hgpp2clhkcl-hl) me(egffs|//tosthh)i.(fe..|cl-) (::)
 
+<sp>V/</sp> In(h|vi)í(gh|pe)quos(g_f!gwhg__hv_GEfe__|cl-`qlhg!cl-hgci-hjcl-hj) ó(gf|cl)di(gh|pe)o(gf|cl) há(e|ta)bu(e!fwgf__|ql!cl-ppt1)i:(fe..|cl-) (;) et(f|vi) le(de|pe)gem(e|ta) tu(e!fwg_FE|ql-ppt1su2)am(g|vi) di(ghgh_GF|//toci-) lé(ef/gffs|popp2)xi.(ed..|cl-) (::)
+<sp>+</sp> De(d|ta)cli(g|vi)ná(ixhi|////pe)te(h|ta) a(h|ta) me.(hggof|cl!pi) (::)
