@@ -1,12 +1,13 @@
+name:Circumdederunt me V Quoniam tribulatio;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Cir(fe~)cum(efEC)de(ef)dé(fi/jhhvGFE)runt(g!h>) me <sp>*</sp>(f) (;)
-vi(f!go1!hvhsshj/ijhhvGFE)ri(fg) men(ivHGh>)dá(fgf)ces:(f) (:)
-si(kxfji/jwkJI)ne(ijIH) cau(g/hihi>)sa(hg) fla(ef)gél(g/hji/ji>)lis(hg) ce(e)ci(fg)dé(g)runt(ivHGh>) me:(f) (;)
-<sp>+</sp> Sed(fe~) tu,(evfvEC) Dó(dc)mi(egef)ne(gf) de(i)fén(HsIIE)sor,(fgFE) (,)
-vín(f!go1!hvhssshj/ijhhvGFE)di(fg)ca(ivHGhf) me.(f) (::)
-<sp>V/</sp> Quó(kxji/jwkJI)ni(ijIH)am(hvgihi/hhO1g) tri(e)bu(fh)lá(GHiji/ji)ti(hi)o(ihhO1g) pró(e)xi(fg)ma(ivHGhf) est,(f) (;)
-et(c) non(cfe/fg~) est(f) qui(i) ád(hsIIE)ju(fgFE)vet.(e) (::)
-<sp>+</sp> Sed.(fe~)  (::)
-Cir(fe~)cum(efEC)de(ef)dé(fi/jhhvGFE)runt.(g!h>) (::)
+(f3) Cir(f|vi>)cum(e_f_EC|```pe-1su2lsi7)de(ef|pe)dé(f_0fi_/jhhvGFE____|ta-pe-clShhvi-hhsuu3)runt(ggoh>|sa>) me(f|vi) <sp>*</sp>(,) vi(e_0/fggo/hiio/h_j//ijhhvGFE____|ta/pthglsm2pthipeShktoS2hmvi-hpsut3)ri(fog|pq) men(iv_HGh>|ci-hhvi>hg)dá(fgf___|toS)ces:(f.|ta) (;) si(kxfj__i!jwk_JI|//////toShkql-hlsu2)ne(i_j_IH|pe-1hjsu2) cau(g_0//hihi>|ta/tr>)sa(hg__|cl-) (,) fla(e/f<|ta/ta>hg)gél(g_0//hji_/jvI~H~|ta/toS2hhcl>hi)lis(hg__|cl-) ce(e|ta)ci(fg|pe)dé(g|vi)runt(iv_HGh>|ci-hhvi>hh) me:(f.|ta) (:)
+<sp>+</sp> Sed(f|```vi>lse4) tu,(e_f_EC|pe-1su2) Dó(dxdc__|////cl-)mi(egef|//trhg)ne(gf__|cl-) de(i|``vilsl2)fén(h_0//isises|//ta-/tg)sor,(f_gFE___|pe-1sut2) (,) vín(e_0/fggo/hiio/h_j//ijhhvGFE____|ta/ptlsm2/pthh/peShj/toS2hjvi-hlsut3)di(fog|pq)ca(iv_HGhf|ci-hhcllsc3) me.(f|ta) (::)
 
+<sp>V/</sp> Quó(kxfj__i!jwk_JI|/////toShkql-hlsu2)ni(i_j_IH|pe-1hisu2ta)am(g_0//hihi_//hhog|ta/tr-1hg``prhg) (,) tri(e|ta)bu(fg|pe)lá(g_0//hji/ji|ta-tohgclhh)ti(hi|pe)o(iv_HG|ci-hh) pró(e|ta)xi(fog|pq)ma(iv_HGhf|ci-hhcllsc3) est,(f.|vi-) (;) et(c|talsi8) non(cfe/fg|topehh) est(f|ta) qui(i|vi) ád(h_0//isises|//ta-tg)ju(f_g_FE|pe-1su2)vet.(e.|ta) (::)
+<sp>+</sp> Sed(f|```vi>lse4) tu,(e_f_EC|pe-1su2) Dó(dxdc__|////cl-)mi(egef|//trhg)ne. (gf__|cl-) (::)
+
+<sp>R/</sp> Cir(f|vi>)cum(e_f_EC|```pe-1su2lsi7)de(ef|pe)dé(f_0fi_/jhhvGFE____|ta-pe-clShhvi-hhsuu3)runt(ggoh>|sa>) me(f|vi) (::)
