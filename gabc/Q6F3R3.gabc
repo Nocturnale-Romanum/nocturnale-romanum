@@ -1,10 +1,14 @@
-mode:;
+name:Synagoga populorum V Judica me Domine;
+office-part:re;
+mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Sy(c)na(c)gó(e!fg)ga <sp>*</sp>(f) po(f)pu(f)ló(fg)rum(f) cir(f)cum(f)de(h)dé(hgh)runt(f!g>) me:(ffO1e) (;)
-et(e) non(f) ré(hi)di(h)di(h) re(h)tri(h)bu(h)én(hi~)ti(h)bus(hhO1g) mi(f)hi(hf/gwhg) ma(FGhvGFg)la.(gf) (:)
-<sp>+</sp> Con(hhg~)su(hi)mé(hhO1g)tur,(h!i>) Dó(hi)mi(ghGFg)ne,(gf) ne(f)quí(fg)ti(f)a(FGhvGFE) pec(f)ca(hg/hih)tó(hvGFg)rum,(ffO1e) (;)
-et(ef)dí(hgho0!iv)ri(ihhvGF)ges(hf!gwhg) ju(FGhvGFg)stum.(gf) (::)
-<sp>V/</sp> Jú(EFgwhhi)di(h)ca(h) me,(h) Dó(ij)mi(i)ne,(h) se(h)cún(hi~)dum(h) ju(h)stí(hg)ti(hi)am(gh~) me(f!gwhg)am,(gf) (;) et(f) se(ef)cún(f)dum(f) in(f)no(f)cén(fg~)ti(f)am(f) me(f!gwhGFE)am(f) su(hg/hih)per(hvGFg) me.(ffO1e) (::)
-<sp>+</sp> Con(hhg~)su(hi)mé(hhO1g)tur.(h!i>) (::)
-Sy(c)na(c)gó(e!fwg)ga.(f)  (::)
+(f3) Sy(c|ta)na(c|ta)gó(e_0//fg|scM1)ga(f|ta) <sp>*</sp>() po(f|ta)pu(f|ta)ló(fg|pe)rum(f|ta) cir(f|ta)cum(f|ta)de(h|vi)dé(hgh|po)runt(f!g>|pe>) me:(ffoe.|pr) (;) et(e|ta) non(f|vi) réd(hi|pe)di(h|ta)di(h|ta) re(h|ta)tri(h|ta)bu(h|ta)én(hi~|ta>)ti(h|ta)bus(hhog|pr) mi(f|ta)hi(h_f!gwhg__|cl-`qlhg!cl-hgppt1) ma(fg!hv_GFg|//ci-pp2vihh)la.(gf..|cl-) (:)
+<sp>+</sp> Con(hhg~|vs>)su(hi|pe)mé(hhog|pr)tur,(hi>|pe>) Dó(h_i|peS)mi(g_h_GFg|pe-1su2vi)ne,(gf__|cl-) ne(f|ta)quí(fg|pe)ti(f|ta)a(fg!hvGFE|ci1hhpp2) pec(f|vi)ca(hg/hih|cltohg)tó(hv_GFg|ci-vi)rum(ffoe.|pr) (;) et(e_f|peS) dí(hgho!iv|clpq)ri(ih_hv_GF|clS-ci-hg)ges(h_f!gwhg__|cl-`qihg!cl-hg) jus(fg!hv_GFg|//ci-hhpp2vihh)tum.(gf..|cl-) (::)
 
+<sp>V/</sp> Jú(e_f!gwhhi|```qlhhppt2pehj)di(h|ta)ca(h|ta) me,(h|ta) Dó(ij|pe)mi(i|vi)ne,(h|ta) se(h|ta)cún(hi~|ta>)dum(h|ta) jus(h|ta)tí(hg|cl)ti(hi|pe)am(gh~|pe) me(f!gwhg__|ql!cl-ppt1)am,(gf..|cl-) (;) et(f|vi) se(ef|pe)cún(f|ta)dum(f|ta) in(f|ta)no(f|ta)cén(fg~|ta>)ti(f|ta)am(f|ta) me(f!gwh_GFE__|ql-ppt1su1sut2)am(f|vi) su(hg/hih|cltohg)per(hv_GFg|ci-vi) me.(ffoe.|pr) (::)
+
+<sp>+</sp> Con(hhg~|vs)su(hi|pe)mé(hhog|pr)tur.(hi>|pe>) (::)
+
+<sp>R/</sp> Sy(c|ta)na(c|ta)gó(e_0//fg|scM1)ga.(f|ta) (::)
