@@ -1,10 +1,11 @@
+name:Velum templi scissum est V Petrae scissae;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Ve(f)lum(efEC) tem(ef~)pli(f) scis(hg/ho1!iv)sum(f!gwhgFEf) est,<sp>*</sp>(fe) (;)
-Et(e) om(f)nis(h) ter(hvGFEf)ra(f!gwh/ihhO1g) tré(f)mu(FGhvGFg)it:(gf) (:)
-la(fi)tro(ihhg) de(fe) cru(f!gwhGFgvFEf)ce(fe) cla(e)má(g)bat,(ihhs) di(f!gwhihFEf)cens:(fe) (;)
-<sp>+</sp> Me(e)mén(f)to(h) me(hg)i,(ef) Dó(f)mi(FGhvGFg)ne,(gf) (,)
-dum(fc~) vé(e!fg)ne(f)ris(f/ghf/g/ffO1e) in(e!f>) reg(fh>)num(GHivjhivHGs<) tu(f!gwhgh)um.(gf) (::)
-<sp>V/</sp> Pe(EFgwhhi)træ(h) scis(ij)sæ(i) sunt,(h) et(h) mo(h)nu(h)mén(hg~)ta(hi) a(gh)pér(f)ta(f!gwhg) sunt,(gf) (;)
-et(f) mul(ef~)ta(f) cór(f)po(f)ra(f) sanc(f)tó(fg)rum,(f) qui(f) dór(fg~)mi(f)ant,(f!gwhGFE) sur(f)re(hg/hih)xé(hvGFg)runt.(ffO1e) (::)
-<sp>+</sp> Me(e)mén(f)to.(h) (::)
+(f3) Ve(f|vi)lum(e_f_EC|pe-1su2) tem(ef~|ta>)pli(f|vi) scis(hg/hoi|cllsc2pq)sum(f!gwhG__FEf|ql!vsppt1su2vi) est,(fe..|cl-) <sp>*</sp>(,) Et(e|``talse4) om(f|vi)nis(h|vi) ter(hvG__FEf|vi-suu1su2vi)ra(f!gwh/ih_hog|qlppt1clShipihi) tré(f|ta)mu(fg!hv_GFg|//ci-hhpp2vihh)it:(gf..|cl-) (:) la(f_i|`````peSlse4lsl3)tro(ihhg__|//clScl-) de(fe|cllsc3) cru(f!gwh_GFgv_FEf|ql-ppt1su2ci-vi)ce(fe__|cl-) (,) cla(e|ta)má(g|vi)bat,(ihhs|cllsc2sthh) di(f!gwhG__FEf|ql!vsppt1su2vi)cens:(fe..|cl-) (:)
+<sp>+</sp> Me(e|```talse4)mén(f|vi)to(h|vi) me(hg|cllsc3)i,(ef|pelsi8) Dó(f|ta)mi(fg!hv_GFg|//ci-hhpp2vihh)ne,(gf..|cl-) (;) dum(fc~|```vi>lse1lsi6) vé(e_0//fg|scM1)ne(f|ta)ris(f_0//ghf_/gv_/ffoe|ta-/toS2hgvi-hh`prhh) in(e_f>|pe>1) re(h_i>|``pe>1lss4)gnum(gh!iv_//jh/ivH__G>|vi-hhpp2clhllssc2/vi-hmsut1sux1) tu(f!gwhgh|ql!poppt1)um.(gf..|cl-) (::)
+
+<sp>V/</sp> Pe(e_f!gwhhi|````qlhhppt2pehj)træ(h|ta) scis(ij|pe)sæ(i|vi) sunt,(h|ta) (,) et(h|ta) mo(h|ta)nu(h|ta)mén(hg~|vi>)ta(hi|pe) a(gh|pe)pér(f|ta)ta(f!gwhg__|ql!cl-ppt1) sunt,(gf..|cl-) (;) et(f|vi) mul(ef~|ta>)ta(f|ta) cór(f|ta)po(f|ta)ra(f|ta) san(f|ta)ctó(fg|pe)rum,(f|ta) (,) qui(f|ta) dór(f|ta)mi(f|ta)e(f|ta)rant,(f!gwh_GFE__|ql-ppt1su1sut2) sur(f|vi)re(hg/hih|cltohg)xé(hv_GFg|ci-vi)runt.(ffoe.|pr) (::)
+<sp>+</sp> Me(e|```talse4)mén(f|vi)to.(h|vi) (::)
