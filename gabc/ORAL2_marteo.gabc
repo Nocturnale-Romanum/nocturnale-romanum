@@ -2,12 +2,13 @@ name:Toni Communes Ad Alleluia In Fine Responsorium;
 office-part:or;
 mode:;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Al([alt:I.]fg~)le(ed/fh/ghg_//ef!gv_//hfgvFE___)lú(d!ewfef){ia}.(ed..) (::)
-(f3) Al([alt:II.]f_g)le(ehGF)lú(h_0//igh){ia}.(f.) (::c4z-)
-Al([alt:III.]g_h)le(gv_//dfde_gv_//dfde_gv_//hf/ghg)lú(egffs){ia}.(fe..) (::)
-Al([alt:IV.]fh~)le(hv_GFECdfEDfh/ghffoe)lú(egffs){ia}.(fe..) (::c3z-)
-Al([alt:V.]d_f)le(e/hhf!gwhG__E/fwg_FE)lú(de!fv_EDe){ia}.(ed..) (::)
-(c4) Al([alt:VI.]fg~)le(ixgi_HG)lú(hggofg){ia}.(gf..) (::c3z-)
-Al([alt:VII.]d_f!gwh_/iv)le(hvGFg/egf/ge)lú(efe___){ia}.(e.) (::)
-(c4) Al([alt:VIII.]g>)le(g_0//hfg)lú(g!hwihi){ia}.(hg..)  (::)
+(c4) Al([alt:I.]fg~|pe~)le(ed__/f_h_/ghg_/ef@gv_/hf/gvFE___|cl-pe-1toS2vi-pp2/cl/vi-sut2)lú(d!ewfef|ql!poppt1){ia}.(ed..|cl-) (::)
+(f3) Al([alt:II.]f_g>|pe>1)le(e_//hvGF|ta-/visu1sut1lsc3)lú(h_0//igh>|vi-po>){ia}.(f.|ta) (::c4z-)
+Al([alt:III.]g_h>|pe>1)le(gv_|vi-|dfde_2/gv_|tr-3vi-|dfde_2/gv_|tr-3vi-|//hf/ghg|cllsc2to)lú(egffs|tosthh){ia}.(fe..|cl-) (::)
+Al([alt:IV.]fh~|pe~)le(hvGF___EC|vi-sut2su2|d_0//fvEDfhg___|vi-he/cihhtoS|hffoe|cl!pi)lú(egffs|tosthh){ia}.(fe..|cl-) (::c3z-)
+Al([alt:V.]d_f>|pe>1)le(gxe_0//hv_h_f!gwhG__E/fwg_FE|/////vi-ppu1cl-ql-sut2qi-su2)lú(de!fv_EDe|//ci-pp2vi){ia}.(ed..|cl-) (::)
+(c4) Al([alt:VI.]fg~|pe~)le(g_0//ivHG|//////ta-/cilsc2)lú(hg/gofgv|cl!pivi){ia}.(gf..|cl-) (::c3z-)
+Al([alt:VII.]d_f!gwh/i>|qlppt2vi>hi)le(hv_GFg|ci-vi|egf/ge|tocl)lú(efe___|toS){ia}.(e.|ta) (::) 
+(c4) Al([alt:VIII.]g|vi)le(g_0//hfg_|vi-hepo-1hh)lú(g!hwjhi|ql!po>ppt1){ia}.(hg..|cl-) (::)
