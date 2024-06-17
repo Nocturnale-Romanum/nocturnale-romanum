@@ -1,7 +1,9 @@
+name:Ne taceas Deus;
+office-part:an;
 mode:1f;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Ne(d) tá(dc)ce(f)as,(g) De(fh)us<sp>*</sp>(h) (,)
-quó(h)ni(g)am(f>) i(g)ni(h)mí(h)ci(gf) tu(gh)i(g) (,) 
-ex(e)tu(f)lé(g)runt(fe) ca(d)put.(d) 
-(::) <eu> E(h) U(h) O(g) U(f) A(gh) E.(gf)  </eu> (::)
-
+(c4) Ne(d|vi) tá(dc|cl)ce(f|vi)as,(g|vi) De(f_h|peS)us,(h_|vi-lsx6) <sp>*</sp>(,) quó(ixi|vi)ni(h|vi)am(g|ta) i(g|ta)ni(g|ta)mí(h|vi)ci(g|ta) tu(f_g|peS)i(f|ta) (,) 
+ex(f|ta)tu(g|vi)lé(e|ta)runt(f|vi) ca(d.|ta)put.(d.|ta) (::) 
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu>(::)
