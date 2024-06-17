@@ -1,6 +1,9 @@
+name:Audite omnes;
+office-part:an;
 mode:2d;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Au(f>)dí(ef)te,(hg) om(f>)nes,<sp>*</sp>(fe) (,) 
-qui(h) ti(i)mé(j)tis(i) De(hho1!iv)um,(h) (;) quan(g)ta(h) fe(i)cit(h) á(hi)ni(g)mæ(h) me(f)æ.(f)
-<eu> (::) E(h) U(h) O(h) U(g) A(ef) E.(f)  </eu> (::)
-
+(f3) Au(f|vi)dí(e|ta)te,(f|vi) om(h|vihg)nes,(fe__|cl-) <sp>*</sp>(,) 
+qui(h|vi) ti(i|vihg)mé(j|vihi)tis(i|vihg) De(h_i|peS)um,(h.|ta) (;) quan(g|ta)ta(h|vi) fe(i|vi)cit(h|ta) á(hi|pe)ni(g|ta)mæ(hg|cl) me(f.|ta)æ.(f.|ta) (::) 
+<eu>E(h) U(h) O(h) U(g) A(e) E.(f)  </eu>(::)
