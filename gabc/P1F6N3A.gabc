@@ -1,6 +1,9 @@
+name:Alleluia alleluia alleluia (Sexta T.P. in III Nocturno);
+office-part:an;
 mode:8g;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) AL(g)le(g)lu(h)ia,<sp>*</sp>(g) (,) 
-al(h)le(g)lu(f!gh)ia,(h) (,) al(gh)le(h)lu(g)ia.(g) 
-(::) <eu> E(j) U(j) O(i) U(j) A(h) E.(g)  </eu> (::)
-
+(c4) Al(g|ta)le(g|ta)lú(gj|pehh)ia,(h|ta) <sp>*</sp>(,) 
+al(h|vi)le(g|ta)lú(h|vi)ia,(gf__|cl-) al(g_h|peS)le(h|vi)lú(g.|ta)ia.(g.|ta) (::) 
+<eu>E(j) U(j) O(i) U(j) A(h) E.(g) </eu>(::)
