@@ -1,7 +1,10 @@
+name:Adjuva nos Deus;
+office-part:an;
 mode:8g;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) AD(g)ju(g)va(h) nos,(h) De(g)us,<sp>*</sp>(g) 
-sa(h)lu(g)tá(h)ris(g) nos(f!gh)ter:(h) (;)
-et(f) pro(h)pí(j)ti(k)us(i) es(j)to(h) pec(g)cá(gh)tis(h) nos(g)tris.(g) 
-(::) <eu> E(j) U(j) O(i) U(j) A(h) E.(g)  </eu> (::)
-
+(c4) Ad(gj|pehh)ju(h|ta)va(hg|cl) nos,(f|ta) <sp>*</sp>() 
+De(g_h|peS)us,(g) (,) sa(i|vi)lu(j|vihh)tá(k|vihj)ris(jh|clhh) nos(j.|vihh)ter:(i.|tahh) (;)
+et(j|vihh) pro(h|ta)pí(ji|cllsc2)ti(hg|cllsc2)us(g|ta) es(h|vi)to(g|ta) (,) pec(f|ta)cá(g_h|peS)tis(h|vi) nos(g.|ta)tris.(g.|ta) (::) 
+<eu>E(j) U(j) O(i) U(j) A(h) E.(g) </eu>(::)
