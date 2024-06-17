@@ -1,3 +1,8 @@
+name:Alleluia alleluia alleluia (Quarta T.P. In I Nocturno);
+office-part:an;
 mode:1g;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Al(f)le(g)lu(h)ia,(g) <v>\greheightstar</v>(,) al(f)le(gh)lu(fe)ia,(d) (,) al(fg)le(ef)lu(d)ia.(d) (::) <eu> E(h) U(h) O(g) U(f) A(gh) E.(g) </eu> (::)
+(c4) Al(f|vi)le(g|vihg)lú(e_d!ewf|cl-qlhg)ia,(dec_|toS) <sp>*</sp>(,) al(e|ta)le(f|vi)lú(gh|pe)ia,(g|vi) al(f_g|peS)le(e@fo|vs)lú(d.|ta)ia.(d.|ta) (::) 
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
