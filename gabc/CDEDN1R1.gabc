@@ -1,4 +1,15 @@
+name:In dedicatione templi V Fundata est domus;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)In(d) de(d!ewf/gf)di(fd)ca(fgf)ti(g)ó(ixghGF)ne(ghgh!iv) tem(ixhi>)pli(h) *(;) de(h!iwji/jkj)can(h>)tá(ghGE)bat(fo!gv) pó(g)pu(e!fwg)lus(ghFEfwgFE) lau(d!ewfef)dem :(ed) *(:) Et(d) in(d) o(fgh)re(g) e(g)ó(gfg)rum(fg/ffOd) (;) dul(fgF!es<)cis(f!go!hv) re(hg!@hfg)so(fe!fwgfg)ná(e)bat(fs!fs/ghffOe) so(d!ewfef)nus.(ed) (::)<i>T.P.</i> Al(fg~)le(ed/fh/ghg//ef!gv/hfgvFE)lú(d!ewfef)ja.(ed) (::)
-<sp>V/</sp>. Fun(h)dá(h)ta(h) est(hg/hg/gOf) do(g)mus(g) Dó(gh)mi(g)ni(g) (,) su(g)pra(g) vér(hf~)ti(gh)cem(gh) món(h)ti(ixh/iiOh)um,(h) (;) et(gf~) vé(gh)ni(h)ent(h) ad(h) e(h)am(hg/hg) om(gf~)nes(ixf!gwhg/hih) gen(hvGFEfwg!h>)tes.(gf) (::) * Et(d) in(d) o(fgh)re(g) (::)
+(c4) In(d|ta) de(d!ewf/gf|qlppt1`clhilsc2)di(fd|clMlsc2)ca(fgf|to)ti(g|vi)ó(g_h_GF|pe-1su2)ne(ixghgh_/iv|////tr-3lst2/vihj) tem(ixh_i>|/////pe>1)pli(h|ta) <sp>*</sp>(;) de(h!iwji/jkj|ql!clppt1tohi)can(h>|vi>)tá(g_h_GE|pe-1su2)bat(fog_|pq-) pó(g|vi)pu(e!fwg|qippt1)lus(g_hF__E/fwgFE___|pe-1sut2qi-hhsut2) lau(d!ewfef|ql!poppt1)dem:(ed..|cl-) (:) 
+
+<sp>+</sp> Et(d|ta) in(d|ta) o(f_0//gh|vi/pehi)re(g|ta) e(g|ta)ó(gfg|po)rum(f_g_/ffod|pe-1`pr) (,) dul(f_g_F_E>|pe-1sut1sux1)cis(f@goh|sa) re(hg/hfg|cl!po)so(f_e!fwgfg|cl-ql!po)ná(e|ta)bat(fsfs/ghf_foe|dstoS2pihilsco2) so(d!ewfef|ql!poppt1)nus.(ed..|cl-) (::) 
+
+<i><c>T.P.</c></i> Al(fg~|pe~he)le(ed__/f_h_/ghg_/|cl-hepe-1hetoS2he|ef@gv_/hf/gvFE___|vi-hepp2/clhe/vi-hesut2)lú(d!ewfef|qlhe!poheppt1){ia}.(ed..|cl-he) (::) 
+
+<sp>V/</sp> Fun(h|vi)dá(h|vi)ta(h|vi) est(hg/hg/gof|clclpi) do(g|vi)mus(g|vi) Dó(gh|pe)mi(g|ta)ni(g|ta) (,) su(g|ta)pra(g|ta) vér(hf~|vi>)ti(gh|pe)cem(gh|pe) món(h|vi)ti(ixh_/i_ioh|////vi-pr-)um,(h.|vi) (;) et(hf~|vi>) vé(gh|pe)ni(h|vi)ent(h|vi) ad(h|vi) e(h|vi)am(hg/hg|clcl) om(hf~|vi>)nes(ixf!gwhg/hih|ql!clppt1tohi) gen(hv_GF_E/fwg!h>|vi-su1suu2qi/vi>hj)tes.(gf..|cl-) (::) 
+
+<sp>+</sp> Et(d|ta) in(d|ta) o(f_0//gh|vi/pehi)re(g|ta) e(g|ta)ó(gfg|po)rum.(f_g_/ffod|pe-1`pr) (::)
