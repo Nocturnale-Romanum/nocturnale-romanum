@@ -1,3 +1,7 @@
+name:In Deo salutare meum;
+office-part:an;
 mode:4e;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)In(f>) De(fe)o(d) sa(e)lu(f)tá(g)re(g) me(fvED)um(d) <v>\greheightstar</v>() et(ef~) gló(g)ri(h)a(gf) me(e)a:(e) (;) et(e) spes(f) me(gh)a(g) in(gf~) De(ghv)o(gf) est.(e) (::) <eu>E(h) u(g) o(h) u(i) a(g) e.</eu>(e::)
+(c4) In(f_|vi-) De(fv_ED|ci-)o(e|ta) <sp>*</sp> sa(fe|cl)lu(d|ta)tá(e|vi)re(f_g|peS) me(gv_FE|ci-)um,(e|ta) (,) et(fd~|vi>) gló(ef|pe)ri(e|vi)a(d|ta) me(ef|pe)a:(d.|ta) (;) et(e_f|peS) spes(g|vi) me(h|vihg)a(g|vi) in(f|ta) De(g|vi)o(fe|cl) est.(e.|ta) (::) <eu>E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu>(::)
