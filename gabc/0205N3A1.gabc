@@ -1,8 +1,9 @@
-mode:4e2;
+name:Nisi diligenter perfeceris;
+office-part:an;
+mode:4e;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ni(h)si(h) di(h)li(g)gén(hj>)ter<sp>*</sp>(h) per(h>)fé(h)ce(g)ris(ef) cor(g)pus(f) me(e)um(e) (;)
-a(e) car(e)ni(f)fí(g)ci(g)bus(g) at(gh)tre(h)ctá(g)ri,(g) (;)
-non(g) po(gh)test(h) á(f)ni(g)ma(f) me(f)a(d!ewfED) in(g) pa(d)ra(dg)dí(g)sum(g) Dó(g)mi(fg)ni(gd) (;)
-cum(d) pal(ef)ma(e) in(d)trá(fh)re(g) mar(hg~)tý(f)ri(de)i.(e) (::)  
-<eu> E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu> (::) 
-
+(c4) Ni(g|vilse3)si(g|vi) di(g_|vi-)li(f|ta)gén(eh>|pe>)ter(g|ta) <sp>*</sp> per(g>|vi>)fé(g|vi)ce(f|vi)ris(e_f|``peSlsi7) cor(g|vi)pus(f|vi) me(e|ta)um(e|ta) (,) a(e|ta) car(e|ta)ni(f|vi)fí(g|vilsew2)ci(g|vi)bus(g|vi) at(f_h|peS)trec(h|vi)tá(g.|ta)ri,(g.|ta) (;) 
+non(g_|ta-lst2) po(gh|pe)test(h_|vi-) á(f|ta)ni(g|vi)ma(f|vi) me(f|vi)a(d!ewf_ED|ql-ppt1su2) (,) in(e|vi) pa(c|talse6)ra(cg|pe)dí(g_|vi-)sum(g_|vi-) Dó(g_|vi-)mi(fg|pe)ni(gd__|cl-) (,) cum(d|ta) pal(e_f|peS)ma(d|vi) in(c|ta)trá(d_g|peS)re(g|vi) mar(h>|vi>)tý(e|vi)ri(de|pe)i.(e.|ta) (::) 
+<eu> E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu>(::)
