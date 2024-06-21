@@ -1,7 +1,9 @@
-mode:8c;
+name:Agatha sancta dixit;
+office-part:an;
+mode:8g;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) A(j)Ga(h)tha(h) sanc(hg~)ta<sp>*</sp>(f) di(gh)xit:(g) (,)
-Si(g) fe(ki/jk)ras(j) {mi}(jk)hi(k) pro(j)mít(jkj)tis,(jij) (;) (Z)
-au(j)dí(j)to(j) Chri(ji)sti(h) nó(ij){mi}(h)ne(g) man(h)su(i)é(g)scunt.(g) (::)
-<eu>  E(j) U(j) O(h) U(j) A(k) E.(j) </eu> (::) 
+(c3) A(h|vi)ga(f|ta)tha(f|ta) san(fe~|vi>)cta(d|ta) di(e_f|peS)xit:(e.|talsx6) <sp>*</sp>(;) Si(g|ta) fe(ig/ij|clhhlss2lsc2pehh)ras(i|tahh) mi(i_j|peShi)hi(i|vihg) pro(h|ta)mít(hih|to)tis,(hgh_|po-1) (,) au(h|vi)dí(h|vi)to(h|vi) Chris(hg|cllsc2)ti(f|ta) nó(g_h|peS)mi(g|vi)ne(e|ta) man(hf~|vi>)su(g|vi)és(e.|ta)cunt.(e.|ta) (::) 
 
+<eu>E(h) U(h) O(g) U(h) A(f) E.(e) </eu>(::)
