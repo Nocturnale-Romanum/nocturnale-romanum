@@ -1,6 +1,8 @@
-mode:8;
+name:Summa ingenuitas;
+office-part:an;
+mode:8c;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Sum(j)ma(j)  in(j)ge(j)nú(j)i(i)tas<sp>*</sp>(h) i(ij)sta(i) est,(g) (;)
-in(f) qua(h) sér(j)vi(ih)tus(h) Chri(jk)sti(j) com(jh~)pro(i)bá(g)tur.(g) (::)  
-<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::) 
-
+(c4) Sum(j|vihh)ma(j|vihh) in(j|vihh)ge(j|vihh)nú(j|vihh)i(i|vihg)tas(h|ta) <sp>*</sp>() is(i_j|peShh)ta(i|vihg) est,(g.|ta-) (,) in(f|gr) qua(h|vi) sér(j|vihi)vi(ji|clhhlsc2)tus(h|ta) Chris(j_k|```peShjlsl1)ti(k_|vi-hk) com(j>|vi>hh)pro(i|vihg)bá(g.|ta)tur.(g.|ta) (::) 
+<eu>E(j) U(j) O(h) U(j) A(k) E.(j) </eu>(::)
