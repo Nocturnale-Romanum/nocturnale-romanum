@@ -1,8 +1,8 @@
+name:Vidisti Domine agonem meum;
+office-part:an;
 mode:7c;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Vi(i)dí(i)sti,(i) Dó(i)mi(i)ne,(i) a(g)gó(i)nem(j>) me(i)um,(i) (;)
-quó(ij)mo(i)do(i) pu(i>)gná(gh)vi(i) in(f) stá(e)di(e)o;(e) (:)
-sed,(e) qui(h)a(h) nó(h)lu(h)i(h) o(i)bœ(h)dí(h)re(h) man(h)dá(h)tis(h) prin(f)ci(h)pum(g) (;)
-jus(e)sa(f) sum(f) in(f) ma(f)míl(f)las(h) tor(g)qué(e)ri.(e) (::) 
-<eu>  E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::) 
-
+(c3) Vi(i|vilsew3)dís(i|vi)ti,(i|vi) Dó(i|vi)mi(i|vi)ne,(i|vi) a(g|ta)gó(i|vi)nem(j>|vi>hh) me(i.|ta)um,(i.|ta) <sp>*</sp>(;) quó(ij|pehh)mo(i|ta)do(i|ta) pug(i>|vi>)ná(g_h|peS)vi(i|vi) in(f|vi) stá(e|ta)di(e|ta)o;(e.|ta) (;) sed,(e|ta) qui(g|vi)a(g|vi) nó(g|vi)lu(g|vi)i(g|vi) o(g|vi)be(g|vi)dí(g|vi)re(g|vi) man(g|vi)dá(g|vi)tis(h|vi) prín(f|ta)ci(h|vi)pum(g.|vi-hh) (;) jus(e|ta)sa(f|vi) sum(f_|vi-) in(f|vi) ma(e|vi)míl(f_|vi-)la(h|vihh) tor(g|vi)qué(e.|ta)ri.(e.|ta) (::) 
+<eu>  E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
