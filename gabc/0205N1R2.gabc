@@ -1,12 +1,13 @@
+name:Agathes laetissima V Nobilissimis orta;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) A(e)Ga(e)thes(ehg) læ(h)tís(i)si(hg/h/iiO1h/ij)ma<sp>*</sp>(i) (;) 
-et(i) glo(e)ri(ei)án(ij~)ter(i) i(ihhvGFg!ho1)bat(g) ad(f!gwhg!f/gwhGF) cár(e)ce(EFgvFEf)rem,(fe) (:)
-<sp>+</sp> Et(ihi) qua(kl)si(lkkvJIjhhO1g) ad(h) é(k)pu(k)las(jkJIH) in(k>)vi(k)tá(jkJIjwkjk)ta;(ji) (;)
-a(g)gó(i)nem(i>) s<e>u</e>um(ijjO1i) Dó(hi)mi(fhg/hiffO1e/f)no(EFgwhe/f/eeO1d) (,)
-pré(DFgwhhi)ci(h)bus(HIjwkJI) com(i)men(ig!hwihGFgwhG!Fs<)dá(EFgvFEf)bat.(FE) (::)
-<sp>V/</sp> No(i)bi(i)lís(i!jwkJI)si(hg)mis(hi/hhO1g) or(hi~)ta(ig) na(hi)tá(hi)li(i!jwkj)bus,(ji) (;)
-ab(hi/hhO1g) i(hih)gnó(ij)bi(i)li(i) gau(ij~)dens(i) (;)
-tra(i)he(i)bá(i)tur(ijijvIH) ad(hg) cár(h!iwji/jkj)ce(ih!iwjij)rem.(ivHGhg) (::)
-<sp>+</sp> Et.(ihi) (::)
+(c3) A(e|ta)ga(e|ta)tha(ehg|to) læ(h|vi)tís(i|vi)si(hg/h_0/iioh/i_j|cllsc2prppu1lsc2peShi)me(i_|vi-hh) (,) et(i_|vi-hh) glo(e|ta)ri(ei|pe)án(hi~|pe~)ter(i|ta) i(ih_hv_GF/g@ho|clS-ci-vs)bat(g|ta) ad(g!hwiHG___F/gwh_GF|qlhh!vshhppt1sut2qi-hisu2) cár(e|ta)ce(ef!gv_FEf|//ci-pp2vi)rem,(fe..|cl-) (:) 
 
+<sp>+</sp> Et(ihi|```polsal2) qua(i_l|```````peShhlsal3)si(lkkv_JIjhho_g|////////clShici-hiclhilsc2pihilst2) ad(h|ta) é(j|vihh)pu(k|vihi)las(j_k_JIH__|////pe-1hjsu1sut2) in(j>|vi>hi)vi(k|vihk)tá(j_kJ__I/jwkjk|////pe-1hjsut2qlhk!pohk)ta,(ji__|cl-hj) (;) a(g|ta)gó(i|vihh)nem(i>|vi>hi) suum(ij_joi|pe-hhpihk) Dó(h_i|peS)mi(fhg___/hiffoe/fv_|toStohjpihjvi-hj)no(e_f!gwhe/fv_/eeod|ql!clppt2/vi-pr) (;) pré(d_f!gwh_hi|````ql-ppt2pehj)ci(h|tahh)bus(h_i!jwk_JI|````ql-hkppt2su2) com(i|ta)men(i_g!hwiHG___F/gwh_GF>|cl-hhqlhi!vshisut2qi-hjsu1sux1)dá(ef!gv_FEf|//ci-pp2vi)bat.(fe..|cl-) (::) 
+
+<sp>V/</sp> No(i|tahh)bi(i|tahh)lís(i!jwk_JI|ql-hkppt1su2)si(hg|cllsc2)mis(h_i/hhog|peShiprhi) or(ig|clhglsc2)ta(hi|pe) na(hi|pe)tá(i|vi)li(i!jwkj|qlhh!clhhppt1)bus,(ji..|cl-hi) (;) ab(h_i/hhog|peShhprhh) ig(hih|tohi)nó(i|vi)bi(i|vi)li(i|vi) gau(ij|pehj)dens(i|vi) tra(i|vi)he(i|vi)bá(i|vi)tur(iji/jv_IH|tohici-hj) ad(ih|cllsc3) cár(h!iwji/jkj|ql!clppt1tohj)ce(i_h!iwjij|cl-hiqlhi!pohi)rem.(iv_HGhg..|ci-hhcl-hh) (::) 
+
+<sp>+</sp> Et.(ihi|polsal2) (::)
