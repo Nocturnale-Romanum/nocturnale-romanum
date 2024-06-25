@@ -1,12 +1,13 @@
+name:Ipse me coronavit V Ipse me dignatus est;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ip(fgh)se(g) me(g) co(g)ro(gh)ná(h)vit,(hg/higgf) (,)
-<sp>*</sp> qui(hf) per(ghg) A(h)pó(h!iwj)sto(h)lum(g) Pe(h!iwj!kvJIjwkjk)trum(kj) (;)
-in(j) cu(jk)stó(kjji)di(hg)a(hjjo~) me(i) con(jijvIH)for(gh)tá(hghvGFg)vit,(gf) (;)
-pro(hf) e(ghg)o(h) quod(h) jus(iwj)sa(h) sum(g) su(g)spén(ixhihGFg!h>)di(g) in(g) e(GHiwjIHiwjIH) quú(g)le(GHivHGh)o.(hg) (:)
-<sp>+</sp> Prop(gh)ter(g) fi(gh)dem(g) ca(g)sti(gh)tá(h)tis(hg/higgf) (,)
-ád(g)ju(gh)va(g) me,(g) Dó(gh)mi(g)ne(g) De(g)us(GHiwj) me(ji/jwkjk)us,(kj) (;)
-in(j) tor(jk~)tú(kjjvIHi!jo1)ra(i) ma(i)mil(i)lá(jijvIHi!jo1)rum(i) me(i!jwkjIHiwjIH)á(GHivHGh)rum.(hg) (::)
-<sp>V/</sp> I(j)pse(ji) me(jkj/iji/hhO1g) di(g)gná(hi)tus(i) est(i) ab(i) o(i)mni(i) pla(ih)ga(ij) cu(hi)rá(g!hwih)re,(hg) (;)
-et(g) ma(fg)míl(g)lam(g) me(g)am(g) me(g)o(g) pé(gh)cto(g)ri(g) re(hiHGhih)sti(ghf)tú(gh)e(h!iwji/jkjIH)re.(hiHGhg) (::)
-<sp>+</sp> Prop(gh)ter.(g) (::)  
+(c4) Ip(f_0//gh|peppu1)se(g|ta) me(g|ta) co(g|ta)ro(gh|pe)ná(h|vi)vit(ixhg/higgf..|/////cllsc3toS2cl-) (;) qui(hf|cllss2lsc2) per(ghg|to) A(h|vi)pós(h!iwj|viqlhj)to(h|vi)lum(g|ta) Pe(h!iwj/kvJ__I/jwkjk|vi-qlhlvi-hlsuu2qlhl!pohl)trum(kj__|cl-hk) (,) in(j|tahi) cus(jk|pehi)tó(kjji__|clShicl-hi)di(hg|cllsc3)a(hi_/jo|pe-hjorhk) me(i|tahh) con(ji__/jv_IH|cl-hjci-hj)for(gh|pe)tá(hg__/hv_GFg|cl-ci-vi)vit,(gf..|cl-) (;) pro(hf|cllsc2) e(ghg|to)o(h|vilse6) quod(h|vi) jus(hwj|qlhh)sa(h|vi) sum(g|ta) sus(g|ta)pén(ixh_iH__GFg_h>|/////toShjsu2pe>1hj)di(g|ta) in(g|ta) e(iyg_h!iwjI__H/iwj_IH|/////ql-hjppt2sut2ql-hksu2)quú(g|ta)le(gh!iv_HGh|//ci-hipp2)o.(hg..|cl-) (:) 
+
+<sp>+</sp> Prop(gh|pe)ter(g|ta) fi(gh|pe)dem(g|ta) cas(g|ta)ti(gh|pe)tá(h|vi)tis(ixhg/higgf__|/////cllsc3toS2cl-) (,) ad(g|vi)jú(gh|pe)va(g|ta) me,(g|ta) Dó(gh|pe)mi(g|ta)ne,(g|ta) De(g|ta)us(g_h!iwj|qlhhppt2) me(j_i!jwkjk|cl-hjqihj!pohj)us(kj..|cl-hj) (;) in(j|``tahilse4) tor(jk~|pe~hi)tú(kjjv_IHi@jo|clShjci-hjvshj)ra(i|tahh) ma(i|tahh)mil(i|tahh)lá(ji__/jv_IHi@jo|cl-hici-hjvshj)rum(i|tahh) me(i!jwkJI___H/iwj_IH|qlhj!vshjppt1sut2qi-hksu2)á(gh!iv_HGh|//ci-hipp2vi)rum.(hg..|cl-) (::) 
+
+<sp>V/</sp> Ip(ji|clhi)se(jkj/iji/hhog|tohj/tohk/prhj) me(hi|pehi) dig(ih|cllsc2)ná(jk|////pehhlss2)tus(j|//tahh) est(j|tahh) (,) ab(j|tahh) om(jk|////pehh)ni(ji|//clhhlsc3) pla(ih|cllsc3)ga(ij|pehh) cu(hi|pe)rá(g!hwih|ql!clppt1)re,(hg..|cl-) (;) et(g|vi) ma(fg|pe)míl(g|ta)lam(g|ta) me(gh|pe)am(g|ta) me(g|ta)o(g|ta) péc(gh|pe)to(g|ta)ri(g|ta) (,) res(ixhi_HGhih|/////pe-hhsu2tohi)ti(ghf|tohh)tú(gh|peS)e(iyh!iwji/jkJ_IH|////qlhh!clhhppt1toS2hlsu2)re.(h_i_HGhg..|pe-1hhsu2cl-hh) (::) 
+
+<sp>+</sp> Prop(gh|pe)ter.(g|ta) (::)
