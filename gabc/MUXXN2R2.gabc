@@ -1,14 +1,15 @@
+name:Dilexisti justitiam V Propter veritatem;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Di(f)le(de)xí(e)sti(egFssded) 
-<sp>*</sp> ju(fd)stí(e!fwgho~)ti(g)am(g) (;)
-et(g) o(g)dí(gh)sti(g) i(g)ni(g)qui(gd!ewf)tá(egfFs)tem:(e/eo1fd) (:)
-<sp>+</sp> Pro(c)pté(dfd/e!fo1)re(e)a(e) un(ef~)xit(e) te(e) De(e!fo1)us,(e) (,)
-De(f)us(e) tu(dgf!gwhgh)us,(hg) (;)
-ó(g)le(gh)o(hggO1f) læ(FGhvig/hg)tí(e)ti(egfFs)æ.(fe) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(fh~)le(hvG0F0E0C2dfEDfh/ghffe)lú(egfFs)ja.(fe) (::)
-<sp>V/</sp> Pro(h)pter(gf!gwhghvGEfe) ve(g)ri(g)tá(gh)tem,(g) (,)
-et(g) man(gf)su(gh)e(gf)tú(e)di(e!fwgf)nem,(fe) (;)
-et(e!fwgFE) ju(g)stí(ghghGF)ti(EFgef)am.(ed) (::)
-<sp>+</sp> Pro(c)pté(dfd/e!fo1)re(e)a.(e) (::)  
+(c4) Di(f|vi)le(de|pe)xís(e|vi)ti(eg_//fsfs_//ded|pe-ds-hitohj) <sp>*</sp> jus(fd|cl)tí(e!fwg/ho|qlppt1orhj)ti(g|ta)am,(g.|ta) (;) et(g|ta) o(g|ta)dís(gh|pe)ti(g|ta) i(g|ta)ni(g|ta)qui(g_d!ewf|cl-ql)tá(egffs|tosthh)tem:(e/eofe..|sa!cl-) (:) 
 
+<sp>+</sp> Pro(c|ta)pté(ded/e@fo|tovslsc2)re(e|ta)a(e|ta) un(ef~|pe~)xit(e|ta) te(e|ta) De(e@fo|vs)us,(e|ta) (,) De(f|vi)us(e|vi) tu(dg__f!gwhgh|toSqlhi!pohi)us,(hg..|cl-hh) (;) ó(g|ta)le(gh|pe)o(hggof|cl!pilsc2) læ(fg!hv_//ig/hg__|vi-pp2clcl-)tí(e|ta)ti(egffs|tosthh)æ.(fe..|cl-) (::) 
+
+<c><i>T.P.</i></c> Al(fh~|pe~he)le(hvGF___EC|vi-hesut2su2|d_0//fvEDfhg___|vi-hd/cihgtoShe|hffoe|clhe!pihe)lú(egffs|tohesthg){ia}.(fe..|cl-he) (::) 
+
+<sp>V/</sp> Pro(h|vi)pter(g_f!gwhghv_GEfe__|cl-qi!clci-cl-) ve(g|vi)ri(g|vi)tá(gh|pe)tem,(g|ta) (,)et(g|ta) man(gf|cl)su(gh|pe)e(gf|cl)tú(e|ta)di(e!fwgf|ql!clppt1)nem,(fe..|cl) (;) et(e!fwg_FE|ql-ppt1su2) jus(g|vi)tí(ghghv_GF|toci-)ti(ef/gffs|popp2)am.(ed..|cl-) (::) 
+
+<sp>+</sp> Pro(c|ta)pté(ded/e@fo|tovslsc2)re(e|ta)a(e|ta) un(ef~|pe~)xit.(e|ta) (::)
