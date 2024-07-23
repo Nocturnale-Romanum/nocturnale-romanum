@@ -1,13 +1,13 @@
+name:Domine si conversus V Si peccaverit;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Do(f!gh)mi(g)ne,<sp>*</sp>(g)
-si(f) con(g!h>)vér(h>)sus(g) fú(g)e(gefvEDe)rit(ed) pó(ghGFgh)pu(g)lus(GHiwjIHiwjIH) tu(GHivHGh)us,(GHih) (;)
-o(fg)rá(gjjk)ve(j)rit(j) ad(j) san(j)ctu(j)a(k)ri(j)um(jik) tu(k!lwmlKJ)um:(kjjo~hih) (:)
-<sp>+</sp> Tu(h!jO1!kv) ex(k)áu(k!l>)di(kj)es(j) de(j) cœ(j)lo,(j) Dó(j)mi(j)ne,(jkjjsghg) (;)
-et(g) lí(h)be(gh)ra(g) e(gffvED)os(ed) de(dc) má(f)ni(gh)bus(hg/hih) (,)
-in(gf)i(g)mi(h!iwj)có(jijvIHij)rum(i) su(i!jwkJIHiwjIH)ó(g!hwihi)rum.(hg) (::)
-<sp>V/</sp> Si(j) pec(j)cá(j)ve(ji)rit(jkj/iji/hhO1g) in(i) te(i) pó(ij)lus(hi) tu(g!hwih)us,(hg) (;) 
-et(g) con(hi~)vér(i)sus(ih) é(ij)ge(i)rit(i) pœ(ij)ni(hi)tén(g)ti(g!hwih)am,(hg) (;)
-ve(g)ni(fg)én(g)sque(g) o(g)ra(g)vít(gh)que(g) in(hiHGhih) i(ghf)sto(gh) lo(h!iwji/jkjIH)co.(hiHGhg) (::)
-<sp>+</sp> Tu.(h!jO1!kv) (::)
+(c4) Dó(f_0//gh|peppt1)mi(g|ta)ne,(g|ta) <sp>*</sp>() si(f|ta) con(ghg~|pe>)vér(h>|vi>)sus(g|ta) fú(g|ta)e(gf__/gvF__EDe|cl-vi-suu1su2lss7vi)rit(ed__|cl-) (`) pó(g_h_GFg_h|pe-1su2lsl2peS)pu(g|ta)lus(g_h!iwjI__H/iwj_IH|ql-hjppt2sut2ql-hksu2) tu(gh!iv_HGh|//ci-pp2vi)us,(g_h/ih..|cl-ppt2) (;) o(fg|pelsi7)rá(gj_/jk|pe-hilse6pehk)ve(j|tahh)rit(j|tahh) ad(j|tahh) san(j|tahh)ctu(j|tahh)á(k|vihj)ri(j|tahhlse6)um(jij|pohhlss9) tu(k!lwmL__KJ|//////////qlhj!vshjppt1su2lss2)um:(kjjo/hih.|clhjorhj/tohh) (:) 
 
+<sp>+</sp> Tu(h@jok|sahi) e(k|vihj)xáu(k_l>|pe>1hl)di(kj|clhklsc2)es(j|tahh) in(j|tahh) cæ(j|tahh)lo,(j|tahh) Dó(j|tahh)mi(j|tahh)ne,(jkjjsghg___|tohjst-hktoShjlsi1) (;) et(g|vi) lí(h|vihh)be(gh|pe)ra(g|ta) e(gf/fv_ED|clSci-hh)os(ed__|cl-) (,) de(dc|cllsc2) má(f|vi)ni(gh|pe)bus(ixhg/hih|/////cltohh) i(gf|cllsc2)ni(g|vi)mi(iyh!iwj|///viqlhj)có(ji__/jv_IHi_j|cl-hjci-hjpeShj)rum(i|ta) e(i!jwkJI___H/iwj_IH|qi-hlppt1sut3ql-hksu2)ó(g!hwihi|qlhg!pohgppt1)rum.(hg..|cl-) (::) 
+
+<sp>V/</sp> Si(j|vihh) pec(j|vihh)cá(j|vihh)ve(ji|clhhlsc3)rit(jkj|tohk|iji|tohk|hhog|prhi) in(hi|pe) te(i|vi) pó(i|vi)pu(i|vi)lus(ih|cllsc2) tu(jk|pehk)us,(j|vihh) (,) et(j|vihh) con(j|vihh)vér(jk|pehk)sus(j|vihh) é(j|vihh)ge(j|vihh)rit(ih|llsc2) pœ(ij|pehj)ni(hi|pe)tén(g|ta)ti(g!hwih__|ql!cl-ppt1)am,(hg..|cl-) (;) ve(g|vi)ni(fg|pe)én(g|vi)sque(g|vi) o(g|vi)rá(gh|pe)ve(g|ta)rit(g|ta) in(ixhi_HG/hih|////pe-hgsu2/tohi) is(ghf|to)to(g_h|peS) lo(h!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)co.(h_i_HGhg..|pe-1su2/cl-) (::) 
+
+<sp>+</sp> Tu.(h@jok|sahi) (::)
