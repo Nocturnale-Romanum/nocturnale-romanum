@@ -1,4 +1,21 @@
+name:Sint lumbi vestri V Vigilate ergo V Gloria;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3)Sint(fvfvEC) lum(ef<)bi(f) ve(hhO1g)stri(f;) præ(gvFEffg/ho1!io1ivHGFfvEC)cín(ef<)cti,(f) (:) et(f) lu(fj)cér(jvIHF2hij)næ(jvjvIHghGF) (;) ar(f)dén(fi)tes(iiO1h) in(h<) má(iji)ni(hg)bus(ef) ve(fgf)stris:(f) †(:) et(fe~) vos(fvEC) sí(e)mi(ef)les(f/hihGFgvFEf) ho(ef)mí(f)ni(fG2H2F2)bus(f) (;) me(j) ex(h)spe(jjO1i)ctán(gfh>)ti(eG2H2F2)bus(f) (,) dó(fh/ffO1e/g/ho1!io1io~HIjvIHGF)mi(e)num(h>) su(fhFE)um,(e) (:) quan(ef~)do(f/hhO1g) re(e)ver(f!gw!h>)tá(h/iji/hi)tur(iiO1h) (;) a(kxhj!kvJIjvIHj,kxfj!kvJIjvIHiiO1h/iiO1g/ho1!io1/fgf!gwh) (,) núp(ef)ti(hf/gwhhvGF)is.(f)  t.p.(::) Al(fg)le(ehGFHIjvIHiji)lu(f!gwhgh)ja.(ggO1f)  
-<sp>V/</sp>(z0::c4) Vi(dh)gi(h)lá(gh)te(gf) er(g!h<)go,(h) (,) qui(h!iwj)a(jvIH) ne(gh)scí(ixh/iiO1h)tis(h) (;) qua(hd) ho(ixhi)ra(h) Dó(ixhi)mi(h)nus(h) ve(hghg)ster(fe) ven(cd~)tú(d)rus(fd!ewffvED) sit.(d) †(d+::f3) et(f3fe~) vos.(fvEC)  <sp>V/</sp>(::j+) (c4)Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(ixh)li(h/iiO1h)o,(h) <v>\greheightstar</v>(;) et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfg!h>)cto.(gf) †(d+::f3) Et(fe~) vos.(fvEC) (::)
+(f3) Sint(fv_fv_EC|bv-su1suw1) lum(e_0//ef~|vi-pe~hh)bi(f|ta) ves(h_hog|pr-)tri(f|ta) <sp>*</sp>(,) præ(gvFEfv_//fg/h@io/ivHGFfvEC|ci-vi-pe-1ptvssu3vi-su1suw1)cín(e_0//ef~|vi-pe~hi)cti,(f.|ta-) (;) et(f|talse6) lu(fj_|pe-hj)cér(jv_IHFh_0//ij|vi-hjsut3lss2vi-pehi)næ(jv_jv_IHghGF|bv-hjsut2pe-hisut2) (,) ar(ef~|ta)dén(fi~|pe~)tes(iioh|pr-) in(h<|pelsi8lss3) má(iji|tohi)ni(hg|cl)bus(e_f|peS) ves(fgf|``tolss1)tris:(f.|ta) (:) 
+
+<sp>+</sp> Et(fe~|vi>) vos(fv_fv_EC|bv-sut2) sí(e|vi-)mi(ef|pe)les(f_0//hiH_GFhv_GFg|toS2hgppu1su2ci-hgvihh) ho(ef|pe-)mí(f|ta)ni(f_0//gshsfs|tgppu1)bus(f.|ta) (;) ex(j_h|vi-hilsal2ta)spec(jjoi|pr-)tán(gfh>|po>lsi9)ti(e_0//gshsfs|tgppu1)bus(f|ta) (,) dó(f_h_/ffoe/gv_//h@io//hi_!jv_IH_GF|pe-1pr-vi-hhpthiorhkvi-hjppu1su1suu1su2)mi(g|ta)num(h>|vi>) su(fgFE|pesu2)um,(e.|ta) (:) 
+
+<sp>‡</sp> Quan(ef~|pe~)do(f_0//ggof|pr-ppu1) re(e|ta)ver(f!gw!h>|vi-qi>hi)tá(h_0//iji/hi|vi-toS2hipe-)tur(iioh|pr-) (;) a(kxhj_//kvJHivHFj_|/////pe-hjlsi8lss2ci-hkci-hkvi-hk) (,) (kxhj_//kvJHivHFjjoh|/////pe-hjlsi8ci-hkci-hkvi-hkpr-hj|iiog/h@io/fg__f!gwh|pr-hjpthitoShilsi4qi-hk) (,) núp(ef|pe-)ti(h_f!gwh_hv_GF|cl-qi-hhci-hh)is.(f.|ta) (::) 
+
+<i><c>T.P.</c></i> Al(fg|pe)le(ehGF_0|pesu1sut1|//hi!jvIHiji|//cihipp2tohj)lu(f!gwhgh|ql!poppt1)ia.(ggof.|pr) (::) 
+
+<sp>V/</sp> Vi(fj|pe-hi)gi(j|vi-hi)lá(ij|pe-hi)te(i_h|cl-hi) er(i_0ij~|vi-pe~hj)go,(j.|vihi) (,) qui(j!kwl_|````````vi-qi-hi)a(lv_KJ|///////ci-hi) nes(ij|pe-hi)cí(kxj_0/kkoj|/////pr-hippt1)tis(j.|tahi) (;) qua(jh|clMhilss3lsi9) ho(ij|/pehj)ra(j|tahi) Dó(kxjk|/////////pehh)mi(j|///tahi)nus(j|/tahi) ves(jiji|pf1hhlsc2)ter(hg__|cl-) ven(iji~|pe>hh)tú(hg|cllsc2)rus(e_//ghf|toppu1) sit.(f.|ta) (::) 
+
+<sp>+</sp> Et(fe~|vi>) vos.(fv_fv_EC|bv-sut2) (::)
+
+<sp>V/</sp> Gló(fj|pe-)ri(ij|pe)a(ih|cl) Pa(ij|pe)tri,(j.|vi) (,) et(jlj|//////tohk) Fí(ij|pe)li(kxj_0/kkoj|/////pr-hippt1)o,(j.|vi) (;) et(jh|cl) Spi(i|vi)rí(jiji|pf1lsc2)tu(h|vi)i(hg|cl) San(e_//ghf|toppu1)cto.(f.|ta) (::) 
+
+<sp>‡</sp> Quan(ef~|pe~)do.(f_0//ggof|pr-ppu1) (::)

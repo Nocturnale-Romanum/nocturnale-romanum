@@ -1,14 +1,17 @@
+name:Audi Domine hymnum V Respice Domine de sancturaio V Gloria;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)  Au(f)di,(ghg) Dó(h)mi(g)ne,<sp>*</sp>(gfh) 
-hy(g/hfg>)mnum(d) et(g) o(f)ra(fe)ti(cd)ó(d!ewfef)nem,(ed) (;)
-quam(c) ser(d)vus(f) tu(fe!fwgfg)us(ggO1f) o(fg)rat(f) co(fg)ram(f) te(fd!ewfefvED) hó(d)di(d!ewfef)e,(ed) (;)
-ut(cd) sint(ixdh!i>) ó(h)cu(g)li(gf) tu(gh)i(hf) a(gh)pér(g/hfg>)ti,(d) (,)
-et(c) au(d)res(f) tu(fgffvECd!ewfEDe)æ(ed) in(dgffvECd!ewfED)tén(d!ewfef)tæ,(ed) (;)
-<sp>+</sp> Su(f)per(g!h>) do(h!iwji/jkj)mum(ih) i(gf)stam(FGhvGFEfvEDCdc) di(fc/d!ewfEFhvGFED)e(d) ac(dgffvECd@ewfED) noc(d!ewfef)te.(ed) (::)
-<sp>V/</sp> Ré(h)spi(h)ce,(hg/hggO1f) Dó(gh)mi(g)ne,(g) de(g) sanc(g)tu(g)á(hf)ri(gh)o(gh) tu(ixh/iiO1h)o,(h) (;)
-de(gf) ex(gh)cél(ixhi~)so(h) cœ(h)ló(ixhi)rum(h) ha(hg/hg)bi(gf)tá(ixf!gwhg/hih)cu(hvGFEfwg!hv)lo.(gf) (::)
-<sp>+</sp> Su(f)per.(g!h>) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iiO1!h)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf) (::)
-<sp>+</sp> Su(f)per.(g!h>) (::)
+(c4) Au(f|vi)di,(ghg|to) Dó(h|vi)mi(g|ta)ne,(gfh|po) hym(g_0//hfg>|po>ppu1)num(d|ta) (`) et(g|vi) o(f|ta)ra(fe|cllsc2)ti(cd|pe)ó(d!ewfef|ql!poppt1)nem,(ed..|cl-) (;) quam(c|ta) ser(d|vi)vus(f|vihg) tu(fe!fwgfg|clql!po)us(g_gof|pr-) o(fg|pe)rat(f|ta) co(fg|pe)ram(f|ta) te(fe!fwg_fgvFE___|clqi!cllst2vi-sut2) hó(d|ta)di(d!ewfef|ql!poppt1)e:(ed..|cl-) (:) ut(cd|pe) sint(ixdh_//i>|pe-vi>) ó(h|vi)cu(g|ta)li(gf|cllsc2) tu(gh|pe)i(hf|cllsc2) a(gh|pe)pér(g_0//hfg>|po>ppu1)ti,(d.|vi) (;) et(c|gr) au(d|vi)res(f|vi) tu(fgf_fvEC___d!ewf_EDe|to-1vi-sut2ql-ppt1su2vi)æ(ed__|cl-) (`) in(dgffvEC___d!ewf_ED|tovi-sut2ql-ppt1su2)tén(d!ewfef|ql!poppt1)tæ,(ed..|cl-) (:) 
+
+<sp>+</sp> Su(f|vi)per(fgf~|pe>) do(h!iwji/jkj|vi-qlhi!clhitohl)mum(hg__|cl-) is(gf__|cl-)tam(fg!hvGFE__fvE__DCdc..|vipp2su1sut2lsc2vi-sut1su2cl-) (;) di(ec__/d!ewf//ef!hvGF_ED|cl-qlppt1vipp2su1suu1su2)e(d|ta) ac(dgffvEC___d!ewf_ED|tovi-sut2ql-ppt1su2) noc(d!ewfef|ql!poppt1)te.(ed..|cl-) (::) 
+
+<sp>V/</sp> Ré(h|vi)spi(h|vi)ce,(hg/hggo!f|pf!pi) Dó(gh|pe)mi(g|vi)ne,(g|vi) de(g|vi) san(g|vi)ctu(g|vi)á(hf|cl)ri(gh|pe)o(gh|pe) tu(ixh_0/iioh|/////prppt1)o,(h.|vi) (;)de(hf|cl) ex(gh|pe)cél(ixhi~|/////pe~)so(h|ta) cæ(h|ta)ló(ixhi|/////pe)rum(h|ta) ha(hg/hg|pf)bi(hf|cl)tá(ixf!gwhg/hih|/////ql!clppt1tohi)cu(hv_GF_E/fw!gh|vi-su1sut2qivihj)lo.(gf..|cl-) (::) 
+
+<sp>+</sp> Su(f|vi)per.(fgf~|pe>) (::) 
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh_0/iioh|////ta-pr)o,(h.|ta-) (;) et(h|vi) Spi(h|vi)rí(hg/hg|pf)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohj) San(hv_GF_E/fwg_//hv|vi-su1sut2ql-vihk)cto.(gf..|cl-) (::) 
+
+<sp>+</sp> Su(f|vi)per.(fgf~|pe>) (::) 
