@@ -2,7 +2,6 @@ name:Dum anxiaretur cor meum;
 office-part:an;
 mode:4e;
 submitter:mocquereau;
+nabc-lines:1;
 %%
-(c4) Dum(f) an(d)xi(e)a(f)ré(g)tur(e) <sp>*</sp>() Cor(fe) me(d.)um,(d.) (;) in(d) pe(dh)tra(h) e(h)xal(gf)tás(g)ti(f) me.(e.) (::) 
-
-<eu>E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu>(::)
+(c4) Dum(f|vi) an(d|ta)xi(e|vi)a(f|vi)ré(g|vi)tur(e|ta) <sp>*</sp>() Cor(fe|cllsc3) me(d.|ta)um,(d.|ta) (;) in(d|ta) pe(dh|pe)tra(h|vi) e(h|vi)xal(gf|cl)tás(g|vi)ti(f|ta) me.(e.|ta) (::) <eu>E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu>(::)
