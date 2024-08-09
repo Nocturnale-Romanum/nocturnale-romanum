@@ -2,10 +2,12 @@ name:Qui manducat;
 office-part:re;
 mode:7;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c2) Qui(cg) man(gvFE)dú(f_g)cat(hg__) <sp>*</sp>() me(fef)am(dc) car(dv_CBc_d)nem(c.) (;) et(fvED) bi(fg)bit(g) me(hvGF)um(g) sán(c_d!ewf_/gefDCdc)gui(bc)nem,(c.) (:) 
+(c2) Qui(cg|pe) man(gvFE|ci)dú(f_g|peS)cat(hg__|cl-) <sp>*</sp>() me(fef|po)am(dc|cl) car(dv_CBc_d|ci-peS)nem(c.|ta) (;) et(fvED|ci) bi(fg|pe)bit(g|vi) me(hvGF|ci)um(g|vi) sán(c_d!ewf_/gefDCdc|ql-ppt2posu2//cl)gui(bc|pe)nem,(c.|vi) (:) 
 
-<sp>+</sp> In(g_h!iwj) me(ivHG) ma(gih)net,(f_g_) (;) et(gih) e(fg)go(ghGFfvEDf_g_) (,) (c_g_hvGFfvEDf_g_) (,) (c_g_hvGFfvEDCBc) in(c) e(c_d!ewfe)o.(dc..) (::) 
-<sp>V/</sp> Non(fe) est(dc) á(fg)li(g)a(ghg) ná(fe)ti(fg)o(g) (,) tam(g_h!iwj) gran(ji)dis,(hg..) (;) quæ(f) há(hiHG)be(fg)at(g) de(fvED)os(f_g) (,) ap(g)pro(h)pin(i)quán(hg~)tes(hg) si(fg)bi,(g.) (;) sic(gh)ut(hv_GF) De(gf)us(ed) no(fef)ster(dc) ad(dc)est(bc) no(c.)bis.(c.) (::)
+<sp>+</sp> In(g_h!iwj|``qlhhppt2) me(ivHG|ci) ma(gih|to)net,(f_g_|pe-1) (;) et(gih|to) e(fg|pe)go(ghGFfv_EDf_g_|pesu2ci-pe-1) (,) (c_g_hvGFfv_EDf_g_|pe-1cilsc2ci-pe-1) (,) (c_g_hvGFfv_EDCBc|pe-1cilsc2vi-su4vi) in(c|vi) e(c_d!ewfe|ql!clppt2)o.(dc..|cl-) (::) 
 
-<sp>+</sp> In(g_h!iwj) me.(ivHG) (::)
+<sp>V/</sp> Non(fe|cl) est(dc|cl) á(fg|pe)li(g|vi)a(ghg|to) ná(fe|cl)ti(fg|pe)o(g|vi) (,) tam(g_h!iwj|``qlhhppt2) gran(ji|clhh)dis,(hg..|cl-hh) (;) quæ(f|ta) há(hiHG|pesu2)be(fg|pe)at(g|vi) de(fvED|ci)os(f_g|peS) (,) ap(g|ta)pro(h|vi)pin(i|vi)quán(hg~|vi>)tes(hg|cl) si(fg|pe)bi,(g.|vi-) (;) si(gh|pe)cut(hv_GF|ci-) De(gf|cl)us(ed|cl) nos(fef|po)ter(dc__|cl-) a(dc|cl)dest(bc|pe) no(c.|vi)bis.(c.|vi) (::) 
+
+<sp>+</sp> In(g_h!iwj|``qlhhppt2) me.(ivHG|ci) (::)
