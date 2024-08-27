@@ -1,17 +1,21 @@
+name:Expandi manus meas V Deus ultionum V Gloria;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ex(e)pán(Fsss)di<sp>*</sp>(fd) ma(ef)nus(g) me(hgh!iv)as(h) (,)
-to(hhgh)ta(ef) di(ghGFgwhgh)e(hg) in(hggO1fgwhjhhg) cru(egfFs)ce(eeo1!fv) (;)
-ad(dg) pó(hgh!iv)pu(h)lum(h) non(hggo~) cre(gh)dén(g!h!gh~)tem(f) (,)
-sed(f) con(fg~)tra(f)di(e!fwgFE)cén(g)tem(ghghGF) mi(EFgeFs)hi:(fe) (:)
-<sp>+</sp> Qui(d) ám(DFgwh!i>)bu(hg)lant(ghg) vi(e!fwgf/gwhgh)as(hg) non(ef) bo(ghGFgwhgh)nas,(hg) (;)
-sed(hi~) post(h) pec(hg)cá(hhO1g)ta(fhGFghg) su(egfFs)a.(fe) (::)
-<sp>V/</sp> De(h)us(gf!gwhghvGEfe) ul(g)ti(g)ó(g)num(g) Dó(gh)mi(g)nus,(g) (,)
-De(g)us(g) ul(g)ti(g)ó(gh)num(g) lí(gf)be(gh)re(gf) e(gh)git:(ffO1e) (;)
-ex(f)al(de)tá(e)re,(e) qui(e) jú(e)di(e)cas(e) ter(e!fo1)ram,(e) (,)
-red(e)de(e) re(e)tri(e)bu(e)ti(e)ó(e!fwgFE)nem(g) su(ghghGF)pér(e!fo1geFs)bis.(fe) (::)
-<sp>+</sp> Qui.(d) (::)
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;) 
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(ghghGF) San(E/0Fgef>)cto.(ed) (::)
-<sp>+</sp> Qui.(d) (::)
+(c4) Ex(e|vi)pán(fsfsfs|tslsl2)di(fd|cl) ma(e_f|peS)nus(g|vi) me(ixhgh_/iv|/////po-1/vihj)as(h.|vi) <sp>*</sp>(,) to(h_hgh|vi-po-1hhlsc2)ta(e_f|peS) di(ghGF/gwhgh|pesu2ql!po)e(hg__|cl-) in(ixhggof!gwh/ig/hg|/////cl!pilsc2lst2qiclcl) cru(egffs|tosthh)ce(eeof.|sa) (;) ad(d_g|peS) pó(ixhgh/iv|/////povihh)pu(h|ta)lum(h|ta) non(hggof~|clor) cre(gh|pe)dén(ghgh~|tr~)tem,(e.|ta) (,) sed(e|ta) con(ef~|pe~)tra(e|ta)di(e!fwg_FE|qi-ppt1su2)cén(g|vi)tem(ghgh_GF|tr-1su2) mi(e_f/gffs|clhdppt2sthh)hi:(ed..|cl-) (:) 
 
+<sp>+</sp> Qui(d|ta) ám(ixd_f!gwh/i>|//qlppt2/vi>hj)bu(hg|cl)lant(ghg___|toS) vi(e!fwg_f!gwhgh|ql!cl-ppt1qlhh!pohh)as(hg__|cl-) non(e_f|peS) bo(ghG_F/gwhgh|pesut2ql!po)nas,(hg..|cl-) (;) sed(ixhi~|/////pe~) post(h|ta) pec(hg|cl)cá(hhog|pr)ta(ghGFghg|pesu2to) su(egffs|tosthh)a.(fe..|cl-) (::) 
+
+<sp>V/</sp> De(h|vi)us(g_f!gwhghv_GEfe__|cl-ql!clci-cl-) ul(g|vi)ti(g|vi)ó(g|vi)num(g|vi) Dó(gh|pe)mi(g|ta)nus,(g|ta) (,) De(g|ta)us(g|ta) ul(g|ta)ti(g|ta)ó(gh|pe)num(g|ta) lí(gf|cl)be(gh|pe)re(gf|cllsx6) e(e_f|peS)git:(eeod.|pr) (;) e(g|vi)xal(gh>|pe>)tá(h|vi)re,(g|ta) qui(g|ta) jú(gf|cl)di(gh|pe)cas(gf|cl) ter(e!fwgf|ql!clppt1)ram,(fe..|cl-) (;) red(f|vi)de(de|pe) re(e|ta)tri(e|ta)bu(e|ta)ti(e|ta)ó(e!fwg_FE|ql-ppt1su2)nem(g|vi) su(ghgh_GF|tr-1su2)pér(e_f/gffs|clhdppt2sthh)bis.(ed..|cl) (::) 
+
+<sp>+</sp> Qui.(d|ta) (::) 
+
+<sp>V/</sp> Gló(h|obvi)ri(gh|pe)a(g_f!gwhg/hv_GEfe__|cl-`ql!clci-hhcl-hh) 
+Pa(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) 
+Fí(e|ta)li(e!fwgf__|ql!cl-ppt1)o,(fe..|cl-) (;)
+et(e|ta) Spi(e|ta)rí(e!fwg_FE|ql-ppt1su2)tu(g|vi)i(ghgh_GF|to/ci-hg) 
+San(ef/gffs|//pohhpp2)cto.(ed..|cl-cb) (::) 
+
+<sp>+</sp> Qui.(d|ta) (::)
