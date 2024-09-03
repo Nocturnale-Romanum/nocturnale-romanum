@@ -1,11 +1,13 @@
+name:Hodie nata est beata V Beatissimae Virginis;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ho(ghO0j)di(j)e<sp>*</sp>(iiO1h) na(h)ta(ihhO1g/h) est(hg) be(hjh)á(jh/iwj)ta(ghg) Vir(h>)go(ghGF) Ma(FGhvighg)rí(egfFs)a(fe) (;)
-ex(f) pro(f)gé(gh)ni(g)e(g) Da(hg!h!iwjIHi)vid,(ih) (,)
-per(j) quam(ji~) sa(h)lus(hg~) mun(h!iw@ji@j@ih~)di(ih) cre(h)dén(jhJssjh~)ti(gh)bus(ghGF) ap(FGhvighg)pá(e)ru(egfFs)it.(fe) (:)
-<sp>+</sp> Cu(e!fwg!h>)jus(g) vi(gh)ta(g) glo(g)ri(g)ó(hg/h!iwjIHi)sa(ih) (,)
-lu(j)cem(ji~) de(hvGF)dit(FGhvighg) sǽ(e)cu(egfFs)lo.(fe) (::)
-<sp>V/</sp> Be(j)a(j)tís(ikjJs)si(h!iwji)mæ(hhO1g) Vír(h)gi(hg)nis(h) Ma(j)rí(ikjJs)æ(ji) (;)
-Na(hg)ti(hj)vi(j)tá(ij)tem(i) de(i)vo(i)tís(i)si(i)me(ikjjvIHiwji) ce(hg)le(GHiwj)bré(jiiO1hivHGh)mus.(hg) (::)
-Cu(e!fwg!h>)jus.(g) (::)
+(c4) Ho(g@hoi|sa)di(j|vihi)e(i_ioh|pr-hh) <sp>*</sp> na(i|vi)ta(ihhog/h|cl!pivi) est(hg__|cl-) (`) be(hih|to)á(i_h!iwj|cl-hhqlhi)ta(ghg_|to-1) Vir(h>|vi>)go(g_h_GF_0|pe-1su1suu1) Ma(ixfg!hv/ig/hg__|////scpf-)rí(egffs|tosthh)a(fe..|cl-) (;) ex(e|vi) pro(e|vi)gé(gh|pe)ni(g|ta)e(g|ta) Da(hg__/h!iwj_IH_0i|cl-/ql-hippt1su1suu1)vid,(ih..|cl-hi) (;) per(i|vi) quam(j>|vi>hilsal6) sa(h|ta)lus(hg~|vi>) mun(h!iwji/ji__h~|``viqlhh!clhhlsc2cl>hjlst2)di(ih__|cl-hh) (,) cre(h|ta)dén(jhjsjsjg~|clhhts>hi)ti(g_h|````peSlse4lsi8)bus(g_h_GF_0|pe-1su1suu1) ap(ixfg!hv/ig/hg__|//scpf-lsc1)pá(e|ta)ru(egffs|tosthh)it,(fe..|cl-) (:) 
 
+<sp>+</sp> Cu(e!fwgh>|qippt1/vi>hi)jus(g|ta) vi(gh|pe)ta(g|ta) glo(g|ta)ri(g|ta)ó(hg__/h!iwj_IHi|cl-hhql-hippt1su2vihi)sa(ih__|cl-hi) (,) lu(i|vihh)cem(j>_|vi>hjlst2) de(hv_GF|ci-)dit(ixfg!hv/ig/hg__|//scpf-lsc1) sǽ(e|ta)cu(egffs|tosthh)lo.(fe..|cl-) (::) 
+
+<sp>V/</sp> Na(i|obvihh)ti(i|vihh)vi(i|vihh)tá(ikjJs|tohisthk)tem(h!iwji/hhog|qlhh!clhhppt1prhh) be(i|vihh)á(ij|pehj)tæ(h|ta) Ma(ig|cl)rí(h|vi)æ(j|vihi) Vír(i|vi)gi(ikjjs|tohisthk)nis(ji..|cl-hj) (;) cum(i|vi) gáu(i|vi)di(i|vi)o(ikj___jvI__H/iwji|trShjsut2qlhj!clhj) ce(hg|cl)le(g_h!iwj|``qlppt2)bré(jiiohiv_HGh|clhh!pihhci-hivihi)mus.(hg..|cl-cb) (::) 
+
+<sp>+</sp> Cu(e!fwgh>|qippt1/vi>hi)jus.(g|ta) (::)
