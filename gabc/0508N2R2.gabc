@@ -1,14 +1,15 @@
+name:Venit Michael Archangelus V Emitte Domine Spiritum;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ve(fgh)nit<sp>*</sp>(g) Mí(g)cha(g)ël(g) Arch(gh~)án(h)ge(h)lus(hg/higgf) (;)
-cum(f) mul(g)ti(h)tú(hwj)di(hg)ne(g) An(hiHGFgh>)ge(GHiwjIHiwjIH)ló(GHivHGh)rum,(hg) (:)
-cu(j)i(jh) trá(j)di(jk)dit(jkJs) De(jh!iwjiHGh)us(hg) (,)
-á(FGhih)ni(hg)mas(j) San(jijvIHG)ctó(hghvGFg)rum,(gf) (;)
-<sp>+</sp> Ut(f) per(gh>)dú(h)cat(g) e(gh)as(g) in(g) pa(ghGFE)ra(g)dí(fef)sum(dec!d!ewfefED) (,)
-ex(g)sul(ghGFgh>)ta(g)ti(GHiwjIHiwjIH)ó(GHivHGh)nis.(hg) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(g>)le(g/hfg)lú(g!hwihi)ja.(hg) (::)
-<sp>V/</sp> E(j)mít(ji)te,(jkj/iji/hhO1g) Dó(hi)mi(i)ne,(i) (,)
-Spí(i)ri(i)tum(i) San(i)ctum(i) tu(ih)um(jk) de(ij) cœ(g!hwih)lis,(hg) (;)
-spí(g)ri(fg)tum(g) sa(g)pi(g)én(gh~)ti(g)æ(g) et(hiHGhih) in(ghf~)tel(gh)lé(h!iwji/jkjIH)ctus.(hiHGhg) (::)
-<sp>+</sp> Ut.(f) (::)  
+(c4) Ve(f_0/gh|ta/pe)nit(g|ta) <sp>*</sp>() Mí(g|ta)cha(g|ta)ël(g|ta) Ar(gh~|pe~)chán(h|vi)ge(h|vi)lus(ixhg/hig_gf..|////clto-1cl-) (;) cum(f|ta) mul(g|vi)ti(h|vi)tú(hwj|qlhh)di(hg|cllsc2)ne(g|ta) An(ixh_i_H_GFg_h>|////pe-1hisuu1su2pe>1hg)ge(g_h!iwjI__H/iwj_IH|``qlhippt2sut2ql-hjsu2)ló(gh!iv_HGh|//ci-hhpp2vihh)rum,(hg..|cl-) (;) cu(j|vihi)i(jh|clhilsc2) trá(j|vihi)di(jk|pehj)dit(kjjs|clhjsthl) De(j_h!iwjI__HGh|cl-hjqlhj!vshjsu2vihj)us(hg__|cl-hh) (,) á(ixfg/hih|////topp2)ni(hg|cllsc2)mas(iyi|////vi) San(ji__jvI__HG|cl-hivi-hjsuu1su2)ctó(hg__hv_GFg|cl-ci-vi)rum,(gf..|cl-) (:) 
 
+<sp>+</sp> Ut(f|ta) per(ghg~|pe>)dú(h|vi)cat(g|ta) e(gh|pe)as(g|ta) in(g|ta) pa(g_h_GE|pe-1su2)ra(g|vi)dí(fef|po)sum(dec_//d!ewfef_ED|to-1ql!po-1ppt1su2) (,) ex(g|vi)sul(g_h_GFgh>|pe-1su2pe>)ta(g|ta)ti(g_h!iwjI__H/iwj_IH|``ql-hippt2sut2ql-hjsu2)ó(gh!iv_HGh|//ci-hhpp2vihh)nis.(hg..|cl-) (::) 
+
+<c><i>T.P.</i></c> Al(g|obvi)le(g_0//hfg|vi-hepohh)lú(g!hwihi>|qlhe!po>heppt1){ia}.(hg..|cl-cb) (::) 
+
+<sp>V/</sp> E(j|vihi)mít(ji|clhhlsc2)te,(jkj_/iji_/hhog|to-1hjto-1hjprhi) Dó(hi|pe)mi(i|tahh)ne,(i|tahh) (`) Spí(i|tahh)ri(i|tahh)tum(i|tahh) San(i|tahh)ctum(i|tahh) tu(ih|clhh)um(ij|pehi) de(hi|pehg) cæ(g!hwih|ql!clppt1)lis,(hg..|cl-) (;) spí(g|vi)ri(fg|pe)tum(g|ta) sa(g|ta)pi(g|ta)én(gh~|pe~)ti(g|ta)æ(g|ta) et(ixhi_HGhih|////pe-hhsu2tohh) in(ghf~|pe>)tel(g_h|peS)léc(iyh!iwji/jkJ_IH|/vi-qlhi!clhi/to-1hksu2)tus.(h_i_HGhg..|pe-1hhsu2cl-hh) (::) 
+
+<sp>+</sp> Ut(f|ta) per(ghg~|pe>)dú(h|vi)cat.(g|ta) (::)
