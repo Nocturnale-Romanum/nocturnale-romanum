@@ -1,12 +1,13 @@
+name:Orante sancto Clemente V Vidi supra montem;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) O(d)Rán(f!g!h>)te<sp>*</sp>(g) sanc(g)to(g) Cle(gh)mén(h)te,(hg/higgf) (;)
-ap(hf)pá(ghg)ru(h)it(h) e(iwj)i(hg) A(hvGFgh>)gnus(GHiwjIHiwjIH) Dó(g)mi(GHivHGh)ni,(hg) (:)
-de(jkj) sub(hf) cu(jki)jus(jk) pe(ki/jkh/i)de(hhO1g) (,)
-fons(FGhih) vi(hg)vus(j) e(jijvIHG)ma(gh)ná(hghvGFg)bat:(gf) (;)
-<sp>+</sp> Flú(f)mi(g)nis(h) í(iwj>)pe(h)tus(g) læ(h)tí(jjo1!kv)fi(hg)cat(GHiwjg/h/ggO1f) (,)
-ci(h)vi(j)tá(jijvIHi!jo1)tem(i!jwkJIHiwjI!Hs<) De(GHivHGh)i.(hg) (::)
-<sp>V/</sp> Vi(ji)di(jkj/iji/hhO1g) su(ij)pra(i) mon(i)tem(ih) A(ij)gnum(hi) stan(g!hwih)tem,(hg) (;)
-de(g) sub(fg) cu(g)jus(g) pe(gh)de(g) fons(g) vi(g)vus(hiHGhih) e(ghf)ma(gh)ná(h!iwji/jkjIH)bat.(hiHGhg) (::)
-<sp>+</sp>  Flú(f)mi(g)nis.(h) (::)
+(c4) O(d|ta)rán(f_0/gh>|vihd/pe>hh)te(g|ta) <sp>*</sp>() san(g|ta)cto(g|ta) Cle(gh|pe)mén(h|vi)te,(ixhg/higgf__|/////cltoS2cl-) (;) ap(hf|cl)pá(ghg|to)ru(h|vi)it(h|vi) e(hwj|qlhh)i(hg|cl) Ag(hv_GFgh>|ci-pe>)nus(g_h!iwjI__H/iwj_IH|`qlhjppt2sut2ql-hjsu2) Dó(g|ta)mi(gh!iv_HGh|//ci-hhpp2vihh)ni,(hg..|cl-) (:) de(jkj|tohk) sub(jh|clhh) cu(jkj|tohk)jus(jk|pehk) pe(ki/jkh_/i|clhkto-1hkvihj)de(hhog|vs``tahj) (,) fons(ixf_g/hih|///toppt2) vi(hg|cl)vus(iyi|/////vi) e(ji__jvI__HG|cl-hjlsm2vihisut1su2)ma(gh|pe)ná(hg__hv_GFg|cl-ci-vi)bat:(gf..|cl-) (;) 
 
+<sp>+</sp> Flú(f|ta)mi(g|vi)nis(h|vi) ím(hwj>|ql>hhlss3)pe(h|vilsm2)tus(g|ta) læ(h|vilsc2)tí(jjok_|vi/pq-hk)fi(hg|cl)cat(g_h!iwjg__/h/ggof|`qlhh!cl-hhppt2vihiprhi) (,) ci(h|vi)vi(j|vihi)tá(ji__jv_IHi@jo|cl-hjci-hjvshj)tem(i!jwkJI__H/iwj_IH<|qlhkppt1sut3ql-hisu1sux1) De(g_h!iv_HGh|ci-hhppt2vi)i.(hg..|cl-) (::) 
+
+<sp>V/</sp> Vi(ji|clhi)di(jkj/iji/hhog|tohktohkprhk) su(hi|pe)pra(i|ta) mon(i|ta)tem(ih|cl) Ag(ij|pehi)num(hi|pe) stan(g!hwih|ql!clppt1)tem,(hg..|cl) (;) de(g|vi) sub(fg|pe) cu(g|ta)jus(g|ta) pe(gh|pe)de(g|ta) (,) fons(g|ta) vi(g|ta)vus(ixhi_HGhih|pe-su2to) e(ghf|to)ma(g_h|peS)ná(h!iwji/jkJ_IH|qlhh!clhhppt1/to-1hlsu2)bat.(h_i_HGhg..|pe-1hisu2cl-hi) (::) 
+
+<sp>+</sp> Flú(f|ta)mi(g|vi)nis.(h|vi)  (::)
