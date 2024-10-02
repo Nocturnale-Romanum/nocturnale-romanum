@@ -1,3 +1,10 @@
+name:Deus deorum;
+office-part:an;
 mode:8c;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)De(j)us(ji) de(hg)ó(h)rum,(gf~) <v>\greheightstar</v><sp>+</sp>(,) Dó(g)mi(h)nus(i) lo(h)cú(g)tus(fg) est. ‡(g)  (::) <eu>E(j) U(j) O(h) U(j) A(k) E.(j) </eu> (::)
+(c4) De(j_|vi-hh)us(ji|clhhlsc3) de(hg|```clhglsc3lsi4)ó(h|vi)rum,(gf~|cl~) *(,) Dó(g|vihd)mi(h|vi)nus(i|vihh) lo(h|vihg)cú(g|vihg)tus(fg|pehe) est.(g.|ta) (::)
+<eu>E(j) U(j) O(h) U(j) A(k) E.</eu>(j) (::)
+
+
