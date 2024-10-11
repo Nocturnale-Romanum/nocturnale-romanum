@@ -1,3 +1,13 @@
+name:Cantantibus organis V Biduanis ac triduanis;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) CAn(d)tán(f!g!h>)ti(g)bus(gh) ór(h>)ga(gf!gw!hgh)nis, *(GHih) (,) Cæ(f)cí(hih)li(h)a(h!iwji/jkj) vir(jvIHihg~)go(hg) (;) in(g) cor(hiHGhih)de(gfg) su(ivHGhi)o(h) so(h)li(f) Dó(g)mi(fefvEDe)no(ed) (,) de(fe)can(fg~)tá(ghGFgh)bat(GHiwjIHiwjIH) di(GHivHGh)cens:(hg) (:) + Fi(j)at,(jk~) Dó(kjji)mi(hg)ne,(hj) cor(j) me(jh!iwjiHGh)um(hg) (,) et(g) cor(hiHGhih)pus(gfg) me(ivHGhi)um(h) im(hg~)ma(h!iwj)cu(g)lá(g)tum,(gf!efvEDed) (;) ut(ghGFgh>) non(g) con(GHiwjIHiwjI!hs<)fún(GHivHGh)dar.(hg) (::) <sp>V/</sp> Bi(j)du(j)á(ji)nis(jkj/iji/hhO1g) ac(hi) tri(ih)du(i)á(ij)nis(i) je(ji)jú(ih)ni(ij)is(hi) o(g!hwih)rans,(hg) (;) com(g)men(fg~)dá(g)bat(g) se(g) Dó(g)mi(g)no(hiHGhih) quem(ghf~) ti(gh)mé(h!iwji/jkjIH)bat.(ghGFgf) (::) + Fi(j)at.(jk~) (::)
+(c4) Can(d|talsc3)tán(f_0/gh>|vipe>)ti(g|ta)bus(gh|pe) ór(h>|vi>)ga(g_f!gwhgh|cl-ql!po)nis,(ixg_h/ih__|/////cl-ppt2) <sp>*</sp>(;) Cæ(f|grlsc2)cí(ixhih|/////to)li(g|ta)a(iyg!hwji/jkj|////ql!clppt1tohl) vir(jv_IHivH~G~|ci-hjcl>hi)go(hg__|cl-) (,) in(g|ta) cor(ixhi_HGhih|/////pe-su1suu1tohh)de(gfg|polsi3) su(ixiv_HGh_i|/////ci-hjpeShj)o(h.|ta) (;) so(h|vi)li(f|ta) Dó(g|vi)mi(ge__fv_EDe|cl-vi-su1sut1vi)no(ed__|cl-) (,) de(fe|cl)can(fg~|pe~)tá(g_h_GFg_h|pe-1su1sut1peS)bat(g_h!iwj_IH/iwj_IH_0|`ql-hjppt2su1sut1ql-hjsu1sut1) di(g_h!iv_HGh|ci-hippt2)cens:(hg..|cl-) (:) 
+
+<sp>+</sp> Fi(j|vihj)at,(jk~|pe~hj) Dó(kjji__|/////clShjcl-hj)mi(hg|cl)ne,(hi|pehh) cor(j|vihjlsl2lse3) me(j_h!iwjI__HGh|cl-hjqlhj!vshjsu2vihj)um(hg__|cl-) (,) et(g|ta) cor(ixhi_HGhih|/////pe-hisu2tohk)pus(gfg|polsi3) me(ixiv_HGh_i|/////ci-hipeShi)um(h|ta) (,) im(hg~|vi>)ma(ixh!iwj|//viqlhj)cu(g|ta)lá(g|vi)tum,(gvFE__fv_EDed..|clSsut1vi-su1sut1cl-) (;) ut(g_h_GFg_h>|pe-1su2pe>1) non(g|ta) con(g_h!iwjI_H/iwj_IH<|`qlhippt2sut2ql-hisu1sux1)fún(g_h!iv_HGh|ci-hippt2vihi)dar.(hg..|cl-) (::) 
+
+<sp>V/</sp> Bi(j|vihi)du(j|vihi)á(ji|clhi)nis(jkj/iji/hhog|tohk/tohk/prhj) ac(hi|pe) tri(i|vi)du(ih|cl)á(jk|pehk)nis(j|tahi) je(ji|clhi)jú(ih|cl)ni(ij|pehi)is(hi|pehh) o(g!hwih|ql!clppt1)rans,(hg..|cl) (;) com(g|vi)men(fg~|pe)dá(g|vi)bat(g|vi) se(g|vi) Dó(g|vi)mi(g|vi)no(ixhi_HGhih|/////pe-hisu2tohj) quem(ghf~|pe>) ti(g_h|peS)mé(iyh!iwji/jkJ_IH|///ql!clppt1toS2hlsu2)bat.(g_h_GFgf..|pe-1su2cl-) (::) 
+
+<sp>+</sp> Fi(j|vihj)at.(jk~|pe~hj) (::)
