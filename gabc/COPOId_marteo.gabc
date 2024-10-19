@@ -1,9 +1,7 @@
-name:Regem Confessorum Dominum venite (TP);
+name:Regem confessorum (TP);
 office-part:in;
 mode:6f;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Re(f_0fg)gem(f) Con(f)fes(f)só(f)rum(gh) Dó(h)mi(gf)num,(f.) <sp>*</sp>(;)
-Ve(f)ní(g)te(fe) ad(f)o(g_h)ré(ixhig___)mus.(gf..) (;) Al(f!gw!h>)le(ghffvED)lú(f!gwhgh>){ia}.(gf..) (::)
-<nlba>Ve(f_h)ní(j)t{e}. <c><i>pag. <v>\pageref{M-ORIP6f}</v>.</i></c></nlba>(j ::)
-
+(c4) Re(f_0fg|obvi-/pehi)gem(f|ta) Con(f|ta)fes(f|ta)só(f|ta)rum(gh|pe) Dó(h|vi)mi(gf|cl)num,(f.|ta) <sp>*</sp>(;) Ve(f|vi)ní(g|vi)te(fe|cl) a(f|vi)do(g_h|peS)ré(ixhig___|/////toShh)mus.(gf..|cl-) (;) Al(f!gw!h>|qi>ppt1)le(ghffv_ED|toS2ci-)lú(f!gwhgh>|ql!poppt1){ia}.(gf..|cl-cb) (::) <nlba>Ve(f_h)ní(j)t{e}. <c><i>pag. <v>\pageref{M-ORIP6f}</v>.</i></c></nlba>(j ::)
