@@ -1,13 +1,13 @@
+name:Fuit homo missus a Deo cui nomen V Erat Joannes in deserto;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Fu(evv)it(e) ho(EFhvFDe)mo(efeed) (,)
-<sp>*</sp> mis(dfO1h)sus(hg) a(g!hwiHGf!gwhGF) De(EFgvFEf)o,(fe) (;)
-cui(hg)i(hi) no(iji)men(hih) Jo(h)án(h)nes(gh) e(fhe)rat:(e) (:)
-<sp>+</sp> Hic(ef) ve(dvcdb)nit(cb) in(db~) te(cdc)sti(de)mó(e)ni(ed!ewfef)um(fe) (,)
-per(e)hi(ef)bé(f)ret(efe) de(d) lú(d!eo1!fv)mi(fe!fwgfg)ne,(gf) (;)
-et(hg~) pa(hi)rá(i)ret(gi) Dó(hi)mi(ih!ghvGFEf)no(EFgwhe/f/eeO1d) (,)
-ple(dfO1h)bem(ho0!iv) per(ig!hwiHGf!gwhGF)fé(EFgvFEf)ctam.(fe) (::)
-<sp>V/</sp> E(i!jwkJI)rat(hi/hhO1g) Jo(h)án(hi~)nes(h) in(h) de(ig)sér(hi)to(hi) prǽ(h)di(i!jwkj)cans(ji) (;)
-bap(i)tís(i)mum(i) pœ(ijijIH)ni(hg)tén(h!iwji/jkj>)ti(ih!iwjij)æ.(ivHGhg) (::)
-<sp>+</sp> Hic.(ef) (::)
+(c3) Fu(ev_ev_|bv-)it(e|vi) ho(efhFDe|cipp2lsc2vi)mo(efeed__|toS2cl-) <sp>*</sp>(,) mis(dfO1h|```salse4)sus(hg__|cl-) a(g!hwiHGF/gwh_GF|qisu2sut1ppt1ql-su2) De(ef!gv_FEf|//ci-pp2vi)o,(fe..|cl-) (;) cui(hg|cllsl2lsc2)i(hi|pe) no(iji|tohilsc2lsb2)men(hih|tohi) Jo(h|talse2)án(h|vi)nes(gh|pe) e(fhe___|toSlss3)rat:(e.|ta) (:) 
 
+<sp>+</sp> Hic(e_f|```peSlse4) ve(dv_cdb|vi/tohh)nit(cb|cl-) ut(d_b~|vi>lss2lst2lsi8) tes(bd_c|toS3lst2)ti(de|pe)mó(e|vi)ni(e_d!ewfef|cl-hdql!po)um(fe__|cl-) (,) per(e|```talse4)hi(ef|pe)bé(f|vi)ret(efe|toS3lsc2lss6) de(d|vilsi2) lú(d@eof|sa)mi(gxf_e!fwgfg|////cl-ql!po)ne,(gf..|cl-) (;) et(gyhg~|////vi>lsal3) pa(hi|pehh)rá(i|vihh)ret(g_i|``peShhlsi7) Dó(h_i|peShh)mi(ivHG__hvG__FEf|clSsut1visut1su2vi)no(e_f!gwhe/f/eeod|ql!clppt2vipr) (,) ple(dfO1h|sa)bem(hoi_|pq-) per(i_g!hwi_HG__F/gwh_GF>|cl-qi-sut3ql-su1sux1)féc(ef!gv_FEf|//ci-pp2vi)tam.(fe..|cl-) (::) 
+
+<sp>V/</sp> E(i!jwk_JI|``viql-hlsu2)rat(h_i/hhog|peSpr) Jo(h|vi)án(hi~|pe~)nes(h|ta) in(h|ta) de(ig|cl)sér(hi|pe)to(hi|pe) prǽ(i|ta)di(i!jwkj|qlhh!clhhppt1)cans(ji..|cl-hi) (;) bap(i|```talse4)tís(i|ta)mum(i|ta) pœ(ijij_IH|tr-1hisu2)ni(ih|cl)tén(h!iwji/jkj>|ql!clppt1to>hj)ti(i_h!iwjij|cl-hhqlhh!pohh)æ.(iv_HGhg..|ci-hicl-hh) (::) 
+
+<sp>+</sp> Hic(e_f|```peSlse4) ve(dv_cdb|vi/tohh)nit.(cb|cl-) (::)
