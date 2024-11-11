@@ -1,9 +1,13 @@
+name:Oculis ac manibus V Dum sacramenta;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) O(d!ewfd/e!fo1)cu(e)lis(e) ac(e!fo1!gv) má(fe)ni(e)bus(fgf!efvEDed) (;)
-<sp>*</sp> in(fd~) cœ(-dfe)lum(fg~) sem(ggo1!h>)per(g) in(FGhvGFghg)tén(egfFs)tus,(fe) (:)
-<sp>+</sp> In(d)ví(dhg)ctum(hi) ab(hi) o(h)ra(hggO1f)ti(gh)ó(ghgFEf)ne(e!fo1@ge) spí(c)ri(dfde!fo~)tum(e) non(Fsss<) re(fg)la(gvFGhvighg)xá(egfFs)bat.(fe) (::)
-<sp>V/</sp> Dum(h) sa(gf/gwhghvGEfe)cra(g)mén(gh~)ta(g) of(g)fé(g)ret(g) be(g)á(gf)tus(gh) Mar(gf~)tí(e!fwgf)nus,(fe) (;)
-glo(f)bus(de) í(e)gne(e)us(e) ap(e)pá(e!fo1)ru(e)it(e) su(e)per(e!fwgFE) ca(g)put(ghghvGF) e(EFgef>)jus.(ed) (::)
-<sp>+</sp> In(d)ví(dhg)ctum.(hi) (::)
+(c4) O(c!dwed/e_1@fo1_1|ql!clppt1vs-lst2)cu(e|ta)lis(e|ta) ac(e@fo1g|sa) má(fe__|cl-)ni(e|ta)bus(egFE__fv_EDed__|to-1suu1ci-cl-) <sp>*</sp>(,) in(fd~|vi>) cæ(dfe|to)lum(fg~|pe~) sem(ggo1hd~|sa>)per(e|vi) in(ef!hvGFghg|cipp2lsc2tohh)tén(egffs|tosthh)tus,(eeof.|sa) (:) 
 
+<sp>+</sp> In(d|gr)víc(ghg|to)tum(ixhi|/////pe) ab(ixhi|/////pe) o(h|ta)ra(hggof|cl!pi)ti(gh|pe)ó(g_hG__FEf|toSsu2vi)ne(eeo1fe__|sa!clS1) (;) spí(c|vi)ri(dede/fo|trorhi)tum(e|ta) non(fsfsfd~|ts>) re(f_og|pqS)la(ixgv_/fg!hv_//ig/hg__|///vi-vi-pp2pfS)xá(egffs|tosthh)bat.(fe..|cl-) (::) 
+
+<sp>V/</sp> Dum(h|vi) sa(h|vi)cra(h|vi)mén(h>|vi>)ta(g_f!gwhg/hv_GEfe__|cl-qi!clci-cl-) of(g|vi)fér(gh~|pe~)ret(g|ta) be(g|ta)á(gf|cllsc2)tus(gh|pe) Mar(gf~|vi>)tí(e!fwgf|qi!clppt1)nus,(fe..|cl-) (;) glo(f|vi)bus(de|pe) íg(ef~|pe~)ne(e|ta)us(e|ta) ap(e|ta)pá(e@fo1|vslsc2)ru(e|ta)it(e|ta) (,) su(e|ta)per(e!fwg_FE|qi-ppt1su2) ca(g|vi)put(ghgh_GF|tr-1su2) e(ef/gffs|popp2)jus.(ed..|cl) (::) 
+
+<sp>+</sp> In(d|gr)víc(ghg|to)tum.(ixhi|/////pe) (::)
