@@ -1,16 +1,17 @@
+name:Dixerunt discipuli... Martinum V Scimus quidem V Gloria;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Di(c)xé(efg)runt<sp>*</sp>(f) di(h)scí(hgh)pu(fg)li(ffO1e) (;)
-ad(e) be(h)á(ghgFEfg)tum(f) Mar(f!gwh/ig/hg>)tí(FGhvGFg)num:(gf) (:)
-Cur(hhi) nos,(h) pa(hhO1g)ter,(h!i>) dé(hi)se(ghGFg)ris,(gf) (;)
-aut(f) cu(fg)i(f) nos(f) de(f)so(f)lá(FGhvGFE)tos(f) re(hg/hih)lín(hvGFg>)quis?(ffO1e) (:)
-<sp>+</sp> In(hg/hw!i>)vá(hvGFE)dent(fg>) e(fvefe)nim(cd/ced!cfvEDed) (;)
-gre(b)gem(c) tu(ef)um(fhf/g/ffO1e) lu(fvhvGE)pi(h) rá(GHihiHG)pa(f!gwhgh)ces.(gf) (::)
-<sp>V/</sp> Sci(EFgwhhi)mus(h) qui(ij)dem(i>) de(h)si(h)de(h)rá(hi)re(h) te(h) Chris(hi)tum,(h) (,)
-sed(h) sal(hi~)va(h) sunt(h) ti(h)bi(hg) tu(hi)a(gh) prǽ(f)mi(f!gwhg)a:(gf) (;)
-no(f)stri(ef) pó(f)ti(f)us(f) mi(f)se(f)ré(f)re,(f!gwhGFE) quos(f) dé(hg/hih)se(hvGFg)ris.(ffO1e) (::)
-<sp>+</sp> In(hg/hw!i>)vá(hvGFE)dent.(fg>) (::)
-<sp>V/</sp> Gló(EFgwhhi)ri(h)a(h) Pa(hg)tri,(hi) et(gh) Fí(f)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(f!gwhGFE)tu(f)i(hg@hih) San(hvGFg>)cto.(ffO1!e) (::) 
-<sp>+</sp> In(hg/hw!i>)vá(hvGFE)dent.(fg>) (::)
+(f3) Di(c|gr)xé(e_0/fg|``vi-/pehi)runt(f|ta) dis(h|vi)cí(hgh|po)pu(fg|pe)li(f_foe|pr-) <sp>*</sp>(,) ad(e|ta) be(f|vi)á(g_hG__FEf_g|toSsu2peS)tum(f|ta) Mar(f!gwh/ih/hog>|`qlppt1clcl>lsco2)tí(fg!hv_GFg|//ci-pp2vi)num:(gf..|cl-) (:) Cur(hhi|`vipe) nos,(h|ta) pa(h_hog|pr-)ter,(hi>|pe>) dé(h_i|peS)se(g_h_GFg|pe-1su2vi)ris,(gf..|cl-) (;) aut(f|ta) cu(fg|pe)i(f|ta) nos(f|ta) de(f|ta)so(f|ta)lá(fg!hvGFE|vipp2su3lsc2)tos(f|vi) re(hg/hih|cltohi)lín(hv_GFg>|ci-vi>)quis?(f_foe.|pr-) (:) 
 
+<sp>+</sp> In(h_g!hwi>|cl-qi>)vá(hv_GFE__|vi-su1sut2)dent(fg>|pe>) e(fv_//efe|vi-/tohh)nim(dxc_d_//ceDC__dv_CBcb__|//pe-1lsi7toS2sut1ci-cl-) (;) gre(b|ta)gem(c|vi) tu(e_f_|pe-1)um(ghf_/g_/ffoe|toS2vi-pr) lu(f_0/hvGE|vi-cilsc2)pi(h|vi) ra(gh/ih/ivHG___|clpp2lsc2vi-hisut2)pá(f!gwhgh|ql!poppt1)ces.(gf..|cl-) (::) 
+
+<sp>V/</sp> Sci(e_f!gwhhi|``ql-ppt2pehh)mus(h|ta) qui(ij|pe)dem(i>|vi>) de(h|ta)si(h|ta)de(h|ta)rá(hg|cllsc2)re(hi|pehh) te(gh|pe) Chris(f_g|obpeS)tum,(ffoe.|pr) (;) sed(h|vi) sal(ij|pehh)va(i|vi) sunt(h|ta) ti(h|ta)bi(hg|cl) tu(hi|pe)a(gh|pe) prǽ(f|ta)mi(f!gwhg__|ql!cl-ppt1)a:(gf..|cl-cb) (;) nos(f|vi)tri(ef|pe) pó(fg|pe)ti(f|ta)us(f|ta) mi(f|ta)se(f|ta)ré(f|ta)re,(f!gwh_GFE|ql-ppt1su3) quos(f|vi) dé(hg/hih|cltohh)se(hv_GFg|ci-vi)ris.(f_foe.|pr-) (::) 
+
+<sp>+</sp> In(h_g!hwi>|cl-qi>)vá(hv_GFE__|vi-su1sut2)dent.(fg>|pe>) (::) 
+
+<sp>V/</sp> Gló(e_f!gwh/hi|qlhgppt2pehj)ri(h|ta)a(h|ta) Pa(hg|cllsc3)tri,(hi|pe) et(gh|pe) Fí(f|ta)li(f!gwhg__|ql!cl-ppt1)o,(gf..|cl-) (;) et(f|ta) Spi(f|ta)rí(f!gwh_GFE__|ql-ppt1su1sut2)tu(f|vi)i(hg/hih|cllsc2tohg) Sanc(hv_GFg>|ci-vi>hg)to.(ffoe.|pr) (::) 
+
+<sp>+</sp> In(h_g!hwi>|cl-qi>)vá(hv_GFE__|vi-su1sut2)dent.(fg>|pe>) (::) 
