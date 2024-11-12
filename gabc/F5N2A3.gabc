@@ -1,6 +1,8 @@
-mode:8g;
+name:In ecclesiis;
+office-part:an;
+mode:P;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) IN(f) ec(fg)clé(h)si(g)is<sp>*</sp>(g) (,) 
-be(h)ne(ixi)dí(h)ci(g)te(f) Dó(g)mi(h)no(h) De(g)o.(g)
-<eu> (::) E(j) U(j) O(i) U(j) A(h) E.(g)  </eu> (::)
-
+(c4) In(c|vi) ec(d|pe)clé(f|vi-)si(fg|vi)is(g_|vi) <sp>*</sp>(,) be(h|vi)ne(ixi|////vihh)dí(h_|vi-)ci(g|vi)te(f|ta) Dó(gh|pe)mi(h|vi)no(h|obvi) De(g.|tacb)o(g.|ta) (::) 
+<eu>E(g) u(g) o(g) u(d) a(f) e.(ed) </eu>(::)
