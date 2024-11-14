@@ -1,11 +1,13 @@
+name:O beatum virum in cujus V Ecclesia virtute;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)  O(dgf/gh) Be(g)á(g)tum(g!ho1!i>) vi(h)rum(hg/h!iwjg/h/ggO1f) (;)
-<sp>*</sp> in(hf~) cu(ghg)jus(h) tráns(h!iwj>)i(hvGFgh)tu(g) Sanc(gh~)tó(hihGFgh)rum(g) ca(g)nit(GHiwjIHiwjIH) nú(g)me(GHivHGh)rus,(GHih) (:)
-An(f)ge(h)ló(jkj)rum(j) ex(jh)súl(jki)tat(jk) cho(ki/jkh/i)rus,(hhO1g) (;)
-<sp>+</sp> O(f)mni(f)úm(hih)que(fe) cœ(j)lé(jijvIHG)sti(hg/hvGFg)um(gf) (,)
-Vir(hg~)tú(h)tum(ge) oc(g)cúr(fef>)rit(dec/d!ewfefvED) psal(dc~)lén(f)ti(gh)um(hghvG0F) ex(F1Hiwj!kvJIHiwjIH)ér(g)ci(GHivHGh)tus!(hg) (::)
-<sp>V/</sp> Ec(j)clé(j)si(ji)a(jkj/iji/hhO1g) vir(ih~)tú(ij)te(i) ro(i)bo(i)rá(ij)tur,(i) sa(i)cer(i)dó(ij)tes(i) re(i)ve(i)la(i)ti(i)ó(ij)ne(ji) glo(ih)ri(ij)fi(hi)cán(g!hwih)tur,(hg) (;)
-quem(g) Mí(fg)cha(g)ël(g) as(g)súm(g)psit(hiHGhih) cum(ghf) An(gh)ge(h!iwji/jkjIH)lis.(hiHGhg) (::)
-<sp>+</sp> O(f)mni(f)úm(hih)que.(fe) (::)
+(c4) O(dgf/gh|to/pe) be(g|ta)á(g|ta)tum(ixg@ho1i>|////sa>) vi(h|vi)rum(ixhg__/h!iwj_g_2/hv_/ggof|////cl-qlhh!cl-hhppt1vi-hhprhh) <sp>*</sp>(;) in(hf~|vi>) cu(ghg|to)jus(h|vi) trán(ixh!iwj>|vihhlse4ql>hi)si(hv_GFg_h|ci-peS)tu(g|ta) San(g<|pe~)ctó(ixh_iH__GFg_h|/////toSsu2peS)rum(g|ta) ca(g|ta)nit(iyg_h!iwjI__H/iwj_IH|//ql-hippt2sut2ql-hjsu2) nú(g|ta)me(gh!iv_HGh|//ci-hhpp2vihh)rus,(ixg_h/ih..|/////cl-ppt2) (;) An(f|ta)ge(h|vi)ló(jkj|tohl)rum(j|vihh) ex(jh|clhilsc2)súl(jkj|tohl)tat(jk|pehk) cho(ki/jkh_/i|clhjlsc2to-1hkvihl)rus,(h_hog.|pr-) (:) 
 
+<sp>+</sp> O(f|ta)mni(f|ta)úm(ixhih|/////tohh)que(hg|cllsc2) cæ(iyi|/////vi)lés(ji__jv_I_HG|cl-hjvi-hksut1su2)ti(hg__/hv_GFg|cl-hhci-hhvihh)um(gf__|cl-) (,) Vir(h>|vi>)tú(h|vi)tum(g_e_|clS-1) oc(g|vi)cúr(fef>|po>)rit(dec/d!ewfefv_ED|to/ql!clppt1ci-) (;) psal(dc~|vi>)lén(f|vi)ti(gh|pe)um(hg__hv_GF|cl-ci-) ex(f_h!iwj/kvJI___H/iwj_IH|``qlhippt2/vi-hlsut3ql-hksu2)ér(g|ta)ci(gh!iv_HGh|//ci-hhpp2vihh)tus!(hg..|cl-) (::) 
+
+<sp>V/</sp> Ec(j|vihh)clé(j|vihh)si(ji|clhh)a(jkj_/iji_/hhog|to-1hjto-1hkprhj) vir(ih~|vi>)tú(jk|pehj)te(j|tahh) ro(j|tahh)bo(j|tahh)rá(jk|pehj)tur,(j|tahh) (,) sa(j|tahh)cer(j|tahh)dó(j|obtahh)tes(j|tahh) De(jk|pehj)i(j|tahhcb) re(j|tahh)ve(j|tahh)la(j|tahh)ti(j|tahh)ó(jk|pehj)ne(ji|clhhlsc2) glo(ih|cllsc2)ri(ij|pehh)fi(hi|pe)cán(g!hwih|qi!clppt1)tur,(hg..|cl-) (;) quem(g|vi) Mí(fg|pe)cha(g|ta)ël(g|ta) as(g|ta)súm(g|ta)psit(ixhi_HGhih|/////pe-hisu2tohj) cum(ghf|tohh) An(g_h|peS)ge(h!iwji/jkJ_IH|ql!clppt1toS2hlsu2)lis.(h_i_HGhg..|pe-1hisu2cl-hi) (::) 
+
+<sp>+</sp> O(f|ta)mni(f|ta)úm(ixhih|/////tohh)que.(hg|cllsc2) (::)
