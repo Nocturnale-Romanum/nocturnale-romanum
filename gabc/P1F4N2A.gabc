@@ -1,4 +1,7 @@
-mode:4e2;
+name:Alleluia alleluia alleluia (Quarta T.P. in II Nocturno);
+office-part:an;
+mode:4e;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)AL(hg~)le(h)lu(g)ia,<sp>*</sp>(g) (,) al(e)le(f)lu(g)ia,(f) (,) al(gh~)le(gf)lu(e)ia.(e) (::)
-<eu> E(h) U(g) O(h) U(ih) A(gf) E.(e)  </eu> (::)
+(c4) Al(hg~|/obvi->)le(h_|vi-)lú(ggo|vs)ia,(f_|vi-) <sp>*</sp>(,) al(e|ta)le(f|vi)lú(g|vi)ia,(f|ta) al(g_h|peS)le(gf__|cl-)lú(e.|ta)ia.(e.|tacb) (::) <eu>E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu>(::)
