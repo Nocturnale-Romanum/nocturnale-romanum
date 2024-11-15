@@ -1,3 +1,7 @@
+name:Confitebuntur tibi;
+office-part:an;
 mode:6f;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)Con(f)fi(f)te(g)bún(h>)tur(f) ti(g)bi(f) <v>\greheightstar</v>() pó(gh)pu(g)li,(f) (,) De(fe)us(d) in(f) æ(g)tér(g)num.(f) (::) E(h) U(h) O(f) U(gh) A(g) E.(f) (::)
+(c4) Con(f|obta)fi(f|ta)te(g|vi)bún(hg~|vi>)tur(f|ta) ti(g|vi)bi(f|ta) <sp>*</sp>() pó(gh|pe)pu(g|ta)li,(f|ta) (,)De(fe|cl)us,(d|ta) in(f|vi) æ(g|vi)tér(g|vi)num.(f.|tacb) (::) <eu>E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
