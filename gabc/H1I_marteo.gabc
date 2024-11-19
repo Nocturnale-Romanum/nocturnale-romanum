@@ -2,8 +2,6 @@ name:Deum verum unum in Trinitate;
 office-part:in;
 mode:4e;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) De(c@dwe/fo)um(e) ve(df/fe)rum,(dc__) (,) 
-u(de)num(e) in(e>) Tri(c)ni(de)tá(e@fwg)te,(ffoe.) (,) et(e) Tri(g)ni(gh)tá(hg__/hv_GFg)tem(ffoe.) (,) in(e) U(dc)ni(de)tá(e@fwg_FE)te,(ddoe.) <sp>*</sp>(;) 
-Ve(c_d)ní(e)te,(fg) ad(gf__/g_hGFfo)o(de)ré(e.)mus.(e.) (::) 
-<nlba>Ve(e)ní(g)te. <c><i>pag. <v>\pageref{M-ORIP4e}</v>.</i></c></nlba>(h ::)
+(c4) De(c@dwe/fo|`qlppt1orhj)um(e|vi>) ve(df/foe|pe-pilsm2)rum,(dc__|cl-) u(de|``pelsc1)num(e_|vi-lsx3) (,) in(e>|vi>) Tri(c|ta)ni(de|pe)tá(e@fwg|`qlppt1)te,(ffoe.|pi) (,) et(e|ta) Tri(g|vi)ni(gh|pe)tá(hg__/hv_GFg|cl-ci-vi)tem(ffoe|pr) (,) in(e|ta) U(dc|cllsc3)ni(de|pe)tá(e@fwg_FE|`ql-ppt1su2)te,(ddoe.|sa) <sp>*</sp>(;) Ve(c_d|peS)ní(e|vi)te,(fg|pe) a(gf/g_h_GFfo|clpe-1su2or)do(de|pe)ré(e.|ta)mus.(e.|ta) (::) <nlba>Ve(e)ní(g)te. <c><i>pag. <v>\pageref{M-ORIP4e}</v>.</i></c></nlba>(h ::)
