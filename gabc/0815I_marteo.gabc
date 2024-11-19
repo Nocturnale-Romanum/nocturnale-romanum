@@ -2,10 +2,6 @@ name:Venite adoremus (invit);
 office-part:in;
 mode:4e;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ve(c)ní(c@dwe/fo)te,(e.) ad(fe)o(d)ré(e_f)mus(gh) Re(gf~)gem(de) re(e_f)gum,(ed..)
-<sp>*</sp>(;) 
-Cu(g)jus(gh) hó(ixhih)di(ghGF)e(ed__) (,) 
-ad(c) æ(df)thé(fe)re(de)um(e_) Vir(ffo@e)go(d) Ma(dg@hv)ter(g_) (,) 
-as(gf)súm(gh>)pta(gf) est(de) cæ(e.)lum.(e.) (::)
-<nlba>Ve(e)ní(g)te. <c><i>pag. <v>\pageref{M-ORIP4e}</v>.</i></c></nlba>(h ::)
+(c4) Ve(c|obta)ní(c@dwe/fo|`qlppt1orhj)te,(e_|ta-) a(fe|cl)do(d|ta)ré(e_f|peS)mus(gh|pe) Re(gf~|vi>)gem(de|pe) re(e_f|peS)gum,(ed..|cl-) <sp>*</sp>(;) Cu(g|vi)jus(gh|pe) hó(ixhih|/////to)di(ghGF|pesu2)e(ed__|cl-) (,) ad(c|ta) æ(df|pe)thé(fe|cl)re(de|pe)um(e_|vi-) Vir(ffo@e|pr)go(d|ta) Ma(dg@hv|sc)ter(g_|ta-) (,) as(gf|cl)súm(gh>|pe>)pta(gf|cl) est(de|pe) cæ(e.|vi-)lum.(e.|vi-cb) (::) <nlba>Ve(e)ní(g)te. <c><i>pag. <v>\pageref{M-ORIP4e}</v>.</i></c></nlba>(h ::)
