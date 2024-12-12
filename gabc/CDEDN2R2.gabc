@@ -1,5 +1,18 @@
+name:O quam metuendus est V Haec est domus;
+office-part:re;
 mode:1;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)O(d!ewf/gf) quam(fssfd~) me(f)tu(g)én(ghGF)dus(ixf!gwhg!hi) est(h) *(;) lo(hggOe)cus(fg) i(fd!ewfef)ste !(ed) (:) * Ve(d!ewfEDCd)re(dc) non(fvED) est(ef) hic(g) á(ghGF)li(ixf!gw!h!ghi)ud,(h) (;) ni(f)si(gh) do(hggOe)mus(fg) De(fd!ewfef)i,(ed) (,) et(c) por(cfe~)ta(fg) cœ(gvFEDCd!ewf!gvFECd!ewfEDe)li.(ed) (::) <i>T.P.</i> Al(fg~)le(ed/fh/ghg/ef!gvhfgvFE)lú(d!ewfef)ja.(ed) (::) 
-<sp>V/</sp>. Hæc(h) est(hg/hggOf) do(g)mus(g) Dó(gh)mi(g)ni(g) (,) fír(g)mi(g)ter(g) æ(hf)di(gh)fi(gh)cá(ixh/iiOh)ta,(h) (;) be(gf)ne(gh) fun(h)dá(ixhi)ta(h) est(h) su(h)pra(hg/hg) fir(gf)mam(ixf!gwhg/hih) pe(hvGFEfwg!hv)tram.(gf) (::)
-* Ve(d!ewfEDCd)re(dc) (::)
+initial-style: 1;
+name: O quam metuendus est;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) O(d!ewf/gf|obql-ppt1`clhi) quam(fd~|vi>) me(fgf|//to)tu(g|vi)én(ghGF|pe-1su2)dus(ixghgh/iv|/////tr-3vihi) est(h|ta) (,) <sp>*</sp> lo(hggoe|cl!pi)cus(g|vi) is(ghFEfvED|///toS2sut1ci-)te!(d/efd/ev/ddoc|toS2ppu1vi-pr) (:)
+<sp>+</sp> Ve(d!ewfEDe|ql-ppt1su2vi)re(ed|cl-) non(fvED|ci-lsl2) est(ef|peS) hic(g|vi) á(ghGF|pe-1su2)li(ixghgh/iv|/////tr-3vihi)ud,(h|vi) (,) ni(f|ta)si(gh|pe) do(hggoe|clpi)mus(g|vi) De(ghFEfvED|///toS2sut1ci-)i,(d/efd/ev/ddoc|toS2ppu1vi-pr) (;) et(d!ewfED/ewf|ql-ppt1sut2qi-hg) por(c|gr)ta(df|pe) cæ(fgFED//fgFEC/dwe/fvEDe|peSsut3///peSsut3ql-hgci-hjvihj)li.(ed|cl-) (::) <i><c> T.P.</c></i> Al(fg>|pe>1)le(ed/fh//ghg/ef!gv/hf/gvFE|cl-pe-1/toS2//vi-pp2clhjciS1hj)lú(d!ewfef|ql!poppt1)ia.(ed|cl-) (::)
+<sp>V/</sp> Hæc(h|vi) est(h|vi) do(h|vi)mus(hg/hggof|cllsc3cl!pi) Dó(gh|pe)mi(g|ta)ni(g|ta) (,) fír(gh|pe)mi(g|ta)ter(g|ta) æ(hf|cllsc3)di(gh|pe)fi(gh|pe)cá(ixh/iioh|////ta-pr)ta,(h|ta) (;) be(hf|cllsc3)ne(gh|pe) fun(h|ta)dá(ixhi|////pe)ta(h|ta) est(h|ta) su(h|ta)pra(hg/hg|pflsc2) fir(hf~|vi>)mam(ixf!gwhg/hih|//////ql!clppt1tohm) pe(hvGFE/fwg/hv|vi-su1sut2ql-vihj)tram.(gf|cl-) (::)
+<sp>+</sp> Ve(d!ewfEDe|ql-ppt1su2vi)re.(ed|cl-cb) (::)

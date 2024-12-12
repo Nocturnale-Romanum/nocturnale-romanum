@@ -1,15 +1,21 @@
+name:Fallax gratia et vana;
+office-part:re;
 mode:8;
+submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4) Fal(gvffo1!gv)lax(cd) grá(f!gwhg)ti(fg)a<sp>*</sp>(g) (,)
-et(HsJss) va(k)na(ji) est(hjg/h/ggO1f) (;)
-pul(f)chri(gh)tú(h!iwjIH)do:(hggf/gh/jhivHGhg) (:)
-<sp>+</sp> Mú(g/jjo1!kv)li(hg)er(g!hwiHGgo~) ti(fg)mens(gh) De(ffd!ewfe)um(dc) (;)
-i(ghGFgh)psa(g) lau(GHjvvIHiwjIH)dá(GHivHGh)tur.(hg) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(g>)le(g/hfg)lú(g!hwihi)ja.(hg) (::)
-<sp>V/</sp> Da(ji)te(jkj/iji/hhO1g) e(hi)i(i) de(ih) fru(ij)ctu(i) má(i)nu(ih)um(ij) su(hi)á(g!hwih)rum,(hg) (;)
-et(g) lau(fg~)dent(g) e(gh)am(g) in(g) por(gh)tis(g) ó(hiHGhih)pe(ghf)ra(gh) e(h!iwji/jkjIH)jus.(hiHGhg) (::)
-<sp>+</sp> Mú(g/jjo1!kv)li(hg)er.(g!hwiHGgo~) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Mú(g/jjo1!kv)li(hg)er.(g!hwiHGgo~) (::)
+initial-style: 1;
+name: Fallax gratia et vana ;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Fal(g|obvi)lax(gvffog|vi-saG) grá(c!dof//ghg|sa-tohi)ti(fg|pe)a(g|ta) <sp>*</sp>(,) et(gjjv|``pe-hhlse4``vi-hh) va(k|vihi)na(ji|clhhlsc3) est(hjg/hhog|toShhprhh) (,) pul(f|ta)chri(gh|pe)tú(jg|cl-hh)do:(ixhiHG|////pe-1sut2) (;)
+<sp>+</sp> Mú(gjjok|pe-hgpqhi)li(hg|cllsc3)er(ixgh!ivHGgo|/////sc-su2orhh) ti(fg|pe)mens(g|ta) De(g!hwihi|//ql!poppt1)um(hg|cl-) (;) ip(dffo//deDCd|peSorhhpe-1su2vi)sa(dc|cl-) (,) lau(ghg/hvGFEfg~|////toSvi-hhsu1suu2ta>)dá(g|ta)bi(g!hwihi|ql!poppt1)tur.(hg|cl-) (::)
+<sp>+</sp> Mú(gjjok|pe-hgpqhi)li(hg|cllsc3)er.(ixgh!ivHGgo|/////sc-su2orhh) (::)
+<sp>V/</sp> Da(ji|cl)te(jkj/iji/hhog|tohhtohiprhi) e(hi|pe)i(i|ta) de(ih|cllsc3) fruc(jk|``pehhlsl4)tu(j|ta) má(ji|clhhlsc3)nu(ih|clhhlsc3)um(ij|pehh) su(hi|pe)á(g!hwih|ql!cl-ppt1)rum,(hg|cl-) (;) et(g|vi) lau(fg|pe)dent(g|ta) e(gh|pe)am(g|ta) in(g|ta) por(gh|pe)tis(g|ta) ó(ixhiHGhih|//////pe-su2to)pe(ghf|//toM1)ra(gh|peS) e(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)jus.(hiHGhg|pe-1su2cl-) (::)
 
+<sp>V/</sp> Gló(j|vi)ri(ji|cl)a(jkj/iji/hhog|tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHGhih|//////pe-su2to)tu(ghf|//toM1)i(gh|peS) Sanc(iyh!iwji/jkJIH|//////ql!clppt1toS2hmsu2)to.(hiHGhg|pe-1su2cl-) (::)
+<sp>+</sp> Mú(gjjok|pe-hgpqhi)li(hg|cllsc3)er.(ixgh!ivHGgo|/////sc-su2orhhcb) (::)
