@@ -1,15 +1,17 @@
+name:Dedisti Domine habitaculum V Dedisti Domine Sanctis V Gloria;
+office-part:re;
 mode:6;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) De(d)dí(fgh)sti,<sp>*</sp>(g) Dó(gh)mi(g)ne,(g) ha(g)bi(g!ho1!iv)tá(h)cu(h)lum(hg/h!iwjg/h/ggO1f) (;)
-Már(hf~)ty(ghg)ri(h) tu(iwj)o(h) Cle(g)mén(ixhihGFgh>)ti(g) in(ixFGhwiHGhwiH!Gs<) ma(FGhvGFg)ri,(gf) (:)
-in(jvv) mo(j/klk)dum(jkj) tem(jh~)pli(hvGF) mar(h)mó(hjgh)re(gf!gwhgh)i(hg) (,)
-an(f)gé(gh)li(g)cis(g) má(hgh)ni(gh)bus(ggO1f) præ(h!iwj)pa(jkjIH)rá(ixhg!hwihi)tum:(ih) (;)
-<sp>+</sp> I(f)ter(gh) præ(h)bens(h) pó(hgh)pu(fg)lo(ge!fwg) ter(ghGFE)ræ,(dfd!c/ded) (,)
-ut(c) e(d!ewf)nár(fe!fwgfg)rent(gf) mi(f)ra(ghg)bí(ixhf/hig)li(fvv)a(f) tu(fgf)a.(f) (::)
-<sp>V/</sp> De(f)dí(f!go1!hv)sti,(ixihivHGhg) Dó(h)mi(h)ne,(h) Sanc(hi~)tis(h) tu(h)is(h) vi(j)am(ixi) in(gh~) ma(f!gwhg)ri,(gf) (;)
-et(f) in(df~) flu(f)mí(f)ni(ghf)bus(fe) sé(f!go1!hv)mi(ixig!hwiHG)tam.(ghGFgf) (::)
-<sp>+</sp> I(f)ter.(ghg) (::)
-<sp>V/</sp> Gló(f!go@hv)ri(h)a(ixihivHGhg) Pa(ixh!iwj!kv)tri,(j) et(jh) Fí(gh)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(ghf)tu(fez)i(f!go@hv) San(ixig!hwiH!gs<)cto.(ghGFgf) (::)
-<sp>+</sp> I(f)ter.(ghg) (::)
+(c4) De(d|ta)dís(f_0/gh|vi-pe)ti,(g|ta) Dó(gh|pe)mi(g|ta)ne,(g|ta) <sp>*</sp>(,) ha(g|ta)bi(ixg@hoi|////sa-1)tá(h|vilse3)cu(h|vi)lum(hg__/h!iwjg/hv/ggof.|cl-qlhh!clhhppt1vihkprhj) (;) Már(hf~|vi>)ty(ghg|to)ri(h|vi) tu(hwj|qlhh)o(h|vi) Cle(g|ta)mén(ixh_iH__GFg_h>|////toShisu2/pe>1hi)ti(g|ta) in(iyg_h!iwj_IH/iwj_IH>|//ql-hjppt2su1sut1ql-hjsu1sux1) ma(gh!iv_HGh|//ci-hhpp2vihh)ri,(hg..|cl-) (;) in(jv_jv_|bv-hklss3) mo(j_0/klk|````vihh/tohl)dum(jkj|tohk) tem(hg~|vi>)pli(hv_GF|ci-) mar(h|vi)mó(h_0//jgh|vi-he/pohj)re(g_f!gwhgh|cl-ql!po)i(hg..|cl-) (,) an(f|gr)gé(gh|pe)li(h|ta)cis(h|ta) má(hgh|po)ni(gh|pe)bus(ggof|pr) præ(ixh!iwj|//viqlhj)pa(j_kJ__IH|//toShlsu2)rá(ixh_g!hwihi|////cl-qlhh!pohh)tum:(ih..|cl-hh) (:) 
 
+<sp>+</sp> I(f|gr)ter(gh|pe) præ(h|vi)bens(h|vilse6) pó(hgh|po)pu(fg|pe)lo(g_e!fwg|clM-qi) ter(ghFED|pesu2suy1)ræ,(dfDC__/de__d.|toS2sut1toS) (;) ut(c|gr) e(d!ewf|qlppt1)nár(f_e!fwgfg|cl-ql!po)rent(gf__|cl-) mi(f|ta)ra(ghg|to)bí(ixhf/hig|////cl/to)li(fv_fv_|bv-lsal2lsb2)a(f|vi) tu(fgf___|toS)a.(f.|ta) (::) 
+
+<sp>V/</sp> De(f|obta)dís(f@goh|sa)ti,(ixih__iv_HGhg__|/////cl-hhci-hhcl-hh) Dó(ixh!iwj/kv|//viheqlhh/vi>hk)mi(j|vihi)ne,(j|vihi) Sanc(j|vihi)tis(jh|clhh) tu(ixij|pehi)is(ih|clh) vi(hg|cl)am(ixi|////vi) in(gh~|pe~) ma(f!gwhg|ql!clppt1)ri,(gf__|cl-) (;) et(f|vi) in(df~|pe~) flu(f|ta)mí(f|ta)ni(ghf|to)bus(fe|cl) sé(f@goh|sa)mi(ixi_g!hwi_HG|///cl-hhql-hisu2)tam.(g_h_GFgf..|pe-1su2cl-cb) (::) 
+
+<sp>+</sp> I(f|gr)ter.(gh|pe) (::) 
+
+<sp>V/</sp> Gló(f@goh|obsa)ri(h|ta)a(ixih__/iv_HGhg__|/////cl-ci-cl-) Pa(ixh!iwj_//kv|//vi-ql-hjvihm)tri,(j|vihh) et(jh~|vi>) Fí(ixij|////pehh)li(ih|cllsc3)o,(h_|ta-) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(ixi|////vihh)i(gh|pe) Sanc(f!gwhg|ql!clppt1)to.(gf..|cl-cb) (::)
+
+<sp>+</sp> I(f|gr)ter.(gh|pe) (::) 
