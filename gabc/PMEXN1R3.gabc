@@ -1,3 +1,17 @@
+name:Tradiderunt corpora sua V Istai sunt V Gloria;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4)TRa(c)di(d)dé(ixedh!iv)runt(h) <v>\greheightstar</v>() cór(h)po(gh)ra(gfg) su(ixivHGhi)a(h;) prop(f)ter(gh) De(hV@ghfg)um(df/ddO1c) ad(fgo1!hv) sup(fe)plí(d)ci(DEfvEDe)a:(ed) †(:) Et(dc~) me(f)ru(gh)é(hg)runt(ge) ha(g)bé(gh/FED)re(dfddO1c) (;) co(cd)ró(fd/ffo1!gv)nas(gvf!go1!hv) per(fee<)pé(d)tu(DEfvEDe)as.(ed::)  <sp>V/</sp>() I(h)sti(h) sunt,(hg/hg/gf~) qui(g) ve(g)né(gh)runt(g) ex(g) ma(gh~)gna(g) tri(g)bu(hf)la(gh)ti(gh)ó(ixh/iiO1h)ne,(h;) et(gf~) la(gh)vé(h)runt(h) sto(h)las(h) su(ixhi)as(h) in(h) sán(hg/hg)gui(gf)ne(ixf!gwhg/hih) A(hvGFEfwg!h>)gni.(gf::) †() Et(ed~) me(f)ru(gh)é(hg)runt.(ge::) <sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri(gh) et(gh) Fí(ixh)li(ixh/iiO1!h)o,(h;) et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf::) †() Et(dc~) me(f)ru(gh)é(hg)runt.(ge::)
+(c4) Tra(c|ta)di(d|vi)dé(ixedh_/iv|/////polss2/vihj)runt(h|ta) <sp>*</sp>() cór(h|vi)po(gh|pe)ra(gfg|po) su(ixiv_HGh_i|/////ci-hhpeShh)a(h.|vi-) (;) prop(f|ta)ter(gh|pe) De(hg/hfg_|cl!po-1)um(dfddoc|topihh) ad(f_0@goh_|vi-pq-) sup(fe|cl)plí(d|ta)ci(d_e!fv_EDe|ci-ppt2vi)a:(ed..|cl-) (:) 
+
+<sp>+</sp> Et(dc~|vi>) me(f|vi)ru(gh|pe)é(hg__|cl-)runt(ge__|cl-) ha(g|vi)bé(gh/FED|pesu3)re(dfddc__|toS2cl-) (,) co(c_d|peS)ró(fd__/ffog|cl-/saM)nas(gv/f@goh|visa) per(fde~|po~)pé(d|ta)tu(d_e!fv_ED_0e|vi-ppt2su1sut1vi)as.(ed..|cl-) (::) 
+
+<sp>V/</sp> Is(h|vi)ti(h|vi) sunt,(hg/hg/gof~|clclor>) qui(g|vi) ve(g|vi)né(gh|pe)runt(g|ta) ex(g|ta) mag(gh~|pe~)na(g|ta) tri(g|ta)bu(hf|cl)la(gh|pe)ti(gh|pe)ó(ixh_0/iioh|/////prppt1)ne,(h.|ta) (;) et(hf~|vi>) la(gh|pe)vé(h|vi)runt(h|vi) sto(h|vi)las(h|vi) su(ixhi|/////pe)as(h|ta) in(h|ta) sán(hg/hg|pf)gui(hf|cl)ne(ixf!gwhg/hih|/////ql!clppt1tohi) Ag(hv_GF_E/fwg/h>|vi-su1sut2/qi/vi>hi)ni.(gf..|cl-) (::) 
+
+<sp>+</sp> Et(dc~|vi>) me(f|vi)ru(gh|pe)é(hg__|cl-)runt.(ge__|cl-) (::) 
+
+<sp>V/</sp> Gló(h|obvi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh_0/iioh|////ta-pr)o,(h.|ta-) (;) et(h|vi) Spi(h|vi)rí(hg/hg|pf)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohj) Sanc(hv_GF_E/fwg_//hv|vi-su1sut2ql-vihk)to.(gf..|cl-cb) (::) 
+
+<sp>+</sp> Et(dc~|vi>) me(f|vi)ru(gh|pe)é(hg__|cl-)runt.(ge__|cl-) (::)
