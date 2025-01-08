@@ -1,14 +1,15 @@
+name:Ecce sacerdos magnus V Benedictionem omnium;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ec(g)ce<sp>*</sp>(g) sa(g)cér(g)dos(g!ho1!iv) ma(h)gnus,(hg/h!iwjg/h/ggO1f) (;)
-qui(f) in(g) dí(h)e(h!iwj)bus(h) su(ghGFgh)is(g) (,)
-plá(gh)cu(g)it(GHiwjIHiwjIH) De(GHivHGh)o:(hg) (:)
-<sp>+</sp> Id(jjk)e(j)o(j) ju(k)re(jjO1i)ju(hg)rán(g/hjh/ihg~)do(hg) (;)
-fe(f)cit(gh) il(h>)lum(g) Dó(g)mi(ge!fwg)nus(ghfgvFEfgf!efvED) (;)
-cré(d)ce(dg)re(ggo1!hv) in(gf~) ple(g)bem(GHiwjIHiwjIHs<) su(GHivHGh)am.(hg) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(g>)le(ghfg)lú(g!hwihi)ja.(hg) (::)
-<sp>V/</sp> Be(j)ne(j)di(j)cti(j)ó(ji)nem(jkj/iji/hhO1g) ó(hi~)mni(i)um(i>) gén(ij~)ti(ih)um(ji~) de(ij)dit(hi) il(g!hwih)li,(hg) (;)
-et(g) te(fg)sta(g)mén(g)tum(g) su(gh)um(g) (,)
-con(g)fir(g)má(gh)vit(g) su(g)per(hiHGhih) ca(ghf)put(gh) e(h!iwji/jkjIH)jus.(hiHGhg) (::)
-<sp>+</sp> Id(jjk)e(j)o.(j) (::)
+(c4) Ec(g|ta)ce(g|ta) sa(g|ta)cér(g|ta)dos(ixg@hoi|////sa1) mag(h|ta)nus,(ixh_g/h!iwjg__/hv_/g_gof.|/////cl-qlhh!cl-hhppt1vi-hhprhg) <sp>*</sp>(;) qui(f|ta) in(g|vi) dí(h|vi)e(h!iwj_IH|ql-hippt1su2)bus(g|vi) su(g_h_GFgh|pe-1su2pe)is(g|ta) (,) plá(gh|pe)cu(g|ta)it(g_h!iwjI__Hiwj_IH|ql-hjppt2sut2qi-hjsu2) De(gh!iv_HGh_|//ci-hhpp2vi-hh)o:(hg..|cl-) (:) 
 
+<sp>+</sp> Id(j_0jk|vi-hipehk)e(j|tahi)o(j|tahi) ju(k|vihk)re(jjoi|prhi)ju(hg|clhh)rán(g_0/hjh_/ivH~G~|toS2ppt1ci~hh)do(hg__|cl-) (,) fe(f|ta)cit(gh|pe) il(h>|vi>)lum(g|ta) Dó(g|ta)mi(g_e!fwg|cl-ql)nus(ghffvED___dgFE__fv_ED|toS2vi-sut2toS2sut1ci-) (;) crés(d|ta)ce(dg|pe)re(ggoh|sa) in(gf~|vi>) ple(g|vi)bem(g_h!iwjI__Hiwj_IH>|qi-hjppt2sut2qi-hjsu1sux1) su(gh!iv_HGh|ci-hhpp2vihh)am.(hg..|cl-) (::) 
+
+<c><i>T.P.</i></c> Al(g|obvi)le(g_0//hfg|vi-hepohh)lú(g!hwihi>|qlhe!po>heppt1){ia}.(hg..|cl-cb) (::) 
+
+<sp>V/</sp> Be(j|vihh)ne(j|vihh)dic(j|vihh)ti(j|vihh)ó(ji|clhh)nem(jkj_/iji_/hhog|toS2hitoS2hiprhi) óm(hi~|pe~hh)ni(i|vihh)um(ih~|vi>) gén(jk~|pe~hjlss2)ti(ji|clhilsc3)um(ih~|vi>) de(ij|pehi)dit(hi|pehh) il(g!hwih__|ql!cl-ppt1)li,(hg..|cl-) (;) et(g|vi) tes(fg|pe)ta(g|ta)mén(g|ta)tum(g|ta) su(gh|pe)um(g|ta) (,) con(g|ta)fir(g|ta)má(gh|pe)vit(g|ta) su(g|ta)per(ixhi_HGhih|/////pe-hisu2tohj) ca(ghf|to)put(g_h|peS) e(h!iwji/jkJ_IH|qlhh!clhhppt1toS2hmsu2)jus.(h_i_HGhg..|pe-1hisu2cl-hi) (::) 
+
+<sp>+</sp> Id(j_0jk|vi-hipehk)e(j|tahi)o.(j|tahi) (::) 
