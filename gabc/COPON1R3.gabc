@@ -1,15 +1,19 @@
+name:Juravit Dominus V Dixit Dominus V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ju(d)rá(fgh)vit(g) Dó(gh)mi(g)nus,<sp>*</sp>(g) (;) 
-et(gh) non(hf/higFssded) pœ(fe)ni(fg)té(g)bit(GHjvHFg) e(GHivHGh)um:(hg) (:)
-<sp>+</sp> Tu(jjk) es(j) sa(j)cér(kvJIHiwjkjji>)dos(hg) in(jvvIH) æ(j)tér(igh>)num(ggO1f) (;)
-se(hvGF)cún(g)dum(h) ór(jk>)di(kj!ijvIHGh)nem(hg) (,)
-Mel(h/jij>)chí(hgh)se(gfg)dech.(hghvGFfhO1j/kj/ig/jh/ihhO1g) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(g>)le(ghfg)lú(g!hwihi)ja.(hg) (::)
-<sp>V/</sp> Di(ji)xit(jkj/iji/hhO1g) Dó(hi)mi(i)nus(i) Dó(ih)mi(ij)no(hi) me(g!hwih)o:(hg) (;)
-se(g)de(g) a(hiHGhih) dex(ghf)tris(gh) me(h!iwji/jkjIH)is.(hiHGhg) (::)
-<sp>+</sp> Tu(jjk) es.(j) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Tu(jjk) es.(j) (::)
+(c4) Ju(d|ta)rá(f_0/gh|vi-/pehi)vit(g|ta) Dó(gh|pe)mi(g|ta)nus,(g|ta) <sp>*</sp>(,) et(g_h|peS) non(ixhf/hig_fsfs_ded|/////cltoS2ds-to) pæ(fe|cl)ni(fg|pe)té(g|vi)bit(gh!jvHFg|cipp2lsc3vi) e(gh!iv_HGh|//ci-hhpp2vihh)um:(hg..|cl-) (:) 
 
+<sp>+</sp> Tu(j_0jk|`vi-/pehj) es(j|tahi) sa(j|tahi)cér(kv_J_I_H/iwj/ki_/jvI~G~|vi-hlsut3/qlhjclShkcl>hk)dos(hg__|cl-) (`) in(jv_jv_IH|bv-hisu2) æ(j|vilsi6)tér(ig_/h>|cl/vi>)num(ggof.|pr) (;) se(hv_GF|ci-)cún(g|vi)dum(h|vi) ór(j_k>|pe>1hj)di(kvJI__jv_I_HGh|clShisut1vi-hisuu1su2vihi)nem(hg__|cl-) (,) Mel(h_0/jij>|``vi-po>hi)chí(hgh|po)se(gfg|po)dech.(hg__hvGF_0z|cl-visu1suu1lsc2|f@hoj/kj/ji/jh_/iv_/hhog.|sapfhklsc2clShkvi-hjprhj) (::) 
+
+<i><c>T.P.</c></i> Al(g|obvi)le(g_0//hfg|vi-hepohh)lú(g!hwihi>|qlhe!po>heppt1){ia}.(hg..|cl-cb) (::) 
+
+<sp>V/</sp> Di(ji|clhi)xit(jkj/iji/hhog|tohjtohjprhi) Dó(hi|pe)mi(i|ta)nus(i|ta) Dó(ih|cl)mi(ij|pehi)no(hi|pe) me(g!hwih__|ql!cl-ppt1)o:(hg..|cl-) (;) se(g|ta)de(g|ta) a(ixhi_HGhih|/////pe-hhsu2tohj) dex(ghf|to)tris(g_h|peS) me(h!iwji/jkJ_IH|ql!clppt1toS2hlsu2)is.(h_i_HGhg..|pe-1hhsu2cl-hh) (::) 
+
+<sp>+</sp> Tu(j_0jk|`vi-/pehj) es.(j|tahi) (::) 
+
+<sp>V/</sp> Gló(j|obvihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)to.(h_i_HGhg..|pe-1hgsu2/cl-hhcb) (::) 
+
+<sp>+</sp> Tu(j_0jk|`vi-/pehj) es.(j|tahi) (::)
