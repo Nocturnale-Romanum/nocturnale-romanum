@@ -1,12 +1,15 @@
+name:Euge serve bone V Domine quinque talenta;
+office-part:re;
 mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Eu(ei~)ge,<sp>*</sp>(i) ser(i)ve(i) bo(ijIH)n<e>e</e> et(ihhO1g) fi(hi)dé(ih!iwjij)lis,(ji) (;)
-qui(h)a(h) in(ik~) p{a}u(kvv)ca(lkki/jkj) fu(h)í(k)sti(k) fi(k)dé(jkJIj)lis,(ji) (:) 
-su(ij)pra(i) mul(ij~)ta(i) te(jvkvkj) con(h)stí(iji/jkj) tu(ijiHGh)am:(hg) (;)
-<sp>+</sp> In(ij>)tra(i) in(i) gáu(ih/io0!j>)di(h)um(f!gwhGE) Dó(hhhf/g!hwi!jv)mi(i)ni(ig!hwihGFgwhGF) tu(EFgvFEf)i.(fe) (::)
-<v>{\scriptsize \itshape t.p.\ }</v> Al(DFgwh!i>)le(hvGFg/egf/ge)lú(efe)ja.(e) (::)
-<sp>V/</sp> Dó(i!jwkJI)mi(hg)ne,(hi/hhO1g) (,)
-quin(hi~)que(h)ta(h)lén(hi)ta(h) tra(h)di(ig)dí(hi)sti(hi) mi(i!jwkj)hi,(ji) (;)
-ec(hi/hhO1g)ce(hih) á(ij)li(i)a(i) quin(ij~)que(i) su(i)per(ijijvIH) lu(hg)crá(h!iwji/jkj)tus(ih!iwjij) sum(ivHGhg) (::)
-<sp>+</sp> In(ij>)tra.(i) (::)
+(c3) Eu(ei~|pe~)ge,(i|vi) <sp>*</sp>() ser(i|vi)ve(i|vi) bo(ijIH|pehhsu2)n<e>e</e> et(ihhog|cl!pi) fi(hi|pehh)dé(i_h!iwjij|cl-hiqlhi!pohi)lis,(ji..|cl-hi) (;) qui(h|tahh)a(h|tahh) in(ik~|pe~hj) p{a}u(kv_kv_|bv-hk)ca(lkki/jkj|//////pfhllsc2tohm) fu(h|tahh)ís(j|vihh)ti(j|vihh) fi(k|vihj)dé(j_k_JIj|pe-1hmsu2vihl)lis,(ji..|cl-hj) (;) su(ij|pehi)pra(i|tahh) mul(ij~|pe~hi)ta(i|tahh) te(j_0/kv_kj__|vi-hh//vi-hkcl-hk) con(h|tahj)stí(iji/jkj|tohjtohk)tu(i_j_I_HGh|toShjsu2vihj)am:(hg..|cl-hh) (:) 
 
+<sp>+</sp> In(i_j>|pe>1hh)tra(i|tahh) in(i|tahh) gáu(ih/ioj>|clhhpq>hh)di(h|vi)um(f!gwh_GE|ql-ppt1su2) Dó(g_0/hv_hf__/g!hwi_/jv|vi-//vi-hhcl-hhql-hhppt1/vihk)mi(i|tahi)ni(i_g!hwiHG___F/gwh_GF|cl-qi!vssut2qi-su2) tu(ef!gv_FEf|//ci-pp2vi)i.(fe..|cl-) (::) 
+
+<i><c>T.P.</c></i> Al(d_f!gwh/i>|```obqlppt2vi>hh)le(hv_GFg|ci-vi|//egf/ge|/to/cl)lú(efe___|toS){ia}.(e.|tacb) (::) 
+
+<sp>V/</sp> Dó(i!jwk_JI|ql-hlppt1su2)mi(hg|cl)ne,(h_i_/hhog|pe-1pr) (,) quin(hi~|pe~)que(h|ta) ta(h|ta)lén(hi~|pe~)ta(h|ta) tra(h|ta)di(ig|cl)dís(hi|pe)ti(hi|pe) mi(i!jwkj|qlhh!clhhppt1)hi,(ji..|cl-hi) (;) ec(h_i_/hhog|pe-1pr)ce(hih|to) á(ij|pehh)li(i|tahh)a(i|tahh) quin(ij~|pe~hh)que(i|tahh) su(i|tahh)per(ij_i_j_IH|to-hjci-hj)lu(ih|cl)crá(h!iwji/jkj|ql!clppt1tohi)tus(i_h!iwjij|cl-hjqlhj!pohj) sum(iv_HGhg..|ci-hicl-hi) (::) 
+
+<sp>+</sp> In(i_j>|pe>1hh)tra.(i|tahh) (::)
