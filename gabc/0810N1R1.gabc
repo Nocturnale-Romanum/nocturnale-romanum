@@ -1,12 +1,13 @@
+name:Levita Laurentius V Dispersit dedit pauperibus;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Le(c)ví(efg)ta(f) Lau(h)rén(hgh)ti(fg)us<sp>*</sp>(ffO1e) (;)
-bo(f)num(h) o(ghgFEfg)pus(f) o(f)pe(f!gwh/ihhO1g)rá(f)tus(FGhvGFg) est,(gf) (:)
-qui(hhi) per(h) si(hhg~)gnum(hi>) cru(highvGFg)cis(gf) (,)
-cæ(fg)cos(f) in(FGhvGFEs)lu(f)mi(hg/hih)ná(hvGFg)vit,(ffO1e) (;)
-<sp>+</sp> Et(f) the(h)sáu(hg~)ros(f) Ec(fhg)clé(hg/hffe)si(ef)æ(dxfeevDBcfeevDC) de(fvhvGE)dit(hvv) pau(ihhg>)pé(f)ri(FGhvGFg)bus:(gf) (::)
-<sp>V/</sp> Di(f)spér(EFgwhhi~)sit,(h) de(hg)dit(hi) pau(gh~)pé(f)ri(f!gwhg)bus:(gf) (;)
-ju(f)stí(ef)ti(f)a(f) e(fg~)jus(f) (,)
-ma(f)net(f) in(f) sǽ(f)cu(f!gwhGFE)lum(f) sǽ(hg/hih)cu(hvGFg)li.(ffO1e) (::)
-<sp>+</sp> Et.(f) (::)
+(f3) Le(c|talsc9)ví(e_0/fg|scM2)ta(f|ta) Lau(h|vi)rén(hgh|po)ti(fg|pe)us(ffoe|pr) <sp>*</sp>(`) bo(f|``vilsl3lsp3)num(h|vi) o(g_h_G_FEf_g|////toSsu2peS)pus(f|ta) o(f|ta)pe(f!gwh/ihhog|qlppt1clhkpihk)rá(f|ta)tus(fghv_GFg|//ci-pp2vi) est,(gf..|cl-) (;) qui(h_0/hi|scM2lss2lsp2) per(h|ta) sig(hhog~|vs>)num(hi>|pe>) cru(hig___/hv_GFg|////toSci-hivihj)cis(gf__|cl-) (,) cæ(fg|pe)cos(f|ta) il(fg!hvG~F~E~|vipp2su1sux1lsc2)lu(f|vi)mi(hg/hih|//cltohg)ná(hv_GFg|ci-vihg)vit,(ffoe.|pr) (:) 
 
+<sp>+</sp> Et(f|vi) the(h|vilss3)sáu(hg~|vi>)ros(f|ta) Ec(fhg|``tolse1)clé(hg/hf/gf__|////pflsc2cl-hg)si(ef|pe)æ(fe__evCB__cfED__ev_D_C_|cl-ciS1toS2hhsut1vi-hisut2) (;) de(f_0/hvGE|vi-/cihjlsc3)dit(hv_hv_|bv-) pau(ih/h_g>_|clScl>lst2)pé(f|ta)ri(f_g!hv_GFg|ci-ppt2/vihg)bus.(gf..|cl-) (::) 
+
+<sp>V/</sp> Dis(f|vi)pér(e_f!gwh/hi~|qlhhppt2ta>hi)sit,(h|ta) de(hg|cl)dit(hi|pe) pau(gh~|ta>)pé(f|ta)ri(f!gwhg|ql!clppt1)bus:(gf..|cl-) (;) jus(f|vi)tí(ef|pe)ti(f|ta)a(f|ta) e(fg~|ta>)jus(f|ta) ma(fg|pe)net(f|ta) in(f|ta) sǽ(f|ta)cu(f!gwh_GF_E_|ql-ppt1su1sut2)lum(f|ta) sǽ(hg/hih|//clto)cu(hv_GF_0g|//vi-su1sut1vihh)li.(ffoe.|pr) (::) 
+
+<sp>+</sp> Et(f|vi) the(h|vilss3)sáu(hg~|vi>)ros.(f|ta) (::)
