@@ -1,15 +1,19 @@
-mode:8;
+name:Damasci praepositus gentis V Deus et Pater V Gloria;
+office-part:re;
+mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Da(d)má(fgh)sci,(g) præ(g!ho1!iv)pó(h)si(h)tus(hg/h!iwjg/h/ggO1f) (,)
-gen(ghg)tis(ghg) A(h)ré(hjHG)tæ(hf!GHiwjIHiwjIH) re(GHivHGh)gis(hg) (;)
-vó(jkj)lu(j)it(ji~) me(jkj) com(j)pre(jk~)hén(ki!jwk)de(h!iwjIHGh)re:(hg) (:)
-<sp>+</sp> A(f) frá(hih)tri(hg)bus(hj) per(jijIHG) mu(hghGFg)rum(gf) (,)
-sub(f)mís(gh)sus(h) sum(hgge) in(g) spor(fef)ta,(dec/d!ewfEDewfED) (;)
-<v>\ddag\ </v> Et(d) sic(fgh) e(g)vá(gh)si(g) ma(g)nus(gh) e(h)jus(hg/hihhO1g) in(g) nó(gh)mi(g)ne(GHiwjIHiwjIH) Dó(g)mi(GHivHGh)ni.(hg) (::)
-<sp>V/</sp> De(ji)us(jkj/iji/hhO1g) et(hi~) Pa(h)ter(h) Dó(h)mi(h)ni(h) no(h)stri(ih) Je(ij)su(hi) Chri(g!hwih)sti(hg) (;)
-scit(g) qui(g)a(hiHGhih) non(ghf) mén(gh)ti(h!iwji/jkjIH)or.(hiHGhg) (::)
-<sp>+</sp> A.(f) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<v>\ddag\ </v> Et.(d) (::)
+(c3) Da(e|obta)más(ef|pe)ci,(e|ta) præ(e_f!gwh|`qlppt2)pó(hih/hg__|/toS2cl-)si(h!iwjij|qlhh!pohh)tus(ji__|cl-hi) <sp>*</sp>(,) gen(ij|pehi)tis(i|tahj) A(i|tahj)ré(ihhv_GFz|clShhci-)tæ(g!hwiH_G_F/gwh_GF|qlhippt1sut3ql-su2) re(ef!gv_FEf|//ci-pp2vi)gis(fe..|cl-) (;) vó(ef/hgh|popp2)lu(g|ta)it(g|ta) me(g|ta) com(g|ta)pre(g@hoi|sa)hén(hg|cl)de(g|ta)re:(giH_G_hv_GFEfe..|toS2sut1vi-su3cl-) (:) 
 
+<sp>+</sp> A(i|vihh) frá(i|vihh)tri(ij|pehi)bus(jiioh|clhh!pihh) per(ij|pehi) mu(ijIHGh|pehisu3vihi)rum(hg__|cl-hg) (,) de(gh!iv|sc)mís(i|vi)sus(ijIG|pehisu2) sum(i|vihh) in(i|vihh) spor(h_0/ijhhg__|toS2ppu1cl-)ta,(e_f!gwhe/f/eeod.|ql!clppt2vipr) (:) 
+
+<sp>‡</sp> Et(fd~|vi>) sic(e|vi) e(f|vi)vá(f_i|peS)si(h|ta) ma(hg|cl)nus(f|ta) e(e!fwhf/g_h|ql!clppt1peS)jus(g|ta) (,) in(g|ta) nó(h|vi)mi(h|vi)ne(g!hwiH_G_F/gwh_GF|qlppt1sut3ql-su2) Dó(e|ta)mi(ef!gv_FEf|//ci-pp2vi)ni.(fe..|cl-) (::) 
+
+<sp>V/</sp> De(i!jwk_JI_0|ql-hkppt1su1suu1)us(h_i/hhog|peS``pr) et(h|vi) Pa(hi|pe)ter(h|ta) Dó(h|ta)mi(h|ta)ni(h|ta) nos(h|ta)tri(ig|cl) Je(hi|pe)su(hi|pe) Chris(i!jwkj__|qlhh!cl-hhppt1)ti(ji..|cl-) (;) scit(i|vihh) qui(i|vihh)a(ijij_IH|////tr-1hhsu2) non(ih|cllsc3) mén(h!iwji/jkj|ql!clppt1tohm)ti(i_h!iwjij|////cl-`qi!po)or.(iv_HGhg..|//ci-hhcl-hh) (::) 
+
+<sp>+</sp> A(i|vihh) frá(i|vihh)tri(ij|pehi)bus.(jiioh|clhh!pihh) (::) 
+
+<sp>V/</sp> Gló(i!jwk_JI|ql-hjppt1su2)ri(hg|cllsc3)a(h_i/hhog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj__|qlhh!cl-hhppt1)o,(ji..|cl-) (;) et(i|ta) Spi(i|ta)rí(ijij_IH|////tr-1hhsu2)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) Sanc(i_h!iwjij|////cl-`qi!po)to.(iv_HGhg..|//ci-hhcl-hh) (::) 
+
+<sp>‡</sp> Et(fd~|vi>) sic.(e|vicb) (::)
