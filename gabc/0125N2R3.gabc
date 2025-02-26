@@ -1,13 +1,17 @@
+name:Saulus qui et Paulus magnus V Ostendens quia V Gloria;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Sau(efg)lus(f) qui(f) et(h) Pau(hg/hif/g)lus(ffO1e) (;) 
-ma(f>)gnus,(h) præ(ig/hhO1g)di(f)cá(FGhvGFg)tor,(gf) (:)
-<sp>+</sp> A(h) De(kxh!iwji/jkj)o(jv) con(jvIH!Gs<)for(hi~)tá(ghGFg)tus(gf) (,)
-con(FGhvGF!es<)va(f)le(hg/hih)scé(hvGFg)bat(ffO1e) (;)
-et(f) con(fg~)fun(f>)dé(f!gwhGFE)bat(fvhvGE) Ju(f!gwh/ihhO1g)dǽ(FGhvGFg)os(gf) (::)
-<sp>V/</sp> O(f)stén(EFgwhhi~)dens(h) qui(ij)a(i) hic(hi) est(gh) Chri(f!gwhg)stus,(gf) (;)
-Fí(f!gwhGFE)li(f)us(hg/hih) De(hvGFg)i.(ffO1e) (::)
-<sp>+</sp> A.(h) (::)
-<sp>V/</sp> Gló(EFgwhhi)ri(h)a(h) Pa(hg)tri,(hi) et(gh) Fí(f)li(f!gwhg)o,(gf) (;) 
-et(f) Spi(f)rí(f!gwhGFE)tu(f)i(hg@hih) San(hvGFg>)cto.(ffO1!e) (::)
-<sp>+</sp> A.(h) (::)
+(f3) Sau(e_0/fg|obpeppt1)lus,(f|ta) <sp>*</sp>() qui(f|ta) et(h|vi) Pau(hg/hif_/g|cltoS2vi)lus,(ffoe.|pr) (;) mag(f|vi)nus(h|vi) præ(hvGFEf|visu3vi)di(f!gwh/ihhog|``qlppt1clhh!pihh)cá(fg!hv_GFg|//ci-pp2vi)tor,(gf..|cl-) (:) 
+
+<sp>+</sp> A(h|vi) De(kxh!iwji/j_k|////ql!clppt1peShk)o(j|tahk) con(jiiog|clhi!pihi)for(hi~|pe~)tá(hig/hv_GFg|toci-vi)tus(gf__|cl-) (,) con(fg!hvGFE|visu3pp2)va(f|vi)les(hg/hih|cltohh)cé(hv_GFg|ci-vi)bat,(ffoe.|pr) (;) et(f|vi) con(f|vi)fun(f|vi)dé(f_0/hvGE|cippu1)bat(hv_hv_|bv-) Ju(ihhog|cl!pi)dǽ(fg!hv_GFg|//ci-pp2vi)os.(gf..|cl-) (::) 
+
+<sp>V/</sp> O(f|vi)stén(e_f!gwh/hi~|``qlhgppt2/pe~hj)dens(h|ta) qui(h|ta)a(hg|cl) hic(hi|pe) est(gh|pe) Chris(f!gwhg__|ql!cl-ppt1)tus,(gf..|cl-) (;) Fí(f!gwh_GFE__|ql-ppt1su1sut2)li(f|vi)us(hg/hih|cllsc2tohg) De(hv_GFg|ci-vihg)i.(ffoe.|pr) (::) 
+
+<sp>+</sp> A(h|vi) De(kxh!iwji/j_k|////ql!clppt1peShk)o.(j|tahk) (::) 
+
+<sp>V/</sp> Gló(e_f!gwh/hi|qlhgppt2pehj)ri(h|ta)a(h|ta) Pa(hg|cllsc3)tri,(hi|pe) et(gh|pe) Fí(f|ta)li(f!gwhg__|ql!cl-ppt1)o,(gf..|cl-) (;) et(f|ta) Spi(f|ta)rí(f!gwh_GFE__|ql-ppt1su1sut2)tu(f|vi)i(hg/hih|cllsc2tohg) Sanc(hv_GFg>|ci-vi>hg)to.(ffoe.|pr) (::) 
+
+<sp>+</sp> A(h|vi) De(kxh!iwji/j_k|////ql!clppt1peShk)o.(j|tahkcb) (::)
