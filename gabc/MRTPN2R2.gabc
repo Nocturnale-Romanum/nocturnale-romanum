@@ -1,18 +1,12 @@
 name:In servis suis alleluia consolabitur V Judicabit;
 office-part:re;
 mode:8;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: In servis suis alleluia consolabitur;
-mode: 8;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: viii;
-nabc-lines:1;
-%%
-(c3) In(e|ta) ser(ef~|ta>)vis(e|vi) su(d!foh//ijh|sa-tohl)is,(hgh|po) <sp>*</sp>(,) al(f>|vi>)le(e|ta)lú(gxfgf>|//////to>)ia,(e|ta) (;)
-<sp>+</sp> Con(e<|ta>)so(e|ta)lá(ef|pe)bi(e|ta)tur(eeod~|vs>) De(d!foh//ijh|sa-tohl)us,(hg/hih|clto) (,) al(f>|vi>)le(e|ta)lú(gxfgFDgvFEfe|//////pesu2lscw3cicl)ia.(e|ta) (::)
-<sp>V/</sp> Ju(h|vi)di(h|vi)cá(hg|cllsc3)bit(hih/ghg/ffoe|totopr) Dó(fg|pe)mi(g|ta)nus(g|ta) pó(gf|cllsc3)pu(gh|pe)lum(fg|pe) su(e!fwgf|ql!clppt1)um,(fe|cl-) (;) et(e|ta) in(gxfgFEfgf|//////pe-su2to) ser(efd~|pe>)vis(ef|peS) su(gyf!gwhg/hiHGF|////ql!clppt1toS2hmsu2)is.(fgFEfe|pe-1su2cl-) (::)
-<sp>+</sp> Con(e<|ta>)so(e|ta)lá(ef|pe)bi(e|ta)tur.(eeod~|vs>) (::)
+(c3) In(e|ta) ser(ef~|ta>)vis(e|vi) su(d@foh_//ijh|sa-tohl)is,(hgh|po) <sp>*</sp>(,) al(f>|vi>)le(e|ta)lú(gxfgf>|//////to>)ia,(e.|ta) (;) 
+
+<sp>+</sp> Con(e<|ta>)so(e|ta)lá(ef|pe)bi(e|ta)tur(eeod~|vs>) De(d@foh_//ijh|sa-tohl)us,(hg/hih|clto) (,) al(f>|vi>)le(e|ta)lú(gxfgFDgvFEfe|//////pesu2lscw3cicl)ia.(e.|ta) (::) 
+
+<sp>V/</sp> Ju(h|vi)di(h|vi)cá(hg|cllsc3)bit(hih/ghg/ffoe|totopr) Dó(fg|pe)mi(g|ta)nus(g|ta) pó(gf|cllsc3)pu(gh|pe)lum(fg|pe) su(e!fwgf|ql!clppt1)um,(fe..|cl-) (;) et(e|ta) in(gxfg_FEfgf|//////pe-su2to) ser(efd~|pe>)vis(e_f|peS) su(gyf!gwhg/hiH_GF|////ql!clppt1toS2hmsu2)is.(f_g_FEfe..|pe-1su2cl-) <sp>+</sp>(::e+z) 
+
