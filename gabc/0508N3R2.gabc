@@ -1,14 +1,19 @@
+name:Michael Archangelus venit V Stetit Angelus juxta aram V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Mi(fgh)cha(g)ël<sp>*</sp>(g) Arch(gh)án(h>)ge(h)lus(hg/higgf) (;)
-ve(hf)nit(ghg) in(h>) ad(hi~)ju(hg)tó(hvGFgwh)ri(g)um(g) pó(gh)pu(g)lo(GHiwjihiwjIH) De(GHivHGh)i,(hg) (:)
-<sp>+</sp> Ste(jkj)tit(jh) in(hji) au(jk~)xí(ki/jo0!kv)li(h!iwjIHGh)um(hg) (;)
-pro(hf) a(ghg)ni(h)má(hjHG)bus(hf/g!hwijvIHiwjIH) ju(GHivHGh)stis.(hg) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(g>)le(g/hfg)lú(g!hwihi)ja.(hg) (::)
-<sp>V/</sp> Ste(ji)tit(jkj/iji/hhO1g) An(hi~)ge(i)lus(i) ju(i)xta(ih) a(ij)ram(hi) tem(g!hwih>)pli,(hg) (;)
-ha(g)bens(fg) thu(g)rí(gh)bu(g)lum(g) áu(gh~)re(g)um(g) in(hiHGhih) ma(ghf)nu(gh) su(h!iwji/jkjIH)a.(hiHG) (::)
-<sp>+</sp> Ste(jkj)tit.(jh) (::)
- <sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<sp>+</sp> Ste(jkj)tit.(jh) (::)
+(c4) Mi(f_0/gh|/obta-/pe)cha(g|/ta)ël(g|ta) <sp>*</sp>() Ar(gh|pe)chán(h|vi)ge(h|vi)lus(hg/higgf..|cltoS2cl-) (;) ve(hf|cl)nit(ghg|to) in(h|vi) ad(hj~|pe~hh)ju(hg|cl)tó(hv_GFg_h|ci-peS)ri(g|ta)um(g|ta) (,) pó(gh|pe)pu(g|ta)lo(g_h!iwj_I_H/iwj_IH|`ql-hjsu2ppt2qi-hjsu2) De(gh!iv_HGh|//ci-hipp2vihi)i,(hg..|cl-) (:) 
 
+<sp>+</sp> Ste(jkj|tohk)tit(jh|clhi) in(jkj|tohk) au(jk|pehj)xí(ki/jok|clhjpqhj)li(h!iwj_I_HGh|qlhi!vshisu2ppt1vihi)um(hg..|cl-) (;) pro(hf|cl) a(ghg|to)ni(h|vi)má(hjH_G_|toS2hhsut1)bus(h_f_/g_h!iwj_I_Hiwj_IH|cl-hiql-hippt2sut2qi-hisu2) jus(gh!iv_HGh|//ci-hipp2vihi)tis.(hg..|cl-) (::) 
+
+<i><c>T.P.</c></i> Al(g|vi)le(g_0//hfg|vi-hepohh)lú(g!hwihi>|qlhe!po>heppt1){ia}.(hg..|cl-) (::)
+
+<sp>V/</sp> Ste(ji|clhi)tit(jkj/iji/hhog|tohktohkprhj) An(hi~|pe~hh)ge(i|vi)lus(i|vi) jux(i|vi)ta(ih|cl) a(ij|pehh)ram(hi|pe) tem(g!hwih__|ql!cl-ppt1)pli,(hg..|cl-) (;) ha(g|ta)bens(fg|pe) thu(g|vi)rí(gh|pe)bu(g|ta)lum(g|ta) áu(gh~|pe~)re(g|ta)um(g|ta) in(ixhi_HGhih|/////pe-hisu2tohj) ma(ghf|to)nu(g_h|peS) su(h!iwji/jkJ_IH|ql!clppt1toS2hlsu2)a.(h_i_HGhg..|pe-1hisu2cl-hi) (::) 
+
+<sp>+</sp> Ste(jkj|tohk)tit.(jh|clhi) (::) 
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)to.(h_i_HGhg..|pe-1hgsu2/cl-hh) (::) 
+
+<sp>+</sp> Ste(jkj|tohk)tit.(jh|clhicbhh) (::) 
