@@ -1,10 +1,15 @@
+name:Dulce lignum V Hoc signum Crucis erit;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Dul(-dgf/gh~)ce(g) li(gh~)gnum,<sp>*</sp>(g) dul(g)ces(g!ho1!iv) cla(h)vos,(hg/h!iwjg/h/ggO1f) (;)
-dul(hvGFgh~)ce(g) pon(gh~)dus(g) su(GHiwjIHiwjIH)stí(g)nu(GHivHGh)it:(GHih) (:)
-<sp>+</sp> Quæ(f) di(gh~)gna(h) fu(h)it(ghGE) por(g>)tá(fef)re(dec/d!ewfefvED) pré(fgh)ti(g)um(g/hjg/h/ggO1f) hu(FHiwjjv)jus(ikJIHiwjIH) sǽ(g)cu(GHivHGh)li.(hg) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(g>)le(g/hfg)lú(g@hwihi)ja.(hg) (::)
-<sp>V/</sp> Hoc(j) si(j>)gnum(jkj/iji/hhO1g) Cru(ij)cis(i) e(ih)rit(ij) in(hi) cœ(g!hwih)lo,(hg) (;)
-cum(g) Dó(fg)mi(g)nus(g) ad(g) ju(g)di(g)cán(hiHGhih)dum(ghf~) vé(gh)ne(h!iwji/jkjIH)rit.(hiHGhg) (::)
-<sp>+</sp> Quæ.(f) (::)
+(c4) Dul(dgf/gh~|tolsi7/pe~hh)ce(g|ta) lig(gh~|pe~)num,(g|ta) <sp>*</sp>(,) dul(g|ta)ces(ixg@hoi|/////sa1) cla(h|ta)vos,(ixh_g_/h!iwjg/h_/ggof.|/////cl-ql!clppt1vi-pr) (;) dul(hv_GFgh~|ci-pe~)ce(g|ta) pon(gh~|pe~)dus(g|ta) sus(g_h!iwj_I_H/iwj_IH|``ql-hippt2sut2qi-hisu2)tí(g|ta)nu(gh!iv_HGh|//ci-hhpp2vi)it:(g_h/ih..|cl-ppt2) (:) 
 
+<sp>+</sp> Quæ(f|ta) dig(gh~|pe~)na(h|vi) fu(h|vi)it(g_h_GE|pe-1su2) por(g>|vi>)tá(fef|po)re(dec//d!ewf_e_fv_ED|to/ql!cl-ppt1ci-) (,) pré(f_0/gh|vi-hd/pehh)ti(g|ta)um(ixg_0/hig_/h/ggof|/////toS2ppu1vipr) hu(f_h!iwj_jv_|`ql-hjppt2`vi-hj)jus(j_k_J_I_H/iwj_IH|////pe-1hlsut3qi-hlsu2) sǽ(g|tahh)cu(gh!iv_HGh|//ci-hipp2vihi)li.(hg..|cl-) (::) 
+
+<c><i>T.P.</i></c> Al(g|vi)le(g_0//hfg|vi-hepohh)lú(g!hwihi>|qlhe!po>heppt1){ia}.(hg..|cl-) (::) 
+
+<sp>V/</sp> Hoc(j|vihi) sig(ji~|vihi)num(jkj/iji/hhog|tohktohkprhj) Cru(hi|pe)cis(i|ta) e(ih|cl)rit(ij|pehh) in(hi|pe) cæ(g!hwih|ql!clppt1)lo(hg..|cl-) (;) cum(g|vi) Dó(fg|pe)mi(g|ta)nus(g|ta) ad(g|ta) ju(g|ta)di(g|ta)cán(ixhi_HGhih|/////pe-hhsu2tohj)dum(ghf~|pe>) vé(g_h|peS)ne(h!iwji/jkJ_IH|qlhh!clhhppt1to-1hlsu2)rit.(h_i_HGhg..|pe-1hisu2cl-hi) (::) 
+
+<sp>+</sp> Quæ(f|ta) dig(gh~|pe~)na(h|vi) fu(h|vi)it.(g_h_GE|pe-1su2) (::)
