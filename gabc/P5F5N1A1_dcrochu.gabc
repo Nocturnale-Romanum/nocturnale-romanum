@@ -1,0 +1,17 @@
+name:Elevata est magnificentia tua;
+office-part:an;
+mode:4a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Elevata est magnificentia tua ;
+mode: 4;
+office-part: Invitatorium;
+annotation: Hymn.;
+annotation: 4A;
+nabc-lines:1;
+%%
+(c3) E(e|ta)le(f|vi)vá(h|vihh)ta(hi|pehh) est(i|vihh) <sp>*</sp>(,) mag(i>|vi>)ni(h|ta)fi(i|vi)cén(j|vihh)ti(i|vihh)a(h|ta) tu(i|vi-)a(i|vi-) (;) su(f|ta)per(i|vihg) cæ(h|vihg)los,(g|vi) De(fe|cl-)us,(fe|cl-) (,) al(de|peS)le(fh|peS)lú(f|ta){ia}.(f|ta) (::)
+
+<eu>E(i) u(h) o(i) u(j) a(h) e.(f) </eu>(::)
