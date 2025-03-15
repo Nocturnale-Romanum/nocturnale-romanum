@@ -1,0 +1,25 @@
+name:Ascendens in altum V Ascendit Deus V Gloria;
+office-part:re;
+mode:4;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Ascendens in altum;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines:1;
+%%
+(c4) A(e|ta)scén(eeof>|sa>)dens(dfd~|pe>) in(f|vi) al(ghg>|//to>)tum,(e|ta) <sp>*</sp>(,) al(f!gwh>|ql>ppt1)le(hg|cl-)lú(gf/fvE~D~|clScl>)ia,(ed!ewf|cl-ql) (;) cap(d|ta)tí(e!fog|sa)vam(gfg>|po>) du(df@gvFEf|//ci-pp2vi)xit(fe|cl-) (,) cap(e!fwgFE|ql-ppt1su2)ti(g|vi)vi(ghghGF|toci-)tá(e!fgffs|clpp2sthj)tem,(ed|cl-) (:)
+
+<sp>+</sp> De(h|vi)dit(h|vi) do(h|vi)na(ixhg/hih|//////cl//tohh) ho(ef|peS)mí(g|vi)ni(g|vihh)bus,(ixhg/hih|//////cl//tohh) (;) al(fssfd~|ts>)le(ef|peS)lú(gh>|pe>)ia,(g|vi) (,) al(f!gwh>|ql>ppt1)le(hvGFg//|ci-vi|ef@hvGFghg|cipp2/tohh)lú(egffs|//tosthh)ia.(fe|cl-) (::)
+
+<sp>V/</sp> A(h|vi)scén(h>|vi>)dit(gf!gwhghvGEfe|//cl-qi!cl-``ci-hhcl-hh) De(gh|pe)us(g|ta) in(g|ta) ju(g|ta)bi(gf|cl)la(gh|pe)ti(gf|cl)ó(e!fwgf|ql!clppt1)ne,(fe|cl-) (;) et(f|vi) Dó(de|pe)mi(e|ta)nus(e|ta) in(e!fwgFE|ql-ppt1su2) vo(g|vi)ce(ghghGF|tohh/ci-hh) tu(e!fgffs|clpp2sthj)bæ.(ed|cl-) (::)
+
+<sp>+</sp> De(h|vi)dit.(h|vi) (::)
+
+<sp>V/</sp> Gló(h|obvi)ri(gh|pe)a(gf!gwhghvGEfe|cl-qi!cl-ci-cl-) Pa(gf|cl)tri,(gh|pe) et(gf~|cl) Fí(e)li(e!fwgf|ql!clppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghg/hvGF|tohh/ci-hh) Sanc(e!fgffs|clpp2sthj)to.(ed|cl-cb) (::)
+
+<sp>+</sp> De(h|vi)dit.(h|vi) (::)
