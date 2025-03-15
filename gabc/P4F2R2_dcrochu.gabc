@@ -1,0 +1,26 @@
+name:Cantate Deo alleluia V Afferte V Gloria;
+office-part:re;
+mode:1;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Cantate Deo alleluia;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) Can(d|ta)tá(dfe|to)te(f|vi) De(gfhg|//pf)o,(g|ta) <sp>*</sp>(,) al(gh>|pe>1)le(fd|cl-)lú(fefc~|//clvi>)ia:(dc|cl-) (;)
+
+<sp>+</sp> Psal(f>|vi>)mum(f|vi) dí(ge|cl-)ci(gh|pe)te(f|vi) e(deDC|pe-1su2)i,(c|ta) (;) al(c/df~|ta-ta>hh)le(fv//ef@ghFEf|vi-pehipp2su2`vihh)lú(ded|//toS)ia.(d|ta) (::)
+
+<sp>V/</sp> Af(h|obvi)fér(h|vi)te(hg/hggof|clcl!pilst3) Dó(gh|////pe)mi(g|ta)no(g|ta) gló(g|ta)ri(g|ta)am(hf|cl) et(gh|pe) ho(gh|pe)nó(ixh/iioh|////prppt1)rem,(h|ta) (;) af(hf|cllsl2)fér(gh|pe)te(h|vi) Dó(ixhi|//pe)mi(h|ta)no(h|ta) gló(h|ta)ri(h|ta)am(h|ta) nó(hg/hg|pflsc2)mi(hf|cllsc3)ni(ixf!gwhg/hih|/////ql!clppt1tohm) e(hvGFE/fwg/hv|vi-su1sut2qi-vihl)jus.(gf|prcb) (::)
+
+<sp>+</sp> Psal(f>|vi>)mum.(f|vi) (::)
+
+<sp>V/</sp> Gló(h|obvi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh/iioh|////prppt1)o,(h|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohm) Sanc(hvGFE/fwg/hv|vi-su1sut2ql-vihl)to.(ggof|cl-cb) (::)
+
+<sp>+</sp> Psal(f>|vi>)mum.(f|vi) (::)
+
