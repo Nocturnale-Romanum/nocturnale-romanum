@@ -1,0 +1,16 @@
+name:Dominus in caelo;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Dominus in caelo;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi F;
+nabc-lines:1;
+%%
+(c4) Dó(f|ta)mi(f|ta)nus(f|ta) in(f|ta) cæ(g|vi)lo,(h|vihh) <sp>*</sp>(,) al(f|ta)le(f|vi)lú(d>|vi>){ia}:(c|ta) (;) pa(f|vi)rá(f|vi)vit(f|vi) se(f|vi)dem(e|ta) su(g|vi)am,(h|vihi) (,) al(h|vihi)le(hg|cl-hg)lú(g>|vi>){ia}.(f|ta) (::)
+<eu>E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
