@@ -1,0 +1,17 @@
+name:Nimis exaltatus est;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Nimis exaltatus es;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi F;
+nabc-lines:1;
+%%
+(c4) Ni(f|ta)mis(f|ta) ex(f|ta)al(e|ta)tá(g|vi)tus(g|vihi) es,(h|vihl) (,) <sp>*</sp> al(f|ta)le(f|vi)lú(d>|vi>){ia}:(c|ta) (;) su(f|vi)per(f|vi) om(f|vi)nes(e|ta) cæ(g|vihg)los,(h|vihi) (,) al(h|vihg)le(hg|cl-hg)lú(g>|vi>){ia}.(f|ta) (::)
+
+<eu>E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
