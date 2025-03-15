@@ -1,0 +1,17 @@
+name:Exaltare Domine;
+office-part:an;
+mode:4a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Exaltare Domine;
+mode: 4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iv A;
+nabc-lines:1;
+%%
+(c3) Ex(e|ta)al(f|vi)tá(h|vihh)re,(h|vihh) Dó(h|vihh)mi(ij|pehh)ne,(iio|vshhlsc3) <sp>*</sp>(,) in(h|ta) vir(i|vi)tú(j|vihh)te(ih|cllsc3) tu(i|vi-hh)a:(i|vi-hh) (;) can(i|vihh)tá(f|ta)bi(i|vihh)mus(h|vihg) et(g|vi) psal(f|vi)lé(e|ta)mus,(fe|cl-) (,) al(de|peS)le(fh|peS)lú(f|ta){ia}.(f|ta) (::)
+
+<eu>E(i) U(h) O(i) U(j) A(h) E.(f) </eu>(::)
