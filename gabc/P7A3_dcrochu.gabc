@@ -1,0 +1,17 @@
+name:Emitte spiritum tuum;
+office-part:an;
+mode:8c;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Emitte Spiritum tuum;
+mode: 8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: viii c;
+nabc-lines:1;
+%%
+(c4) E(j|vihh)mít(j|vihh)te(j|vihh) Spí(j|vihh)ri(j|vihh)tum(j|vihh) tu(jkj|//tohi)um,(jij|//pohi) <sp>*</sp>(,) et(ji|cl-) cre(h|ta)a(j|vi)bún(ih>|cl->)tur:(g|ta) (;) et(h|vi) re(f|ta)no(h|vi)vá(ji|cl-hh)bis(g|ta-) (,) fá(h|vi)ci(j|vihi)em(i|ta) ter(j>|vi>)ræ,(h|ta) (;) al(h>|vi>)le(g|ta)lú(h|vi){ia},(ixi|////vihg) al(h>|vi>)le(f|ta)lú(gh>|pe>){ia}.(g|ta) (::)
+
+<eu> E(j) U(j) O(h) U(j) A(k) E.(j) </eu> (::)
