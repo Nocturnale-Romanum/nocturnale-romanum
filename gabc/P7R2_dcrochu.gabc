@@ -1,0 +1,24 @@
+name:Repleti sunt omnes V Loquebantur V Gloria;
+office-part:re;
+mode:2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Repleti sunt omnes;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines:1;
+%%
+(f3) Re(c|ta)plé(e//fg|`vi-pehi)ti(f|ta) sunt(fh/hv|pe-```vi-) <sp>*</sp> om(ihhvGFgvF~E~|clS-ci-ci~)nes(fe|cl-) (,) Spí(f//hvGE|vi-cihjlsc2)ri(hvhv|bv-)tu(ihhg|clScl-) Sanc(fg!hvGFg|//ci-pp2vi)to:(gf|cl-) (;) et(h|vi) cœ(ij|``pehhlss4)pé(jiig|clhh!pihhlsc2)runt(hi>|pe>) lo(hig/hvGFg|toShici-hivihi)qui,(gf|cl-) (,) pro(fc|clMlsc3)ut(e|vi) Spí(fg|pe)ri(f|ta)tus(f|ta) Sanc(fg~|pe~)tus(f|ta) (`) da(fg|pe)bat(f|ta) é(fg|pe)lo(f|ta)qui(f|ta) il(fe/f!gwhivHG/hwihi|cl-ql-ppt1vi-hksut2qihk!pohk)lis:(ih|cl-) (:)
+
+<sp>+</sp> Et(e|ta) con(f<|pe~)vé(h|vi)nit(gf!gwh|cl-ql) mul(fe~|vi>)ti(fg|pe)tú(f/gef|//poppu1)do(dxef/e/eccod|/////peS`vshe`sahglsi7) (,) di(bc|peS)cén(ef|peS)ti(f!gwhivHG/hwihi|qlppt1vi-hlsut2qihm!pohm)um,(ih|cl-) (,) al(h!iwj>|qi>ppt1)le(jv//ijHF|vi-hh/toS2hlsut1|ef!gwh/i/jhiHG|qihippt2vi-hkpo-1hjsu2)lú(f!gwhgh|qi!poppt1)ia.(gf|cl-) (::)
+
+<sp>V/</sp> Lo(f|vi)que(e|ta)bán(ef!gwh/hi~|``ql-ppt2pe~hi)tur(h|ta) vá(ij|pehi)ri(i|vihh)is(h|ta) lin(hg~|vi>)guis(hi|pehg) A(gh|pe)pós(f|ta)to(f!gwhg|ql!cl-ppt1)li(gf|cl-) (;) ma(f|ta)gná(f!gwhGFE|ql-ppt1su1sut2)li(f|vi)a(hg/hih|cltohh) De(hvGFg|ci-vi)i.(ffe|pr) (::)
+<sp>+</sp> Et(e|ta) con(f<|pe~)vé(h|vi)nit.(gf!gwh|cl-ql) (::)
+
+<sp>V/</sp> Gló(ef!gwh/hi|obqlhgppt2pehj)ri(h|ta)a(h|ta) Pa(hg|cllsc3)tri,(hi|pe) et(gh|pe) Fí(f|ta)li(f!gwhg|ql!cl-ppt1)o,(gf|cl-) (;) et(f|ta) Spi(f|ta)rí(f!gwhGFE|ql-ppt1su1sut2)tu(f|vi)i(hg/hih|cllsc2tohg) Sanc(hvGFg>|ci-vi>hg)to.(ffoe|prcb) (::)
+
+<sp>+</sp> Et(e|ta) con(f<|pe~)vé(h|vi)nit.(gf!gwh|cl-ql) (::)
