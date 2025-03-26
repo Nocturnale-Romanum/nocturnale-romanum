@@ -3,12 +3,12 @@ office-part:or;
 mode:;
 submitter:marteo;
 %%
-(c4) ~(d+) Al([alt:I.]e)le(fe)lú(d){ia}.(d) (::)
-(f3) ~(f+) Al([alt:II.]e)le(ef)lú(f){ia}.(f) (::)
-(c4) ~(e+) Al([alt:III.]g)le(gf)lú(e){ia}.(e) (::Z)
-(c4) ~(e+) Al([alt:IV.]cd)le(eg)lú(e){ia}.(e) (::)
-(c3) ~(f+) Al([alt:IV. transp.]de)le(fh)lú(f){ia}.(f) (::)
-(c4) ~(f+) Al([alt:V. et VI.]g)le(gh)lú(f){ia}.(f) (::Z)
-(c4) ~(g+) Al([alt:VII. et VIII.]h)le(hi)lú(g){ia}.(g) (::)
-(c4) ~(g+) Al([alt:Peregrinus.]g)le(fh)lú(g){ia}.(g) (::)
-(c4) ~(h+) Al([alt:~~Irregularis.]ixi)le(g)lú(i){ia}.(h) (::)
+(c4) ~(d+) Al([alt:I.]e)le(fe)lú(d.){ia}.(d.) (::)
+(f3) ~(f+) Al([alt:II.]e)le(ef)lú(f.){ia}.(f.) (::)
+(c4) ~(e+) Al([alt:III.]g)le(gf)lú(e.){ia}.(e.) (::Z-)
+~(e+) Al([alt:IV.]cd)le(eg)lú(e.){ia}.(e.) (::)
+(c3) ~(f+) Al([alt:IV. transp.]de)le(fh)lú(f.){ia}.(f.) (::)
+(c4) ~(f+) Al([alt:V. et VI.]g)le(gh)lú(f.){ia}.(f.) (::Z-)
+~(g+) Al([alt:VII. et VIII.]h)le(hi)lú(g.){ia}.(g.) (::)
+(c4) ~(g+) Al([alt:Peregrinus.]g)le(fh)lú(g.){ia}.(g.) (::)
+(c4) ~(h+) Al([alt:~~Irregularis.]ixi)le(g)lú(i){ia}.(h.) (::)
