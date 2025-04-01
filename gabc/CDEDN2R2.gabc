@@ -1,18 +1,15 @@
 name:O quam metuendus est V Haec est domus;
 office-part:re;
 mode:1;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: O quam metuendus est;
-mode: 1;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: i;
-nabc-lines:1;
-%%
-(c4) O(d!ewf/gf|obql-ppt1`clhi) quam(fd~|vi>) me(fgf|//to)tu(g|vi)én(ghGF|pe-1su2)dus(ixghgh/iv|/////tr-3vihi) est(h|ta) (,) <sp>*</sp> lo(hggoe|cl!pi)cus(g|vi) is(ghFEfvED|///toS2sut1ci-)te!(d/efd/ev/ddoc|toS2ppu1vi-pr) (:)
-<sp>+</sp> Ve(d!ewfEDe|ql-ppt1su2vi)re(ed|cl-) non(fvED|ci-lsl2) est(ef|peS) hic(g|vi) á(ghGF|pe-1su2)li(ixghgh/iv|/////tr-3vihi)ud,(h|vi) (,) ni(f|ta)si(gh|pe) do(hggoe|clpi)mus(g|vi) De(ghFEfvED|///toS2sut1ci-)i,(d/efd/ev/ddoc|toS2ppu1vi-pr) (;) et(d!ewfED/ewf|ql-ppt1sut2qi-hg) por(c|gr)ta(df|pe) cæ(fgFED//fgFEC/dwe/fvEDe|peSsut3///peSsut3ql-hgci-hjvihj)li.(ed|cl-) (::) <i><c> T.P.</c></i> Al(fg>|pe>1)le(ed/fh//ghg/ef!gv/hf/gvFE|cl-pe-1/toS2//vi-pp2clhjciS1hj)lú(d!ewfef|ql!poppt1)ia.(ed|cl-) (::)
-<sp>V/</sp> Hæc(h|vi) est(h|vi) do(h|vi)mus(hg/hggof|cllsc3cl!pi) Dó(gh|pe)mi(g|ta)ni(g|ta) (,) fír(gh|pe)mi(g|ta)ter(g|ta) æ(hf|cllsc3)di(gh|pe)fi(gh|pe)cá(ixh/iioh|////ta-pr)ta,(h|ta) (;) be(hf|cllsc3)ne(gh|pe) fun(h|ta)dá(ixhi|////pe)ta(h|ta) est(h|ta) su(h|ta)pra(hg/hg|pflsc2) fir(hf~|vi>)mam(ixf!gwhg/hih|//////ql!clppt1tohm) pe(hvGFE/fwg/hv|vi-su1sut2ql-vihj)tram.(gf|cl-) (::)
-<sp>+</sp> Ve(d!ewfEDe|ql-ppt1su2vi)re.(ed|cl-cb) (::)
+(c4) O(d!ewf_/gf|obql-ppt1`clhi) quam(fd~|vi>) me(fgf|//to)tu(g|vi)én(g_h_GF|pe-1su2)dus(ixghgh_/iv|/////tr-3vihi) est(h|ta) <sp>*</sp>(,) lo(hggoe|cl!pi)cus(g|vi) is(ghF_E_fv_ED|///toS2sut1ci-)te:(d_0/efd_/ev_/ddoc.|toS2ppu1vi-pr) (:)
+
+<sp>+</sp> Ve(d!ewf_EDe|ql-ppt1su2vi)re(ed__|cl-) non(fv_ED|ci-lsl2) est(e_f|peS) hic(g|vi) á(g_h_GF|pe-1su2)li(ixghgh_/iv|/////tr-3vihi)ud,(h|vi) (,) ni(f|ta)si(gh|pe) do(hggoe|clpi)mus(g|vi) De(ghF_E_fv_ED|///toS2sut1ci-)i(d_0/efd_/ev_/ddoc.|toS2ppu1vi-pr) (;) et(d!ewf_E_D/ewf_|ql-ppt1sut2qi-hg) por(c|gr)ta(df|pe) cæ(f_gFED_02//f_gFEC/dwe_2/fv_EDe|peSsut3///peSsut3ql-hgci-hjvihj)li.(ed..|cl-) (::) 
+
+<i><c> T.P.</c></i> Al(fg~|pe~he)le(e_d_2/f_h_//ghg_/ef@gv_//hf/gvFE___|cl-hepe-1hetoS2hevi-hepp2/clhe/vi-hesut2)lú(d!ewfef|qlhe!poheppt1){ia}.(ed..|cl-he) (::) 
+
+<sp>V/</sp> Hæc(h|vi) est(h|vi) do(h|vi)mus(hg/hggof|cllsc3cl!pi) Dó(gh|pe)mi(g|ta)ni(g|ta) (,) fír(gh|pe)mi(g|ta)ter(g|ta) æ(hf|cllsc3)di(gh|pe)fi(gh|pe)cá(ixh_0/iioh|////ta-pr)ta,(h.|ta) (;) be(hf|cllsc3)ne(gh|pe) fun(h|ta)dá(ixhi|////pe)ta(h|ta) est(h|ta) su(h|ta)pra(hg/hg|pflsc2) fir(hf~|vi>)mam(ixf!gwhg/hih|//////ql!clppt1tohm) pe(hv_GF_E/fwg_/hv|vi-su1sut2ql-vihj)tram.(gf..|cl-) (::)
+
+<sp>+</sp> Ve(d!ewf_EDe|ql-ppt1su2vi)re.(ed__|cl-cb)  (::)
