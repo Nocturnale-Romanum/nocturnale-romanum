@@ -2,15 +2,12 @@ name:Credo quod redemptor V Quem visurus;
 office-part:re;
 mode:8;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Cre(eh)do(h) <sp>*</sp>(,) 
-quod(h) Re(h)démp(h)tor(fh~) me(hg)us(g!hw!ivHGF/gw!hvGF) vi(ef!gvFEf)vit,(fe) (:) 
-et(fd) in(e) no(f)vís(hgh)si(f)mo(fdf) di(f!gw!hvGFEf)e(fe) (;) 
-de(d) ter(fh~)ra(h) sur(h)re(hi)ctú(ivHG/hvGFE)rus(fe/fvEDe) sum :(ed) (:) 
-<sp>+</sp> Et(d) in(f) car(hhi~)ne(h) me(hg!hwihi)a(ih) (;) 
-vi(h)dé(hg/hf)bo(h) De(hg/hiffe)um(ef!gwhe/feed) (;) 
-Sal(f)va(h)tó(hg/hvGF/gh)rem(g!hw!ivHGF/gw!hvGF) me(ef!gvFEf)um.(fe) (::)
-<sp>V/</sp> Quem(eh) vi(h)sú(h)rus(hg) sum :(hiHG/hvGFEfe) (,) 
-e(fg)go(gf) i(hi)pse,(hf) et(gh) non(fg) á(e)li(e!fwgf)us,(fe) (:) 
-et(e) ó(de)cu(e)li(e) me(ef)i(e) (,) con(fhFE/fgf)spe(ed)ctú(ef)ri(fhg/hiHGF) sunt.(fgFEfe) (::)
-<sp>+</sp> Et(d) in(f) car(hhi~)ne.(h) (::)
+(c3) Cre(e_g|peS)do(g|vi) <sp>*</sp>() quod(g|vi) Re(g|vi)dém(h|vihh)ptor(fh~|ta>hh) me(hg__|cl-hh)us(g!hwi_H_G_F/gwh_GF|qi-hippt1sut3qi-hjsu2) vi(ef!gv_FEf|//ci-pp2vihg)vit,(fe..|cl-) (;) et(fd|cllsc3) in(e|vi) no(f|vi)vís(fhgh|tr)si(f|ta)mo(fdf|po) di(f!gwh_G_FEf|ql!vsppt1su2vihi)e(fe__|cl-) (,) de(e|ta) ter(fg~|ta>)ra(g_|vi-hg) sur(h|vihh)rec(hi|pehi)tú(ih/ivH_G_F|clhjclShmsuu1su2)rus(f_0/hffd__|vi-pf-hh) sum,(d.|ta) (:) 
+
+<sp>+</sp> Et(d|ta) in(f|vi) car(h_0hi~|vi-ta>hh)ne(h|vi) me(h_g!hwihi|clhiqlhi!pohi)a(ih__|cl-hi) (,) vi(h|vi)dé(hg/hf|pf1lsc2)bo(h|vi) De(hg/hif_foe|cltoS2hhpihh)um(e_f!gwhe/fv/eeod|qi!clppt2vihhprhh) (,) Sal(ed~|vi>)va(fh|pehi)tó(h_g_/hv_GF/g_0@ho1|cl-ci-vs-)rem(g!hwi_H_G_F/gwh_GF>|qi-hippt1sut3qi-hjsu1sux1) me(ef!gv_FEf|vi-pp2su2vihh)um.(fe..|cl-) (::) 
+
+<sp>V/</sp> Quem(h|vi) vi(h|vi)sú(h|vi)rus(hg|cl) sum,(hih_/ghg_/ffoe|to-1hito-1hiprhi) (,) e(fg|pe)go(gf|cl) ip(hi|pe)se,(hg|cl) et(gh|pe) non(fg|pe) á(e|ta)li(e!fwgf|qihg!clhgppt1)us;(fe..|cl-) (;) et(e|vi) ó(de|pe)cu(e|ta)li(e|ta) me(ef|pe)i(e|ta) con(gxfg_FE/fgf|/////pe-su2to)spéc(efd|to)tu(e_f|peS)ri(gyf!gwhg/hiH_GF|ql!clppt1//to-1hlsu2) sunt.(f_g_FEfe..|pe-1su2cl-) (::) 
+
+<sp>+</sp> Et.(d|ta) (::)
