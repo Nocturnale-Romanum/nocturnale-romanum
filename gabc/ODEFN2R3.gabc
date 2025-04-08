@@ -1,12 +1,20 @@
+name:Ne recorderis peccata V Dirige Domine V Requiem;
+office-part:re;
 mode:6;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Ne(dc) re(f)cor(f!go1!hv)dé(hggO1f/g)ris<sp>*</sp>(gf) (,)
-pec(fd)cá(f)ta(ixgi) me(ixhiHG)a,(i) Dó(ixhvjvIG)mi(f)ne,(ixg/hiHGffO1e/fhggO1f) (:) 
-<sp>+</sp> Dum(fh~) vé(h)ne(gh)ris(f) ju(h)di(gh)cá(f)re(fdfvvge/fgFDeddO1c) (;)
-sǽ(CDewf!gv)cu(ixghgh!iviO1h)lum(h) per(ixhjHGhwiHG) i(FGhvGFg)gnem.(gf) (::)
-<sp>V/</sp> Dí(f!go1!hv)ri(h)ge,(ixihivHGhg) Dó(ixh!iwj!kv)mi(j)ne(jh) {De}(ixi){us}(gh) me(f!gwhg)us,(gf) (;)
-in(f) con(df)spé(fg)ctu(f) tu(f)o(f) vi(fe)am(f!go1!hv) me(ixig!hwiHG){am}.(ghGFgf) (::)
-<sp>+</sp> D{um}.(fh~) (::)
-<sp>V/</sp> Re(f!go1!hv)qui(h)em(ixihivHGhg) æ(ixi)tér(h!iwj!k>)nam(h) do(ixj)na(jvIH) e(ixi)is,(ghg) 
-Dó(fe)mi(gh)ne:(gf) (;) et(f) lux(df) {per}(f){pé}(fg)tu(f)a(f) {lú}(f){ce}(fe){at}(f!go1!hv) e(ixig!hwiHG)is.(ghGFgf) (::)
-<sp>+</sp> Dum.(fh~) (::)
+(cb4) Ne(dc|cl) re(f|vi)cor(f@goh|sa)dé(hg/gof/g|clpihgvihi)ris(gf|cl) <sp>*</sp>(,) pec(fd|clM)cá(f|vi)ta(gh|pe) me(h_i_HG|pe-1hhsu2)a,(i|vi) Dó(i_0jvIH|vi-cihi)mi(g|ta)ne,(g_0/hiGFfod/|ta/pesu2pihg|f_h_g_/gof.|toShhpihj) (:) 
+
+<sp>+</sp> Dum(fh~|ta>) vé(h|vi)ne(gh|pehg)ris(f|ta) ju(h|vi)di(gh|pe)cá(f|ta)re(fd/fv_fv_|clbv-|ge/f_gFD|clhhpeShhsu2|ed/doc|clhhpihi) (,) sǽ(c_d!ewf_2fv_|```ql-ppt2vi-hh)cu(ghgh/io1|trvshh)lum(h|ta) (,)
+per(h_j_H_G/hwi_HG|pe-1hisut2ql-hjsu2) i(f_g!hv_GFg|vi-ppt2su2vihh)gnem.(gf..|cl-) (::) 
+
+<sp>V/</sp> Dí(f@goh|sa)ri(h|vi)ge,(i_h_iv_HGh_g_|cl-ci-cl) 
+Dó(h!iwj!kv|viqihjvihn)mi(j|vihi)ne(jh|clhh) De(i|vi)us(gh|pe) me(f!gwhg|qi!clppt1)us,(gf..|cl) (;) in(f|vi) con(df|pe)spéc(fg|pe)tu(f|ta) tu(f|ta)o(ghf|to) vi(gf|cl)am(f@goh|sa) me(i_g!hwi_HG|clhgql-hhsu2)am.(g_h_GFgf..|peSsu2cl) (::) 
+
+<sp>+</sp> Dum.(fh~|ta>) (::)
+
+<sp>V/</sp> Ré(f@goh|obsa)qui(h|vi)em(i_h_iv_HGhg__|cl-ci-cl-) æ(h|vi)tér(h!iwj/kv|`viqihivihk)nam(j_|tahh) (,) do(j|tahh)na(jh|clhh) e(i|vi)is,(gh|pe) Dó(f|ta)mi(f!gwhg|qi!clppt1)ne:(gf..|cl) (;) 
+et(f|vi) lux(df|pe) per(f|vi)pé(fg|cl)tu(f|ta)a(f|ta) lú(ghf|to)ce(gf|cl)at(f@goh|sa) e(i_g!hwi_HG|cl-hiql-hisu2)is.(g_h_GFgf..|pe-1su2clcb) (::) 
+
+<sp>+</sp> Dum.(fh~|ta>) (::) 
