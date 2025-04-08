@@ -1,9 +1,13 @@
+name:Memento mei Deus V De profundis;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3) Me(f)mén(f>)to(efEC) me(dxed)i<sp>*</sp>(ef) De(f!gwhgh)us,(gf) (;) 
-qui(e)a(f) ven(hvv)tus(h) est(ghGFgf) vi(f)ta(hf!gwhg) me(FGhvGFg)a:(gf) (:)
-<sp>+</sp> Nec(hg) as(h)pí(iji)ci(h)at(ghg) me(EFggf) vi(f)sus(hf!gwhg) hó(f)mi(FGhvGFg)nis.(gf) (::)
-<sp>V/</sp> De(f) pro(e)fún(EFgwhhi>)dis(h) cla(h)má(h)vi(hg) ad(hi) te,(gh) Dó(f)mi(f!gwhg)ne:(gf) (;)
-Dó(f)mi(ef)ne,(f) e(f)xáu(f)di(f!gwhGFE) vo(f)cem(hg/hih) me(hvGFg)am.(ffO1e) (::)
-<sp>+</sp> Nec.(hg) (::)
+(f3) Me(f|vilse3)mén(f>|vi>)to(e_f_EC|pe-1su2lsi8) me(ed|cl)i,(ef|pe) <sp>*</sp>() De(f!gwhgh|ql!poppt1)us,(gf..|cl-) (,) qui(e|ta)a(f|vi) ven(hv_hv_|bv-)tus(h|vihg) est(g_h_GFg_f_|pe-1su2cl-lse6) vi(f|ta)ta(h_f!gwh_g_|cl-qlhg!cl-hg) me(fg!hv_GFg|vi-pp2su2vihh)a,(gf..|cl-) (:) 
 
+<sp>+</sp> Nec(hg|clhhlsl2lsc2) as(h|vihg)pí(iji|tohg)ci(h|vihg)at(ghg|tohg) me(ef!gv_g_f_|vi-hhpp2cl-hh) (,) vi(f|ta)sus(h_f!gwhg|cl-ql!cl) hó(f|ta)mi(fg!hv_GFg|vi-pp2su2vihh)nis.(gf..|cl-) (::)
+
+<sp>V/</sp> De(f|vi) pro(e|ta)fún(e_f!gwhhi>|qlppt2pe>hh)dis(h|ta) cla(h|ta)má(h|ta)vi(hg|cl) ad(hi|pe) te,(gh|pe) Dó(f|ta)mi(f!gwhg|ql!clppt1)ne:(gf..|cl-) (;) Dó(f|vi)mi(ef|pe)ne,(f|ta) e(f|ta)xáu(f|ta)di(f!gwh_GFE|ql-ppt1su3) vo(f|vi)cem(hg/hih|clto) me(hv_GFg|ci-vi)am.(f_foe.|pr-) (::) 
+
+<sp>+</sp> Nec.(hg|clhhlsl2lsc2) (::)
