@@ -1,0 +1,18 @@
+name:Adesto unus Deus omnipotens;
+office-part:an;
+mode:1f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Adesto unus Deus omnipotens;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i f;
+nabc-lines:1;
+%%
+(c4) Ad(ddoc|prlsm3)és(f|vi)to,(ghg|toS3) u(h|vi)nus(gf|cllsc3) De(ggof|pr)us(d|ta-) <sp>*</sp> om(d|ta)ní(dg|pe)pot(ffoe|pr)ens,(de>|pe>) Pa(ddo|vs)ter,(c|ta-) (;) et(```df!gwhg|ql!clppt2lsal4) Fí(gf|cllsc3)li(de|pe)us(e|vi-) et(ed!ewf|cl-ql) Spí(fgf|//to)ri(fe|cllsc3)tus(cd|pe) Sanc(d|ta)tus.(d|ta) (::)
+
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu>(::)
+
