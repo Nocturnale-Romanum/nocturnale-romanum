@@ -1,0 +1,16 @@
+name:In voce exsultationis;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:In voce exultationis;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi f;
+nabc-lines:1;
+%%
+(c4) In(f|obta) vo(ffddoc|vi-cl!pilsc2)ce(f|vi) ex(g|vihh)sul(gf|clhhlsc3)ta(g|vihh)ti(gh|pehh)ó(f|ta-)nis(f|ta-) (,) ré(ixfh/ih|////pe-cl-hh)so(g|ta)nent(h|vi) e(ixi|////vihilsc3)pu(h|vihh)lán(g>|vi>)tes(f|ta) (,) in(gf~|vi>lsi6) men(g|vi)sa(ghg|//to) Dó(f|ta)mi(f|ta)ni.(f|tacb) (::)
+<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
