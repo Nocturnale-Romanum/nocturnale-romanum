@@ -1,21 +1,24 @@
 name:Mane surgens Jacob V Cumque evigilasset V Gloria;
 office-part:re;
 mode:4;
-submitter:dcrochu;
+submitter:marteo;
 nabc-lines:1;
 %%
-initial-style: 1;
-name: Mane surgens Jacob;
-mode: 4;
-office-part: Responsorium;
-annotation: Resp.;
-annotation: iv;
-nabc-lines:1;
-%%
-(c4) Ma(e|obvi)ne(ef!ghGFegFECd|vihippt3sut2peShjsut3vi-hi) (,) <sp>*</sp> sur(eeof|sa)gens(dgf!gwhg|toSql!cl-) Ja(egff|//tosthg)cob(eeof|sa-) (;) e(d|ta)ri(g|vi)gé(ixhi|////pe)bat(h|ta) lá(ixhi|////pe)pi(h|vi)dem(hggof|//cl!pi) in(gh|vi) tí(hg/hfg|//clpo)tu(gv//df!gvFEf|//vi-ci-hhpp2vihh)lum,(eeof|sa) (;) fun(ixd!ewg/hi|//ql-ppt1pehj)dens(h|ta) ó(ixhi|////pe)le(h|ta)um(hg~|vi>) dé(ixhi|////pe)su(h|ta)per,(h|ta) (,) vo(ixhi|////pe)tum(h|vi) vo(hggof|//cl!pi)vit(gh|pe) Dó(hg/hfg|//clpo)mi(gv//df!gvFEf|//vi-ci-hhpp2vihh)no:(eeof|sa-) (:)
-<sp>+</sp> Ve(e|vi)re(fssfd|dshg/cl) lo(gh|peS)cus(g|ta) is(hihioj|//topq)te(i|ta) sanc(i/jkj|//tohippt1)tus(jvIH|ci-) est,(ixhg/hih|/////clto) (;) et(f|ta) e(ghgh|//tr)go(fd|cl-) nes(fe|cllsc3)ci(fg|pe)é(gv//f!ghggoFEf|vi-clhhpp2lsc3``pihhsu1vihi)bam.(fe|cl-) (::) <i><c> T.P.</c> </i> Al(fh~|ta>)le(hvGFEC/|vi-sut4|d/fvED|ciSppu1|fh//gh/ffoe|peShhpeShh``prhh)lú(egffs|//tosthh)ia.(fe|cl-) (::)
-<sp>V/</sp> Cum(h|vi)que(gf!gwhg/hvGEfe|cl-qi!cl-ci-hicl-hi) e(g|vi)vi(g|vi)gi(gf|cllsc3)lás(gh|pe)set(gf|cllsc3) Ja(e!fwgf|ql!cl-ppt1)cob(fe|cl-) (;) de(e|ta) som(e!fwgFE|ql-ppt1su2)no(ghghGF|//to-`ci-hg) a(e!fgffs|clpp2sthk)it.(ed|cl-) (::)
+(c4) Ma(e|obvi)ne(e_f!ghG_F_eg_F_E_C_d.|vihippt3sut2peShjsut3vi-hi) <sp>*</sp>(,) sur(eeof|sa)gens(d_g_f!gwh_g_|toSql!cl-) Ja(egff|//tosthg)cob(eeof.|sa-) (;) e(d|ta)ri(g|vi)gé(ixhi|////pe)bat(h|ta) lá(ixhi|////pe)pi(h|vi)dem(hggof|//cl!pi) in(gh|vi) tí(hg/hfg|//clpo)tu(gv_//df!gv_FEf|//vi-ci-hhpp2vihh)lum,(eeof.|sa) (;) fun(ixd!ewg_/hi|//ql-ppt1pehj)dens(h|ta) ó(ixhi|////pe)le(h|ta)um(hg~|vi>) dé(ixhi|////pe)su(h|ta)per,(h.|ta) (,) vo(ixhi|////pe)tum(h|vi) vo(hggof|//cl!pi)vit(gh|pe) Dó(hg/hfg|//clpo)mi(gv_//df!gv_FEf|//vi-ci-hhpp2vihh)no:(eeof.|sa-) (:) 
+
+<sp>+</sp> Ve(e|vi)re(fssfd|dshg/cl) lo(g_h|peS)cus(g|ta) is(hihioj|//topq)te(i|ta) sanc(i_0/jkj|//tohippt1)tus(jv_IH|ci-hi) est,(ixhg/hih.|/////clto) (;) et(f|ta) e(ghgh|//tr)go(f_d_|cl-) nes(fe|cllsc3)ci(fg|pe)é(gv_//fg/hggoFEf|vi-clhhpp2lsc3``pihhsu1vihi)bam.(fe..|cl-) (::) 
+
+<i><c> T.P.</c> </i> Al(fh~|pe~he)le(hvGF___EC|vi-hesut2su2|d_0//fvED|vi-hd/cihg|fhg___|toShe|hffoe|clhe!pihe)lú(egffs|tohesthg){ia}.(fe..|cl-he) (::) 
+
+<sp>V/</sp> Cum(h|vi)que(g_f!gwhg/hv_GEfe__|cl-qi!clci-hicl-hi) e(g|vi)vi(g|vi)gi(gf|cllsc3)lás(gh|pe)set(gf|cllsc3) Ja(e!fwgf__|ql!cl-ppt1)cob(fe..|cl-) (;) de(e!fwg_FE|ql-ppt1su2) som(g|vi)no(gh_g_h_GF|//to-`ci-hg) a(ef/gffs|clpp2sthk)it.(ed..|cl-) (::) 
+
 <sp>+</sp> Ve(e|vi)re.(fssfd|dshg/cl) (::)
-<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-qlhh!cl-hhci-hicl-hi) Pa(gf|cllsc3)tri,(gh|pe) et(gf|cllsc3) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|to-ci-hg) Sanc(e!fgffs|clpp2sthj)to.(ed|cl-) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(g_f!gwhg/hv_GEfe__|cl-`ql!clci-hhcl-hh) 
+Pa(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf__|ql!cl-ppt1)o,(fe..|cl-) (;) 
+et(e|ta) Spi(e|ta)rí(e!fwg_FE|ql-ppt1su2)tu(g|vi)i(gh_g_h_GF|to-/ci-hg) 
+Sanc(ef/gffs|//pohhpp2)to.(ed..|cl-) (::) 
+
 <sp>+</sp> Ve(e|vi)re.(fssfd|dshg/clcb) (::)
+
 
