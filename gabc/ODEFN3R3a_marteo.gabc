@@ -2,17 +2,16 @@ name:Libera me Domine de viis V Clamantes et dicentes V Requiem;
 office-part:re;
 mode:1;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Lí(d)be(dc)ra(f) me(ixgi) <sp>*</sp>() Dó(ixhih)mi(gi)ne(ih) (,) 
-de(ixf!gi) vi(ivHG)is(hg) in(f)fér(fd~)ni,(e!fw!gvFDeddc) (;) 
-qui(dc) por(f)tas(ghg) <sp>'ae</sp>(h)re(gf)as(fgf/fe) (,) con(gh)fre(ghg)gí(ff/gf)sti :(f) (:) 
-et(fd~) vi(f)si(ixgi)tá(h!iw!jvIHGF)sti(ghg) (,) in(f)fér(fd~)num,(e!fw!gvFD/ed/dc) (;)
-et(c) de(df)dí(f)sti(f) e(f)is(fd) lu(ff/gf)men,(f) (;) ut(fd~) vi(f)dé(ixgi)rent(h!iw!jvIHGF) te :(ghg) (:)
-<sp>+</sp> Qui(d) e(ffg)rant(f) in(f) pœ(fvED)nis(e!fw!gvFD/ed/dc) (;)
-te(c)ne(df)brá(fge/fd/ixfh!ivHGh,ef!gvFD/e///ce!gvvFE/fd)rum.(d) (::) 
-<sp>V/</sp> Cla(h)mán(hg~)tes(ghg) et(f) di(fe)cén(gh)tes :(ixih) (;) 
-Ad(f)ve(ixgi)ní(ivHG)sti(hg) (,) Re(f)démp(fg)tor(f) no(fvED)ster.(e!fw!gvFD/ed/dc) (::) 
-<sp>+</sp> Qui(d) e(ffg)rant.(f) (::) 
-<sp>V/</sp> Ré(h)qui(h)em(h) æ(g)tér(h)nam(g) (,) do(f)na(fe) e(g)is(ixhi) Dó(ih)mi(gh)ne :(h) (:)
-et(f) lux(ixgi) per(i)pé(ivHG)tu(hg)a(g) (,) lú(fg)ce(f)at(f) é(fvED)is.(e!fw!gvFD/ed/dc) (::)
-<sp>+</sp> Qui(d) e(ffg)rant.(f) (::)
+(c4) Lí(d|ta)be(dc|cl)ra(f|vi) me(gh|pe) <sp>*</sp>() Dó(ixhih|/////to)mi(g_h|peS)ne(ih__|cl-hh) (,) de(f!gwh|qippt1) vi(ixiv_HG|/////ci-hh)is(hg__|cl-) in(f|ta)fér(fd~|vi>)ni,(e!fwg_FDev/ddoc.|qi-ppt1su2vipr) (;) qui(dc|cllsc2) por(f|vi)tas(gh|pe) ǽ(h|vi)re(gf|cllsc2)as(f_g/ffoe|peSpr) con(g_h>|pe>1)fre(ghg>|to>)gís(fv_fv_2g_f_|bv-/cl-hi)ti:(f.|ta) (:) et(fd~|vi>) vi(f|vi)si(gh|pe)tás(ixh!iwj_I_HG_F_|////qi-hjppt1suu1su1sut2)ti(ghg|to) in(f|ta)fér(fd~|vi>)num,(e!fwg_FDev/ddoc.|qi-ppt1sut2vipr) (;) et(c|ta) de(d!ewf|``vihdqlhh)dís(f|vi)ti(f|vi) e(f|vi)is(f|vi) lu(fv_fv_2gf__|bv-/cl-hi)men,(f|ta) (,) ut(fd~|vi>) vi(f|vi)dé(gh|pe)rent(ixh!iwj_I_HG_F_|/////qihh!vshhppt1su1sut2) te:(ghg.|toM1) (:) 
+
+<sp>+</sp> Qui(c|`ta) e(d!ewf|`viqlhi)rant(f|vi) in(f|vi) pœ(fv_ED|ci-)nis(e!fwg_FDev/ddoc.|qi-ppt1su2vipr) (;) te(c|ta)ne(df|pe)brá(f_g_/f_foED|pe-1pr-su1|ixf_h/iv_HGh|/////peS/ci-hivi|e_f/g_d_2ev_|cl-ppt2vihi|//ce!gv/f_foED|scpr-su1)rum.(d.|ta) (::) 
+
+<sp>V/</sp> Cla(h|vi)mán(h>|vi>)tes(g_h_g_|toS) et(f|ta) di(fe|cllsc2)cén(g_h|peS)tes:(ixih..|/////cl-hh) (;) Ad(f|ta)ve(h|vi)nís(ixiv_HG|/////ci-)ti,(hg__|cl-) (`) Re(f|ta)dém(fg>|pe>)ptor(f|ta) nos(fv_ED|ci-)ter.(e!fwg_FD/ev/ddoc.|qi-ppt1su2vipr) (::) 
+
+<sp>+</sp> Qui.(c|`ta) (::) 
+
+<sp>V/</sp> Ré(h|obvi)qui(h|vi)em(h|vi) æ(g|ta)tér(h|vi)nam(g|ta) (,) do(f|ta)na(f|ta) e(g|vi)is,(fe|cllsc2) Dó(g|vi)mi(gh|pe)ne:(ixhih..|/////to-) (;) et(f|ta) lux(gh|pe) per(h|vi)pé(ixiv_HG|/////ci-hh)tu(hg|cl)a(g|ta) (,) lú(fg|pe)ce(f|ta)at(f|ta) e(fv_ED|ci-)is.(e!fwg_FD/ev/ddoc.|qi-ppt1su2viprcb) (::) 
+
+<sp>+</sp> Qui.(c|`ta) (::) 
