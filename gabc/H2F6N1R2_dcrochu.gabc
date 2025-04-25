@@ -1,0 +1,21 @@
+name:Si inimicus V Et si is qui me;
+office-part:re;
+mode:2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Si inimicus meus;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines:1;
+%%
+(f3) Si(f|obvi) in(f|vi)i(ec|cl)mí(e/fg|vi-pehi)cus(f|ta) me(fg|pe)us(f|ta) <sp>*</sp>(,) ma(f|vi)le(e|ta)di(f|vi)xís(h|vi)set(h|vi) mi(hg/hif/gv|//cltoS2vihg)hi,(ffoe|pr) (,) sus(e|ta)ti(f|vi)nu(h|vi)ís(hvGFEf|vi-sut1su2vi)sem(f!gwh/ihhog|qlppt1clhj!pihj) ú(f|ta)ti(fg!hvGFg|//ci-hhpp2vihh)que.(gf|cl-) (;)
+
+<sp>+</sp> Tu(h!ioj|sa) ve(jvIHG/hwiHGFg|vihjsut3qlhj!vshjsu2vihj)ro(gf|cl-) (,) ho(f|ta)mo(fg!hvGFE|vihhsu3pp2lsc3) u(f|vi)ná(hg/hih|cllsc3tohh)ni(hvGFg|ci-vi)mis(ffoe|pr) (;) qui(f|vi) si(f|vi)mul(fe|cllsc3) me(fg|pe)cum(f|ta) dul(fe/f!gwh/ivHG/hwihi|cl-qlppt1vi-hjsut2qlhj!pohj)ces(ih|cl-hj) (,) ca(h|tahh)pi(h|tahh)é(ij|pehh)bas(jvIHG/hwiHG|vi-hisut3ql-hhsut2) ci(f!gwhgh|ql!poppt1)bos.(gf|cl-) (::)
+
+<sp>V/</sp> Et(f|vi) si(e|`ta) is(ef!gwh/hi|``qlppt2pehi) qui(h|ta) me(h|ta) ó(ij|pehi)de(i|vi)rat(h|ta) (,) su(hi|pe)per(h|ta) me(h|ta) mag(hi|pe)na(h|ta) lo(h|ta)cú(hg|cllsc3)tus(hi|pe) fu(gh|pe)ís(f!gwhg|ql!cl-ppt1)set,(gf|cl-) (;) ab(f|vi)scon(ef|pe)dís(fg|pe)sem(f|ta) me(f|ta) fór(f|ta)si(f!gwhGFE|ql-ppt1su1sut2)tan(f|vi) ab(hg/hih|cl/tohi) e(hvGFg|ci-vi)o.(ffoe|pr) (::)
+
+<sp>+</sp> Tu(h!ioj|sa) ve(jvIHG/hwiHGFg|vihjsut3qlhj!vshjsu2vihj)ro.(gf|cl-cb) (::)
