@@ -1,0 +1,17 @@
+name:Rex omnis terrae;
+office-part:an;
+mode:1g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Rex omnis terrae Deus;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g;
+nabc-lines:1;
+%%
+(c4) Rex(ddo|obvs) om(c|ta)nis(d|vi) ter(f|vi)ræ(e|ta) <sp>*</sp>() De(d|ta)us;(dc|cl-) (,) reg(fg|peS)ná(h|vi)bit(gf|cl) su(fg|peS)per(ef|peS) gen(d.|ta)tes.(d.|tacb) (::) 
+
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
