@@ -1,12 +1,18 @@
+name:O Hippolyte si credis V Beatus Laurentius V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) O(d) Hip(d)pó(fgh)ly(g)te,<sp>*</sp>(g) (;)
-<sp>+</sp> Si(gh) cre(h)dis(hg/higgf) in(g>) Dó(gh)mi(g)num(g) Je(g)sum(GHiwjIHiwjI!Hs<) Chri(GHivHGh)stum,(GHih) (:)
-<v>\ddag\ </v> Et(f) the(gh)sáu(h>)ros(g) ti(g)bi(e) o(g)stén(fef>)do,(dec/d!ewfefvED) (;)
-et(d) vi(fgh)tam(g) æ(gi)tér(hihGFgh>)nam(g) pro(GHiwjIHiwjIH)mít(GHivHGh)to.(hg) (::)
-<sp>V/</sp> Be(j)á(ji)tus(jkj/iji/hhO1g) Lau(i)rén(ij~)ti(i)us(i) Hip(i)pó(ih)ly(ij)to(hi) di(g!hwih)xit:(hg) (::)
-<sp>+</sp> Si(gh) cre(h)dis.(hg/higgf) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (::)
-<v>\ddag\ </v> Et.(f) (::)
+(c4) O(d|ta) Hip(d|ta)pó(f_0/gh|`vi/pehi)ly(g|ta)te,(g|ta) <sp>*</sp>(,) si(g|obta) cre(g|ta)di(gh|pe)de(h|vicb)ris(ixhg/higgf|/////cltoM1clhg) in(hf~|vi>lss6) Dó(gh|pe)mi(g|ta)num(g|ta) Je(g|ta)sum(g_h!iwj_I_Hiwj_IH>|`ql-hippt2sut2ql-hksu1sux1) Chris(g_h!iv_HGh|ci-hippt2vihi)tum,(ixg_h/ih..|////cl-hhppt2) (:) 
+
+<sp>+</sp> Et(f|gr) the(gh|pe)sáu(h>|vi>)ros(g|ta) ti(g|vi)bi(e|ta) os(g|vi)tén(fef>|po>lsi6)do,(dec_0//d!ewfefv_ED.|toM3qlhh!clhhppt1vi-hisu1suu1lse6) (;) et(d|ta) vi(f_0/gh|vipe)tam(g|ta) æ(gh|pe)tér(ixh_i_H_GFg_h>|/////toShisu2pe>1hi)nam(g|ta) pro(iyg_h!iwjI_Hiwj_IH|///qlhippt2sut2ql-hjsu2)mít(gh!iv_HGh|//ci-hhpp2vihh)to.(hg..|cl-) (::) 
+
+<sp>V/</sp> Be(j|obhhvihh)á(ji|clhh)tus(jkj/iji/hhog|tohjtohkprhj) Lau(ih|clhi)rén(jk~|pe~hj)ti(j|tahj)us(j|tahj) Hip(j|tahj)pó(ih|clhi)ly(ij|pehj)to(hi|pehh) di(g!hwih|qi!clppt1)xit:(hg..|cl-) (;) Si(g|vi) cre(fg|pe)dis(g|vi) in(g|vi) Dó(g|vi)mi(g|vi)num(ixhi_HGhih|/////pe-hhsu2tohi) Je(ghf|tohg)sum(g_h|peShg) Chris(iyh!iwji/jkJ_IH|////qlhi!clhippt1to-1hmsu2)tum.(h_i_HGhg..|pe-1hisu2cl-hicbhh) (::) 
+
+<sp>+</sp> Et(f|gr) the(gh|pe)sáu(h>|vi>)ros.(g|ta) (::) 
+
+<sp>V/</sp> Gló(j|obhhvihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih__|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|/////qlhi!clhippt1to-1hmsu2)to.(h_i_HGhg..|pe-1hgsu2/cl-hhcbhh) (::) 
+
+<sp>+</sp> Et(f|gr) the(gh|pe)sáu(h>|vi>)ros.(g|ta) (::) 
 
