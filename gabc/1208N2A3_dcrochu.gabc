@@ -1,0 +1,16 @@
+name:Gloriosa dicta sunt;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Gloriosa dicta sunt;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi f;
+nabc-lines:1;
+%%
+(c4) Glo(f|obta)ri(g|vi)ó(f!gwh|qlppt1)sa(h|vi) <sp>*</sp> dic(ixi|////vihi)ta(h|vi) sunt(gfg|//po) de(gh|pe) te,(f|ta-) (,) cí(gf|cl)vi(g|vi)tas(ghg|//to) De(f|ta)i,(f|ta) (;) fun(fg|pe)dá(f|ta)vit(fe|cllsc3) te(d|vi) Dó(c|ta)mi(df|pelsl2)nus(f|ta) (,) in(g|vi) món(gf>|cl->)ti(g|vi)bus(ghg|//to) sanc(f|ta)tis.(f|tacb)(::)
+<eu>E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
