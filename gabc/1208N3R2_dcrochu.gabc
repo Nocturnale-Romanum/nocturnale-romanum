@@ -1,0 +1,25 @@
+name:Magnificat V Ecce enim ex hoc V Gloria;
+office-part:re;
+mode:5;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Magnificat;
+mode: 5;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: v;
+nabc-lines:1;
+%%
+(c4) Ma(d|obta)gní(ffg|scM1)fi(f|ta)cat(f|ta) <sp>*</sp> á(fg|pe)ni(g|vi)ma(g|vi) me(gf!gwhgh|cl-ql!po)a(hg|cl-) Dó(f|ta)mi(f|ta)num.(dcf/ghggf|po-1lsi4toS2hicl-hj) (:)
+
+<sp>+</sp> Qui(f|ta)a(hg|cllsc3) fe(gj|pehh)cit(j|tahh) mi(jk!lvKJk|//ci-hnpp2vihn)hi(kj|cl-hk) ma(ixjh/hwihi|//////cl-``ql!po)gna(ih|cl-) (,) qui(ixhg!hwiHG|/////cl-ql-hgsu2) pot(f|ta)ens(fg!hvGF|//ci-hhpp2vihh) est,(gf|cl-) (;) et(f|ta) sanc(ixghgh/i>|/////tr-3vi>hj)tum(h|ta) no(h|ta)men(hjHG/hwiHG|pe-1hhsut2qi-hisu2) e(fg!hvGFg|//ci-hhpp2vihh)jus.(gf|cl-) (::)
+
+<sp>V/</sp> Ec(j|vihh)ce(jk/jss/hih|pe-hjds-hmtohm) e(jk|pehj)nim(j|tahh) ex(j|tahh) hoc(j|tahh) be(j|tahh)á(jh|clhhlsc3)tam(hk|pehj) me(ij|pehh) di(ji!jwkjk|cl-hhqlhi!pohi)cent(kj|cl-hi) (;) om(j|tahh)nes(j|tahh) ge(j|tahh)ne(ji/ji|pfhilsc2)ra(ih|clhhlsc3)ti(jk|peShj)ó(ixji!jwkJIHi|//////cl-hjqlhj!vshjsu2vihj)nes.(ih|cl-) (::)
+
+<sp>+</sp> Qui(f|ta)a(hg|cllsc3) fe(gj|pehh)cit.(j|tahh) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(j|vihh)a(jk/jsshih|pe-hjds-hmtohm) Pa(jh|clhhlsc3)tri,(hk|pehj) et(ij|pehh) Fí(j|vihh)li(ji!jwkjk|cl-hhqlhi!pohi)o,(kj|cl-hj) (;) et(j|vihh) Spi(j|vihh)rí(ji/ji|pfhilsc2)tu(ih|clhhlsc3)i(jk|peShk) Sanc(ixji!jwkJIHi|//////cl-hjqlhj!vshjsu2vihj)to.(ih|cl-) (::)
+
+<sp>+</sp> Qui(f|ta)a(hg|cllsc3) fe(gj|pehh)cit.(j|tahhcb) (::)
