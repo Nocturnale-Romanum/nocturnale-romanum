@@ -1,0 +1,16 @@
+name:Benedixit te Dominus in virtute;
+office-part:an;
+mode:3a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Benedixit te Dominus;
+mode:3;
+office-part: Antiphona;
+annotation: Ant.;
+annotation:iii a;
+nabc-lines:1;
+%%
+(c4) Be(g|obta)ne(g|ta)dí(h|vi)xit(i|vihh) te(j|vihj) Dó(h|ta)mi(j|vihh)nus(i|vi) <sp>*</sp>(,) in(g|ta) vir(h|vi)tú(h|vi)te(i|vihi) su(h|vihg)a:(g|ta) (;) qui(i|vi)a(h|ta) per(h|ta) te(j|vihj) ad(i|vihh) ní(gh|pe)hi(g|ta)lum(g|vi) red(e|ta)é(fg|pe)git(g|ta) in(h|vihh)i(gf|cllsc3)mí(g|vi)cos(gf|cllsc3) nos(e|ta)tros.(e|tacb) (::)
+<eu>E(i) U(i) O(j) U(h) A(j) E.(ih) </eu>(::)
