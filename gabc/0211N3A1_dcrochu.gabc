@@ -1,0 +1,16 @@
+name:Manus Domini confortavit;
+office-part:an;
+mode:4a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Manus Domini confortavit;
+mode:4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation:iv a;
+nabc-lines:1;
+%%
+(c3) Ma(e|obta)nus(f|vi) Dó(h|vihh)mi(hi|pehh)ni(iio|vs) <sp>*</sp> con(hi>|pe>1)for(jh|cl-hi)tá(i|vi)vit(i|vihg) te,(i|vi-hh) (;) et(i|vihi) íd(fi|peShh)e(h|vihh)o(g|vi) e(fe|cl-)ris(fe|cl-) (,) be(d|ta)ne(e|vi)díc(f|vihh)ta(gxg|////vihi) in(h|vihj) æ(gxg|////vi)tér(f|ta)num.(f|tacb) (::)
+<eu>E(i) U(h) O(i) U(j) A(h) E.(fg) </eu> (::)
