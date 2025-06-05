@@ -1,0 +1,16 @@
+name:Thronus ejus;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Thronus ejus sicut sol;
+mode:6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation:vi f;
+nabc-lines:1;
+%%
+(c4) Thro(f|ta)nus(ghg|//to) e(h|vi)jus(gf|cllsc3) <sp>*</sp> sic(gh|pe)ut(g) sol(f|vi) (,) in(f|vi) con(d|tavi)spéc(f|//po)tu(fef|pe-1su2vi) me(deDCd|cl-)o:(dc) (;|ql!cl-ppt1) et(f!gwhg|vihh) sic(h|vi)ut(g|pe) lu(fg|ta)na(f|vi) per(f|vi)féc(deDCd|pe-1su2vi)ta(dc|cl-) in(f|vilsl2) æ(g|vilsal3)tér(gf~|vi>lsi6)num.(f|ta) (::)
+<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu> (::)
