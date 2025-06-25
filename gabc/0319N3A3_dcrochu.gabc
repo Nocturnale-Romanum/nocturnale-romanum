@@ -1,0 +1,16 @@
+name:Erat pater Jesu;
+office-part:an;
+mode:1f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Erat pater Jesu;
+mode:1;
+office-part: Responsorium;
+annotation: Resp;
+annotation:i f;
+nabc-lines:1;
+%%
+(c4) E(d|obta)Rat(dc|cllsc3) pa(f|vi)ter(g|vihh) Je(fh|peS)su(h|vi) <sp>*</sp>(,)  et(h|vi) ma(gh|pe)ter(f|ta) mi(g|vi)rán(gfg>|//po>)tes(d|ta) su(g|vilsal2)per(fe|cllsc3) his,(doe|pq) (,) quæ(c|gr) di(d|vi)ce(f|vi)bán(fg~|ta>)tur(f|vi) de(e|ta) il(gh|peS)lo;(h|vi-) (;) et(h|``vilse1) be(f|ta)ne(g|vi)dí(h|vihi)xit(fe|cllsc3) il(g|vi)lis(fe|cllsc3) <sp>+</sp> Sí(d|ta)me(cd|pe)on.(d|ta) (::) <i><c>T.P. </c></i> Sí(d|vi)me(c|ta)on,(ewf|ql-) al(g>|vi>)le(fe|pe)lú(d|ta)ia.(d|tacb) (::)
+<eu> E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu> (::)
