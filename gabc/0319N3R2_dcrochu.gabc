@@ -1,0 +1,25 @@
+name:Descendit Jesus V Proficiebat sapientia V Gloria;
+office-part:re;
+mode:8;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Dicit mater Jesu;
+mode:3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation:iii;
+nabc-lines:1;
+%%
+(c4) De(g|obvi)scén(gffd!ewfE~D~|cl-cl-ql-su1sux1)dit(cd|peS) Je(fg|peS)sus(fg@hvhg/jhhog|scclclhipihi) <sp>*</sp>(,) cum(ji|clhh) e(hg|cl)is,(gh/ggof|peSpr) (;) et(fg|pe) ve(gjj|pe-hivi-hi)nit(jk|pehj) Ná(k|vihj)za(ji|cl)reth,(hjg/hhog|toShjprhj) (;)
+
+<sp>+</sp> Et(f|ta) e(gh|`pe)rat(h!iwjIHih|ql-hippt1su2cl-hi) súb(ghGFgh>|peSsu2pe>1)di(g|ta)tus(gh!iwjIH/iwjIH|ql-hippt2sut2ql-hisu2) il(gh@ivHGh|/ci-hhpp2vihh)lis.(hg|cl-) (::) <c><i>T.P.</i></c> {A}l(g|ta)le(g/hfg|//poppt1)lú(g!hwihi|ql!poppt1)ia.(hg|cl-) (::)
+
+<sp>V/</sp> Pro(j|vihh)fi(j|vihh)ci(j|vihh)é(ji|clhhlsc3)bat(jkj/iji/hhog|///tohh/tohiprhj) sa(hi|pehh)pi(ih|clhh)én(jk~|pe~hj)ti(j|tahj)a,(j|tahj) (,) et(j|vihh) æ(ji|clhhlsc3)tá(ih|clhhlsc3)te(ij|pehh) et(hi|pehh) grá(g|ta)ti(g!hwih|qlhh!cl-hhppt1)a(hg|cl-) (;) a(g|vi)pud(fg|pe) De(g|vi)um(ixhiHG/hih|/////pe-hhsu2/tohi) et(ghf|//tohh) hó(gh|peS)mi(h!iwji/jkJIH|/////qlhh!clhhppt1to-1hmsu2)nes.(hiHGhg|pe-1hhsu2/cl-hi) (::)
+
+<sp>+</sp> Et(f|ta) e(gh|`pe)rat.(h!iwjIHih|ql-hippt1su2cl-hi) (::)
+
+<sp>V/</sp> Gló(j|vihh)ri(ji|clhhlsc3)a(jkj/iji/hhog|///tohh/tohiprhj) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-hgsu2/tohi)tu(ghf|//to)i(gh|peS) Sanc(h!iwji/jkJIH|/////qlhh!clhhppt1to-1hmsu2)to.(hiHGhg|pe-1su2/cl-) (::)
+
+<sp>+</sp> Et(f|ta) e(gh|`pe)rat.(h!iwjIHih|ql-hippt1su2cl-hicb) (::)
