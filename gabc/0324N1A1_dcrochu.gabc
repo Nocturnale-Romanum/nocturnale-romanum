@@ -1,6 +1,6 @@
 name:Dixit Angelus Gabriel ad Danielem;
 office-part:an;
-mode:1a2;
+mode:1f;
 submitter:dcrochu;
 nabc-lines:1;
 %%
@@ -9,8 +9,8 @@ name: Dixit Angelus Gabriel ad Danielem;
 mode:1;
 office-part: Antiphona;
 annotation: Ant.;
-annotation:i a 2;
+annotation:i f;
 nabc-lines:1;
 %%
-(c4) Di(ixdh/iv|ob////scG-1)xit(h|ta) An(ixh!iwj|////qlppt1)ge(h|ta)lus(hg/hih|//cllsc3`tohg) (,) <sp>*</sp> Gá(f|ta)bri(g|vi)el(h|vihj) ad(g|ta) Da(g|ta)ni(gf|cllsc3)é(g|vi)lem:(d|ta-) (:) In(d|``talse4)tél(fe|cllsc3)li(d|ta)ge,(e|vi) fi(f|vihh)li(gf|clhhlsc3) hó(g|vi)mi(gh|pe)nis(h|vi-) (;) quón(h|``vilse1)i(g|ta)am(h|vi) in(g|ta) tém(h|vihi)po(g|vi)re(f|ta) fi(ixg!hwiHG|//ql-ppt1su2)nis(hg|cl-) (,) im(e|ta)plé(f|vi)bi(g|vihi)tur(fe~|vi>lsi6) <sp>+</sp> ví(d|vi)si(cd|pe)o.(d|ta) (::) <i><c>T.P. </c></i> ví(d|vi)si(c|ta)o,(ewf|`ql) al(g>|vi>)le(fe|cllsc3)lú(d|ta)ia.(d|tacb) (::)
-<eu> E(h) U(h) O(g) U(f) A(g) E.(gh) </eu> (::)
+(c4) Di(d|obta)xit(d|ta) An(d|ta)ge(d|ta)lus(dc|cllsc3) Gá(f|vi)bri(gh|pe)el(h|vi-) (,) <sp>*</sp> ad(h|ta) Da(g|ta)ni(gf|cllsc3)é(g|vi)lem:(d|ta-) (:) In(d|``talse4)tél(fe|cllsc3)li(d|ta)ge,(e|vi) fi(f|vihh)li(gf|clhhlsc3) hó(g|vi)mi(gh|pe)nis(h|vi-) (;) quón(h|``vilse1)i(g|ta)am(h|vi) in(g|ta) tém(h|vihi)po(g|vi)re(f|ta) fi(ixg!hwiHG|//ql-ppt1su2)nis(hg|cl-) (,) im(e|ta)plé(f|vi)bi(g|vihi)tur(fe~|vi>lsi6) <sp>+</sp> ví(d|vi)si(cd|pe)o.(d|ta) (::) <i><c>T.P. </c></i> ví(d|vi)si(c|ta)o,(ewf|`ql) al(g>|vi>)le(fe|cllsc3)lú(d|ta)ia.(d|tacb) (::)
+<eu> E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu> (::)
