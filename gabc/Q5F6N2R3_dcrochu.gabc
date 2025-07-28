@@ -1,0 +1,26 @@
+name:Quis mihi det te fratrem meum V Filii tui a longe venient V Gloria;
+office-part:re;
+mode:6;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Quis mihi det;
+mode: 6;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vi;
+nabc-lines: 1;
+%%
+(c2) Quis(ffg|obscM1) mi(f|ta)hi(gh|pe) det(gf|cllsc3) te(f|ta) <sp>*</sp> fra(fg|pe)trem(fefvEDCdc|cl-vi-sut1su2cl-) me(f!gwhgh|ql!poppt1)um(gf|cl-) (;) su(fh|pe)gén(jjk~|vi-hhta>hk)tem(j|ta) ú(jh/jgh|cllsc3po)be(gvFE/fwgfg|vi-sut2ql!po)ra(gf|cl-) (,) ma(fg|pe)tris(f|ta) me(fd!ewfEDCde|cl-ql!vssu2peS)æ,(dc|cl-) (:) et(f|vi) in(gh|pe)hæ(ghg|//toS3)rén(f!gwhgh>|///ql!po>ppt1)do(gf|cl-) lá(f|ta)te(f|ta)ri(gh|pe) tu(ig!hwihi|//cl-qlhg!pohg)o,(hg|cl-) (;) ut(f>|vi>) san(gh|pe)guis(f|ta) tu(g|vi)us(fe|cllsc3) sán(g|vi)gui(h|vihi)nem(g|ta) me(h|vihi)um(g|vi) tan(f|vi)gat(e|ta) et(ghg|//to) ter(ghG~F~|to->)gat:(gf|cl-) (:)
+
+<sp>+</sp> Ut(f|ta) fons(gh|pe) a(fe|cllsc3)quæ(dc|cllsc3) tu(ffg|scM1)æ(f|ta) de(f|ta) sca(f|ta)tu(f|ta)rí(gh|pe)gi(g|vi)ne(fe|cllsc3) rec(g|vi)ti(ghg|//toS3) cor(fg!hvGFg|//ci-hhpp2vihh)dis,(gf|cl-) (;) per(f|ta) ve(f|ta)nas(gh|pe) bo(h|vi)ni(hg|cllsc3) ó(h!iwj|qlppt1)pe(g|vi)ris,(f|ta) (,) in(f|ta) fi(fd!ewfEDCde|cl-ql!vssu2peS)nem(dc|cl-) æ(f|vi)tér(gh|pe)næ(g|ta) fe(g|ta)li(i|vi)ci(ih|cllsc3)tá(ij|peS)tis(g|ta) ex(ghg|//toS3)sí(f|ta)li(fg!hvGFg|//ci-hhpp2vihh)at.(gf|cl-) (::)
+
+<sp>V/</sp> Fí(f!goh|sa)li(h|vi)i(ih/ivHGhg|///cl-ci-cl-) tu(h!iwj/kv|```ql-ppt1vihl)i(j|vihh) a(jh|clhh) lon(i>|vi>)ge(gh|pe) vé(f|ta)ni(f!gwhg|ql!cl-ppt1)ent,(gf|cl-) (;) et(f|ta) fí(df|pe)li(f|ta)æ(f|ta) tu(fg|pe)æ(f|ta) de(f|ta) lá(ghf|//to)te(gf|cllsc3)re(f!goh|sa) sur(ig!hwiH!gs<|cl-ql-sut1sux1)gunt.(ghGFgf|pe-1su2cl-) (::)
+
+<sp>+</sp> Ut(f|ta) fons(gh|pe) a(fe|cllsc3)quæ(dc|cllsc3) (::)
+
+<sp>V/</sp> Gló(f!goh|sa)ri(h|vi)a(ih/ivHGhg|cl-ci-cl-) Pa(h!iwj/kv|```ql-ppt1vihl)tri,(j|vihh) et(jh|clhh) Fí(ij|pe)li(ih|cllsc3)o,(h|ta) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(i|vi)i(gh|pe) San(f!gwhg|ql!cl-ppt1)cto.(gf|cl-) (::)
+
+<sp>+</sp> Ut(f|ta) fons(gh|pe) a(fe|cllsc3)quæ(dc|cllsc3cb) (::)
+
