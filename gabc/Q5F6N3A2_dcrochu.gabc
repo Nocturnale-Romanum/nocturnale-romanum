@@ -1,0 +1,16 @@
+name:Factus sum sicut homo;
+office-part:an;
+mode:4d;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Factus sum sicut homo;
+mode: 4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c3) Fac(h|vilssc3)tus(hi|pelse4) sum(iio|//vs) <sp>*</sp>(,) sic(h_i|peS)ut(jh__|cl-hilss3) ho(i.|vi-)mo(i.|vi-) (;) si(f|ta)ne(i|vihh) ad(h|vihh)ju(g|vihg)tó(f|vi)ri(e|ta)o,(fe__|cl-) (,) in(d|ta)ter(e|vi) mór(gxf_g|////peS)tu(h|vihh)os(g|vi) li(f.|ta)ber.(f.|ta) (::)
+<eu> E(i) U(h) O(i) U(j) A(h) E.(i) </eu> (::)
