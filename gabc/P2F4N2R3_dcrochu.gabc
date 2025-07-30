@@ -1,0 +1,25 @@
+name:Si consistant adversum me V In te cantatio V Gloria;
+office-part:re;
+mode:1;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Si consistant adversum me;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) Si(c|obta) con(d|vi)sís(ixedh/iv|po-1lss2vihl)tant(h|ta) (,) <sp>*</sp> ad(h|ta)vér(h>|vi>)sum(gh~|ta>) me(gfg|po) cas(ixivHGhi|////ci-peS)tra,(h|vi-) (;) non(f<|ta>) ti(gh|pe)mé(hg/hfg|///cl!po)bit(dfddc|toS2cl-) cor(f!go1!h>|sa>) me(fvEDewfef|vi-sut2qlhg!pohg)um:(ed|cl-) (:)
+
+<sp>+</sp> Si(dc|```cllsc3lse4) ex(f|vi)súr(gh~|ta>)gat(h|vi) ad(h|vi)vér(hg|cl-)sum(ge|cl-) me(g|vi) prœ́(gh|pe)li(fvED|ci)um,(dfddoc|toS2cl-hg) (;) in(cd|peS) hoc(fd/ffo!gv|cl-saM) e(gvf!go1!hv|vi-sa)go(fe|cl-) spe(d|ta)rá(d!ewfef|ql!poppt1)bo,(ed|cl-) (;) al(fg~|ta>)le(ed/fh/ghg/ef!gvhfgvFE|cl-pe-1/toS2hj/vi-hjpp2clhnvi-hnsut2)lú(d!ewfef|ql!poppt1)ia.(ed|cl-) (::)
+
+<sp>V/</sp> In(h|vi) te(hg/hggO1f|clclhg!pihg) can(g|vi)tá(gh|pe)ti(g|ta)o(hf|cllsc3) me(gh|pe)a(gh|pe) sem(ixh/iioh|////prppu1)per,(h|ta) (;) quó(hf|cllsc3)ni(gh|pe)am(h|ta) tu(h|ta) ad(hg/hg|pflsc2)jú(hf|cllsc3)tor(ixf!gwhg/hih|////ql!clppt1tohm) for(hvGFEfwg/hv|vi-su1sut2qi-vihk)tis.(gf|cl-) (::)
+
+<sp>+</sp> Si(dc|cllsc3) ex(f|vi)súr(gh~|ta>)gat.(h|vi) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clclhgpihg) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh/iio!h|////prppu1)o,(h|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohm) Sanc(hvGFEfwg/h|vi-su1sut2qi-vihk)to.(gf|cl-) (::)
+
+<sp>+</sp> Si(dc|cllsc3) ex(f|vi)súr(gh~|ta>)gat.(h|vicb) (::)
