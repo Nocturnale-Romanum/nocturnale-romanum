@@ -1,0 +1,16 @@
+name:Nonne hic est fabri filius;
+office-part:an;
+mode:7c2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Nonne hic est fabri filius;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c 2;
+nabc-lines: 1;
+%%
+(c3) Non(g|obta)ne(h|vi) hic(ij|peShh) est(i|tahh) <sp>*</sp>(,) fa(j|vihi)bri(i|vihg) fí(h|vi)li(ho|or)us?(g|ta) (;) Non(g|```talse1)ne(h|vi) hic(iji|//tohi) est(hg/hih|clhhlsc3`tohi) (,) fí(f|ta-)li(h|vihh)us(g|vi) Jo(e|ta)seph?(ef|peS) Al(g>|vi>)le(fg|pe)lú(e|ta)ia.(e|tacb) (::)
+<eu>E(i) U(i) O(j) U(i) A(h) E.(ih) </eu>(::)
