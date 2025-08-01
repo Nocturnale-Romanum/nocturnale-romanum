@@ -1,0 +1,25 @@
+name:Unde huic sapientia V Ita dicebant V Gloria;
+office-part:re;
+mode:1;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Unde huic sapientia;
+mode: 1;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: i;
+nabc-lines: 1;
+%%
+(c4) Un(c|obta)de(d|vi) hu(ixdh/iv|////scG-1)ic(h|ta) (,) <sp>*</sp> sa(h|vi)pi(g|ta)én(hj|pe)ti(h|ta)a(hg|cllsc3) hæc(ixhiHG/fh!jvHGhffod|////pesu1suu1//cihjpp2lsc3clShhlsc3pihh) et(f|vi) vir(e|ta)tú(egFEfvED/ewfef|toS2sut1vi-sut2qi!po)tes?(ed|cl-) (:)
+
+<sp>+</sp> Non(f|vi)ne(g|vihg) hic(h|vihh) est(gf|cllsc3) fa(gh|peS)bri(fe|cl-) fí(d|ta)li(de!fvEDe|//ci-hhpp2vihh)us?(ed|cl-) (;) Al(fg~|ta>)le(ed/fh/ghg/ef!gv/hf/gvFE|cl-pe-1to-1hjvi-pp2clhkvi-hksut2)lú(d!ewfef|ql!poppt1)ia.(ed|cl-) (::)
+
+<sp>V/</sp> I(h|vi)ta(hg/hggof|cllsc3`cl!pi) di(g|vi)cé(gh|pe)bant(g|ta) in(g|ta) ci(g|ta)vi(hf|cllsc3)tá(gh|pe)te(gh|pe) Ná(h|ta)za(ixh/iioh|////prppu1)reth.(h|ta) (::)
+
+<sp>+</sp> Non(f|vi)ne(g|vihg) hic(h|vihh) est.(gf|cllsc3) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|pflsc2pihg) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh/iioh|////prppu1)o,(h|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohm) Sanc(hvGFE/fwg/hv|vi-su1sut2qi-vihk)to.(gf|cl-) (::)
+
+<sp>+</sp> Non(f|vi)ne(g|vihg) hic(h|vihh) est.(gf|cllsc3cb) (::)
