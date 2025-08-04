@@ -1,0 +1,24 @@
+name:Hoc signum Crucis V Cum sederit Filius V Gloria;
+office-part:re;
+mode:4;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Hoc signum Crucis;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) Hoc(e|obta) sig(e|ta)num(fsss|//ts) Cru(df!gvFEf|//ci-hhpp2vihh)cis(fe|cl-) <sp>*</sp>(,) e(h|vi)rit(h|vi) in(hg~|vi>) cæ(h/JJGhv|vi-/tgShjvihj)lo,(ixef!gwh/ig/fssded|////qlppt2clShhds-hitohj) (;) cum(fd~|cl>) Dó(e!fwg/ho|vi-qlhjorhm)mi(g|ta)nus(g|ta) ad(g|ta) ju(g|ta)di(g|ta)cán(gf~|vo>)dum(ixfg!hv/ig/hg>|vi-pp2clShkcl>hk) vé(e|ta)ne(egffs|//tosthh)rit:(fe|cl-) (:)
+
+<sp>+</sp> Tunc(h|vi) ma(h|vi)ni(h|vi)fés(h|vi)ta(hg|cllsc3) e(h/JJGhv|vi-tgS-hivihj)runt(ixef!gwh/ig/fssded|////qlppt2clS-hhds-hitohj) (;) abs(fd|cllsc3)cón(e!fwg/h>|```vi-qlhjvi>hl)di(g|ta)ta(gh|pe) cor(hggof~|clorhh)dis(ixfg!hv/ig/hg|////vi-pp2clhlcl-hm) nos(egffs|//tosthh)tri,(fe|cl-) (;) al(ed~|vi>)le(ewf|ql)lú(ec~|vi>)ia,(ded|toS) (,) al(fh~|ta>)le(hvGFEC|///vi-sut4|d/fvEDfh|vi-ciSlsc3|gh/ffoe|toScl-hi`pihi)lú(egffs|//tosthh)ia.(fe|cl-) (::)
+
+<sp>V/</sp> Cum(h|vi) sé(h|vi)de(gh|pe)rit(gf!gwhg/hvGEfe|cl-qi!cl-ci-hicl-hi) Fí(g|vi)li(g|vi)us(g|vi) hó(gh|pe)mi(g|ta)nis(g|ta) (,) in(g|ta) se(gh|pe)de(g|ta) ma(g|ta)jes(gf|cl)tá(gh|pe)tis(gf|cl) su(e!fwgf|ql!cl-ppt1)æ,(fe|cl-) (;) et(f|vi) cœ́(de|pe)pe(e|ta)rit(e|ta) ju(e|ta)di(e|ta)cá(e!fo|vs)re(e|ta) sǽ(e|ta)cu(e!fwgFE|ql-ppt1su2)lum(g|vi) per(ghghGF|//to-ci-hh) i(e!fgffs|sfsthk)gnem.(ed|cl-) (::)
+
+<sp>+</sp> Tunc(h|vi) ma(h|vi)ni(h|vi)fés(h|vi)ta.(hg|cllsc3) (::)
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-qihg!cl-hgci-hicl-hi) Pa(gf|cl)tri,(gh|pe) et(gf~|vi>) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|//to-ci-hg) Sanc(e!fgffs|sfsthk)to.(ed|cl-) (::)
+
+<sp>+</sp> Tunc(h|vi) ma(h|vi)ni(h|vi)fés(h|vi)ta.(hg|cllsc3cb) (::)
