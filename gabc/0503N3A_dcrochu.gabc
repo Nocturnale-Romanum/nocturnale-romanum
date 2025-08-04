@@ -1,0 +1,16 @@
+name:Adoramus te Christe... quia per Crucem;
+office-part:an;
+mode:1g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Adoramus te Christe... quia per Crucem;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g;
+nabc-lines: 1;
+%%
+(c4) A(c|ta)do(d|vi)rá(ixdh//iv|scG-1)mus(h|ta) te,(h|ta) <sp>*</sp> Chris(h|ta)te,(ixhg/hiHG|clpehgsu2) et(go|or>) be(f|ta)ne(g|vi)dí(h|vihi)ci(g|vihh)mus(fe|cl) ti(fg|pe)bi,(d|ta) (;) qui(ggo|vs)a(e|ta) per(g|vi) Cru(gh|pe)cem(g>|vi) tu(fg|pe)am(ffo|vs) (,) red(e|ta)e(f|vi)mís(g|vihi)ti(f|obta) mun(fe|cllsc3)dum(dc|cllsc3) (,) al(d|vi)le(fe|cllsc3)lú(d|ta){ia}.(d|tacb) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu> (::)
