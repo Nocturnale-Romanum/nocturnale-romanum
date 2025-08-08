@@ -1,12 +1,18 @@
-mode:3;
+name:Post peccatum V Et in sudore V Gloria;
+office-part:re;
+mode:7;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Post(g) pec(g)cá(hi)tum<sp>*</sp>(i) e(i)jé(j)cit(ih) De(hg)us(i) hó(jh)mi(jh!iwjIG)nem(efO1h) (,)
-de(h) pa(h)ra(h)dí(hvf!go1!hv)so(hg) vo(h)lu(hiGFghg)ptá(egfFs)tis,(fe) (;)
-<sp>+</sp> Ut(e) in(e) la(e)bó(e!fwg!ho~)ri(g)bus(g) o(ij)pe(iiO1h)ra(jh!iwjIG)ré(hvf!go1!hv)tur(hiGFghg) ter(egfFs)ram,(fe) (;)
-al(gh)le(gvdfdegvdfde/g/hf/ghg)lú(egfFs)ja.(fe) (::)
-<sp>V/</sp> Et(i) in(i) su(i)dó(ikjJs)re(h!iwji/hhO1g) ul(i)tus(i) tu(i!jo1)i,(hg) di(hi)xit(i) De(i!jo1)us,(i) ve(ikjIHiwji)scé(hg)ris(GHiwj) pa(jiiO1hivHGh)ne.(hg) (::)
- <sp>+</sp> Ut.(e) (::)
-<sp>V/</sp> Gló(ikjjs)ri(h!iwji)a(hhO1!g) Pa(hg)tri,(h) et(j) Fí(i)li(ikjjs)o,(ji) (;) 
-et(i) Spi(i)rí(ikjjvIHiwji)tu(hg)i(GHiwj) San(jiiO1hivHGh>)cto.(hg) (::)
- <sp>+</sp> Ut.(e) (::)
+(c3) Post(ehg|ob//to) pec(h|vi)cá(i_h!iwjij|cl-hhqlhi!pohi)tum(ji__|cl-hi) <sp>*</sp>(,) e(i|tahh)jé(ij|pehh)cit(i|tahh) De(jkj|//tohjlsl2)us(hoi|pqhh) hó(i|vihh)mi(i_g!hwi|`cl-hhqlhi)nem(ijH_G_hv_G_FEf_e_|toS2hjsut1vi-hjsut1su2cl-hj) (,) de(f|vi) pa(ed|cllsc3)ra(e|vi)dí(ef|pe)so(e|ta) vo(e|ta)lup(e_f!gwh_G_F/gwh_GF|ql-hkppt2sut2qi-hksu2)tá(ef!gv_FEf|//ci-hhpp2vihh)tis,(fe..|cl-) (:) 
+
+<sp>+</sp> Ut(ed~|vi>lsi6) in(e|vi) la(f!gwh|```vi-qlhk)bó(h_g_|cl-)ri(ihhv_GF|clSci-)bus(h_i!jwk_j_/kv_JIj_i_|`qlhk!cl-hkppt2`ci-hmcl-hm) (,) o(i|ta)pe(i|ta)ra(i|ta)ré(ihhv_GFghO|///clSci-vs)tur(g!hwi_H_G_F/gwh_GF|ql!vsppt1sut2qi-hgsu2) ter(ef!gv_FEf|//ci-hhpp2vi)ram,(fe..|cl-) (;) al(d_f!gwh_/i>|```ql-ppt2vi>hj)le(hv_GFgv_//egf/ge|ci-/vi-/tohiclhi)lú(efe___|//toS)ia.(e.|ta) (::) 
+
+<sp>V/</sp> Et(i|ta) in(i|ta) su(i|ta)dó(i!jwk_JI|ql-hkppt1su2)re(h_i/hhog|peS``pr) vul(hi~|ta>)tus(h|ta) tu(h|ta)i,(ig|cllsc3) di(hi|pe)xit(hi|pe) De(i!jwk_j_|qlhi!cl-hippt1)us,(ji..|cl-hi) (;) ve(ijij_IH|///tr-1su2)scé(ih|cllsc3)ris(h!iwji/jkj|ql!clppt1tohm) pa(i_h!iwjij|cl-qlhg!pohg)ne.(iv_HGhg..|//ci-cl-) (::) 
+
+<sp>+</sp> Ut(ed~|vi>lsi6) in.(e|vi) (::) 
+
+<sp>V/</sp> Gló(i!jwk_JI|ql-hjppt1su2)ri(hg|cllsc3)a(h_i/hhog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj__|qlhj!cl-hjppt1)o,(ji..|cl-hh) (;) et(i|ta) Spi(i|ta)rí(ijij_IH|////tr-1hhsu2)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) Sanc(i_h!iwjij|////cl-`qi!po)to.(iv_HGhg..|//ci-hhcl-hh) (::) 
+
+<sp>+</sp> Ut(ed~|vi>lsi6) in.(e|vicb) (::) 
 
