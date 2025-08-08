@@ -1,10 +1,13 @@
-mode:6;
+name:Jesus erat incipiens V Faber autem;
+office-part:re;
+mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(cb4) Je(ffo1!gv)sus(ghg) e(f!gwhgh!iv)rat(h) in(hjHGhwiHG)cí(f)pi(FGhvGFg)ens(gf) (;)
-qua(f)si(h) an(g)nó(h)rum(f) tri(g)gín(f)ta,(fvvgvDCded) (:)
-<sp>+</sp> Qui(f) pu(gh)ta(h)bá(hg)tur(ghGF) fí(ffO1e)li(g)us(GHjvHGhwiHG) Jo(FGhvGFg)seph,(gf) (;)
-al(fg~)le(giHG)lú(hggO1f/g)ja.(gf) (::)
-<sp>V/</sp> Fa(f)ber(f) au(f!go1!h>)tem(ihivHGhg) e(h)rat(h) Jo(hi)seph,(h) spon(hi~)sus(h) Vír(h)gi(jh)nis(i) Ma(gh)rí(f!gwhg)æ,(gf) (;)
-de(f) qua(f) na(ghf)tus(fe) est(f!go1!hv) Chri(ig!hwiHG)stus.(ghGFgf) (::)
-<sp>+</sp> Qui.(f) (::)
+(c4) Je(e|/obta)sus(eg_/fsfs_ded|pe-ds-hitohi) <sp>*</sp>(,) e(fd|cllsc3)rat(e_f|peS) in(g|vi)cí(ixhgh_/iv|////po-1/vihj)pi(h|ta)ens(h|ta) (,) qua(ixhi|////pe)si(h|ta) an(h|ta)nó(hggof|//cl!pi)rum(g|vi) tri(h|vihh)gín(g_h_G_FEf|toSsu2vi)ta,(fe..|cl-) (;) 
 
+<sp>+</sp> Qui(f|vi) pu(d|ta)ta(f|vi)bá(f_g_F_E_f!gwhgh|pe-1sut2qlhg!pohgppt1)tur(hg__|cl-) (,) fí(ixdf/h_i_H_G_gv_F_D_|////pe-1hipp2sut2vi-hisut2|fv_DCd|ci-vi)li(d|ta)us(df!hv_hv_GFg|bv-pp2su2vi) Jo(egffs|//tosthh)seph,(fe..|cl-) (;) al(ed~|vi>lsi6)le(ewf|``ql)lú(ec~|vi>lsi6)ia,(d_e_d_|toS) (,) al(fh~|ta>)le(hv_G_F_E_C_|vi-sut4|d_0/fvED|ciSppu1lsc3|f_2h/g_h_/ffoe|peSpe-1`pr)lú(egffs|//tosthh)ia.(fe..|cl-) (::) 
+
+<sp>V/</sp> Fa(h|vi)ber(g_f!gwh_g_/hv_GEf_e_|cl-qihg!cl-hgci-hjcl-hj) au(gh~|ta>)tem(g|ta) e(g|ta)rat(g|ta) Jo(gh|pe)seph,(g|ta) (,) spon(gh~|ta>)sus(g|ta) Vír(g|ta)gi(gf|cllsc3)nis(gh|pe) Ma(gf|cllsc3)rí(e!fwg_f_|ql!cl-ppt1)æ,(fe..|cl-) (;) de(f|vi) qua(de|pe) na(e!fwg_FE|ql-ppt1su2)tus(g|vi) est(gh_g_h_GF|//to-ci-hh) Chris(ef/gffs|sfsthk)tus.(ed..|cl-) (::)
+
+<sp>+</sp> Qui.(f|vicb)  (::)
