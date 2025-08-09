@@ -1,7 +1,7 @@
 name:Psallite Deo nostro;
 office-part:an;
-mode:1f;
+mode:1g;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Psál(dd>)li(c)te(d) De(f)o(e) no(d_)stro,(d_) <sp>*</sp> psál(e>)li(d)te:(c.) (;) psál(f)li(gh)te(h) Re(g>)gi(e) no(f_)stro,(g_) psál(f)li(e)te(c) sa(d)pi(fe)én(d.)ter.(d.) (::)
-<eu>E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu>(::)
+(c4) Psál(ddo~|vs>)li(c|ta)te(d|vi) De(f|vi-)o(e|vi) nos(d_|ta)tro,(d_|ta) <sp>*</sp>() psál(e>|vi>)li(d|vi)te:(c.|ta-lsx9) (;) psál(f|vi)li(gh|pe)te(h|vi-) Re(g>|vi>)gi(e|ta) nos(f_|ta-)tro,(g_|vi-) psál(f|vi)li(e|vi)te(c|ta) sa(d|vi)pi(fe|cllsc3)én(d.|ta)ter.(d.|ta) (::) <eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
