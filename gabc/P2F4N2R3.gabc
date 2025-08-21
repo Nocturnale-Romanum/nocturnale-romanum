@@ -1,15 +1,17 @@
+name:Si consistant adversum me V In te cantatio V Gloria;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Si(c) con(d>)sí(ixedh!iv)stant<sp>*</sp>(h) (,) 
-ad(h)vér(h>)sum(gh~) me(gfg) ca(ixivHGhi)stra,(h) (;)
-non(f>) ti(gh)mé(hV!ghfg)bit(df/ddO1c) cor(f!go1!h>) me(fvEDewfef)um:(ed) (:)
-<sp>+</sp> Si(dc) ex(f)súr(gh~)gat(h) ad(h)vér(hg)sum(ge) me(g) prœ́(ghFED)li(d)um,(dfddO1c) (;)
-in(cd~) hoc(fd/ffO1gv) e(gvf!go1!hv)go(feEs) spe(d)rá(d!ewfef)bo,(ed) (,)
-al(fg~)le(ed/fh/ghgEFgvhfgvFE)lú(d!ewfef)ja.(ed) (::)
-<sp>V/</sp> In(h) te(hg/hggO1f) can(g)tá(gh)ti(g)o(hf) me(gh)a(gh) sem(ixh/iiO1h)per,(h) (;)
-quó(gf)ni(gh)am(h) tu(h) ad(hg/hg)jú(gf)tor(ixf!gwhg/hih) for(hvGFEfwg!hv)tis.(gf) (::)
-<sp>+</sp> Si.(dc) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iiO1!h)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf) (::)
-<sp>+</sp> Si.(dc) (::)
+(c4) Si(c|/obta) con(d|vi)sís(ixedh_/iv|/////po-1lss2vihl)tant(h|ta) <sp>*</sp>(,) ad(h|ta)vér(h>|vi>)sum(gh~|ta>) me(gfg|po) cas(ixiv_HGh_i|////ci-peS)tra,(h.|vi-) (;) non(f<|ta>) ti(gh|pe)mé(hg/hfg|///cl!po)bit(dfdd_c_|toS2cl-) cor(fgOh>|sa>) me(fv_E_Dewfef|vi-sut2qlhg!pohg)um:(ed..|cl-) (:) 
 
+<sp>+</sp> Si(dc|```cllsc3lse4) ex(f|vi)súr(gh~|ta>)gat(h|vi) ad(h|vi)vér(hg__|cl-)sum(ge__|cl-) me(g|vi) prœ́(gh|pe)li(fvED|ci)um,(dfddc..|toS2cl-hg) (;) in(c_d|peS) hoc(f_d_/ffOg|cl-saM) e(gv_/fgOh|vi-sa)go(f_e_|cl-) spe(d|ta)rá(d!ewfef|ql!poppt1)bo,(ed..|cl-) (;) al(fg~|ta>)le(e_d_/f_h_//ghg_/ef!gv_/hfgv_F_E_|cl-pe-1/toS2hj/vi-hjpp2clhnvi-hnsut2)lú(d!ewfef|ql!poppt1)ia.(ed..|cl-) (::) 
+
+<sp>V/</sp> In(h|vi) te(hg/hggof|clclhg!pihg) can(g|vi)tá(gh|pe)ti(g|ta)o(hf|cllsc3) me(gh|pe)a(gh|pe) sem(ixh_0/iioh|////prppu1)per,(h.|ta) (;) quó(hf|cllsc3)ni(gh|pe)am(h|ta) tu(h|ta) ad(hg/hg|pflsc2)jú(hf|cllsc3)tor(ixf!gwhg/hih|////ql!clppt1tohm) for(hv_GF_E/fwg_/hv|vi-su1sut2qi-vihk)tis.(gf..|cl-) (::) 
+
+<sp>+</sp> Si(dc|cllsc3) ex(f|vi)súr(gh~|ta>)gat.(h|vi) (::) 
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clclhgpihg) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh_0/iio!h|////prppu1)o,(h.|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohm) Sanc(hv_GF_E/fwg_/h|/vi-su1sut2qi-vihk)to.(gf..|cl-) (::) 
+
+<sp>+</sp> Si(dc|cllsc3) ex(f|vi)súr(gh~|ta>)gat.(h|vicb) (::)
