@@ -1,11 +1,13 @@
+name:Clamavit populus ad regem V Salus nostra in manu;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Cla(cd)má(ixdh!iv)vit<sp>*</sp>(h) pó(h)pu(gf)lus(f) ad(ghj~) re(jvIHi)gem,(ih) (;)
-a(f)li(gh)mén(hV!ghfg>)ta(dfddO1c) pe(d!ewfef)tens;(ed) (:)
-<sp>+</sp> Quí(f)bus(gh) il(hg~)le(ge) re(g)spón(ghFED)dit:(dfddO1c) (;)
-I(fg)te(gffd/fgfgvFE) ad(d) Jo(d!ewfef)seph,(ed) (;)
-al(fg~)le(ed/fh/ghgEFgvhfgvFE)lú(d!ewfef)ja.(ed) (::)
-<sp>V/</sp> Sa(h)lus(hg/hggO1f) no(gh)stra(g) in(hf) ma(gh)nu(gh) tu(h)a(ixh/iiO1h) est:(h) (;)
-rés(gf)pi(gh)ce(h) nos(h) tan(h)tum,(h) et(h) læ(ixhi)ti(h) ser(h)vi(hg/hg)é(gf)mus(ixf!gwhg/hih) re(hvGFEfwg!hv)gi.(gf) (::)
-<sp>+</sp> Quí(f)bus.(gh) (::)
+(c4) Cla(cd|/obpe)má(ixdh_/iv|////scG-1)vit(h|vi) <sp>*</sp>() pó(h|vi)pu(gf|cllsc3)lus(f|ta) ad(g/hj~|ta/ta>hg) re(ixj_h/hwihi|/////cl-qlhg!pohg)gem,(ih..|cl-) (;) a(f|ta)li(gh|pe)mén(hg/hfg>|cllsc3po>)ta(fv_ED|ci-) pe(d!ewfef|ql!poppt1)tens;(ed..|cl-) (:) 
 
+<sp>+</sp> Quí(f|vi)bus(gh|pe) il(h_g~|vi->lsi6)le(g_e_|cl-) re(g|vi)spón(ghFED|pesu3)dit:(dfddoc.|toS2cl-hg) (;) I(f_g|peS)te(g_f_f_d_/fgf_gv_F_E_|cl-cl-hgtoS2hgvi-hhsut2) ad(dc~|vi>lsi6) Jo(d!ewfef|ql!poppt1)seph,(ed..|cl-) (;) al(fg~|ta>)le(e_d_2/f_h_//ghg_/ef!gv_hfgv_F_E_|cl-pe-1to-1hh/vi-hjpp2clhnvi-hnsut2)lú(d!ewfef|ql!poppt1)ia.(ed..|cl-) (::) 
+
+<sp>V/</sp> Sa(h|vi)lus(hg/hggof|clclpi) nos(gh|pe)tra(g|ta) in(hf|cllsc3) ma(gh|pe)nu(gh|pe) tu(h|ta)a(ixh_0/iioh|////prppu1) est:(h.|ta) (;) ré(hf|cllsc3)spi(gh|pe)ce(h|ta) nos(h|ta) tan(h|ta)tum,(h|ta) et(h|ta) læ(ixhi|////pe)ti(h|ta) ser(h|ta)vi(hg/hg|pflsc2)é(hf|cllsc3)mus(ixf!gwhg/hih|/////ql!clppt1tohm) re(hv_GF_Efwg_/hv|vi-su1sut2qi-vihl)gi.(gf..|cl-) (::) 
+
+<sp>+</sp> Quí(f|vi)bus.(gh|pe)  (::)
