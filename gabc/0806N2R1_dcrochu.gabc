@@ -1,0 +1,21 @@
+name:Inebriati sunt ab ubertate V Quoniam apud te est fons;
+office-part:re;
+mode:4;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Inebriati sunt ab ubertate;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) In(f|obvi)e(de|pe)bri(e|ta)á(fe|cl-)ti(e|ta) sunt(egFEfvEDed|toS2sut1ci-cl-) (,) <sp>*</sp> ab(fd|cllsc3) u(ef|peS)ber(g|vi)tá(ixhgh/iv|/////po-1vihk)te(h|ta) (,) do(hggof|//cl!pilsc2)mus(ixfg!hv/ig/hg|/////vi-hipp2pfShm) tu(egfFs|//tosthh)æ:(eeof|sa) (:)
+
+<sp>+</sp> Et(d|talsi3) tor(g|vi)rén(ixhi|////pe)te(h|ta) vo(h|ta)lup(hg|cllsc3)tá(ixh/igh|/////poppu1)tis(hggof|cl!pi) tu(ghGFEf|toSsu2vi)æ(fe|cl-) (;) po(fvED|ci-)tás(fg|peS)ti(ixgv/fg!hv/ig/hg|////vi-vi-pp2pfShk) e(egfFs|//tosthh)os.(fe|cl-) (::)
+
+<sp>V/</sp> Quón(h|vi)i(gh|pe)am(gf!gwhghvGEfe|cl-`qlhg!cl-hgci-hhcl-hh) a(gh|pe)pud(g|ta) te(gf|cllsc3) est(gh|pe) fons(gf|cllsc3) vi(e!fwgf|ql!cl-ppt1)tæ,(fe|cl-) (;) et(f|vi) in(de~|ta>) lú(e|ta)mi(e|ta)ne(e|ta) tu(e!fo1|vs)o(e|ta) vi(e|ta)dé(e!fwgFE|ql-ppt1su2)bi(g|vi)mus(ghghGF|//to-ci-hg) lu(e!fgffs|//sfsthk)men.(ed|cl-) (::)
+
+sp>+</sp> Et(d|talsi3) tor(g|vi)rén(ixhi|////pe)te.(h|tacb) (::)
