@@ -1,0 +1,16 @@
+name:Confessionem et decorem induit;
+office-part:an;
+mode:3a2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Confessionem et decorem induit;
+mode: 3;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iii a2;
+nabc-lines: 1;
+%%
+(c4) Con(ed|obcllsc3)fes(g|vi)si(hi|pe)ó(i|vi-)nem <sp>*</sp>(i|vi-) et(ij|peS) de(k|vihilsl2)có(ji|clhhlsc3)rem(hg|clhhlsc3) ín(h!iwji|ql!cl-ppt1)du(hg|cllsc3)it,(g|ta) (;) a(gh|peS)míc(j|vihi)tus(i|hi) lú(g|ta)mi(hig|//to)ne(hg|cl-) sic(e|ta)ut(f|vi) ves(g|vi)ti(gf|cllsc3)mén(e|ta)to.(e|tacb) (::)
+<eu> E(i) U(i) O(j) U(hi) A(h) E.(gh) </eu> (::)
