@@ -1,0 +1,16 @@
+name:Deus vitam meam annuntiavi tibi;
+office-part:an;
+mode:7c;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Deus vitam meam annuntiavi tibi;
+mode:7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation:vii c;
+nabc-lines:1;
+%%
+(c3) De(i|obvi)us,(g|ta) vi(i|vi)tam(j|vihi) me(i|ta-)am(i|ta-) (,) an(i|ta)nun(i|vi)ti(g|ta)á(h|vihh)vi(g|vi) ti(e|ta-)bi:(e|ta-) (;) po(g|vi)su(g|vi)ís(g|vi)ti(g|vihh) lá(h|vi)cri(g|ta)mas(f|vi) me(h|vihi)as(g|vi-) (,) in(f|vi) con(e|ta)spéc(fh|peS)tu(g|vi) tu(e|ta)o.(e|tacb) (::)
+E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
