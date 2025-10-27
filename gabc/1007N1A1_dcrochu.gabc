@@ -1,0 +1,16 @@
+name:Angelus Gabriel nuntiavit Mariae;
+office-part:an;
+mode:1f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Angelus Gabriel nuntiavit Mariae;
+mode:1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation:i f;
+nabc-lines:1;
+%%
+(c4) An(dc|obcl-)ge(e|vi)lus(f|vi) Gá(gf|cl-)bri(d|ta)el(dc|cl-) <sp>*</sp>(,) nun(f|vi)ti(g|vi)á(h|vihi)vit(g|vi) Ma(f|ta)rí(g|vi)æ,(f|ta) (;) et(fg|``peSlse4) con(ef|peS)cé(d!ewf|qlppt1)pit(fc|cl-) (,) de(ef|peS) Spí(gh|pe)ri(f|ta)tu(fe|cllsc3) Sanc(d|ta)to.(d|tacb) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu>(::)
