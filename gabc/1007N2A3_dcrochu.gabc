@@ -1,0 +1,16 @@
+name:Coepit constristari et factus;
+office-part:an;
+mode:1g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Coepit constristari;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i f;
+nabc-lines: 1;
+%%
+(c4) Cœ(d|obta)pit(dc|cl) con(f>|vi>)tris(g|vihg)tá(fh|peS)ri,(h|vi-) <sp>*</sp> et(h|vi) fac(g|ta)tus(h|vihh) est(g|vi) su(f|ta)dor(g|vi) e(f|ta)jus(fe|cl) in(d!ewf|qlppt1) hor(fge|//to)to(c|ta-) (;) si(e|vi)cut(g|vihh) gut(e|ta)tæ(fe|cl) sán(d|ta)gui(cd|pe)nis.(d|tacb) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu>(::)
