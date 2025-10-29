@@ -1,0 +1,16 @@
+name:Apprehendit Pilatus Jesum;
+office-part:an;
+mode:1f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Apprehendit Pilatus Jesum;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i f;
+nabc-lines: 1;
+%%
+(c4) Ap(d|obta)pre(ef|peS)hén(g>|vi>)dit(e|ta) <sp>*</sp> Pi(g|vi)lá(gh|pe)tus(g|vi) Je(fvED|ci-)sum,(dfddoc|toS2cl-hg) (;) et(ef|peS) fla(g|vi)gel(fe|cllsc3)lá(d|ta)vit.(d|tacb) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu>(::)
