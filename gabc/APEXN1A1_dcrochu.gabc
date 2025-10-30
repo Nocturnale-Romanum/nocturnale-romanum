@@ -1,0 +1,17 @@
+name:In omnem terram exivit sonus;
+office-part:an;
+mode:2d;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: In omnem terram exivit sonus;
+mode: 2;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: ii d;
+nabc-lines: 1;
+%%
+(f3) In(f|ta) om(h|vi)nem(h>|vi>) ter(hi|peS)ram(i|vi) <sp>*</sp>(,) ex(h|vilsi2lsp2)í(f|gr)vit(h|vi) so(g|talsc3)nus(h|vi) e(i|vilsl2)ó(f|vilsc3)rum,(e|ta-) (;) et(h|vi) in(h|vi) fi(h|vi)nes(g|ta) or(h|vi)bis(i|vi) ter(i|vi)ræ(h|vi) ver(fh|peS)ba(gh|peS) e(i|vihh)ó(f|ta)rum.(f|ta) (::)
+<eu> E(h) U(h) O(h) U(g) A(e) E.(f) </eu> (::)
+
