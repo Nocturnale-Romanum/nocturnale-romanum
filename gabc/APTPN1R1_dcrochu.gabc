@@ -1,0 +1,19 @@
+name:Beatus vir qui metuit Dominum V Gloria et divitiae;
+office-part:re;
+mode:8;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Beatus vir qui metuit Dominum;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines: 1;
+%%
+(c4) Be(d|ta)á(fg|peS)tus(hghFD|posu2lsc2) vir(fg@hvGF|cipp2lsc2|gh|pe|hg|cl-) <sp>*</sp>(,) qui(f|ta) mé(h|vi)tu(ji|cl)it(g|ta) Dó(gh|peS)mi(fe|cl)num,(d|ta) (,) al(g|vi)le(g|vi-|hfg|po)lú(g!hwihi>|ql!po>ppt1)ia:(hg|cl-) (:)
+<sp>+</sp> In(jkj|tohhlss1) man(jh~|cl~hh)dá(jkj|tohh)tis(jk|pehh) e(ki|clhh|jkh|toS2hh|i>|cl~hh)jus(hhog|pr) (`) cu(ixfg!hih|/////topp2)pit(hg~|cl~) ni(i|vi)mis,(j|vihh) (;) al(ji|cl-hi|jvIHG|vi-hisut1su2)le(gh|pe)lú(hg|cl-|hgf~|cl->){ia},(gf|cl-) (,) al(hf~|cl~)le(g|vi)lú(h!iwj|viqlhj){ia},(jvIH|ci-hi) (`) al(h>|cl~)le(gfg|po)lú(g!hwihi>|ql!po>ppt1){ia}.(hg|cl-) (::)
+
+<sp>V/</sp> Gló(j|obvi)ri(ji|cl)a(jkj/iji/hhog|tohitohjprhj) et(hi|pe) di(ih|cl)ví(ij|pehh)ti(i|ta)æ(i|ta) in(ih|cl) do(ij|pe)mo(hi|pe) e(g!hwih|ql!cl-ppt1)jus,(hg|cl-) (;) et(g|vi) ju(fg|pe)stí(g|vi)ti(g|vi)a(g|vi) e(gh~|pe~)jus(g|ta) ma(gh|pe)net(g|ta) in(g|ta) sǽ(g|ta)cu(ixhiHG/hih|/////pe-hisu2tohj)lum(ghf|to) sǽ(gh|peS)cu(iyh!iwji/jkJIH|/////qihh!clhhppt1toS2hmsu2)li.(hiHGhg|pe-1hisu2cl-hicb) (::)
+<sp>+</sp> In(jkj|tohhlss1) man(jh~|cl~hh)dá(jkj|tohh)tis.(jk|pehh) (::)
