@@ -2,14 +2,14 @@ name:Lux orta est justo (cum alleluia);
 office-part:an;
 mode:6f;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
-name: Lux orta est justo;
+name: Exaltabuntur cornua justi;
 mode: 6;
 office-part: Antiphona;
 annotation: Ant.;
-annotation: vi;
+annotation: vi f;
 nabc-lines: 1;
 %%
-(c4) Lux(f) or(f)ta(f) est(e) jus(g)to,(h) <sp>*</sp>(,) al(f)le(f)lú(d>){ia}:(c) (;) rec(f)tis(f) cor(f)de(f) læ(e)tí(g)ti(g)a,(h) (,) al(h)le(hg)lú(g>){ia}.(f) (::) ~<i><c> Post Sept.</c></i>() Lux(f) or(f)ta(f) est(e) jus(g)to,(h) (;) rec(ef)tis(dc) cor(g)de(gh) læ(g)tí(f)ti(f)a.(f) (::)
-<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu> (::)
+(c4) Lux(f|ta) or(f|ta)ta(f|tta) est(e|ta) jus(g|vi)to,(h|vihh) <sp>*</sp>(,) al(f|vihc)le(f|vi)lú(d>|vi>){ia}:(c|ta) (;) rec(f|vi)tis(f|vi) cor(f|vi)de(f|vi) læ(e|ta)tí(g|vi)ti(g|vi)a,(h|vi) (,) al(h|vi)le(hg|cl)lú(g>|vi>){ia}.(f|ta) (::Z) <i><c> Post Sept.</c></i>() Lux(f|obta) or(f|ta)ta(f|ta) est(e|ta) jus(g|vi)to,(h|vi) (;) rec(ef|peS)tis(dc|cl) cor(g|vi)de(gh|pe) læ(g|ci)tí(f|ta)ti(f|ta)a.(f|tacb) (::)<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu> (::)
