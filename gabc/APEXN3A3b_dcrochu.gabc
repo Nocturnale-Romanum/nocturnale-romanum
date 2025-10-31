@@ -1,0 +1,17 @@
+name:Custodiebant testimonia ejus (sine Alleluia);
+office-part:an;
+mode:4a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Custodiebant testimonia ejus;
+mode: 4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iv a;
+nabc-lines: 1;
+%%
+(c3) Cus(f|vi)to(e|ta)di(f|vi)é(hi|peS)bant(iio|vs-) <sp>*</sp>(,) tes(h|ta)ti(i|vi)mó(j|vi)ni(i|vi)a(h|ta) e(i|vi)jus,(i|vi-) (;) et(f|ta) præ(i|vi)cép(h|vi)ta(g|vi) e(fe~|vi>)jus,(fe|cl-) (,) quæ(de|peS) de(f|vi)dit(h|vi) il(f|ta)lis.(f|ta) (::)
+<eu>E(i) U(h) O(i) U(j) A(h) E.(f) </eu>(::)
+
