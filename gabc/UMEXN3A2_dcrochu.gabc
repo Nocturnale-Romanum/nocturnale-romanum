@@ -1,0 +1,16 @@
+name:Habitabit in tabernaculo tuo;
+office-part:an;
+mode:4e;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Habitabit in tabernaculo tuo;
+mode: 4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iv e;
+nabc-lines: 1;
+%%
+(c4) Ha(fe__|cl-)bi(d|ta)tá(f|vihg)bit(e|vi) <sp>*</sp> in(d|ta) ta(e|vihd)ber(f|vi)ná(g|vi-hh)cu(f|vi)lo(e|ta) tu(f_g|peS)o:(g.|vi-) (;)re(g|vi)qui(f|ta)é(fe__|cl-)scet(d|talse9) in(d|ta) mon(f|vifd)te(f|vi) sanc(f_d~|vi->hg)to(f|vi) tu(g|vi)o.(e.|ta) (::)
+<eu> E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
