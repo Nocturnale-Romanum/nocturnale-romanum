@@ -1,0 +1,16 @@
+name:Si coram hominibus;
+office-part:an;
+mode:7c;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Si coram hominibus;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c;
+nabc-lines: 1;
+%%
+(c3) Si(i|vi) co(ig|vl)ram(i|vi) ho(j|vihi)mí(i|vihg)ni(hi|pe)bus(i|vi-lsx6) <sp>*</sp>(;) tor(i|vilsc3)mén(i|vi)ta(g|ta) pas(hi|pe)si(f|vi) sunt,(e|ta) (;) spes(g|vi-) e(g|vihg)lec(h|vihh)tó(fh|peS)rum(g|vi) (`) est(f|vi) im(e|ta)mor(f|vi)tá(f|vi-)lis(f|vi) in(h|vihg) æ(g|vihe)tér(e|ta)num.(e|ta) (::)
+<eu> E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
