@@ -1,0 +1,22 @@
+name:Iste homo perfecit omnia V Iste est qui contempsit V Gloria;
+office-part:re;
+mode:8;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Iste homo perfecit omnia;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Is(d|ta)te(d|ta) ho(f/gh|vi-hdvi-hgvihj)mo(g|talse6) <sp>*</sp>(`) per(gh~|ta>)fé(h|vi)cit(hg|cllsc3) óm(ixhi>|/////pe>1)ni(ghGFg|pe-1su2vi)a(gf|cl-) (,) quæ(g|vi) lo(h|vihg)cú(hwj|qlhh)tus(h|vihg) est(g|ta) e(hg|cl)i(fg|pe) De(g|vihg)us,(gffvDC|cl-vi-sut2|dgFEfvED|toS2hhsut1ci-hh) (;) et(dg~|```ta>lse4) di(ghGFgh|pe-1su2peS)xit(g|ta) ad(gh!iwjIH/iwjIH|``ql-hhppt2sut2qi-hisu2) e(gh!ivHGh|//ci-pp2vihh)um:(hg|cl-) (:) In(fg|pehg)gré(gj/jk|pe-hipehk)de(j|vihh)re(j|vihh) in(j|vihh) ré(k|vihj)qui(j|vihh)em(ih>|cl>) me(g/hjhiv|ta-toS2hhvi-hi)am,(hg|cl-) (;)
+<sp>+</sp> Qui(g|vi)a(f|ta) te(ghg|//to) vi(h|vi)di(g|ta) jus(g|vi)tum(eg|peS) co(f@goh|sa)ram(fe|cl) me(dec/d!ewfefvED|toS2ql!clppt1ci-hg) (;) ex(g|vi) óm(ghGFgh>|pe-1su2pe>1)ni(g|ta)bus(gh!iwjIH/iwjIH|`ql-hhppt2sut2qi-hjsu2) gén(g|ta)ti(gh!ivHGh|//ci-pp2vihh)bus.(hg|cl-) (::) 
+
+<sp>V/</sp> Is(ji|clhi)te est,(jkj/iji/hhog|toS2hjtoS2hkprhj) qui(hi|pe) con(i|vi)témp(i|vi)sit(ih~|vi>) vi(ij|pehi)tam(hi|pehg) mun(g!hwih|ql!clppt1)di,(hg|cl-) (;) et(g|vi) per(fg~|pe~)vé(gh|pe)nit(g|ta) ad(g|ta) cæ(g|ta)lés(ixhiHGhih|pe-hhsu2tohj)ti(ghf|to)a(gh|peS) reg(h!iwji/jkJIH|ql!clppt1/toS2hmsu2)na.(hiHGhg|pe-1hisu2cl-hi) (::)
+<sp>+</sp> Qui(g|vi)a.(f|ta) (::)
+
+<sp>V/</sp> Gló(j|obvihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(gh|peS) Sanc(iyh!iwji/jkJIH|/////qlhi!clhippt1to-1hmsu2)to.(hiHGhg|pe-1hgsu2/cl-hhcb) (::)
+<sp>+</sp> Qui(g|vi)a.(f|ta) (::)
