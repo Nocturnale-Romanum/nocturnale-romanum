@@ -1,0 +1,16 @@
+name:Exaltata est sancta;
+office-part:an;
+mode:4a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Exaltata es sancta;
+mode: 4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iv a;
+nabc-lines:1;
+%%
+(c3) E(e|ta)xal(f|vi)tá(h|vi)ta(hi|pe) est(iio|vs) <sp>*</sp>(,) san(h|ta)cta(i|vi) De(j|vihi)i(ih|clhilsc3) Gé(i|vi)ni(i|vi)trix(i|vi-) (;) su(f|ta)per(i|vi>) cho(h|vihg)ros(g|vilssta3) An(f|talsi9)ge(f|ta)ló(fe|cl-)rum(fe|cl-) (,) ad(d|ta) cæ(e|vi)lés(gxfg|////peG)ti(h|vi)a(g|vi) re(f|ta)gna.(f|ta) (::)
+<eu>E(i) U(h) O(i) U(j) A(h) E.(f) </eu>(::)
