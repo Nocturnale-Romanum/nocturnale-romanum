@@ -2,6 +2,7 @@ name:O quam pulchra est casta;
 office-part:an;
 mode:7c;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: O quam pulchra est casta;
@@ -11,5 +12,5 @@ annotation: Ant.;
 annotation: vii c;
 nabc-lines:1;
 %%
-(c3) O(ig) quam(ij) pul(i)chra(hi) est(i) <sp>*</sp>(,) ca(i)sta(g) ge(h)ne(g)rá(e)ti(fg)o(g) (,) <sp>+</sp> cum(gh) cla(fh)ri(g)tá(e)te.(e) (::) <i><c>T.P.</c></i> <sp>+</sp> cum(g) cla(h)ri(f)tá(h)te,(gf) al(g>)le(fg)lú(e){ia}.(e) (::)
+(c3) O(ig|cl-) quam(ij|peS) pul(i|vi)chra(hi|pe) est(i|vi-) <sp>*</sp>(,) cas(i|vihh)ta(g|ta) ge(h|vihg)ne(g|vi)rá(e|ta)ti(fg|pe)o(g|vi-) (,) <sp>+</sp> cum(gh|peS) cla(fh|peS)ri(g|vi)tá(e|ta)te.(e|ta) (::) <i><c>T.P.</c></i> <sp>+</sp> cum(gh|obpeS) cla(fh|peS)ri(g|vi)tá(e|ta)te,(ef|peS) al(g>|vi>)le(fg|pe)lú(e|ta){ia}.(e|ta) (::)
 <eu> E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
