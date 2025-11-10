@@ -1,0 +1,23 @@
+name:Beatam me dicent V Et misericordia ejus V Gloria;
+office-part:re;
+mode:8;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Beatam me dicent;
+mode:8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation:viii;
+nabc-lines:1;
+%%
+(c4) Be(d|talse3)á(f/gh|vi/pehi)tam(g|ta) <sp>*</sp>() me(g|ta) di(g|ta)cent(ixg@hoi>|////sa>2) om(h|ta)nes(ixhg/h!iwjg/hvggof|////cl-qlhh!cl-hhppt1vihiprhh) (`) ge(gh|pe)ne(g|ta)ra(gz|ta)ti(gh!iwjIH/iwjIH|qihhsut2ppt2ql-hisu2)ó(gh!ivHGh|//ci-hhpp2vihh)nes,(gh/ih|cl-ppt2) (:)
+<sp>+</sp> Qui(f|grlst2)a(h|vi) fe(jkj|tohi)cit(jh~|vi>hh) mi(jkj|tohi)hi(jk|pehi) Dó(kijok|clhilsc2pqhi)mi(h!iwjIHGhz|qlhi!vshippt1su2vihi)nus(hg|cl-) (;) ma(ixfg/hih|///topp2lsi7)gna(hg|cl) qui(iyi|///vilsl2)a(j|vihh) po(ji/jvIHG|cl-hjvihjsut1su2)tens(hg/hvG~F~|cl-lst2cl>) est,(gf|cl-) (:)
+<sp>‡</sp> Et(hf~|vi>lsl3) sanc(ghg|to)tum(h|vi) no(hjHGz|toS2hhsut1)men(hf/gh!iwjIH/iwjIH|cl-qlhippt2sut2ql-hjsut2) e(gh!ivHGh|//ci-hhpp2vihh)jus.(hg|cl-) (::)
+
+<sp>V/</sp> Et(j|vihh) mi(j|vihh)se(j|vihh)ri(j|vihh)cór(j|vihh)di(j|vihh)a(j|vihh) e(ji~|vi>hh)jus(jkj/iji/hhog|tohjtohjprhj) (,) a(hi|pe) pro(i|vi)gé(i|vi)ni(i|vi)e(ih|clhh) in(ij|pehi) pro(hi|pehg)gé(g|ta)ni(g!hwih|ql!clppt1)es(hg|cl) (;) ti(g|vi)mén(ixhiHGhih|/////pe-hhsu2tohj)ti(ghf|to)bus(gh|peS) e(iyh!iwji/jkJIH|////ql!clppt1toS2hmsu2)um.(hiHGhg|pe-1hhsu2cl-hh) (::)
+<sp>+</sp> Qui(f|grlst2)a(h|vi) fe(jkj|tohi)cit.(jh~|vi>hh) (::)
+
+<sp>V/</sp> Gló(j|obvihh)ri(ji|clhhlsc3)a(jkj|tohk|iji|tohk|hhog|prhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwih|ql!cl-ppt1)o,(hg|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhiHG/hih|////pe-hgsu2/tohi)tu(ghf|to)i(gh|peS) Sanc(iyh!iwji/jkJIH|/////qlhi!clhippt1to-1hmsu2)to.(hiHGhg|pe-1hgsu2/cl-hhcb) (::)
+<sp>‡</sp> Et(hf~|vi>lsl3) sanc(ghg|to)tum.(h|vi) (::)
