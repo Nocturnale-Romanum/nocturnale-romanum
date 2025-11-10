@@ -2,6 +2,15 @@ name:Non est hic aliud nisi domus Dei;
 office-part:an;
 mode:7c;
 submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Non(ig) est(i) hic(j) á(i)li(hi)ud,(i_) <sp>*</sp>(,) ni(i)si(g) do(h)mus(g) De(e!fwge)i,(e.) (;) et(g_h) por(f_h)ta(g) cæ(e.)li.(e.) (::) <i><c>T.P.</c></i> Al(f)le(fg)lú(e.){ia}.(e.) (::)
+initial-style: 1;
+name: Non est hic aliud nisi domus Dei;
+mode:7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c;
+nabc-lines:1;
+%%
+(c3) Non(ig|cl) est(i|vi) hic(j|vi) á(i|tta)li(hi|pe)ud,(i|vi-) <sp>*</sp>(,) ni(i|vi)si(g|ta) do(h|vi)mus(g|vihe) De(e!fwgf|qi!clppt1lsc3)i,(g|vi) (;) et(gh|peS) por(fh|peS)ta(g|vihg) <sp>+</sp> cæ(e|ta)li.(e|ta) (::) <i><c>T.P.</c></i> cæ(e|obta)li,(ef|peS) al(g|vi>hg)le(fg|pe)lú(e|ta){ia}.(e|tacb) (::)
 <eu>E(i) U(i) O(j) U(i) A(h) E.(gh) </eu>(::)
