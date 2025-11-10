@@ -1,0 +1,16 @@
+name:Templum Domini sanctum est;
+office-part:an;
+mode:2d;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Templum Domini sanctum est;
+mode:2;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: ii d;
+nabc-lines:1;
+%%
+(f3) Tem(h|vi)plum(h|vi) Dó(h|vi-)mi(g|vi)ni(e|talssta9) <sp>*</sp> sanc(f|vi)tum(hg|cllsl2lsc3) est,(f|talsx9) (;) De(hj|peS)i(ioj|pq) struc(gh|peS)tú(i|vi)ra(hg|cllsc3) est,(f|ta) (,) De(h|vihh)i(h|vihh) æ(h|vi)di(h|vi)fi(h|vi)cá(hg|cl-)ti(i|vi)o(hg|cllsc3) est.(f|ta) (::)
+<eu>E(h) U(h) O(h) U(g) A(ef) E.(f) </eu>(::)
