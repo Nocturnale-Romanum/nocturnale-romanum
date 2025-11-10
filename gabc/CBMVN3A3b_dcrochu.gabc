@@ -1,0 +1,16 @@
+name:Angelus Domini nuntiavit;
+office-part:an;
+mode:1f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Angelus Domini nuntiavit Mariae;
+mode:1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation:i f;
+nabc-lines:1;
+%%
+(c4) An(dc|cl-)ge(e|vi)lus(f|vi) Dó(gf|cl-)mi(d|ta)ni(dc|cl-) <sp>*</sp>(,) nun(f|vi)ti(g|vi)á(h|vihi)vit(g|vi) Ma(f|ta)rí(g|vi)æ,(f|ta) (;) et(fg|``peSlse4) con(ef|peS)cé(d!ewf|qlppt1)pit(fc|cl-) (,)de(ef|peS) <sp>+</sp> Spí(gh|obpe)ri(f|ta)tu(fe|cllsc3) Sanc(d|ta)to,(d|tacb) (::) <i><c>T.P.</c></i> <sp>+</sp>de(ef|peS) Spí(g|vihh)ri(f|vihg)tu(f|vi) Sanc(fe~|vi>he)to,(dc|clhd) al(d|vi)le(fe|cl)lú(d|ta)ia.(d|ta) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(gf) </eu>(::)
