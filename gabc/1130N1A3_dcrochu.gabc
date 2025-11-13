@@ -1,0 +1,16 @@
+name:Relictis retibus;
+office-part:an;
+mode:1g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Relictis retibus;
+mode:1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g;
+nabc-lines:1;
+%%
+(c4) Re(ddo|cl-)líc(e|vi)tis(f|vi) ré(gf|cl)ti(d|ta)bus(dc|cl-lsc3) <sp>*</sp>(,) se(f|vilsc3)cú(gh|pe-lstm3)ti(g|vi) sunt(f>|vi>) Dó(fg|pe)mi(f|ta)num(fe~|vi>) Red(g|vi)emp(fe~|vi>)tó(d|ta)rem.(d|ta) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
