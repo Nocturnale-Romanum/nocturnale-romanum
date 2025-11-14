@@ -2,9 +2,15 @@ name:Dignum sibi Dominus;
 office-part:an;
 mode:7c;
 submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Di(i)gnum(g) si(i)bi(j) Dó(i)mi(hi)nus(i_) <sp>*</sp>(,)
-com(i)pu(g)tá(h)vit(g) Már(e)ty(e)rem,(e.) (;)
-quem(g) vo(g)cá(g)vit(g) A(h)pó(f)sto(h)lum,(g_) (,) 
-dum(h) es(ij)set(i) in(h) ma(hg)ri,(f) al(g>)le(fg)lú(e.){ia}.(e.)  (::) 
+initial-style: 1;
+name: Dignum sibi Dominus;
+mode:7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c;
+nabc-lines:1;
+%%
+(c3) Di(i|vihh)gnum(g|ta) si(i|vi)bi(j|vi) Dó(i|vi)mi(hi|pehe)nus(i|vi-) <sp>*</sp>(,) com(i|vi)pu(g|ta)tá(h|vi)vit(g|vi) Már(e|ta)ty(e|ta)rem,(e|ta) (;) quem(g|vi) vo(g|vi)cá(g|vi)vit(g|vi) A(h|vihi)pós(f|ta)to(h|vi)lum,(g|vihd) (,) dum(h|vi) es(ij|pehh)set(i|vi) in(h|ta) ma(hg|cl)ri,(f|ta) al(g>|vi>)le(fg|pe)lú(e|ta){ia}.(e|ta) (::)
 <eu>E(i) U(i) O(j) U(i) A(h) E.(gh) </eu>(::)
