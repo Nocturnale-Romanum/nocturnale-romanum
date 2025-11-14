@@ -1,0 +1,16 @@
+name:Biduo vivens;
+office-part:an;
+mode:1g2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Biduo vivens;
+mode:1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g 2;
+nabc-lines:1;
+%%
+(c4) Bi(f|vi-lst3)du(fe|cl)o(c|ta) vi(ce|pe)vens(d|ta-) <sp>*</sp>(,) pen(f|vi)dé(h|vi)bat(g|vihe) in(f|vihe) cru(gh|pe)ce(h|vi-) (,) pro(fg|peS) Chris(h|vi)ti(gf|cl) nó(gh|peS)mi(fe|cl-)ne(d|ta-) (;) be(g|vi)á(gh|peS)tus(g|ta) An(f|ta)dré(fe|cl)as(c|ta) (,) et(d|vi) do(c|ta)cé(f|vi)bat(e|vi) pó(d|vi)pu(cd|pe)lum.(d|ta) (::)
+<eu>E(h) U(h) O(g) U(f) A(g) E.(ghg) </eu>(::)
