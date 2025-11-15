@@ -1,0 +1,22 @@
+name:Expandi manus meas V Deus ultionum V Gloria;
+office-part:re;
+mode:4;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Expandi manus meas;
+mode:4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iv;
+nabc-lines:1;
+%%
+(c4) Ex(e|vi)pán(fsfsfs|//tslsl2)di(fd|cl) ma(ef|peS)nus(g|vi) me(ixhgh/iv|/////po-1/vihj)as(h|vi) <sp>*</sp>(,) to(hhgh|vi-po-1hhlsc2)ta(ef|peS) di(ghGF/gwhgh|pesu2ql!po)e(hg|cl-) in(ixhggof!gwh/ig/hg|/////cl!pilsc2lst2qiclhiclhi) cru(egffs|//tosthh)ce(eeof|sa) (;) ad(dg|peS) pó(ixhgh/iv|/////povihh)pu(h|ta)lum(h|ta) non(hggof~|clor) cre(gh|pe)dén(ghgh~|tr~)tem,(e|ta) (,) sed(e|ta) con(ef~|pe~)tra(e|ta)di(e!fwgFE|qi-ppt1su2)cén(g|vi)tem(ghghGF|tr-1su2) mi(e!fgffs|clhdppt2sthh)hi:(ed|cl-) (:)
+<sp>+</sp> Qui(d|ta) ám(ixdf!gwh/i>|//qlppt2/vi>hj)bu(hg|cl)lant(ghg|toS) vi(e!fwgf!gwhgh|ql!cl-ppt1qlhh!pohh)as(hg|cl-) non(ef|peS) bo(ghGF/gwhgh|pesut2ql!po)nas,(hg|cl-) (;) sed(ixhi~|/////pe~) post(h|ta) pec(hg|cl)cá(hhog|pr)ta(ghGFghg|pesu2to) su(egffs|tosthh)a.(fe|cl-) (::)
+
+<sp>V/</sp> De(h|vi)us(gf!gwhghvGEfe|cl-ql!clci-cl-) ul(g|vi)ti(g|vi)ó(g|vi)num(g|vi) Dó(gh|pe)mi(g|ta)nus,(g|ta) (,) De(g|ta)us(g|ta) ul(g|ta)ti(g|ta)ó(gh|pe)num(g|ta) lí(gf|cl)be(gh|pe)re(gf|cllsx6) e(ef|peS)git:(eeod|pr) (;) ex(g|vi)al(gh>|pe>)tá(h|vi)re,(g|ta) qui(g|ta) jú(gf|cl)di(gh|pe)cas(gf|cl) ter(e!fwgf|ql!clppt1)ram,(fe|cl-) (;) red(f|vi)de(de|pe) re(e|ta)tri(e|ta)bu(e|ta)ti(e|ta)ó(e!fwgFE|ql-ppt1su2)nem(g|vi) su(ghghGF|tr-1su2)pér(e!fgffs|clhdppt2sthh)bis.(ed|cl) (::)
+<sp>+</sp> Qui.(d|ta) (::)
+
+<sp>V/</sp> Gló(h|obvi)ri(gh|pe)a(gf!gwhg/hvGEfe|cl-`ql!clci-hhcl-hh) Pa(gf|cl)tri,(gh|pe) et(gf~|vi>lsi6) Fí(e|ta)li(e!fwgf|ql!cl-ppt1)o,(fe|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwgFE|ql-ppt1su2)tu(g|vi)i(ghghGF|to/ci-hg) Sanc(e!fgffs|//pohhpp2)to.(ed|cl-cb) (::)
+<sp>+</sp> Qui.(d|ta) (::)
