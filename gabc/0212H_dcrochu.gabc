@@ -3,13 +3,21 @@ office-part:hy;
 mode:2;
 submitter:dcrochu;
 %%
+initial-style:1;
+name:Bella dum late furerent;
+mode:2;
+office-part:Hymnus;
+annotation: Hymn.;
+annotation:ii;
+nabc-lines:1;
+%%
 (f3) Bel(ffo)la(e) dum(f!gwh) la(hg)te(fg) fú(f)re(f)rent,(e) et(f) ur(h)bes(h) (;)
 Cæ(ih)de(i) fra(j)tér(ih)na(hi) gé(i)me(h)rent(f) cru(g)én(ffo)tæ,(e) (;)
 Ad(f!gwh/ivHG)fu(f)it(e) Vir(h)go,(h) (,) no(i)va(j) sem(i)per(h) e(ih)dens(fe) (,)
 Mú(h)nu(g)ra(h) ma(fe)tris.(f.) (::)
 
 <c>2.</c> En(ffo) vo(e)cat(f!gwh) sep(hg)tem(fg) fá(f)mu(f)los,(e) fi(f)dé(h)les(h) (;)
-Ut(ih) sib(i) in(j) luc(ih)tu(hi) ré(i)co(h)lant(f) do(g)ló(ffo)res,(e) (;)
+Ut(ih) si(i)b<e>i</e> in(j) luc(ih)tu(hi) ré(i)co(h)lant(f) do(g)ló(ffo)res,(e) (;)
 Quos(f!gwh/ivHG) tu(f)lit(e) Je(h)sus,(h) (,) tu(i)lit(j) ip(i)sa(h) con(ih)sors(fe) (,)
 Sub(h) cru(g)ce(h) Na(fe)ti.(f.) (::)
 
@@ -18,12 +26,12 @@ Splén(ih)di(i)dis(j) tec(ih)tis(hi) o(i)pi(h)bús(f)que(g) spre(ffo)tis,(e) (;)
 Ur(f!gwh/ivHG)be(f) se(e)cé(h)dunt(h) (,) pro(i)cul(j) in(i) Se(h)ná(ih)ri(fe) (,)
 Ab(h)di(g)ta(h)mon(fe)tis.(f.) (::)
 
-<c>4.</c> Cór(ffo)por(e) hic(f!gwh) pœ(hg)nis(fg) crú(f)ci(f)ant(e) a(f)cér(h)bis,(h) (;)
+<c>4.</c> Cór(ffo)po(e)r<e>a</e> hic(f!gwh) pœ(hg)nis(fg) crú(f)ci(f)ant(e) a(f)cér(h)bis,(h) (;)
 Són(ih)ti(i)um(j) la(ih)bes(hi) hó(i)mi(h)num(f) pi(g)án(ffo)tes;(e) (;)
-Hic(f!gwh/ivHG) prec(f) a(e)vér(h)tunt(h) (,) la(i)cri(j)mís(i)que(h) fus(ih)is(fe) (,)
-Nú(h)mi(g)nis(h) i(fe)ram.(f.) 
+Hic(f!gwh/ivHG) pre(f)c<e>e</e> a(e)vér(h)tunt(h) (,) la(i)cri(j)mís(i)que(h) fus(ih)is(fe) (,)
+Nú(h)mi(g)nis(h) i(fe)ram.(f.) (::)
 
-<c>5.</c>(::) Per(ffo)do(e)lens(f!gwh) Ma(hg)ter(fg) fo(f)vet,(f) atq(e) a(f)mí(h)ctum(h) (;)
+<c>5.</c> Per(ffo)do(e)lens(f!gwh) Ma(hg)ter(fg) fo(f)vet,(f) at(e)qu<e>e</e> a(f)mí(h)ctum(h) (;)
 Ip(ih)sa(i) lu(j)gú(ih)brem(hi) mo(i)net(h) in(f)du(g)én(ffo)dum:(e) (;)
 Ag(f!gwh/ivHG)mi(f)nis(e) sanc(h)ti(h) (,) pi(i)a(j) cœp(i)ta(h) sur(ih)gunt,(fe) (,)
 Mi(h)ra(g) pa(h)tés(fe)cunt.(f.) (::)
@@ -39,4 +47,3 @@ Spí(f!gwh/ivHG)ri(f)tus(e) sem(h)per,(h) (,) De(i)us(j) u(i)nus(h) om(ih)ni(fe)
 Tém(h)po(g)ris(h) æ(fe)vo.(f.) (::)
 
 A(fgf)men.(ef..) (::)
-
