@@ -1,0 +1,16 @@
+name:Ipsi sum desponsata;
+office-part:an;
+mode:7c;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Ipsi sum desponsata;
+mode:7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: 7 c;
+nabc-lines:1;
+%%
+(c3) Ip(i|vi)si(i|vi) sum(g|ta) des(i|vi)pon(j>|vi>)sá(i|ta)ta,(i|ta) <sp>*</sp>(,) cu(i|ta)i(i|vi) An(gh|peS)ge(i|vihi)li(f|vihh) sér(e|ta)vi(e|ta)unt,(e|ta) (;) cu(g|vihd)jus(g|vi) pul(g|vihh)chri(h|vihi)tú(f|ta)di(h|vihe)nem(g|vi-) (,) sol(e|ta) et(f|vi) lu(f|vi-hg)na(h|vihi) mi(g|vihg)rán(e|ta)tur.(e|ta) (::)
+<eu> E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
