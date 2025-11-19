@@ -1,0 +1,16 @@
+name:Christus circumdederit me vernantibus;
+office-part:an;
+mode:7c;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Christus circumdederit me vernantibus;
+mode:1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: 7 c;
+nabc-lines:1;
+%%
+(c3) Chris(i|vi)tus(g|ta) cir(i|vi)cúm(j>|vi>hglss3)de(i|vi)dit(hi|ta>) me(i|ta) (,) <sp>*</sp> ver(ig~|vi>)nán(h|vi)ti(g|vi)bus(e|ta) (;) at(g|vi)que(g|vihi) co(g|vihk)rus(h|vihi)cán(f|ta)ti(h|vi)bus(gf|cl-hg) (,) gem(e|ta)mis(f|vi) pre(g|vihh)ti(f|vihg)ó(e|ta)sis.(e|ta) (::)
+<eu> E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
