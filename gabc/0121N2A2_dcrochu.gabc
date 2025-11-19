@@ -1,0 +1,16 @@
+name:Mel et lac ex ejus;
+office-part:an;
+mode:1g2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Mel et lac ex ejus;
+mode:1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g 2;
+nabc-lines:1;
+%%
+(c4) Mel(f|vi) et(gh>|pe>) lac(h|vi-hglsx6) <sp>*</sp>(,) ex(f|ta) e(g>|vi>he)jus(f|ta-lsx9) o(f|vi)re(e|ta) su(f|vi)scé(g|vihg)pi,(f|ta-) (;) et(f|vi) san(f|vihglssta3)guis(e@fo|vslsc1) e(d>|vi>)jus(c|ta-) (,) or(d|vi)ná(f|vihh)vit(ef|peShh) ge(c|ta)nas(ce|pe) me(d|ta)as.(d|ta) (::)
+<eu>E(h) U(h) O(g) U(f) A(g) E.(ghg) </eu>(::)
