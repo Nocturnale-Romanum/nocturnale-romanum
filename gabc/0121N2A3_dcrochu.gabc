@@ -1,0 +1,16 @@
+name:Ipsi soli servo fidem;
+office-part:an;
+mode:1g2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Ipsi soli servo fidem;
+mode:1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g 2;
+nabc-lines:1;
+%%
+(c4) Ip(f|vi)si(fg|pe) so(gff|pohg)li(d!ewfEC |ql-ppt1su2) <sp>*</sp> ser(f|vi)vo(g|vihh) fi(ixhiHG|//pe-1su2lsl4)dem,(hg|cl-) (;|ta) ip(f|cllsc3)si(fe|ta) me(d|peS) to(fg|vi-hg)ta(g|ta) de(f|ta)vo(f|ta)ti(f|ta)ó(fe|cl-)ne(g|vihg) com(fe~|vi>)mít(d|ta)to.(d|ta) (::)
+<eu> E(h) U(h) O(g) U(f) A(g) E.(ghg) </eu> (::)
