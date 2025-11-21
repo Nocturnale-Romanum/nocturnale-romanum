@@ -1,0 +1,16 @@
+name:Qui operatus est Petro;
+office-part:an;
+mode:1g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Qui operatus est Petro;
+mode:1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g;
+nabc-lines:1;
+%%
+(c4) Qui(d|vilslm2) o(c|ta)pe(d|vi)rá(f|vi)tus(g|vihh) est(e|ta) Pe(f|vi)tro(d|ta-) <sp>*</sp> in(f|vi) a(g|vihj)pos(e|tahe)to(f|vi)lá(d|ta)tum,(d|ta-) (;) o(c|gr)pe(d|vi)rá(f|vi)tus(fg|``pelsl4lss3) est(g|vi) et(g|vi) mi(gfg|//po)hi(d|ta-lsx6) in(fg|peSlsl3)ter(hg>|cl>lst2) Gen(fg>|pe>1)tes:(f|ta-) (;) et(f|ta) cog(f|ta)no(g|vi)vé(h|vi)runt(g>|vi>) grá(fg|pelss3)ti(f|ta)am,(f|ta) (,) quæ(f|``talse4) da(fg|pe)ta(f|ta) est(f|ta) mi(fe|cllsc3)hi(c|gr) a(ef|peS) Chris(g|vihd)to(fe|cl) Dó(d|vi)mi(cd|pe)no.(d|ta) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
