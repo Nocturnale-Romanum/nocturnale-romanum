@@ -1,0 +1,17 @@
+name:Misit Dominus manum suam;
+office-part:an;
+mode:7d;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Misit Dominus manum;
+mode:7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c;
+nabc-lines:1;
+%%
+(c3) Mi(ig/ij|clpehh)sit(i|ta) Dó(ij|peS)mi(i|vi)nus(h|ta) <sp>*</sp> ma(hf!gwh/iv|cl-`qlhgvihl)num(g|vihd) su(e|ta)am,(e|ta) (,) et(e|``talse4) té(g|ta)ti(g|ta)git(g|ta) os(hf|cllssc2) me(h|vilsc3)um,(g|ta-lsx9) (;) et(g|``talse4) pro(i|vi)phé(i|vihd)tam(h|ta) in(h|ta) Gén(ij>|pe>)ti(i|vi)bus(hg/hih|//cltohg) (,) de(fe|cllsc3)dit(f!gwhf|ql!clppt1) me(g|vi) Dó(e|vihe)mi(de|pehe)nus.(e|ta) (::)
+
+<eu>E(i) U(i) O(j) U(i) A(h) E.(gh) </eu>(::)
