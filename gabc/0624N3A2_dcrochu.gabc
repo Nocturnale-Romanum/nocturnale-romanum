@@ -1,0 +1,16 @@
+name:Formans me ex utero servum;
+office-part:an;
+mode:8g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Formans me ex utero servum;
+mode:8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: viii g;
+nabc-lines:1;
+%%
+(c4) For(g>|vi>lst3)mans(fd~|vi>lsi6) me(e|vi) ex(f|vihd) ú(gh|pehd)te(h|vihe)ro(g|ta-he) <sp>*</sp>(,) ser(g|ta)vum(g|ta) si(h|vi)bi(g|ta) Dó(h|vi)mi(gf|cllsc3)nus,(f|ta-) (;) in(fh|``peSlse7) lu(j|vi-)cem(i|ta) gén(jk>|pe>hhlsal3)ti(hg|cllsc3)um,(g|ta-) (,) ut(g|vilsc3) sim(g|vi-) sa(g|vi)lus(g|vi) e(fe|cl>lst2)jus(d|ta) (,) ab(e|vi) ex(f|vi)tré(gh|pe)mis(h|vi) ter(g|ta)ræ.(g|ta) (::)
+<eu>E(j) U(j) O(i) U(j) A(h) E.(g) </eu>(::)
