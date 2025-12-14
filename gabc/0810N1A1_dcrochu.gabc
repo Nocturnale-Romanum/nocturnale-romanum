@@ -1,0 +1,16 @@
+name:Quo progrederis sine filio;
+office-part:an;
+mode:7c2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Quo progrederis sine filio;
+mode:7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c2;
+nabc-lines:1;
+%%
+(c3) Quo(g|vi) pro(h|vi)gré(i|vi)de(j|vihj)ris(i|ta-hh) <sp>*</sp>(,) si(i|vi)ne(h|vi) fí(f|vi)li(h|vihj)o,(g|vi) pa(f|vi)ter?(e|ta-) (;) quo,(f|vi) sa(ed|cl)cér(e|vi)dos(f|vi) sanc(hi>|vi-vi>hk)te,(hg/hih|//cltohg) si(f|ta)ne(f|ta) mi(f|tahd)nís(h|vi)tro(g|vi) pró(e|vi)pe(de|pe)ras.(e|ta) (::)
+<eu>E(i) U(i) O(j) U(i) A(h) E.(ih) </eu>(::)
