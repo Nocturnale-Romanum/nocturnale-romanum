@@ -1,0 +1,16 @@
+name:Beatus Laurentius orabat;
+office-part:an;
+mode:8g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Beatus Laurentius dixit;
+mode:8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: viii g;
+nabc-lines:1;
+%%
+(c3) Be(e|ta)á(eh|pe)tus(f|vi) Lau(e|ta)rén(f|vi)ti(ed|cl)us(ffo|vs) di(e|ta)xit:(e|ta) (;) <sp>*</sp> Dó(ig/ij|cllslc2)mi(i|ta)ne(i|ta) Je(i|vi)su(g|ta) Chris(i/jki|vi-tohilss2)te,(i|vi) (,) De(h|vi-)us(g|vilsc3) de(f|ta) De(h|vi-)o,(eeof|sa) (;) mi(e|vilsc3)se(d|ta)ré(e|vi)re(f|vi) mi(h|vi-)hi,(gh|peS) ser(fh|peS)vo(g|vi) tu(e|ta)o.(e|ta) (::)
+<eu>E(h) U(h) O(g) U(h) A(f) E.(e) </eu>(::)
