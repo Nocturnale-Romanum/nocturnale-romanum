@@ -1,0 +1,16 @@
+name:Beatus Laurentius dixit;
+office-part:an;
+mode:8g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Beatus Laurentius dixit mea nox;
+mode:7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: viii g;
+nabc-lines:1;
+%%
+(c3) Be(e|ta)á(eh|pe)tus(f|vihg) Lau(e|tahd)rén(f|vihe)ti(ed|cl)us(ffo|vs) di(e|ta)xit:(e|ta) <sp>*</sp>(;) Me(e|ta)a(g/hi~|vita>hh) nox(i|vi-) ob(i|``vilse1)scú(h|ta)rum(h|ta) non(h|ta) ha(hfge|//pf)bet,(e|ta) (;) sed(e|vi) óm(g|obvi)ni(ef|pecb)a(f|vi) in(g/hi~|vita>hh) lu(iviv|bv-)ce(fh/hf|pe`cl-hglslt2) cla(g|vi)rés(e|ta)cunt.(e|tahd) (::)
+<eu>E(h) U(h) O(g) U(h) A(f) E.(e) </eu>(::)
