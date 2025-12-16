@@ -4,7 +4,15 @@ mode:2;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-(f3) Pu(c|obta)él(e/fg|scM2)læ(f|ta) <sp>*</sp>() sal(h|vi)tán(hg/hif/gv|clto-1hgvihh)ti(ffoe|pr) (,) im(f|vi)pe(h|vi)rá(hvGFEf|vi-su3vi)vit(f!gwh/ihhog|qlppt1clhj!pihj) ma(fg!hvGFg|//ci-pp2vi)ter:(gf|cl-) (:)
+initial-style: 1;
+name:Puellae saltanti;
+mode: 2;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: ii;
+nabc-lines:1;
+%%
+(f3) Pu(c|obta)él(e/fg|scM2)læ(f|ta) <sp>*</sp> sal(h|vi)tán(hg/hif/gv|clto-1hgvihh)ti(ffoe|pr) (,) im(f|vi)pe(h|vi)rá(hvGFEf|vi-sut1su2vi)vit(f!gwh/ihhog|qlppt1clhj!pihj) ma(fg!hvGFg|//ci-pp2vi)ter:(gf|cl-) (:)
 <sp>+</sp> Ni(h|vi)hil(ij|pehi) á(j|vihi)li(jiiog|//clhi!pihi)ud(hi|pe) pe(highvGFg|toSci-vi)tas,(gf|cl-) (,) ni(fg|peS)si(f|ta) ca(fg|pe)put(f|ta) Jo(f|ta)án(fg!hvGFE|ci1pp2lsc2)nis(f|vi) Bap(hg/hih|clto)tís(hvGFg|ci-vi)tæ.(ffoe|pr) (:)
 <sp>‡</sp> Et(fc!dwe/fg|cl-`qlhgpehi) con(f|ta)tris(f|ta)tá(fg|pe)tus(f|ta) est(fe/f!gwh/ivHG/hwihi|cl-ql-ppt1vi-hksut2qlhl!pohl) rex(ih|cl-hh) (;) prop(h|ta)ter(ij|pehi) jus(jiiog|clhi!pihi)ju(hi|pe)rán(highvGFg|toSci-hgvihg)dum(gf|cl-) (;) et(e|ta) prop(f|vi)ter(h|vi) si(hvGFEfg|vi-sut1su2peS)mul(f|ta) dis(f|ta)cum(f!gwh/ihhog|qlppt1clhj!pihj)bén(fg!hvGFg|//ci-pp2vi)tes.(gf|cl-) (::)
 
