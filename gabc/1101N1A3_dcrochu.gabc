@@ -1,0 +1,16 @@
+name:Admirabile est nomen tuum Domine qui gloria;
+office-part:an;
+mode:1g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Admirabile est nomen tuum Domine quia gloria;
+mode: 1;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g;
+nabc-lines:1;
+%%
+(c4) Ad(c|gr)mi(d|vi)ra(ixdh/iv|////scG1)bi(h|ta)le(h|ta) est(h|ta) <sp>*</sp> no(h|vi)men(g|ta) tu(h|vi)um(gf~|vi>) Dó(g|vi)mi(gh|pe)ne:(h|vi-) (;) qui(h|vi)a(h|vi) gló(h|vi)ri(h|vi)a(j|vihilsal3) et(h|vihh) ho(g|ta)nó(h|vi)re(goh|pq) (,) co(h|vihh)ro(g|vihh)nás(f|vi)ti(e|ta) San(gh>|pae>1)ctos(fe|cllsc3) tu(d|ta)os, (d|ta) (;) et(dg|peS) con(g|vi-)sti(g|vi)tu(h|vihj)ís(f|vihe)ti(e|vihc) e(d!ewf|qlppt1)os(fc|clM-) (;) su(c|ta)per(d|vi) ó(f|vi)pe(g|vihj)ra(f|ta) má(gh|``peSlsl4)nu(g|vi)um(fe~|vi>) tu(fgf|//to)á(d|ta)rum.(d|ta) (::)
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
