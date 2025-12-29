@@ -1,0 +1,16 @@
+name:Ego signo crucis non clypeo;
+office-part:an;
+mode:7c;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Ego signo crucis non clypeo;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c;
+nabc-lines:1;
+%%
+(c3) E(i|vihd)go(g|tahc) si(i|vihc)gno(j|vi) cru(i|ta-)cis,(i|ta-) <sp>*</sp>(,) non(i|ta) clí(ij|pe)pe(i|ta)o(i|ta) pro(i|vi)téc(gh|peS)tus(i|vi) aut(f|vi) gá(e|ta)le(e|ta)a,(e|ta-) (;) hós(g|vi-)ti(g|vi)um(h|vihk) cú(f|ta)ne(h|vihg)os(g|vi-lsx6) (,) pe(e|gr)ne(f|vi)trá(f|vi-)bo(h|vi) se(g|vi)cú(e|ta)rus.(e|ta) (::)
+<eu> E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
