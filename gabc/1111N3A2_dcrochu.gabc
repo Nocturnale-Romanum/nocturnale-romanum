@@ -1,0 +1,16 @@
+name:Sacerdos Dei Martine aperti;
+office-part:an;
+mode:7a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Sacerdos Dei Martine aperti;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii a;
+nabc-lines:1;
+%%
+(c3) Sa(e|ta)cér(e|ta)dos(g|vi) De(i|vi-hi)i,(hf|cllsc3) Mar(h|vi)tí(h|vihk)ne,(g|ta) <sp>*</sp>(,) a(h|vilsl2lsew3)pér(h|vi)ti(h|vi) sunt(h|vi) ti(hg|cllsc3)bi(fh|pe) cæ(hhog|pr-)li(e|talse9) (;) et(e|ta) re(f|vi)gnum(ed~|vi>) Pa(ef|pe)tris(f|vi) me(e|ta)i.(e|ta) (::)
+<eu> E(i) U(i) O(j) U(i) A(h) E.(gf) </eu> (::)
