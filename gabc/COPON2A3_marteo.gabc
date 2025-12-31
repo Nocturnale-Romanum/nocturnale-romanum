@@ -1,15 +1,8 @@
-name:Domine Dominus noster... terra... qui gloria;
+name:Domine Dominus noster... terra... quia gloria;
 office-part:an;
 mode:1g;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Dó(ixdh_//iv)mi(h)ne,(h) <sp>*</sp> Dó(ixh!iwj)mi(h)nus(h) no(h)ster,(goh_) (;) 
-quam(f) ad(g)mi(h)rá(g)bi(fg)le(g) est(g) no(gh)men(fe~) tu(d.)um(d.) (,)
-in(e) u(f)ni(g)vér(e)sa(fe) ter(d.)ra!(d.) (:)
-
-Qui(d)a(f) gló(g)ri(g)a(g) et(hg__) ho(f)nó(g)re(f_) (,)
-co(f)ro(g)ná(h)sti(gf) san(gh)ctum(g>) tu(fv_fv_)um,(ggof.) (;)
-et(f_) con(e)sti(f)tu(d)í(e)sti(d) e(d)um(c_) (,)
-su(c)per(d) ó(f)pe(g)ra(f) má(g_h)nu(g)um(fe~) tu(fgf)á(d.)rum.(d.)  (::) 
-
-<eu> E(h) U(h) O(g) U(f) A(gh) E.(g) </eu> (::)
+(c4) Dó(ixdh_/iv|///scG-1)mi(h|vihe)ne,(h|vi) <sp>*</sp>() Dó(ixh!iwj|//qlppt1)mi(h|ta)nus(h|ta) nos(h|vi)ter,(goh.|pq-) (;) quam(f|ta) ad(g|vi)mi(h|vihi)rá(g|vihg)bi(fg|pe)le(g|vi) est(g|vi) no(gh|pe)men(fe~|vi>) tu(d.|ta)um(d.|ta-) (,) in(e|ta) u(f|vi)ni(g|vihh)vér(e|ta)sa(fe|cl) ter(d.|ta)ra!(d.|talse9) (:) Qui(d|ta)a(f|vi) gló(g|vihi)ri(g|vihj)a(g|vihj) et(h_g_|cl-hh) ho(f|tahg)nó(g|vi)re(f_|ta-) (,) co(f|ta)ro(g|vi)nás(h|vihi)ti(gf|cllsc3) sanc(gh|pe)tum(g>|vi>) tu(fv_fv_|bv-)um,(ggof.|prhh) (;) et(f|vi-he) con(e|ta)sti(f|vi)tu(d|ta)ís(e|vi)ti(d|vi) e(d|ta)um(c_|ta-) (,) su(c|ta)per(d|vi) ó(f|vihi)pe(g|vihk)ra(f|ta) má(g_h|peSlss3)nu(g|vi)um(fe~|vi>) tu(fgf|/to)á(d.|ta)rum.(d.|ta) (::) 
+<eu>E(h) U(h) O(g) U(f) A(gh) E.(g) </eu>(::)
