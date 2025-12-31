@@ -1,0 +1,16 @@
+name:Sacerdos Dei Martine pastor;
+office-part:an;
+mode:8g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Sacerdos Dei Martine pastor;
+mode: 8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: viii g;
+nabc-lines:1;
+%%
+(c4) Sa(g|vi)cér(ggof~|pr>)dos(gh|pe) De(h|vi)i,(g|talse9) <sp>*</sp>(,) Mar(gh|pe-1)tí(f|ta)ne,(hj|pe) pas(j|vi-)tor(ji|cl) e(h|ta)gré(iwj|ql)gi(h|vi)e,(g|vi-lsx6) (;) o(g|ta)ra(g|ta) pro(gh|pe) no(hvGF|ci-)bis(gh|pe) De(g|ta)um.(g|ta) (::)
+<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::)
