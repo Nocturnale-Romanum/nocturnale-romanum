@@ -1,0 +1,16 @@
+name:Fiat Domine cor meum et corpus;
+office-part:an;
+mode:7c;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Fiat Domine cor meum et corpus;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii c;
+nabc-lines:1;
+%%
+(c3) Fi(i|vi)at,(i|vi) Dó(i|vi)mi(i|vihj)ne,(g|ta) cor(ij>|pe>1) me(i|vi-)um(i|vi-hg) <sp>*</sp>(,) et(gh|peS) cor(i|vi)pus(f|vihe) me(e|ta-)um(e|ta-) (;) im(g|vi-)ma(g|vi)cu(h|vihj)lá(fh|peS)tum,(gf|cl-) (,) ut(ef|peSlsp3) non(g|vilssta3) con(f>|vi>)fún(e|ta)dar.(e|ta) (::)
+<eu>E(i) U(i) O(j) U(i) A(h) E.(gh) </eu>(::)
