@@ -2,6 +2,15 @@ name:Beata Caecilia dixit ad;
 office-part:an;
 mode:7a;
 submitter:dcrochu;
+nabc-lines:1;
 %%
-(c3) Be(e)á(eh)ta(g) Cæ(h)cí(ij)li(j)a(i) <sp>*</sp>(,) di(j)xit(i) ad(h) Ti(f)búr(hih)ti(g)um:(e) (;) Hó(h)di(h)e(h) te(h) fá(h)te(h)or(h) es(h)se(h) me(h)um(g) cog(f)ná(h)tum,(ghg) (;) qui(g)a(h) a(j)mor(i) De(h)i(g) te(h) fe(f)cit(e) es(f)se(f) (,) con(f)temp(e)tó(f)rem(f) i(h)do(g)ló(e)rum.(e) (::)
+initial-style: 1;
+name:Beata Caecilia dixit ad;
+mode: 7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vii a;
+nabc-lines:1;
+%%
+(c3) Be(e|ta)á(eh|pe)ta(g|ta) Cæ(h|ta)cí(ij|pe)li(j|vi)a(i|ta-hd) <sp>*</sp>(,) di(j|vi)xit(i|vihd) ad(h|vihd) Ti(f|tahc)búr(hi>|pe>1lsal3)ti(g|vilsc3)um:(e|ta-) (;) Hó(g|vilsl2)di(g|vi)e(g|vi) te(g|vi) fá(g|vi)te(g|vi)or(g|vi) es(g|vi)se(g|vi) me(h|vi)um(g|talsc3) co(f|tahd)gná(h|vi)tum,(ghg|//toS) (;) qui(g|ta)a(h|vi) a(j|vi)mor(i|vi) De(h|vi)i(g|talssta9) te(h|vilsl2) fe(f|vihd)cit(e|tahe) es(f|vi-)se(f|vi-) (,) con(f|vi)tem(e|ta)ptó(f|vi)rem(f|vi) i(h|vi)do(g|vihj)ló(e|ta)rum.(e|ta) (::)
 <eu>E(i) U(i) O(j) U(i) A(h) E.(gh) </eu>(::)
