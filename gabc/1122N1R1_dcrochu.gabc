@@ -1,0 +1,19 @@
+name:Cantantibus organis V Biduanis ac triduanis;
+office-part:re;
+mode:8;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Cantantibus organis;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Can(d|talsc3)tán(f/gh>|vipe>)ti(g|ta)bus(gh|pe) ór(h>|vi>)ga(gf!gwhgh|cl-ql!po)nis,(ixg!hih|/////cl-ppt2) <sp>*</sp>(;) Cæ(f|grlsc3)cí(ixhih|/////to)li(g|ta)a(iyg!hwji/jkj|////ql!clppt1tohm) vir(jvIHivH~G~|ci-hjcl>hi)go(hg|cl-) (,) in(g|ta) cor(ixhiHGhih|/////pe-su1suu1tohh)de(gfg|polsi3) su(ixivHGhi|/////ci-hjpeShj)o(h|ta) (;) so(h|vi)li(f|ta) Dó(g|vi)mi(gefvEDe|cl-vi-su1sut1vi)no(ed|cl-) (,) de(fe|cl)can(fg~|pe~)tá(ghGFgh|pe-1su1sut1peS)bat(gh!iwjIH/iwjIH|`ql-hjppt2su1sut1ql-hjsu1sut1) di(gh!ivHGh|ci-hippt2)cens:(hg|cl-) (:)
+<sp>+</sp> Fi(j|vihj)at,(jk~|pe~hj) Dó(kjji|/////clShjcl-hj)mi(hg|cl)ne,(hi|pehh) cor(j|vihjlsl2lse3) me(jh!iwjIHGh|cl-hjqlhj!vshjsu2vihj)um(hg|cl-) (,) et(g|ta) cor(ixhiHGhih|/////pe-hisu2tohk)pus(gfg|polsi3) me(ixivHGhi|/////ci-hipeShi)um(h|ta) (,) im(hg~|vi>)ma(ixh!iwj|//viqlhj)cu(g|ta)lá(g|vi)tum,(gvFEfvEDed|clSsut1vi-su1sut1cl-) (;) ut(ghGFgh>|pe-1su2pe>1) non(g|ta) con(gh!iwjIH/iwjI!Hs>|`qlhippt2sut2ql-hisu1sux1)fún(gh!ivHGh|ci-hippt2vihi)dar.(hg|cl-) (::)
+
+<sp>V/</sp> Bi(j|vihi)du(j|vihi)á(ji|clhi)nis(jkj/iji/hhog|tohk/tohk/prhj) ac(hi|pe) tri(i|vi)du(ih|cl)á(jk|pehk)nis(j|tahi) je(ji|clhi)jú(ih|cl)ni(ij|pehi)is(hi|pehh) o(g!hwih|ql!clppt1)rans,(hg|cl) (;) com(g|vi)men(fg~|pe)dá(g|vi)bat(g|vi) se(g|vi) Dó(g|vi)mi(g|vi)no(ixhiHGhih|/////pe-hisu2tohj) quem(ghf~|pe>) ti(gh|peS)mé(iyh!iwji/jkJIH|///ql!clppt1toS2hmsu2)bat.(ghGFgf|pe-1su2cl-) (::)
+<sp>+</sp> Fi(j|vihj)at.(jk~|pe~hj) (::)
