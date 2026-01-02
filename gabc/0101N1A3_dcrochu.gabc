@@ -4,7 +4,7 @@ mode:5a;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-initial-style: 0;
+initial-style: 1;
 name: Elevamini;
 mode: 5;
 office-part: Antiphona;
