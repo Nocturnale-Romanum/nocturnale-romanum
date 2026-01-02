@@ -1,0 +1,24 @@
+name:Dedisti Domine habitaculum V Dedisti Domine Sanctis V Gloria;
+office-part:re;
+mode:6;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Dedisti Domine habitaculum;
+mode: 6;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: vi;
+nabc-lines:1;
+%%
+(c4) De(d|ta)dís(f/gh|vi-pe)ti,(g|ta) Dó(gh|pe)mi(g|ta)ne,(g|ta) <sp>*</sp>(,) ha(g|ta)bi(ixg@hoi|////sa-1)tá(h|vilse3)cu(h|vi)lum(hg/h!iwjg/hv/ggof|cl-qlhh!clhhppt1vihkprhj) (;) Már(hf~|vi>)ty(ghg|to)ri(h|vi) tu(hwj|qlhh)o(h|vi) Cle(g|ta)mén(ixhiHGFgh>|////toShisu2/pe>1hi)ti(g|ta) in(iygh!iwjIH/iwjI!Hs>|//ql-hjppt2su1sut1ql-hjsu1sux1) ma(gh!ivHGh|//ci-hhpp2vihh)ri,(hg|cl-) (;) in(jvjv|bv-hklss3) mo(j/klk|````vihh/tohllsl2)dum(jkj|tohk) tem(hg~|vi>)pli(hvGF|ci-) mar(h|vi)mó(h/jgh|vi-he/pohj)re(gf!gwhgh|cl-ql!po)i(hg|cl-) (,) an(f|gr)gé(gh|pe)li(h|ta)cis(h|ta) má(hgh|po)ni(gh|pe)bus(ggof|pr) præ(ixh!iwj|//viqlhj)pa(jkJIH|//toShlsu2)rá(ixhg!hwihi|////cl-qlhh!pohh)tum:(ih|cl-hh) (:) <sp>+</sp> I(f|gr)ter(gh|pe) præ(h|vi)bens(h|vilse6) pó(hgh|po)pu(fg|pe)lo(ge!fwg|clM-qi) ter(ghFED|pesu2suy1)ræ,(dfDC/ded|toS2sut1toS) (;) ut(c|gr) e(d!ewf|qlppt1)nár(fe!fwgfg|cl-ql!po)rent(gf|cl-) mi(f|ta)ra(ghg|to)bí(ixhf/hig|////cl/tolsal3)li(fvfv|bv-lsb2)a(f|vi) tu(fgf|//toS)a.(f|ta) (::)
+
+<sp>V/</sp> De(f|obta)dís(f@goh|sa)ti,(ixihivHGhg|/////cl-hhci-hhcl-hh) Dó(ixh!iwj/kv|//viheqlhh/vi>hk)mi(j|vihi)ne,(j|vihi) Sanc(j|vihi)tis(jh|clhh) tu(ixij|////pehi)is(ih|clhg) vi(hg|cl)am(ixi|////vi) in(gh~|pe~) ma(f!gwhg|ql!clppt1)ri,(gf|cl-) (;) et(f|vi) in(df~|pe~) flu(f|ta)mí(f|ta)ni(ghf|to)bus(gf|cllsc3) sé(f@goh|sa)mi(ixig!hwiHG|///cl-hhql-hisu2)tam.(ghGFgf|pe-1su2cl-cb) (::)
+<sp>+</sp> I(f|gr)ter.(gh|pe) (::)
+
+<sp>V/</sp> Gló(f@goh|obsa)ri(h|ta)a(ixih/ivHGhg|/////cl-ci-cl-) Pa(ixh!iwj//kv|//vi-ql-hjvihm)tri,(j|vihh) et(jh~|vi>) Fí(ixij|////pehh)li(ih|cllsc3)o,(h|ta-) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(ixi|////vihh)i(gh|pe) Sanc(f!gwhg|ql!clppt1)to.(gf|cl-cb) (::)
+<sp>+</sp> I(f|gr)ter.(gh|pe) (::)
+
+<sp>V/</sp> Gló(f@goh|obsa)ri(h|ta)a(ixih/ivHGhg|/////cl-ci-cl-) Pa(ixh!iwj//kv|//vi-ql-hjvihm)tri,(j|vihh) et(jh~|vi>) Fí(ixij|////pehh)li(ih|cllsc3)o,(h|ta-) (,) et(h|ta) Spi(h|ta)rí(hg|cllsc3)tu(ixi|////vihh)i(gh|pe) Sanc(f!gwhg|ql!clppt1)to.(gf|cl-cb) (::)
+<sp>+</sp> I(f|gr)ter.(gh|pe) (::)
