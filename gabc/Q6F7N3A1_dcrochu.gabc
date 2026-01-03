@@ -1,0 +1,16 @@
+name:Deus adjuvat me;
+office-part:an;
+mode:8g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Deus adjuvat me;
+mode: 8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: viii g;
+nabc-lines:1;
+%%
+(c4) De(g|ta)us(h|vi) ád(gf~|vi>)ju(g|vi)vat(h|vihh) me,(g|vi) <sp>*</sp>(,) et(f|ta) Dó(g|vi)mi(h|vihh)nus(j|vihl) su(i|vihh)scép(h|ta)tor(j|vi) est(ih|cl-) á(g|ta)ni(h|vi)mæ(ho|or) me(g|ta)æ.(g|ta) (::)
+<eu> E(j) U(j) O(i) U(j) A(h) E.(g) </eu> (::)
