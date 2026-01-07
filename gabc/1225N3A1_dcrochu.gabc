@@ -1,0 +1,16 @@
+name:Ipse invocabit me alleluia;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Ipse invocabit me alleluia;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi f;
+nabc-lines: 1;
+%%
+(c4) I(f|vi)pse(f|vi) in(f|vi)vo(e|vi)cá(g|vi)bit(g|vi) me,(h|vi) <sp>*</sp>(,) al(f|vi)le(f|vi)lú(d>|vi>){ia}:(c|ta) (;) Pa(f|vi)ter(f|vi) me(f|vi)us(e|ta) es(g|vi) tu,(h|vi) (,) al(h|vi)le(hg|cl-)lú(g>|vi>){ia}.(f.|ta) (::) 
+<eu> E(h) U(h) O(f) U(gh) A(g) E.(f) </eu> (::)
