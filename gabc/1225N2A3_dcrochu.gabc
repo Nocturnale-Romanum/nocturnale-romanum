@@ -1,7 +1,16 @@
 name:Veritas de terra orta;
 office-part:an;
-mode:8c;
+mode:8a;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-(c4) Ve(j|vi)ri(j|vihh)tas(i|ta) de(h|vi) ter(gi>|pe>1)ra(h|vi) or(g|ta)ta(go|or) est,(f|ta-lsx9) (;) et(f|ta) ju(h|vi)stí(j|vihg)ti(j|vihi)a(i|vi) de(g|ta) cœ(ij|peS)lo(h|ta) pro(h|vi)spé(g|ta)xit.(g|ta) (::) <eu> E(j) U(j) O(h) U(j) A(k) E.(j) </eu> (::)
+initial-style: 1;
+name: Veritas de terra orta;
+mode: 8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: viii a;
+nabc-lines: 1;
+%%
+(c4) Ve(j|vi)ri(j|vihh)tas(i|ta) de(h|vi) ter(gi>|pe>1)ra(h|vi) or(g|ta)ta(go|or) est,(f|ta-lsx9) (;) et(f|ta) ju(h|vi)stí(j|vihg)ti(j|vihi)a(i|vi) de(g|ta) cœ(ij|peS)lo(h|ta) pro(h|vi)spé(g|ta)xit.(g|ta) (::)
+<eu> E(j) U(j) O(i) U(j) A(h) E.(gh) </eu> (::)
