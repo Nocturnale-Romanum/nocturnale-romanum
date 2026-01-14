@@ -12,7 +12,7 @@ annotation: Hymn.;
 annotation: iii;
 nabc-lines: 1;
 %%
-(c4)HOs(d|ta)tis(e|vi) He(f|vihg)ró(gh|pehg)des(d|ta) ím(e!fwg|qlppt1)pi(fe|cllsc3)e,(e|ta-) (;)
+(c4)HOs(d|obta)tis(e|vi) He(f|vihg)ró(gh|pehg)des(d|ta) ím(e!fwg|qlppt1)pi(fe|cllsc3)e,(e|ta-) (;)
 Chris(g|vi)tum(hj|pe) ve(j|vi)ní(ji|clhglsc3)re(hg|cllsc3) quid(hi|pe) ti(i|vi)mes?(i|vi-) (:)
 Non(h|ta) é(hj!kv|sa)ri(j|vi)pit(ji|cllsc3) mor(hg|clhelsc3)tá(hih|to)li(gf|cl)a,(e!fw!gh|qlhdppt1vi-hk) (;) 
 Qui(d|ta) re(e|vi)gna(f|vihg) dat(h|vihh) cæ(hih|//tohh)lés(gfg|po)ti(fe|cllsc3)a.(e|ta-) (::)
@@ -36,4 +36,4 @@ Mu(d|ta)tá(e|vi)vit(f|vihg) und<e>a</e>(h|vihh) o(hih|//tohh)rí(gfg|po)gi(fe|c
 Qu<e>i</e> ap(g|vi)pa(hj|pe)ru(j|vi)ís(ji|clhglsc3)ti(hg|cllsc3) hó(hi|pe)di(i|vi)e,(i|vi-) (:)
 Cum(h|ta) Pa(hj!kv|sa)tr<e>e</e>, et(j|vi) Sanc(ji|cllsc3)to(hg|clhelsc3) Spí(hih|to)ri(gf|cl)tu,(e!fw!gh|qlhdppt1vi-hk) (;)
 In(d|ta) sem(e|vi)pi(f|vihg)tér(h|vihh)na(hih|//tohh) sǽ(gfg|po)cu(fe|cllsc3)la.(e|ta-) (::)
-A(efe|toS)men.(de|pq-) (::)
+A(efe|toS)men.(de|pq-cb) (::)
