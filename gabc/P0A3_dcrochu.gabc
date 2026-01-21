@@ -4,5 +4,13 @@ mode:8c;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-(c4) E(j|vi)go(j|vi) dor(j|vi)mí(jkj|//tohh)vi,(jij|pohh) <sp>*</sp> et(j|vihh) som(ji>|cl->hh)num(hj|peShh) cœ(ji|cl-hh)pi:(g|ta) (;)et(h|vi) ex(f|ta)sur(h|vi)re(ji|cl-hh)xi,(g|ta) quó(g|ta)ni(g|ta)am(goh|pq) Dó(f|ta)mi(h|vi)nus(j|vihh) sus(j|vihi)cé(i|ta)pit(j|vi) me,(h|ta) (,)al(h>|vi>)le(g|ta)lú(h|vi){ia},(ixi|////vi) al(h>|vi>hh)le(f|ta)lú(gh>|pe>){ia}.(g|ta) (::)
+initial-style: 1;
+name: Ego dormivi;
+mode: 8;
+office-part: Antiphona;
+annotation: Ant. ;
+annotation: viii c;
+nabc-lines:1;
+%%
+(c4) E(j|vi)go(j|vi) dor(j|vi)mí(jkj|//tohh)vi,(jij|pohh) <sp>*</sp> et(j|vihh) som(ji>|cl->hh)num(hj|peShh) cœ(ji|cl-hh)pi:(g|ta) (;)et(h|vi) ex(f|ta)sur(h|vi)re(ji|cl-hh)xi,(g|ta) quón(g|ta)i(g|ta)am(goh|pq) Dó(f|ta)mi(h|vi)nus(j|vihh) sus(j|vihi)cé(i|ta)pit(j|vi) me,(h|ta) (,) al(h>|vi>)le(g|ta)lú(h|vi){ia},(ixi|////vi) al(h>|vi>hh)le(f|ta)lú(h>|pe>){ia}.(g|ta) (::)
 <eu>E(j) U(j) O(h) U(j) A(k) E.(j) </eu>(::)
