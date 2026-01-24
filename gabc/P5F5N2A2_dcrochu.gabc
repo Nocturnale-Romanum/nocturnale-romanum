@@ -9,10 +9,9 @@ name:Exaltabo te Domine;
 mode: 8;
 office-part: Antiphona;
 annotation: Ant.;
-annotation: viii G;
+annotation: viii g;
 nabc-lines:1;
 %%
-(c4) Ex(g|vi)al(g|vi)tá(g|vi)bo(g|vi) te,(h|vihj) Dó(g|ta)mi(h|vihh)ne,(g.|vihg) <sp>*</sp>(;) quón(f|ta)i(g|vi)am(h|vihh) su(j|vihj)sce(i|vihh)pís(h|ta)ti(j|vi) me,(ih|cl) al(g|ta)le(h|vi)lú(hg>|cl>){ia}.(g.|ta) (::)
+(c4) Ex(g|vi)al(g|vi)tá(g|vi)bo(g|vi) te,(h|vihj) Dó(g|ta)mi(h|vihh)ne,(g|vihg) <sp>*</sp>(;) quón(f|ta)i(g|vi)am(h|vihh) su(j|vihj)sce(i|vihh)pís(h|ta)ti(j|vi) me,(ih|cl) al(g|ta)le(h|vi)lú(hg>|cl>){ia}.(g|ta) (::)
 
 <eu>E(j) U(j) O(i) U(j) A(h) E.(g) </eu>(::)
-
