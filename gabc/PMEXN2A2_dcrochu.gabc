@@ -1,0 +1,16 @@
+name:Sanctis qui in terra;
+office-part:an;
+mode:4e;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Sanctis qui in terra;
+mode: 4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iv e;
+nabc-lines:1;
+%%
+(c4) Sanc(f|vi)tis,(d|ta) qui(e|vi) in(f|vihh) ter(g|vihj)ra(f|vihh) sunt(e|ta) e(f|vi)jus,(ed|cl-) <sp>*</sp>(;) mi(c|ta)ri(d|vi)fi(f|vihh)cá(f|vihi)vit(e|ta-) (,) om(f>|vi>)nes(d|ta) vo(e|vi)lun(f|vihh)tá(g|vihj)tes(f|tahh) me(fe|cllsc3)as(dc|cllsc3) in(d|ta)ter(f|vi) il(g>|vi>hg)los.(e|ta) (::)
+<eu> E(h) U(g) O(h) U(ih) A(gf) E.(e) </eu> (::)
