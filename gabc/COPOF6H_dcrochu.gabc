@@ -1,0 +1,38 @@
+name:Iste Confessor (F6);
+office-part:hy;
+mode:1;
+submitter:dcrochu;
+%%
+initial-style: 1;
+name: Iste Confessor;
+mode: 1;
+office-part: Hymnus;
+annotation: Hymn.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4) Is(d!ewfd)te(dc) Con(cd)fés(d)sor(d) (,) Dó(f)mi(e)ni(d) sa(e)crá(e)tus,(d) (;)
+Fe(ixdh/iv)sta(h) plebs(h) cu(hg)jus(gh) ce(f)lé(gh)brat(g) per(fg) or(gvFE)bem,(d) (;)
+Hó(dg)di(fe)e(dc) læ(dd)tus(c,) mé[<c>m.t.v.</c>](fe)ru(fg)it(fe) se[su](dc)cré[pré-](de)ta[mos](ed) (,)
+Scán[Lau-](d!ewfd)de[dis](dc)re[ho-](cd) cæ[nó-](d)li.[res.](d) (::)
+
+<c>2.</c> Qui(d!ewfd) pi(dc)us,(cd) pru(d)dens,(d) (,) hú(f)mi(e)lis,(d) pu(e)dí(e)cus,(d) (;)
+Só(ixdh/iv)bri(h)us,(h) cas(hg)tus(gh) fu(f)it(gh) et(g) qui(fg)é(gvFE)tus,(d) (;)
+Vi(dg)ta(fe) dum(dc) præ(dd)sens(c,) ve(fe)ge(fg)tá(fe)vit(dc) e(de)jus(ed) (,)
+Cór(d!ewfd)po(dc)ris(cd) ar(d)tus.(d) (::)
+
+<c>3.</c> Ad(d!ewfd) sa(dc)crum(cd) cu(d)jus(d) (,) tú(f)mu(e)lum(d) fre(e)quén(e)ter(d) (;)
+Mem(ixdh/iv)bra(h) lan(h)guén(hg)tum(gh) mo(f)do(gh) sa(g)ni(fg)tá(gvFE)ti,(d) (;)
+Quó(dg)li(fe)bet(dc) mor(dd)bo(c,) fú(fe)e(fg)rint(fe) gra(dc)vá(de)ta,(ed) (,)
+Re(d!ewfd)sti(dc)tu(cd)ún(d)tur.(d) (::)
+
+<c>4.</c> Un(d!ewfd)de(dc) nunc(cd) nos(d)ter(d) (,) cho(f)rus(e) in(d) ho(e)nó(e)rem(d) (;)
+Ip(ixdh/iv)sí(h)us,(h) hym(hg)num(gh) ca(f)nit(gh) hunc(g) li(fg)bén(gvFE)ter:(d) (;)
+Ut(dg) pi(fe)is(dc) e(dd)jus(c,) mé(fe)ri(fg)tis(fe) ju(dc)vé(de)mur(ed) (,)
+Om(d!ewfd)ne(dc) per(cd) æ(d)vum.(d) (::)
+
+<c>5.</c> Sit(d!ewfd) sa(dc)lus(cd) il(d)li,(d) (,) de(f)cus(e) at(d)que(e) vir(e)tus,(d) (;)
+Qui(ixdh/iv) su(h)pra(h) cæ(hg)li(gh) ré(f)si(gh)dens(g) ca(fg)cú(gvFE)men,(d) (;)
+To(dg)tí(fe)us(dc) mun(dd)di(c,) má(fe)chi(fg)nam(fe) gu(dc)bér(de)nat(ed) (,)
+Tri(d!ewfd)nus(dc) et(cd) u(d)nus.(d) (::)
+A(ded)men.(cd) (::)
