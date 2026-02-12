@@ -2,9 +2,18 @@ name:Qui Lazarum V Qui venturus es judicare;
 office-part:re;
 mode:4;
 submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)Qui(d) Lá(fvEDe!fo)za(e)rum(eg/fssded) re(fd)su(ef)sci(g)tá(ixhgh/iv)sti(h) (`) a(dh~) mo(h)nu(hg)mén(ixhhgh>)to(ef!hvGFghg) fœ́(e)ti(egffs)dum,(fe) (:) 
-<sp>+</sp> Tu(h) e(gf)is,(gh) Dó(ixg/igh)mi(ffoe/fv)ne,(fe) (`) do(g)na(f) ré(fsfsfs)qui(df!gvFEf)em,(eeofe) (;) et(c<) lo(eeof)cum(ed) in(f)dul(ixfg!hv/ig/hg>)gén(e)ti(egffs)æ.(fe) (::)
+initial-style: 1;
+name: Qui Lazarum;
+mode: 4;
+office-part: Responsorium;
+annotation: Resp. ;
+annotation: iv;
+nabc-lines: 1;
+%%
+(c4) Qui(d|ta) Lá(fvEDe@fo1|ci-vs-)za(e|ta)rum(eg/fsfsded|pe-ds-to) <sp>*</sp> re(fd|cllsc3)sus(ef|peS)ci(g|vi)tás(ixhgh/iv|/////po/vihk)ti(h|vi) (,) a(dh~|ta>) mo(h|ta)nu(hg|cllsc3)mén(ixh/igh>|vipo>)to(e@f@hvGFghg|vipp2su2/tohh) fœ́(e|ta)ti(egffs|tosthh)dum,(fe|cl-) (:)
+<sp>+</sp> Tu(h|vi) e(gf|cllsc3)is,(gh|pehg) Dó(ixg/igh|/trG)mi(ffoe/fv|pr-vihh)ne,(fe|cl-) (,) do(g|vi)na(f|ta) ré(fsfsfs|ts)qui(df!gvFEf|vi-pp2su2vihh)em,(eeofe|sa!cl) (;) et(c<|ta>) lo(eeof|sa)cum(ed|cl-) in(f|vi)dul(ixfg!hv/ig/hg>|/////vi-hepp2/clhjcl>hj)gén(e|ta)ti(egffs|tosthh)æ.(fe|cl-) (::)
 
-<sp>V/</sp> Qui(h) ven(h)tú(h)rus(gh) es(gf!gwhg/.hvGEfe) (,) ju(g)di(g)cá(gh)re(g) vi(gf)vos(gh) et(gf) mór(e)tu(e!fwgf)os,(fe) (;) et(e) sǽ(e)cu(e!fwgFE)lum(g) per(-ghghGF) i(e!fgffs)gnem.(ed) (::)
-<sp>+</sp> Tu.(h) (::)
+<sp>V/</sp> Qui(h|obvi) ven(h|vi)tú(h|vi)rus(gh|pe) es(gf!gwhg/hvGEfe|cl-`ql!clci-hhcl-hh) (,) ju(g|vi)di(g|vi)cá(gh|pe)re(g|ta) vi(gf|cl)vos(gh|pe) et(gf|vi>lsi6) mór(e|ta)tu(e!fwgf|ql!clppt1)os,(fe|cl-) (;) et(e|ta) sǽ(e|ta)cu(e!fwgFE|ql-ppt1su2)lum(g|vi) per(ghghGF|/tr-1hgsu2) i(e!fgffs|/clpp2sthi)gnem.(ed|cl-cb) (::)
+<sp>+</sp> Tu(h|vi) e(gf|cllsc3)is.(gh|pehg) (::)
