@@ -1,0 +1,16 @@
+name:Sitivit anima mea ad Deum vivum;
+office-part:an;
+mode:2d;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Sitivit anima mea ad Deum vivum;
+mode: 2;
+office-part: Antiphona;
+annotation: Ant. ;
+annotation: ii d;
+nabc-lines: 1;
+%%
+(f3) Si(g|vi)tí(ef|peS)vit(f|vi) <sp>*</sp>() á(h|vi-)ni(g|vi)ma(f|ta) me(g|vi)a(f|ta) ad(e|ta) De(fg|pe)um(g>|vi>) vi(f|ta)vum:(f|ta) (;) quan(h|vi)do(g|ta) vé(h|vi)ni(f|ta)am,(g|vi) (,) et(fe|cl) ap(fg|pe)pa(g|vi)ré(fef|po)bo(ef|peS|eeoc|pr) (,) an(f|vi)te(f|vi) fá(f|vi)ci(f|vi)em(hg~|vi>) Dó(e|ta)mi(g|ql)ni?(f|ta) (::)
+<eu> Et(h) sic(h) fi(h)ni(g)á(ef)tur.(f) </eu> (::)
