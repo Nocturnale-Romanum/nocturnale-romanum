@@ -2,10 +2,18 @@ name:Credo quod redemptor V Quem visurus;
 office-part:re;
 mode:8;
 submitter:dcrochu;
+nabc-lines:1;
 %%
-(c4)Cre(gi)do(i) <sp>*</sp> quod(i) Red(i)ém(j)ptor(hj~) me(ji)us(i!jwkJIH/iwjIH) vi(gh!ivHGh)vit,(hg) (;) et(hf) in(g) no(h)vís(hjij)si(h)mo(hfh) di(h!iwjIHGh)e(hg) (,)
-de(g) ter(hi~)ra(i) sur(j)rec(jk)tú(kj/kvJIH)rus(h/jhhf) sum,(f) (:) 
-<sp>+</sp> Et(f) in(h) car(jjk~)ne(j) me(ji!jwkjk)a(kj) (,) 
-vi(j)dé(ji/jh)bo(j) De(ji/jkhhog)um(gh!iwjg/hv/ggof) (,) Sal(gf~)va(hj)tó(ji/jvIH/i!jo<)rem(i!jwkJIH/iwjIH>) me(gh!ivHGh)um.(hg) (::) 
-<sp>V/</sp> Quem(j) vi(j)sú(j)rus(ji) sum,(jkj/iji/hhog) e(hi)go(ih) i(jk)pse(ji) et(ij) non(hi) á(g)li(g!hwih)us,(hg) (;) et(g) ó(fg)cu(g)li(g) me(gh)i(g) con(ixhiHG/hih)spéc(ghf)tu(gh)ri(iyh!iwji/jkJIH) sunt.(hiHGhg) (::)
-<sp>+</sp> Et(f).(::)
+initial-style: 1;
+name: Credo quod Redemptor;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp. ;
+annotation: 8;
+nabc-lines: 1;
+%%
+(c3) Cre(eg|peS)do(g|vi) <sp>*</sp>() quod(g|vi) Red(g|vi)émp(h|vihh)tor(fh~|ta>hh) me(hg|cl-hh)us(g!hwiHGF/gwhGF|qi-hippt1sut3qi-hjsu2) vi(ef!gvFEf|//ci-pp2vihg)vit,(fe|cl-) (;) et(fd|cllsc3) in(e|vi) no(f|vi)vís(fhgh|tr)si(f|ta)mo(fdf|po) di(f!gwhGFEf|ql!vsppt1su2vihi)e(fe|cl-) (,) de(e|ta) ter(fg~|ta>)ra(g|vi-hg) sur(h|vihh)rec(hi|pehi)tú(ih/ivHGFE|clhi/clShjsuu1su2)rus(f/hffd|vi-pf-hh) sum,(d|ta) (:)
+<sp>+</sp> Et(d|ta) in(f|vi) car(hhi~|vi-ta>hh)ne(h|vi) me(hg!hwihi|clhiqlhi!pohi)a(ih|cl-hi) (,) vi(h|vi)dé(hg/hf|pf1lsc2)bo(h|vi) De(hg/hiffoe|cltoS2hhpihh)um(ef!gwhe/fv/eeod|qi!clppt2vihhprhh) (,) Sal(ed~|vi>)va(fh|pehi)tó(hg/hvGF/g@ho1|cl-ci-vs-)rem(g!hwiHGF/gwhGF>|qi-hippt1sut3qi-hjsu1sux1) me(ef!gvFEf|vi-pp2su2vihh)um.(fe|cl-) (::)
+
+<sp>V/</sp> Quem(h|vi) vi(h|vi)sú(h|vi)rus(hg|cl) sum,(hih/ghg/ffoe|to-1hito-1hiprhi) (,) e(fg|pe)go(gf|cl) ip(hi|pe)se,(hg|cl) et(gh|pe) non(fg|pe) á(e|ta)li(e!fwgf|qihg!clhgppt1)us;(fe|cl-) (;) et(e|vi) ó(de|pe)cu(e|ta)li(e|ta) me(ef|pe)i(e|ta) con(gxfgFE/fgf|/////pe-su2to)spéc(efd|to)tu(ef|peS)ri(gyf!gwhg/hiHGF|ql!clppt1//to-1hlsu2) sunt.(fgFEfe|pe-1su2cl-) (::)
+<sp>+</sp> Et(d|ta) in(f|vi) car(hhi~|vi-ta>hh)ne.(h|vi) (::)
