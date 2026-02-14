@@ -1,0 +1,15 @@
+name:Ecce venit ad templum;
+office-part:in;
+mode:4g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Ecce venit ad templum;
+mode:4;
+office-part: Invitatorium;
+annotation: Inv.;
+annotation: iv g;
+nabc-lines:1;
+%%
+(cb4) Ec(d|ta)ce(dfd|to) ve(e|vi)nit(e/fgf|vi-hd/toS2|/eeof/ded|sa-tohi) (,) ad(fd~|vi>) tem(dfe~|pe>)plum(f|vi) sanc(g|vi)tum(fd~|vi>) su(e)um(e//fgf|ta/toS2|/eeof/ded|sa) (,) Do(d|talse6)mi(dh|pe)ná(h|vi)tor(g>|vi>) Dó(e|ta)mi(e!fgffs|clpp2sthh)nus:(ed/efe|cllsc3to) <sp>*</sp>(;) Gau(c|ta)de(de|pe) et(e|pe~) læ(e|ta)tá(fsfsfs|ts)re,(fd|cllsc3) Si(dgfg/hv|tr-3lss2/vihi)on,(g|vi-) (,) oc(c|ta)cúr(de|pe)rens(efED|ci-) De(fg|peS)o(gv/fg!hv/ig/hg|vi-vi-pp2pfShilss2) tu(egffs|tosthh)o.(fe|cl-) (::) <nlba>Ve(dh)ní(hi)te. <c><i>pag. <v>\pageref{M-ORIP4g}</v>.</i></c></nlba>(h ::)
