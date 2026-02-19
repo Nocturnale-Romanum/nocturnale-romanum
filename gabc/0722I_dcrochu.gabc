@@ -1,0 +1,16 @@
+name:Laudemus (Conv. Mariae Magdalenae);
+office-part:in;
+mode:2d;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Laudemus (Conv Mariae Magdalenae);
+mode: 2;
+office-part: Invitatorium;
+annotation: Inv.;
+annotation: ii;
+nabc-lines: 1;
+%%
+(f3) Lau(ef~|obpe~)dé(f|vi)mus(f//ghf/fe|toppt1pi) De(f|vi)um(hg~|vi>) nos(hiHG|peSsu2)trum(g|ta-) <sp>*</sp>(;) In(i|vi) con(ij~|pe~hh)ver(kxj//kij|/////pohjppt1)si(hg/hi|clpe)ó(hvGF|ci-)ne(f//ghf/gffoe|toppt1cl!pi) (,) Ma(ef|pe)rí(fiih|pe-hhclhh)æ(gf|cl) Mag(gh|pe)da(f|ta)lé(ef|pe)næ.(f|vicb) (::)
+<nlba>Ve(f)ní(e)t{e}. <c><i>pag. <v>\pageref{M-ORIP2d}</v>.</i></c></nlba>(f ::)
