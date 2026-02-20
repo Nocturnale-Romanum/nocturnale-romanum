@@ -4,14 +4,16 @@ mode:8;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-(c4) Mi(f_0/gh|grpe)sit(g|ta) He(g|ta)ró(gh|pe)des(g|ta) <sp>*</sp>() rex(ixghOi|////pqppt1) ma(h|vi)nus,(hg__/|cl-|h!iwjg/|ql!clppt1|hv/|vi|ggof.|pr) (;) ac(hf|cllssc2) té(ghg|to)nu(h|ta)it(hwj|ql) Jo(hg|cllsc3)án(hv_GFg_h>|ci-pe>1)nem(g.|ta) (;) 
-et(g|ta) vin(gh~|pe~)xit(g|ta) e(gh|pe)um(g|ta) in(g_h!iwjI_H_2|`qlhippt2sut2|iwj_IH>|`ql-hhsu1sux1) cár(g|ta)ce(gh!iv_HGh|//ci-hhpp2vihh)re,(ixg_h/ih..|/////cl-ppt2) (;) 
-qui(f|talst2)a(h|vi) me(jkj|tohi)tu(jh|clhh)é(jkj|tohj)bat(jk|pehj) e(ki_|clS-hi|jkh_|to-1hi|iv|vi)um(hho1g.|pr) (,) 
-prop(ixf_g/hih|/////tohippt2lsi8)ter(hg|cllsc3) He(iyi|////vi)ro(j|vihh)dí(j_i_|cl-hj|jv_I_HG|vihjsuu1su2)a(h_g_|cl-|hv_GF|ci-|g|vi)dem,(gf..|cl-) (:) 
+initial-style: 1;
+name:Misit Herodes rex;
+mode: 8;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: viii;
+nabc-lines:1;
+%%
+(c4) Mi(f/gh|gr-pe)sit(g|ta) He(g|ta)ró(gh|pe)des(g|ta) <sp>*</sp> rex(ixghOi|////pqppt1) ma(h|vi)nus,(ixhg/h!iwjg/hv/ggof|////cl-qlhh!clhhppt1vihm`prhm) (;) ac(hf|cllssc2) té(ghg|//to)nu(h|ta)it(hwj|ql) Jo(hg|cllsc3)án(hvGFgh>|ci-pe>1)nem(g|ta) (;) et(g|ta) vin(gh~|pe~)xit(g|ta) e(gh|pe)um(g|ta) in(gh!iwjIH|`qlhippt2sut2|iwjIH>|`ql-hhsu1sux1) cár(g|ta)ce(gh!ivHGh|//ci-hhpp2vihh)re,(ixg!hih|/////cl-ppt2) (;) qui(f|talst2)a(h|vi) me(jkj|//tohi)tu(jh|clhh)é(jkj|//tohj)bat(jk|pehj) e(ki/jkh/iv|///clS-hito-1hjvihk)um(hho1g|pr) (,) prop(ixfg!hih|/////tohippt2lsi8)ter(hg|cllsc3) He(iyi|////vi)ro(j|vihh)dí(ji|cl-hj|jvIHG|vihjsuu1su2)a(hg|cl-|hvGF|ci-|g|vi)dem,(gf|cl-) (:)
+<sp>+</sp> Quam(hf~|vi>lsl3) tú(ghg|//to)le(h|vi)rat(h|vi) fra(hwj|qllsl2)tri(hg|cllsc3) su(hvGFgh|ci-peS)o(g|ta) Phi(g|ta)líp(gh|pe)po(g|ta) u(gh!iwjIH|`ql-hippt2su1sut1|iwjIH|`ql-hisu1sut1)xó(gh!ivHGh|//ci-hhpp2vi)rem.(hg|cl-) (::)
 
-<sp>+</sp> Quam(hf~|vi>lsl3) tú(ghg|to)le(h|vi)rat(h|vi) fra(hwj|qllsl2)tri(hg|cllsc3) su(hv_GFg_h|ci-peS)o(g|ta) Phi(g|ta)líp(gh|pe)po(g|ta) u(g_h!iwj_IH|`ql-hippt2su1sut1|iwj_IH|`ql-hisu1sut1)xó(gh!iv_HGh|//ci-hhpp2vi)rem.(hg..|cl-) (::) 
-
-<sp>V/</sp> Ar(j|vi)gu(j|vi)é(ji|cl)bat(jkj/|tohj|iji/|tohj|hhog|pr) He(hi|pe)ró(ih|cl)dem(ij|pe) Jo(hi|pe)án(g!hwih|ta-ql!cl)nes(hg..|cl-lse6) (;) 
-prop(g|ta)ter(g|ta) He(ixhi_HGhih|/////pe-su1sut1to)ro(ghf|to)dí(g_h|peS)a(h!iwji/|ql!clppt1|jkJ_IH|toS2hlsu2)dem.(h_i_HGhg..|pe-1hhsu1sut1cl-hh) (::) 
-
-<sp>+</sp> Quam(hf~|vi>lsl3) tú(ghg|to)le(h|vi)rat.(h|vi) (::)
+<sp>V/</sp> Ar(j|vi)gu(j|vi)é(ji|cl)bat(jkj/|tohj|iji/|tohj|hhog|pr) He(hi|pe)ró(ih|cl)dem(ij|pe) Jo(hi|pe)án(g!hwih|ta-ql!cl)nes(hg|cl-lse6) (;) prop(g|ta)ter(g|ta) He(ixhiHGhih|/////pe-su1sut1to)ro(ghf|//to)dí(gh|peS)a(h!iwji/jkJIH|ql!clppt1toS2hmsu2)dem.(hiHGhg|pe-1hhsu1sut1cl-hh) (::)
+<sp>+</sp> Quam(hf~|vi>lsl3) tú(ghg|//to)le(h|vi)rat.(h|vi) (::)
