@@ -3,36 +3,42 @@ office-part:hy;
 mode:4;
 submitter:dcrochu;
 %%
-initial-style: 0;
+initial-style: 1;
+name: Surge jam terris;
+mode:4;
+office-part: Hymnus;
+annotation: Hymn.;
+annotation:iv;
+nabc-lines:1;
 %%
-(c4) Sur(f_)ge!(d) Jam(e) ter(e.)ris(e.) (,) fe(e)ra(g) bru(g)ma(h) ces(h.)sit,(g.) (;)
-Ri(h_)det(ixi) in(h) pra(g.)tis(g.) (,) de(h)cus(g) om(f)ne(d) flo(e.)rum,(e.) (;)
-Al(f_)ma(d) quæ(c) Vi(d.)tæ(d.) (,) Gé(f)ni(g)trix(h) fu(g)ís(g.)ti,(f.) (,)
-Sur(h_)ge,(f) Ma(g)rí(e.)a.(e.) (::) 
+(c4) Sur(f.)ge!(d) Jam(e) ter(e.)ris(e.) (,) fe(e)ra(g) bru(g)ma(h) ces(h.)sit,(g.) (;)
+Ri(h.)det(ixi) in(h) pra(g.)tis(g.) (,) de(h)cus(g) om(f)ne(d) flo(e.)rum,(e.) (;)
+Al(f.)ma(d) quæ(c) Vi(d.)tæ(d.) (,) Gé(f)ni(g)trix(h) fu(g)ís(g.)ti,(f.) (,)
+Sur(h.)ge,(f) Ma(g)rí(e.)a.(e.) (::) 
 
-<c>2.</c> Lí(f_)li(d)um(e) ful(e.)gens(e.) (,) vel(e)ut(g) in(g) ru(h)bé(h.)to,(g.) (;)
-Mor(h_)tis(ixi) auc(h)tó(g.)rem(g.) (,) te(h)ris(g) u(f)na,(d) car(e.)pens(e.) (;)
-Són(f_)ti(d)bus(c) fruc(d.)tum(d.) (,) pá(f)tri(g)bus(h) ne(g)gá(g.)tum(f.) (,)
-Ar(h_)bo(f)re(g) vi(e.)tæ.(e.) (::) 
+<c>2.</c> Lí(f.)li(d)um(e) ful(e.)gens(e.) (,) vel(e)ut(g) in(g) ru(h)bé(h.)to,(g.) (;)
+Mor(h.)tis(ixi) auc(h)tó(g.)rem(g.) (,) te(h)ris(g) u(f)na,(d) car(e.)pens(e.) (;)
+Són(f.)ti(d)bus(c) fruc(d.)tum(d.) (,) pá(f)tri(g)bus(h) ne(g)gá(g.)tum(f.) (,)
+Ar(h.)bo(f)re(g) vi(e.)tæ.(e.) (::) 
 
-<c>3.</c> Ar(f_)ca(d) non(e) pu(e.)tri(e.) (,) fa(e)bri(g)cá(g)ta(h) li(h.)gno(g.) (;)
-Man(h_)na(ixi) tu(h) ser(g.)vas,(g.) (,) flu(h)it(g) un(f)de(d) vir(e.)tus,(e.) (;)
-Ip(f_)sa(d) qua(c) sur(d.)gent(d.) (,) a(f)ni(g)má(h)ta(g) rur(g.)sus(f.) (,)
-Os(h_)sa(f) se(g)púl(e.)cris.(e.) (::) 
+<c>3.</c> Ar(f.)ca(d) non(e) pu(e.)tri(e.) (,) fa(e)bri(g)cá(g)ta(h) li(h.)gno(g.) (;)
+Man(h.)na(ixi) tu(h) ser(g.)vas,(g.) (,) flu(h)it(g) un(f)de(d) vir(e.)tus,(e.) (;)
+Ip(f.)sa(d) qua(c) sur(d.)gent(d.) (,) a(f)ni(g)má(h)ta(g) rur(g.)sus(f.) (,)
+Os(h.)sa(f) se(g)púl(e.)cris.(e.) (::) 
 
-<c>4.</c> Prǽ(f_)si(d)dis(e) men(e.)tis(e.) (,) dó(e)ci(g)lis(g) mi(h)nís(h.)tra,(g.) (;)
-Haud(h_) ca(ixi)ro(h) ta(g.)bo(g.) (,) pá(h)ti(g)tur(f) re(d)sól(e.)vi;(e.) (;)
-Spí(f_)ri(d)tus(c) i(d.)mo(d.) (,) si(f)ne(g) fi(h)ne(g) con(g.)sors(f.) (,)
-Ten(h_)dit(f) ad(g) as(e.)tra.(e.) (::)
+<c>4.</c> Prǽ(f.)si(d)dis(e) men(e.)tis(e.) (,) dó(e)ci(g)lis(g) mi(h)nís(h.)tra,(g.) (;)
+Haud(h.) ca(ixi)ro(h) ta(g.)bo(g.) (,) pá(h)ti(g)tur(f) re(d)sól(e.)vi;(e.) (;)
+Spí(f.)ri(d)tus(c) i(d.)mo(d.) (,) si(f)ne(g) fi(h)ne(g) con(g.)sors(f.) (,)
+Ten(h.)dit(f) ad(g) as(e.)tra.(e.) (::)
 
-<c>5.</c> Sur(f_)ge!(d) Di(e)léc(e.)to(e.) (,) pe(e)te(g) ni(g)xa(h) cæ(h.)lum,(g.) (;)
-Su(h_)me(ixi) con(h)sér(g.)tum(g.) (,) di(h)a(g)dé(f)ma(d) stel(e.)lis,(e.) (;)
-Te(f_)que(d) na(c)tó(d.)rum(d.) (,) ré(f)ci(g)nens(h) be(g)á(g.)tam(f.) (,)
-Ex(h_)ci(f)pe(g) car(e.)men.(e.) (::)
+<c>5.</c> Sur(f.)ge!(d) Di(e)léc(e.)to(e.) (,) pe(e)te(g) ni(g)xa(h) cæ(h.)lum,(g.) (;)
+Su(h.)me(ixi) con(h)sér(g.)tum(g.) (,) di(h)a(g)dé(f)ma(d) stel(e.)lis,(e.) (;)
+Te(f.)que(d) na(c)tó(d.)rum(d.) (,) ré(f)ci(g)nens(h) be(g)á(g.)tam(f.) (,)
+Ex(h.)ci(f)pe(g) car(e.)men.(e.) (::)
 
-<c>6.</c> Laus(f_) sit(d) ex(e)cél(e.)sæ(e.) (,) Trí(e)a(g)di(g) per(h)én(h.)nis,(g.) (;)
-Quæ(h_) ti(ixi)bi,(h) Vir(g.)go,(g.) (,) trí(h)bu(g)it(f) co(d)ró(e.)nam,(e.) (;)
-At(f_)que(d) re(c)gí(d.)nam(d.) (,) sta(f)tu(g)ít(h)que(g) nos(g.)tram(f.) (,)
-Pró(h_)vi(f)da(g) ma(e.)trem.(e.) (::) 
+<c>6.</c> Laus(f.) sit(d) ex(e)cél(e.)sæ(e.) (,) Trí(e)a(g)di(g) per(h)én(h.)nis,(g.) (;)
+Quæ(h.) ti(ixi)bi,(h) Vir(g.)go,(g.) (,) trí(h)bu(g)it(f) co(d)ró(e.)nam,(e.) (;)
+At(f.)que(d) re(c)gí(d.)nam(d.) (,) sta(f)tu(g)ít(h)que(g) nos(g.)tram(f.) (,)
+Pró(h.)vi(f)da(g) ma(e.)trem.(e.) (::) 
 
 A(efe)men.(de..) (::)
