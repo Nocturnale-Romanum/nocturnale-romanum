@@ -2,6 +2,7 @@ name:Stemus juxta Crucem cum Maria;
 office-part:in;
 mode:4e;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Stemus juxta Crucem cum Maria;
@@ -11,5 +12,5 @@ annotation: Inv.;
 annotation:iv;
 nabc-lines:1;
 %%
-(c4) Ste(c!dwe/fo)mus(ed) jux(dfe)ta(fg) Cru(gf!gwhgh)cem(hg) (;) cum(e) Ma(f)rí(ggo)a(e) Ma(gh)tre(hg) Je(e!fgffs)su,(ed/efe)  <sp>*</sp>(;) Cu(c)jus(de) á(e!fo)ni(e)mam(e) (`) do(e)ló(fe)ris(dc) glá(d)di(d)us(dsfssgddoc) per(eeo!fd~)trans(f)í(fg)vit.(e) (::)
+(c4) Ste(c!dwe/fo|ql-ppt1orhk)mus(ed|cl-) jux(dfe|//to)ta(fg|pe) Cru(gf!gwhgh|cl-qlhg!pohg)cem(hg|cl-) (;) cum(e|ta) Ma(f|vi)rí(ggo|vs)a(e|ta) Ma(gh|pe)tre(hg|cl) Je(e!fgffs|clpp2sthj)su,(ed/efe|cllsc3`tohg) <sp>*</sp>(;) Cu(c|ta)jus(de|pe) á(e!fo|vs)ni(e|ta)mam(e|ta) (`) do(e|ta)ló(fe|cl)ris(dc|cl) glá(d|vi)di(d|vi)us(dsfssgddoc|tsM-clhk!pihk) per(eeo@fd~|sa>lsi6)trans(f|vi)í(fg|pe)vit.(e|ta) (::)
 <nlba>Ve(e)ní(g)te. <c><i>pag. <v>\pageref{M-ORIP4e}</v>.</i></c></nlba>(h ::)
