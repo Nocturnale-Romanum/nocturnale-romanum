@@ -3,31 +3,31 @@ office-part:hy;
 mode:7;
 submitter:dcrochu;
 %%
-initial-style: 1;
+initial-style: i;
 name: Custodes hominum psallimus Angelos;
 mode:7;
 office-part: Hymnus;
 annotation: Hymn.;
 annotation:vii;
-nabc-lines:1;
+nabc-lines:i;
 %%
-(c3) Cu(e)stó(g)des(h) hó(ij)mi(ih)num(1) (,) psál(e)li(fg)mus(h) An(gvFE)ge(f)los,(e) (;)
-Na(e)tú(g)ræ(h) frá(ij)gi(ih)li(1) (,) quos(e) Pa(fg)ter(h) ád(gvFE)di(f)dit(e) (:)
+(c3) Cus(e)tó(g)des(h) hó(ij)mi(ih)num(i) (,) psál(e)li(fg)mus(h) An(gvFE)ge(f)los,(e) (;)
+Na(e)tú(g)ræ(h) frá(ij)gi(ih)li(i) (,) quos(e) Pa(fg)ter(h) ád(gvFE)di(f)dit(e) (:)
 Cæ(ih)lés(i)tis(ij) cóm(l)i(k)tes,(jij) (,) in(l)si(k)di(j)án(i)ti(ih)bus(gfg) (;)
 Ne(g@hoi) suc(f)cúm(ed)be(e)ret(f) hós(g)ti(hvGF)bus.(e) (::)
 
-<c>2.</c> Nam(e) quod(g) cor(h)rú(ij)e(ih)rit(1) (,) pró(e)di(fg)tor(h) án(gvFE)ge(f)lus,(e) (;)
-Con(e)cés(g)sis(h) mé(ij)ri(ih)to(1) (,) pul(e)sus(fg) ho(h)nó(gvFE)ri(f)bus,(e) (:)
+<c>2.</c> Nam(e) quod(g) cor(h)rú(ij)e(ih)rit(i) (,) pró(e)di(fg)tor(h) án(gvFE)ge(f)lus,(e) (;)
+Con(e)cés(g)sis(h) mé(ij)ri(ih)to(i) (,) pul(e)sus(fg) ho(h)nó(gvFE)ri(f)bus,(e) (:)
 Ar(ih)dens(i) in(ij)ví(l)di(k)a(jij) (,) pél(l)le(k)re(j) ní(i)ti(ih)tur(gfg) (;)
 Quos(g@hoi) cæ(f)lo(ed) De(e)us(f) ád(g)vo(hvGF)cat.(e) (::)
 
-<c>3.</c> Huc,(e) cu(g)stos,(h) í(ij)gi(ih)tur(1) (,) pér(e)vi(fg)gil(h) ád(gvFE)vo(f)la,(e) (;)
-A(e)vér(g)tens(h) pá(ij)tri(ih)a(1) (,) de(e) ti(fg)bi(h) cré(gvFE)di(f)ta(e) (:)
+<c>3.</c> Huc,(e) cu(g)stos,(h) í(ij)gi(ih)tur(i) (,) pér(e)vi(fg)gil(h) ád(gvFE)vo(f)la,(e) (;)
+A(e)vér(g)tens(h) pá(ij)tri(ih)a(i) (,) de(e) ti(fg)bi(h) cré(gvFE)di(f)ta(e) (:)
 Tam(ih) mor(i)bos(ij) á(l)ni(k)mi(jij) (,) quam(l) re(k)qui(j)é(i)sce(ih)re(gfg) (;)
 Quid(g@hoi)quid(f) non(ed) si(e)nit(f) ín(g)co(hvGF)las.(e) (::)
 
-<c>4.</c> Sanc(e)tæ(g) sit(h) Trí(ij)a(ih)di(1) (,) laus(e) pi(fg)a(h) jú(gvFE)gi(f)ter,(e) (;)
-Cu(e)jus(g) per(h)pé(ij)tu(ih)o(1) (,) nú(e)mi(fg)ne(h) má(gvFE)chi(f)na(e) (:)
+<c>4.</c> Sanc(e)tæ(g) sit(h) Trí(ij)a(ih)di(i) (,) laus(e) pi(fg)a(h) jú(gvFE)gi(f)ter,(e) (;)
+Cu(e)jus(g) per(h)pé(ij)tu(ih)o(i) (,) nú(e)mi(fg)ne(h) má(gvFE)chi(f)na(e) (:)
 Tri(ih)plex(i) hæc(ij) ré(l)gi(k)tur,(jij) (,) cu(l)jus(k) in(j) óm(i)ni(ih)a(gfg) (;)
 Re(g@hoi)gnat(f) gló(ed)ri(e)a(f) sǽ(g)cu(hvGF)la.(e) (::)
-A(efe)men.(de.) (::)
+A(efe)men.(de) (::)
