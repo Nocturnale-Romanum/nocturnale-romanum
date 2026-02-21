@@ -1,0 +1,27 @@
+name:Vidi speciosam sicut V Astitit Regina;
+office-part:re;
+mode:3;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name: Vidi speciosam sicut;
+mode: 3;
+office-part: Responsorium;
+annotation: Resp.;
+annotation: iii;
+nabc-lines: 1;
+%%
+initial-style: 1;
+name: Vidi speciosam sicut;
+mode:4;
+office-part: Responsorium;
+annotation: Resp.;
+annotation:iii;
+nabc-lines:1;
+%%
+(c4) Vi(e|vi)di(eg/fssded|pe-ds-hitohi) <sp>*</sp> spe(ef|peS)ci(g|vi)ó(ixhg/hi|//////po-1vihj)sam(h|vi) (,) sic(h|vi)ut(h|vi) co(hg|cllsc3)lúm(ixh/igh|////////vi-pohi)bam,(hggo/efe|cllsc2orhgtohh) (,) a(f|vi)scen(ghg~|pe>)dén(h|vi>)tem(g|ta) dé(gh|peS)su(g|ta)per(g|ta) ri(gh|pe-lst3)vos(gf|cl) a(de|pe)quá(e/fgffs|////toppt1sthh)rum,(ed|cl-) (;) cu(e|vi)jus(eg/fssded|pe-ds-hjtohjlse6) in(dc|cl)æs(gh|pe)ti(g|ta)má(hi/jo|peorhh)bi(i|ta)lis(i|ta) o(i|ta)dor(ik/jsshih|pehhds-hitohjcl-hk) e(h|vi)rat(j|vihh) ni(ikjjs|/tohhlse4sthj)mis(ji|cl-) (;) in(i>|``vi>lse1lst2lsi6) ves(g|ta)ti(h!iwj|viqlhi)mén(jijg~|//po>lsi6)tis(h!iwj|viqlhilse3) e(jvIH|vi-su1sut1|ivH~G~|cl->)jus.(hg|cl-) (:)
+<sp>+</sp> Et(e|grlsc3lsi8) sic(ixg/hi|//////vipe)ut(h|ta) di(h|ta)es(hg~|cl~) ver(ixh/igh|//////vi-pohi)ni(hggo/efe|clorhgtohh) (,) cir(f|vi)cum(ghg~|pe>)dá(h|vi)bant(g|ta) e(gh|pe)am(g|ta) flo(gh|pe-)res(gf|cl) ro(de|pe)sá(e/fgffs|//to-1ppu1sthh)rum(ed|cl-) (;) et(g|vi) lí(gsjss|tsM)li(ih|cl)a(hoi|pq-) con(g>|vi>lst2)vál(eeof|sa)li(fv/df!gvFEf|vi-////ci-pp2vi)um.(fe|cl-) (::)
+
+<sp>V/</sp> A(ikjjs|//obtohhsthj)sti(h!iwji|ql!clppt1)tit(hhog|pr) Re(i|vi)gí(ij|pe)na(i|ci) a(i) dex(i)tris(i) tu(ij|pe)is(h|ta) in(h|ta) ves(h|ta)tí(h|ta)tu(hg|cl) de(h|ta)au(j|vi)rá(ikjjs|//tohhsthj)to,(ji|cl-) (;) cir(ig~|cl~)cúm(hi~|pe~)da(i|vi)ta(i|vi) va(ikjjvIH|////trShjsut2|iwji|qlhh!clhh)ri(hg|cl)e(gh!iwj|qlhhppt2)tá(jiioh|cl!pi|ivHGh|vi-su1suu1vi)te.(hg|cl-cb) (::)
+<sp>+</sp> Et(e|grlsc3lsi8) sic(ixg/hi|//////vipe)ut(h|ta) (::)
