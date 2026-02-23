@@ -4,4 +4,13 @@ mode:8g;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-(c3) SEp(e|obta)tem(e|ta) vi(eh|pe)ros(fvED|ci-) há(ef|pe)bu(fo|orhg)it,(e|ta) <sp>*</sp>(,) quos(e|``talse1) dæ(g|vi)mó(h|vihg)ni(i|vihh)um(h|vi) op(f|ta)prés(hho|vshe)sit;(g|ta-) (;) tí(iio|vs)me(h|ta)o(h|ta) ne(ij|pehg) mi(i|vihg)hi(hg/hih|cllsc2toS2hg) (,) sí(f|ta)mi(f|ta-)le(h|vihh) con(g>|vi)tín(e|ta)gat.(e|tacb) (::Z) E(h) U(h) O(g) U(h) A(f) E.(e) (::)
+initial-style: 1;
+name: Septem viros habuit quos;
+mode:8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation:viii g;
+nabc-lines:1;
+%%
+(c3) SEp(e|obta)tem(e|ta) vi(eh|pe)ros(fvED|ci-) há(ef|pe)bu(fo|orhg)it,(e|ta) <sp>*</sp>(,) quos(e|``talse1) dæ(g|vi)mó(h|vihg)ni(i|vihh)um(h|vi) op(f|ta)prés(hho|vshe)sit;(g|ta-) (;) tí(iio|vs)me(h|ta)o(h|ta) ne(ij|pehg) mi(i|vihg)hi(hg/hih|cllsc3`toS2hg) (,) sí(f|ta)mi(f|ta-)le(h|vihh) con(g>|vi)tín(e|ta)gat.(e|tacb) (::)
+<eu> E(h) U(h) O(g) U(h) A(f) E.(e) </eu> (::)
