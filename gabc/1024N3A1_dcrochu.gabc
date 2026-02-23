@@ -4,4 +4,13 @@ mode:7c2;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-(c3) EST(g|obta) hic(h|vi) Sa(ij|peShg)ra (i|ta-hg) <sp>*</sp> Ra(ij|peShg)gu(hf|cl-)é(g|vihh)lis(f|vihg) fí(e|vi)li(de|pe)a,(e|ta-) (;) Quæ(e|ta) ti(ehg|to)bi(h|vi) con(i|vihg)jú(j|vihh)gi(i|vi)o(h|ta) dá(jk|``peShjlss7)bi(j|vihh)tur,(i|vi-) (,) et(h|ta) om(hg/hoi>|clpq>)nis(f|ta) sub(f|``talse1)stán(fi>|pe>1)ti(h|vihh)a(g|vi) e(e|ta)jus.(e|tacb) (::) E(i) U(i) O(j) U(i) A(h) E.(ih) (::)
+initial-style: 1;
+name: Est hic Sara Raguelis;
+mode:7;
+office-part: Antiphona;
+annotation: Ant.;
+annotation:vii c 2;
+nabc-lines:1;
+%%
+(c3) EST(g|obta) hic(h|vi) Sa(ij|peShg)ra (i|ta-hg) <sp>*</sp> Ra(ij|peShg)gu(hf|cl-)é(g|vihh)lis(f|vihg) fí(e|vi)li(de|pe)a,(e|ta-) (;) Quæ(e|ta) ti(ehg|to)bi(h|vi) con(i|vihg)jú(j|vihh)gi(i|vi)o(h|ta) dá(jk|``peShjlss7)bi(j|vihh)tur,(i|vi-) (,) et(h|ta) om(hg/hoi>|clpq>)nis(f|ta) sub(f|``talse1)stán(fi>|pe>1)ti(h|vihh)a(g|vi) e(e|ta)jus.(e|tacb) (::)
+<eu> E(i) U(i) O(j) U(i) A(h) E.(ih) </eu> (::)
