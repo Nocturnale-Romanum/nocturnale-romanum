@@ -1,26 +1,33 @@
-name:Christe sanctorum decus Angelorum;
+name:Christe sanctorum (Raphaëlis, textus antiquus);
 office-part:hy;
 mode:1;
 submitter:dcrochu;
+%%
+initial-style: 1;
+name: Christe Sanctorum;
+mode:1;
+office-part: Hymnus;
+annotation: Hymn.;
+annotation:i;
 nabc-lines:1;
 %%
-(c4) CHri(hho|vs)ste,(g|ta) sanc(h|vi)tó(gf|cllsc3)rum(e|ta-) (,) de(e|``talse1)cus(g|vi) An(e|ta)ge(f|vi)ló(eeo|vshe)rum,(d|ta-) (;)
-Gen(d|``talse1)tis(d|ta) hu(dh|``pelss2)má(h|vi)næ(hgj|poG-lsl3) Sa(i|vihh)tor(h|vi) et(g|ta) red(h|vi)émp(gf|cllsc3)tor,(e|ta-) (;)
-Cœ́(ffo|vs)li(e|ta)tum(g|vi) no(ghGEf|pe-su1sut1vihg)bis(d|ta-) trí(e|vi)bu(g|vihh)as(e|ta) be(f|vi)á(ed|cllsc3)tas,(c|ta-) (;)
-Scán(ffo|vs)de(e|ta)re(g|vi) se(fe|cllsc3)des.(d|ta-) (::)
+(c4) CHris(hho)te,(g) sanc(h)tó(gf)rum(e) (,) de(e)cus(g) An(e)ge(f)ló(eeo)rum,(d) (;)
+Gen(d)tis(d) hu(dh)má(h)næ(hgj) Sa(i)tor(h) et(g) red(h)émp(gf)tor,(e) (;)
+Cœ́(ffo)li(e)tum(g) no(ghGEf)bis(d) trí(e)bu(g)as(e) be(f)á(ed)tas,(c) (;)
+Scán(ffo)de(e)re(g) se(fe)des.(d) (::)
 
-2. An(hho|vs)ge(g|ta)lus(h|vi) no(gf|cllsc3)stræ(e|ta-) (,) mé(e|``talse1)di(g|vi)cus(e|ta) sa(f|vi)lú(eeo|vshe)tis(d|ta-) (;)
-Ad(d|``talse1)sit(d|ta) e(dh|``pelss2) cœ(h|vi)lo(hgj|poG-lsl3) Rá(i|vihh)pha(h|vi)ël,(g|ta) ut(h|vi) om(gf|cllsc3)nes(e|ta-) (;)
-Sa(ffo|vs)net(e|ta) æ(g|vi)gró(ghGEf|pe-su1sut1vihg)tos,(d|ta-) du(e|vi)bi(g|vihh)ós(e|ta)que(f|vi) vi(ed|cllsc3)tæ(c|ta-) (;)
-Dí(ffo|vs)ri(e|ta)gat(g|vi) ac(fe|cllsc3)tus(d|ta-) (::)
+2. An(hho)ge(g)lus(h) nos(gf)træ(e) (,) mé(e)di(g)cus(e) sa(f)lú(eeo)tis(d) (;)
+Ad(d)sit(d) e(dh) cœ(h)lo(hgj) Rá(i)pha(h)ël,(g) ut(h) om(gf)nes(e) (;)
+Sa(ffo)net(e) æ(g)gró(ghGEf)tos,(d) du(e)bi(g)ós(e)que(f) vi(ed)tæ(c) (; )
+Dí(ffo)ri(e)gat(g) ac(fe)tus(d) (::)
 
-3. Vir(hho|vs)go(g|ta) dux(h|vi) pa(gf|cllsc3)cis,(e|ta-) (,) Ge(e|``talse1)ni(g|vi)tríx(e|ta)que(f|vi) lu(eeo|vshe)cis,(d|ta-) (;)
-Et(d|``talse1) sa(d|ta)cer(dh|``pelss2) no(h|vi)bis(hgj|poG-lsl3) cho(i|vihh)rus(h|vi) An(g|ta)ge(h|vi)ló(gf|cllsc3)rum(e|ta-) (;)
-Sem(ffo|vs)per(e|ta) as(g|vi)sí(ghGEf|pe-su1sut1vihg)stat,(d|ta-) si(e|vi)mul(g|vihh) et(e|ta) mi(f|vi)cán(ed|cllsc3)tis(c|ta-) (;)
-Ré(ffo|vs)gi(e|ta)a(g|vi) cœ(fe|cllsc3)li.(d|ta-) (::)
+3. Vir(hho)go(g) dux(h) pa(gf)cis,(e) (,) Ge(e)ni(g)tríx(e)que(f) lu(eeo)cis,(d) (;)
+Et(d) sa(d)cer(dh) no(h)bis(hgj) cho(i)rus(h) An(g)ge(h)ló(gf)rum(e) (;)
+Sem(ffo)per(e) as(g)sís(ghGEf)tat,(d) si(e)mul(g) et(e) mi(f)cán(ed)tis(c) (;)
+Ré(ffo)gi(e)a(g) cœ(fe)li.(d) (::)
 
-4. Præ(hho|vs)stet(g|ta) hoc(h|vi) no(gf|cllsc3)bis(e|ta-) (,) Dé(e|``talse1)i(g|vi)tas(e|ta) be(f|vi)á(eeo|vshe)ta(d|ta-) (;)
-Pa(d|``talse1)tris,(d|ta) ac(dh|``pelss2) Na(h|vi)ti,(hgj|poG-lsl3) pa(i|vihh)ri(h|vi)tér(g|ta)que(h|vi) Sanc(gf|cllsc3)ti(e|ta-) (;)
-Spí(ffo|vs)ri(e|ta)tus,(g|vi) cu(ghGEf|pe-su1sut1vihg)jus(d|ta-) ré(e|vi)so(g|vihh)nat(e|ta) per(f|vi) om(ed|cllsc3)nem(c|ta-) (;)
-Gló(ffo|vs)ri(e|ta)a(g|vi) mun(fe|cllsc3)dum.(d|ta-) (::)
-A(ded|toS)men.(cd|pq-) (::)
+4. Præs(hho)tet(g) hoc(h) no(gf)bis(e) (,) Dé(e)i(g)tas(e) be(f)á(eeo)ta(d) (;)
+Pa(d)tris,(d) ac(dh) Na(h)ti,(hgj) pa(i)ri(h)tér(g)que(h) Sanc(gf)ti(e) (;)
+Spí(ffo)ri(e)tus,(g) cu(ghGEf)jus(d) ré(e)so(g)nat(e) per(f) om(ed)nem(c) (;)
+Gló(ffo)ri(e)a(g) mun(fe)dum.(d) (::)
+A(ded)men.(cd) (::)
