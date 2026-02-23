@@ -5,15 +5,15 @@ submitter:dcrochu;
 nabc-lines:1;
 %%
 initial-style: 1;
-name: Beata es Virgo Maria quae;
-mode:6;
+name: Beata es Virgo Maria Dei Genitrix;
+mode:5;
 office-part: Responsorium;
 annotation: Resp.;
-annotation:vi;
+annotation:v;
 nabc-lines:1;
 %%
-(c4) Be(d|obta)á(f/fg|pe/pehi)ta(f|ta) es,(f|ta) <sp>*</sp>(,) Vir(fg~|pe~)go(f|ta) Ma(fg|ta)rí(ghgh|tr)a,(hggof|cl-pi) (,) De(f|````talse4)i(fg|pe) Gé(g|vi)ni(gf!gwhgh|cl-ql!po)trix,(hg|cl-) (;) quæ(f|ta) cre(f|ta)di(f|vilslp2)dís(d!ewfEC|ql-ppt1su2)ti(ixeg!hv//ig!hwiHG|////vi-pp2cl-hlql-hlsu2) Dó(f|ta)mi(fg!hvGFg|////ci-pp2vi)no:(gf|cl-) (;) per(fjjk~|tr~hh)féc(jk|pehj)ta(j|vihh) sunt(ixhiHGhg|////pe-1hhsu1sut1cl-) in(ixh!iwjhhwihi|////viqihi!clhiqlhm!pohm) te,(ixih|/////cl-) (,) quæ(j|vilsl3) dic(j|````vilse1)ta(iyij|/////pe) sunt(hhghg|//vi-pf-hh) ti(fg@hvGFg|ciSpp2vi)bi:(gf|cl-) (;)
-<sp>+</sp> Prop(fg|obpeS)té(ixh!iwj|viqlhj)re(g|vi)a(f|talsi2) be(f|ta)ne(f|ta)dí(f|ta)xit(f|ta) te(bxgffd/fc/dv/ccob|///clclclhglsm2vihi`prhi) (;) De(c|vilss4)us(df|pe) in(e@goh|sa) æ(ixhjHGhwiHG|////peSsut2lsm2ql-su2)tér(fg!hvGFg|////ci-pp2vi)num.(gf|cl-) (::)
+(c4) Be(d|ta)á(f/fg|pe/pehj)ta(f|ta) es,(f|ta) <sp>*</sp>(,) Vir(fg~|pe~)go(f|ta) Ma(fg|ta)rí(ghgh|//tr)a,(hggof|//cl-pi) (,) De(f|````talse4)i(fg|pe) Gé(g|vi)ni(gf!gwhgh|cl-ql!po)trix,(hg|cl-) (;) quæ(f|ta) cre(f|ta)di(f|vilslp2)dís(d!ewfEC|ql-ppt1su2)ti(ixeg@hv|////vi-pp2|ig!hwiHG|cl-hjql-hjsu2) Dó(f|ta)mi(fg!hvGFg|////ci-pp2vi)no:(gf|cl-lse6) (;) per(fjjk~|tr~hh)féc(jk|pehj)ta(j|vihh) sunt(ixhiHG|////pe-1hhsu1sut1|hg|cl-) in(ixh!iwjhhwihi|////viheqihh!clhhqlhm!pohm) te,(ixih|/////cl-) (,) quæ(j|vilsl3) dic(j|````vilse1)ta(iyij|/////pe) sunt(hhghg|vi-pf-hh) ti(fg@hvGFg|ciSpp2vi)bi:(gf|cl-) (;) Prop(fg|obpeS)tér(ixh!iwj|viqlhj)e(g|vi)a(f|talsi2) be(f|ta)ne(f|ta)dí(f|ta)xit(f|ta) te(bxgffd/fc/dv/ccob|///clclclhglsm2vihi`prhi) (;) De(c|vilss4)us(df|pe) in(e@goh|sa) æ(ixhjHGhwiHG|////peSsut2lsm2ql-su2)tér(fg!hvGFg|////ci-pp2vi)num.(gf|cl-) (:)
+<sp>+</sp> In(f|talse4)ter(g|vi)cé(ixh!iwj|viqlhj)de(g|vi) pro(f|talsi2) no(f|ta)bis(bxgf/fd/fc/dvccob|////clclclvilsm2pr) (;) ad(c|vilss4) Dó(df|pe)mi(f|vi)num(f>|vi>) De(e@goh|sa)um(ixhjHG/hwiH!Gs>|////peSsut2lsm2ql-su1sux1) nos(fg!hvGFg|////ci-pp2vi)trum.(gf|cl-) (::)
 
-<sp>V/</sp> Dif(j|vihh)fú(j|vihh)sa(j|ta) est(jk/jsshih|pe-hjds-hmtohm) grá(jk|pehh)ti(j|tahh)a(j|tahh) (,) in(j|vihh) lá(jh|cl)bi(hk|pehh)is(ij|pe) tu(ji!jwkjk|cl-hhqlhh!pohh)is:(kj|cl-hh) (;) in(f|ta)ter(h|vi)cé(j|vihh)de(j|vihh) pro(j|vihh) no(jk|pehk)bis(j|vihh) (,) ad(j|vihh) Dó(j|vihh)mi(j|vihh)num(ji/ji|//pf) De(ih|cl)um(jk|peShj) nos(ixji!jwkJIHi|//////cl-hjqlhj!vshjsu2vihj)trum.(ih|cl-) (::)
-<sp>+</sp> Prop(fg|peS)té(ixh!iwj|viqlhj)re(g|vi)a.(f|talsi2cb) (::)
+<sp>V/</sp> Dif(j|vihh)fú(j|vihh)sa(j|vihh) est(jk/jsshih|pe-hjds-hmtohm) grá(jk|pehh)ti(j|tahh)a(j|tahh) (,) in(j|vihh) lá(jh|cl)bi(hk|pehh)is(ij|pe) tu(ji!jwkjk|cl-hhqlhh!pohh)is:(kj|cl-hh) (;) in(f|ta)ter(h|vi)cé(j|vihh)de(j|vihh) pro(j|vihh) no(jk|pehk)bis(j|vihh) (`) ad(j|vihh) Dó(j|vihh)mi(j|vihh)num(ji/ji|//pf) De(ih|cl)um(jk|peShj) nos(ixji!jwkJIHi|//////cl-hjqlhj!vshjsu2vihj)trum.(ih|cl-) (::)
+<sp>+</sp> Prop(fg|peS)tér(ixh!iwj|viqlhj)e(g|vi)a.(f|talsi2cb) (::)
