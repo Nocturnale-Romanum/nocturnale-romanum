@@ -2,6 +2,7 @@ name:Astiterunt reges terrae;
 office-part:an;
 mode:8g;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name: Astiterunt reges terrae;
@@ -11,5 +12,5 @@ annotation: Ant.;
 annotation: viii g;
 nabc-lines: 1;
 %%
-(c4) A(g)sti(g)té(g)runt(g) re(g)ges(g) ter(ixi)rae,(ggo) <sp>*</sp>(,) et(f) prín(g)ci(ixi)pes(g) con(g>)ve(f)né(g)runt(h) in(ixi) u(h)num,(f) (;) ad(h)vér(f)sus(h) Dó(j)mi(j)num,(ig) (,) et(i) ad(j)vér(h)sus(gf) Chris(g)tum(ixih~) e(g)jus.(g) (::)
+(c4) A(g|vilsew3)sti(g|vi)té(g|vi)runt(g|vi) re(g|vi)ges(g|vi) ter(ixi|////vihllss3)ræ,(ggo|vs) (,) <sp>*</sp> et(f|ta) prín(g|vi)ci(ixi|////vihi)pes(g|talsx9) con(g>|vi>)ve(f|ta)né(g|vi)runt(h|vihi) in(ixi|////vihk) u(h|vihm)num,(f|ta) (;) ad(h|vi)vér(f|ta)sus(h|vi) Dó(j|vi)mi(j|vi)num,(ig|cl-hg) (,) et(i|vihg) ad(j|vihi)vér(h|vihg)sus(gf|cllsc3) Chris(g|ta-)tum(ixih~|////vi>) e(g|ta)jus.(g|ta) (::)
 <eu> Et(j) sic(j) fi(i)ni(j)á(h)tur.(g) </eu> (::)
