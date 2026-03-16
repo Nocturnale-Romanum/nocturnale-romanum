@@ -6,17 +6,9 @@ submitter:dcrochu;
 initial-style: 1;
 name: Verbum supernum prodiens;
 mode: D;
-office-part: Invitatorium;
-annotation: Inv.;
+office-part: Hymnus;
+annotation: Hymn.;
 annotation: D;
-%%
-initial-style: 1;
-name: Verbum supernum;
-mode:D;
-office-part: Antiphona;
-annotation: Ant.;
-annotation:D;
-nabc-lines:1;
 %%
 (c3) Ver(f)bum(e) su(f)pér(h)num(i) pród(j)i(i)ens,(i) (,)
 A(h) Pa(i)tre(j) o(k)lim(jh) éx(i)i(j)ens,(i) (;) 
