@@ -1,7 +1,14 @@
-name:Verbum supernum prodiens (textus antiquus);
+name:Verbum supernum prodiens (textus antiquus) (alter tonus);
 office-part:hy;
 mode:D;
 submitter:dcrochu;
+%%
+initial-style: 1;
+name: Verbum supernum prodiens;
+mode: D;
+office-part: Invitatorium;
+annotation: Inv.;
+annotation: D;
 %%
 initial-style: 1;
 name: Verbum supernum;
@@ -11,7 +18,7 @@ annotation: Ant.;
 annotation:D;
 nabc-lines:1;
 %%
-(c3)Ver(f)bum(e) su(f)pér(h)num(i) pród(j)i(i)ens,(i) (,)
+(c3) Ver(f)bum(e) su(f)pér(h)num(i) pród(j)i(i)ens,(i) (,)
 A(h) Pa(i)tre(j) o(k)lim(jh) éx(i)i(j)ens,(i) (;) 
 Qui(i) na(i)tus(j) or(h)bi(fh) súb(gxg)ve(f)nis(e) (,) 
 Cur(f)su(e) de(f)clí(h)vi(i) tém(j)po(i)ris:(i) (::)
