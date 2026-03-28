@@ -1,0 +1,16 @@
+name:Alleluia (invit. in Feriis TP);
+office-part:in;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Alleluia;
+mode: 6;
+office-part: Invitatorium;
+annotation: Inv.;
+annotation: vi f;
+nabc-lines:1;
+%%
+(c4) Al(f|ta)le(f|ta)lú(g>|vi>){ia},(f|ta) al(f|ta)le(f|ta)lú(gh~|pe~){ia},(h|vi) <sp>*</sp>(;) Al(f!gwh>|qi>ppt1)le(ghf/fvED|toci)lú(f!gwhgh>|ql!po>ppt1){ia}.(gf|cl-) (::)
+<nlba>Ve(fh)ní(j)t{e}. <c><i>pag. <v>\pageref{M-ORIP6f}</v>.</i></c></nlba>(j ::)
