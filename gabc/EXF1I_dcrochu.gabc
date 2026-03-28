@@ -4,12 +4,13 @@ mode:4c;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-initial-style:1;
-name:Adoremus Dominum qui;
+initial-style: 1;
+name: Adoremus Dominum qui;
 mode:4;
-office-part:Invitatorium;
-annotation:Inv.;
+office-part: Antiphona;
+annotation: Ant.;
 annotation:iv c;
+nabc-lines:1;
 %%
-(f3) Ad(e|ta)o(gih|toS)ré(f!gwh|qlppt1)mus(gh/ffoe|peShhprhh) Dó(fg|pe)mi(g|vi)num,(g|vi) <sp>*</sp>(;) Qui(gf!gwh|cl-ql) fe(g|vi``ta)cit(gihhs|tosthh) nos.(hg|cl-) (::)
-<nlba>Ve(dh)ní(ixhi)t{e}. <c><i>pag. <v>\pageref{M-ORIP3c}</v>.</i></c></nlba>(h ::)
+(c4) Ad(c|ta)o(egf|toS)ré(d!ewf|qlppt1)mus(ef/ddoc|peShhprhh) Dó(de|pe)mi(e|vi)num,(e|vi) <sp>*</sp>(;) Qui(ed!ewf|cl-ql) fe(e|vi``ta)cit(egffs|tosthh) nos.(fe|cl-) (::)
+<nlba>Ve(dh)ní(ixhi)t{e}. <c><i>pag. <v>\pageref{M-ORIP4c}</v>.</i></c></nlba>(h ::)
