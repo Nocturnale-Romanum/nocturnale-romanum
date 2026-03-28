@@ -1,0 +1,16 @@
+name:Dominus defensor;
+office-part:an;
+mode:1g2;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Dominus defensora;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: i g 2;
+nabc-lines:1;
+%%
+(c4)Dó(f|ta)mi(ghg|to)nus(h|vi-) <sp>*</sp>(,) de(h|vi)fén(g>|vi>)sor(ef|peS) vi(g|vi)tæ(fe|cllsc3) me(d|ta)æ.(d|ta) (::) 
+<eu>E(h) U(h) O(g) U(f) A(g) E.(ghg) </eu>(::)
