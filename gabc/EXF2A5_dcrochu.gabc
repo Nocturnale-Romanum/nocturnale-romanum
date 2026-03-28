@@ -1,0 +1,16 @@
+name:Expugna impugnantes;
+office-part:an;
+mode:4a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Expugna impugnantes;
+mode: 4;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: iv a;
+nabc-lines:1;
+%%
+(c4) Ex(h|vi)pú(h>|vi>)gna(gf|cl) <sp>*</sp>(,) im(e|ta)pu(f|vi)gnán(g>|vi>)tes(f|vi) me.(e.|ta) (::) 
+<eu>E(h) U(g) O(h) U(i) A(g) E.(h) </eu>(::)
