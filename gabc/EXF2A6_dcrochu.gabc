@@ -1,0 +1,16 @@
+name:Revela Domino;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Revela Domino;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi f;
+nabc-lines:1;
+%%
+(c4) Re(fg|peS)vé(h|vi)la(gf|cllsc3) <sp>*</sp>() Dó(g|vi)mi(fe|cllsc3)no(d|ta) vi(f|vi)am(g|vi) tu(g|vi)am.(f|ta) (::)
+<eu>E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
