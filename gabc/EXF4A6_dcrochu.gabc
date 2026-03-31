@@ -2,6 +2,7 @@ name:Benedicite gentes Deum nostrum;
 office-part:an;
 mode:6f;
 submitter:dcrochu;
+nabc-lines:1;
 %%
 initial-style: 1;
 name:Benedicite gentes Deum nostrum;
@@ -11,5 +12,5 @@ annotation: Ant.;
 annotation: 6 f;
 nabc-lines:1;
 %%
-(c4)Be(f)ne(g)dí(h)ci(g)te,(f) gen(g>)tes,(d) <sp>*</sp>() De(f)um(g) nos(g)trum.(f) (::)
-<eu>E(h) u(h) o(f) u(gh) a(g) e.</eu>(f) (::)
+(c4)Be(f|obta)ne(g|vi)dí(h|vi)ci(g|vi)te,(f|ta) gen(g>|vi>)tes,(d|ta) <sp>*</sp>() De(f|vi)um(g|vi) nos(g|vi)trum.(f|tacb) (::)
+<eu>E(h) U(h) O(f) U(gh) A(g) E.(f) </eu>(::)
