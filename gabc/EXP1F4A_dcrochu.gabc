@@ -1,0 +1,16 @@
+name:Alleluia (Feria IV, Tridentine);
+office-part:an;
+mode:8g;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Alleluia;
+mode: 8;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: 8 g;
+nabc-lines:1;
+%%
+(c3) Al(e|obvi)le(df|peS)lú(h|vi){ia},(g|ta) <sp>*</sp>(,) al(e|ta)le(gh|peS)lú(f|vi){ia},(f|vi) al(g|vihg)le(f|vi)lú(e|ta){ia}.(e|tacb) (::)
+<eu>E(h) U(h) O(g) U(h) A(f) E.(e) </eu>(::)
