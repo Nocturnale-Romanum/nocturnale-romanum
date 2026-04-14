@@ -1,0 +1,16 @@
+name:Alleluia (Feria VI, Tridentine);
+office-part:an;
+mode:1a;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Alleluia;
+mode: 2;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: ii d;
+nabc-lines:1;
+%%
+(f3) Al(h|obvi)le(h|vi)lú(h|vi)ia,(h|vi) al(h|vi)le(g|vi)lú(e!fwg|``qlppt1)ia,(g|vi) (,) al(h>|vi>)le(fef|po)lú(ghO1|vs)ia.(f|tacb) (::)
+<eu>E(h) U(h) O(h) U(g) A(ef) E.(f) </eu>(::)
