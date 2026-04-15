@@ -1,0 +1,16 @@
+name:Tu solus;
+office-part:an;
+mode:6f;
+submitter:dcrochu;
+nabc-lines:1;
+%%
+initial-style: 1;
+name:Tu solus;
+mode: 6;
+office-part: Antiphona;
+annotation: Ant.;
+annotation: vi f;
+nabc-lines:1;
+%%
+(c4) Tu(f|ta) so(g|vi)lus(h|vihh) <sp>*</sp> Al(gf~|cl~)tís(g|vi)si(fe|cl)mus(d|ta) (,) su(f|vi)per(f|vi) om(f|vi)nem(g|vihh) ter(g>|vi>hh)ram.(f|tahh) (::)
+<eu>E(h) u(h) o(f) u(gh) a(g) e.</eu>(f.) (::)
