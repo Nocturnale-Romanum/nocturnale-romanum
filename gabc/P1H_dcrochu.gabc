@@ -5,12 +5,10 @@ submitter:dcrochu;
 %%
 initial-style: 1;
 name: Rex sempiterne Domine;
-mode: 1;
+mode: 8;
 office-part: Hymnus;
 annotation: Hymn.;
 annotation: viii;
-%%
-initial-style: 1;
 %%
 (c4) Rex(g) sem(h)pi(g)tér(h)ne(i) Dó(j)mi(h)ne,(i) (,)
 Re(i)rum(i) Cre(j)á(h)tor(g) óm(h)ni(j)um,(i/jkJI) (;)
