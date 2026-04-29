@@ -5,29 +5,30 @@ submitter:dcrochu;
 %%
 initial-style: 1;
 name: Audit tyrannus anxius;
-mode: 6;
+mode: 1;
 office-part: Hymnus;
 annotation: Hymn.;
-annotation: vi;
+annotation: i;
 nabc-lines: 1;
 %%
-(c4) Au(f)dit(f) ty(gh)rán(h)nus(gh) án(g)xi(gf)us(f) (,)
-Ad(h)és(j)se(k) re(j)gum(ij) prín(h)ci(g)pem,(hg) (;)
-Qui(f) no(f)men(g) Is(d)ra(c)ël(fg) re(gf)gat(f) (,)
-Te(f)n<i>e</i>()át(f)que(gh) Da(h)vid(gh) ré(g)gi(gf)am.(f) (::)
+(c4) Au(c)dit(d) ty(eg)rán(g)nus(ed) án(f)xi(ed)us(d) (,)
+Ad(ce)és(g)se(h) re(h)gum(g) prín(h!iwj)ci(ig)pem,(h) (;)
+Qui(hi) no(g)men(gf) Is(e)ra(dc)ël(d) re(de)gat(e) (,)
+Te(c)n<e>e</e>(d)át(d)que(eg) Da(g)vid(ed) ré(f)gi(ed)am.(d) (::)
 
-<c>2.</c> Ex(f)clá(f)mat(gh) a(h)mens(gh) nún(g)ti(gf)o:(f) (,)
-Suc(h)cés(j)sor(k) in(j)stat,(ij) pél(h)li(g)mur;(hg) (;)
-Sa(f)tél(f)les,(g) i,(d) fer(c)rum(fg) ra(gf)pe,(f) (,)
-Per(f)fún(f)de(gh) cu(h)nas(gh) sán(g)gui(gf)ne!(f) (::)
+<c>2.</c> Ex(c)clá(d)mat(eg) a(g)mens(ed) nún(f)ti(ed)o:(d) (,)
+Suc(ce)cés(g)sor(h) in(h)stat,(g) pél(h!iwj)li(ig)mur;(h) (;)
+Sa(hi)tél(g)les,(gf) i,(e) fer(dc)rum(d) ra(de)pe,(e) (,)
+Per(c)fún(d)de(eg) cu(g)nas(ed) sán(f)gui(ed)ne!(d) (::)
 
-<c>3.</c> Quid(f) pró(f)fi(gh)cit(h) tan(gh)tum(g) ne(gf)fas?(f) (,)
-Quid(h) cri(j)men(k) He(j)ró(ij)dem(h) ju(g)vat?(hg) (;)
-U(f)nus(f) tot(g) in(d)ter(c) fú(fg)ne(gf)ra(f) (,)
-Im(f)pú(f)ne(gh) Chris(h)tus(gh) tól(g)li(gf)tur.(f) (::)
+<c>3.</c> Quid(c) pró(d)fi(eg)cit(g) tan(ed)tum(f) ne(ed)fas?(d) (,)
+Quid(ce) cri(g)men(h) He(h)ró(g)dem(h!iwj) ju(ig)vat?(h) (;)
+U(hi)nus(g) tot(gf) in(e)ter(dc) fú(d)ne(de)ra(e) (,)
+Im(c)pú(d)ne(eg) Chris(g)tus(ed) tól(f)li(ed)tur.(d) (::)
 
-<c>4.</c> Gló(f)ri(f)a(gh) ti(h)bi(gh) Dó(g)mi(gf)ne,(f) (,)
-Qui(h) na(j)tus(k) es(j) de(ij) Vír(h)gi(g)ne,(hg) (;)
-Cum(f) Patr<e>e</e>(f) et(g) Sanc(d)to(c) Spí(fg)ri(gf)tu,(f) (,)
-In(f) sem(f)pi(gh)tér(h)na(gh) sǽ(g)cu(gf)la.(f) (::)
-A(fgf)men.(ef.) (::)
+<c>4.</c> Gló(c)ri(d)a(eg) ti(g)bi(ed) Dó(f)mi(ed)ne,(d) (,)
+Qui(ce) na(g)tus(h) es(h) de(g) Vír(h!iwj)gi(ig)ne,(h) (;)
+Cum(hi) Pa(g)tr<e>e</e>(g) et(f) Sanc(e)to(dc) Spí(d)ri(de)tu,(e) (,)
+In(c) sem(d)pi(eg)tér(g)na(ed) sǽ(f)cu(ed)la.(d) (::
+
+A(ded)men.(cd) (::)
