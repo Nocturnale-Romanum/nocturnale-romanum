@@ -1,0 +1,39 @@
+name:Deus tuorum militum (tonus nativitatis, textus antiquus);
+office-part:hy;
+mode:1;
+submitter:dcrochu;
+%%
+initial-style: 1;
+name: Deus tuorum militum;
+mode:1;
+office-part: Hymnus;
+annotation: Hymn.;
+annotation: i;
+nabc-lines:1;
+%%
+(c4)De(c)us(d) tu(eg)ó(g)rum(ed) mí(f)li(ed)tum(d) (,) 
+Sors,(ce) et(g) có(h)ro(h)na,(g) prǽ(h!iwj)mi(ig)um,(h) (;) 
+Lau(hi)des(g) ca(gf)nén(e)tes(dc) Már(d)ty(de)ris(e) (,) 
+Ab(c)sól(d)ve(eg) ne(g)xu(ed) crí(f)mi(ed)nis.(d) (::)
+
+<c>2.</c> Hic(c) nem(d)pe(eg) mun(g)di(ed) gáu(f)di(ed)a,(d) (,) 
+Et(ce) blan(g)di(h)mén(h)ta(g) nó(h!iwj)xi(ig)a(h) (;) 
+Ca(hi)dú(g)ca(gf) ri(e)te(dc) dé(d)pu(de)tans,(e) (,) 
+Per(c)vé(d)nit(eg) ad(g) cæ(ed)lés(f)ti(ed)a.(d) (::)
+
+<c>3.</c> Pœ(c)nas(d) cu(eg)cúr(g)rit(ed) fór(f)ti(ed)ter,(d) (,) 
+Et(ce) sús(g)tu(h)lit(h) vi(g)rí(h!iwj)li(ig)ter,(h) (;) 
+Pro(hi) te(g) ef(gf)fún(e)dens(dc) sán(d)gui(de)nem,(e) (,) 
+Æ(c)tér(d)na(eg) do(g)na(ed) pós(f)si(ed)det.(d) (::)
+
+<c>4.</c> Ob(c) hoc(d) pre(eg)cá(g)tu(ed) súp(f)pli(ed)ci(d) (,) 
+Te(ce) pó(g)sci(h)mus,(h) pi(g)ís(h!iwj)si(ig)me;(h) (;) 
+In(hi) hoc(g) tri(gf)úm(e)pho(dc) Már(d)ty(de)ris(e) (,) 
+Di(c)mít(d)te(eg) no(g)xam(ed) sér(f)vu(ed)lis.(d) (::)
+
+<c>5.</c> Gló(c)ri(d)a(eg) ti(g)bi(ed) Dó(f)mi(ed)ne,(d) (,)
+Qui(ce) na(g)tus(h) es(h) de(g) Vír(h!iwj)gi(ig)ne,(h) (;)
+Cum(hi) Patr<e>e</e>(g) et(gf) Sanc(e)to(dc) Spí(d)ri(de)tu,(e) (,)
+In(c) sem(d)pi(eg)tér(g)na(ed) sǽ(f)cu(ed)la.(d) (::)
+
+A(ded)men.(cd..) (::)
