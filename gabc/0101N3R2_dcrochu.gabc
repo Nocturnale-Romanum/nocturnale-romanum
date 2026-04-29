@@ -4,7 +4,7 @@ mode:2d;
 submitter:dcrochu;
 nabc-lines:1;
 %%
-initial-style: 0;
+initial-style: 1;
 name: Nesciens mater;
 mode: 7;
 office-part: Responsorium;
@@ -19,5 +19,5 @@ nabc-lines: 1;
 <sp>V/</sp> Do(i!jwkJI|obvi-ql-hjsu2)mus(hi/hhog|peS``pr) pu(h|vi)dí(h|vi)ci(h|vi) péc(hi|pe)to(h|ta)ris(h|ta) (,) tem(h|ta)plum(h|ta) re(h|ta)pén(ig|cllsc3)te(hi|pe) fit(hi|pe) De(i!jwkj|ql!cl-ppt1)i:(ji|cl-) (;) in(hi/hhog|peS``pr)tác(hih|//to)ta(i|vi) né(i|vi)sci(i|vi)ens(i|vi) vi(ij|pe)rum,(i|ta) (,) ver(i|ta)bo(i|ta) con(i|ta)cé(ijijIH|toci-hg)pit(ih|cllsc3) Fí(h!iwji/jkj|ql!clppt1tohm)li(ih!iwjij|cl-qi!po)um.(ivHGhg|ci-cl-cb) (::)
 <sp>+</sp> Sal(e|ta)va(e|ta)tó(e!fwg/ho|qlppt1orhl)rem.(g|ta) (::)
 
-<sp>V/</sp> Gló(i!jwkJI|obviql-hjsu2)ri(hi|cllsc3)a(hhog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj|ql!cl-ppt1)o,(ji|cl-) (:) et(i|ta) Spi(i|ta)rí(ijijIH|toci-hh)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) Sanc(ih!iwjij|cl-ql!po)to.(ivHGhg|ci-cl-cb) (::)
+<sp>V/</sp> Gló(i!jwkJI|obviql-hjsu2)ri(hi|cllsc3)a(hi/hhog|peS``pr) Pa(ig|cllsc3)tri,(hi|pe) et(hi|pe) Fí(i|ta)li(i!jwkj|ql!cl-ppt1)o,(ji|cl-) (:) et(i|ta) Spi(i|ta)rí(ijijIH|toci-hh)tu(ih|cllsc3)i(h!iwji/jkj|ql!clppt1tohm) Sanc(ih!iwjij|cl-ql!po)to.(ivHGhg|ci-cl-cb) (::)
 <sp>‡</sp> So(hg|cllsc3)la(h|vi) vir(ij~|ta>)go.(i|ta) (::)
