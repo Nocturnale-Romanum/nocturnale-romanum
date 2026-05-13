@@ -2,20 +2,17 @@ name:Ingressus Angelus ad Tobiam V Et respondens Tobias V Gloria;
 office-part:re;
 mode:3;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4)In(g)grés(g!hwi)sus(i) An(i)ge(jvIHi)lus(hg__) <sp>*</sp> 
-ad(g) To(h)bí(ihi)am,(iki/hi@jvjo@i.) (;) 
-sa(g)lu(h)tá(ih/iji)vit(hg) e(hji)um,(i_) (,) 
-et(h) di(gh@ivHGh)xit:(hg..) (;) 
-Gáu(g@iok>)di(k)um(k) sit(ki~) ti(ji)bi(hg) sem(he!fwgFEdf~)per:(d!ewfe..) (;)
-<sp>+</sp> For(de~)ti(gh) á(g!hwihi)ni(i)mo(i) e(jvIHGh)sto,(hg__) (,)
-in(g>) pró(ge/fe)xi(d)mo(g) e(hg)nim(fg~) est,(g.) (;)
-ut(e) a(f) De(gf/gh)o(hg) cu(ge)ré(fgFEf)ris.(fe..) (::)
-<sp>V/</sp> Et(i) re(i)spón(ikjjs)dens(h!iwji/hhog) To(i)bí(i@jo)as,(h) a(h)it:(h) (,) 
-Qua(h)le(h) gáu(h)di(h)um(hg~) mi(h)hi(j) e(ikjjs)rit,(ji..) (;) 
-qui(hg) in(hi~) té(i)ne(i)bris(i) sé(i@jo)de(i)o,(i) (,) 
-et(i) lu(i)men(i) cœ(i)li(ikjIH!iwji) non(hg) ví(gh@iwj)de(jiioh/ivHGh)o?(hg..) (::)
-<sp>+</sp> For(de~)ti.(gh) (::)
-<sp>V/</sp> Gló(ikjjs)ri(h!iwji)a(hhog) Pa(ig)tri,(h) et(j) Fí(i)li(ikjjs)o,(ji..) (;) 
-et(i) Spi(i)rí(ikj/jvIH!iwji)tu(hg)i(gh@iwj) Sanc(jiioh/ivHGh)to.(hg..) (::)
-<sp>+</sp> For(de~)ti.(gh) (::)
+(c4) In(i>|obvi>)grés(g!hwi/jo|ql-ppt1orhj)sus(i|ta) An(ijO1|vshg)ge(i|tahh)lus(i|tahh) 
+<sp>*</sp> ad(jjoi|prhg) To(h|ta)bí(hj_j_i_|pe-hhcl-hi)am,(g_h!iwj_IHijggo/efe.|`ql-hippt2su2tohiorhitoS2hh) (;)  sa(e|ta)lu(e|ta)tá(e!foh|sa)vit(ixh!iwj|////qlppt1) e(g|vi)um,(f!goh|sa) et(g|ta) di(gv_//fhggoFEf|vi-tohg!pihg``puhdvi)xit:(fe..|cl-) (;) 
+Gáu(fd~|cl~lsi8)di(dfe|toS3)um(fg|pe) sit(g|vi) ti(g_h|peS)bi(h_g_|cl-) sem(h|vi)per:(ixhg/hih.|////cllsc2toS2hg) (;) 
+<sp>+</sp> For(gf|cllsc3)ti(h!iwj|viqlhj) á(j|vihh)ni(jv_jv_IG|bv-hhsu2)mo(j_k|peShi) es(ixj_h/hwihi|////cl-hhqlhh!pohh)to,(i_h_|/cl-hg) (,) in(g>|ta) pró(ge|cl)xi(fe|cl)mo(d|ta) e(fhg|to)nim(fg~|pe~) est,(g.|vi-) (;) ut(g|``talse1) a(gh|pe) De(g|ta)o(g_d!ewf|clM-ql) cu(e|ta)ré(e_g_FE|pe-1su2)ris.(e.|ta) (::) 
+
+<sp>V/</sp> Et(i|tahh) re(i|tahh)spón(ikjjs|/tohisthk)dens(h!iwj_i_/hhog|ql!cl-ppt1prhh) To(i|vi)bí(ijO1|vshe)as,(h|ta) a(hi|pe)it:(h.|ta-) (,) Qua(h|ta)le(h|ta) gáu(hi|pe)di(h|ta)um(hg~|cllsc3) mi(h|vi)hi(j|vihh) e(ikjjs|/tohisthk)rit,(ji..|cl-hh) (;)  qui(ig|cllse2lsc3) in(hi~|ta>) té(i|tahh)ne(i|tahh)bris(i|tahh) sé(ijO1|vs)de(i|tahh)o,(i_|ta-hh) (,) et(i|tahh) lu(i|tahh)men(i|tahh) cœ(i|tahh)li(i_k_j_jv_I_H/iwj_i_|////toShkvi-hlsut2qihl!cl-hl) non(hg|cllsc3) ví(g_h!iwj|`qlhhppt2)de(jiiohiv_HGh|////clhh!pihhci-hivihi)o?(hg..|cl-hi) (::) 
+
+<sp>+</sp> For(gf|cllsc3)ti.(h!iwj|viqlhj) (::)
+
+<sp>V/</sp> Gló(ikjjs|tohisthk)ri(h!iwji__|qlhh!cl-hhppt1)a(hhog|prhh) Pa(ig|cllsc3)tri,(h|vi) et(j|vihh) Fí(i|tahh)li(ikjjs|tohisthk)o,(ji..|cl-hg) (;) et(i|tahh) Spi(i|tahh)rí(ikjjvI_____H/iwji__|////toShkvi-hksut2qihk!cl-hk)tu(hg|clhhlsc3)i(g_h!iwj|``qlhhppt2) Sanc(jiioh/iv_HGh|////clhh!pihhci-hhvihi)to.(hg..|cl-) (::) 
+
+<sp>+</sp> For(gf|cllsc3)ti.(h!iwj|viqlhjcb) (::)
