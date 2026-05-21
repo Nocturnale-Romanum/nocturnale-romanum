@@ -2,9 +2,13 @@ name:Benedicta tu in mulieribus;
 office-part:an;
 mode:4a;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Be(e)ne(f)dí(h)cta(hi) tu(iio) <sp>*</sp>(,) in(h_i) mu(j)li(ih)é(i)ri(i)bus,(i.) (;) 
-et(f_i) be(h)ne(g)dí(fe__)ctus(fe__) (,)
-fru(d)ctus(e) ven(f)tris(h) tu(f.)i.(f.) (::) 
-<i><c>T.P.</c></i> {A}l(de)le(fh)lú(f.){ia}.(f.) (::)
+(c3) Be(e|tahd)ne(f|vihd)díc(h|vihe)ta(hi|pe) tu(iio|vs) <sp>*</sp>(,) 
+in(h_i|peShd) mu(j|vi)li(ih|cl)é(i|vi)ri(i|vi)bus,(i.|vi-hg) (;) 
+et(f_i|peS) be(h|vi)ne(g|vi)díc(fe__|cl-)tus(fe__|cl-) (,) 
+fruc(d|ta)tus(e|vi) ven(f|vihg)tris(h|vihh) tu(f.|ta)i.(f.|ta) (::) 
+
+<i><c>T.P.</c></i> {A}l(de|obpeS)le(fh|peS)lú(f.|ta){ia}.(f.|tacb) (::) 
+
 <eu>E(i) U(h) O(i) U(j) A(h) E.(f) </eu>(::)
