@@ -1,5 +1,12 @@
+name:Sine tactu pudoris V Benedicta tu;
+office-part:re;
 mode:2;
+submitter:marteo;
+nabc-lines:1;
 %%
-(f3)Si(f)ne(fhf/fe) ta(ghgFEfg)ctu(f) pu(f!gwh/ihhO1g)dó(FG!hvGFg)ris(gf) (;) in(f>)vén(ef~)ta(fhg) es(gf) Ma(f)ter(FG!hvGFE) Sal(f>)va(hg/hih)tó(hvGFg)ris:(ffO1e) (:) † Qui(e) cœ(fh)lum(h) ter(h)rám(hg~)que(fhf@goh) re(e)git,(dxcd/ced@c/dvCBcb) (;) in(e) tu(fh)a(h) se(h) clau(ghg~)sit(e!foh) ví(hi)sce(h)ra(h) fa(hg)ctus(f) ho(FG!hvGFg)mo.(gf) (::) 
-<sp>V/</sp>. Be(f)ne(e)dí(EF!gwh/hi)cta(h) tu(h) in(ij~) mu(hg)li(hi)é(gh)ri(f!gwhg)bus,(gf) (;) et(f) be(ef)ne(f)dí(fg)ctus(f) fru(f)ctus(f!gwhGFE) ven(f)tris(hg/hih) tu(hvGFg)i.(ffO1e) (::) † Qui.(e) (::)
+(f3) Si(f|obvi)ne(e_f_EC|pe-1su2) tac(e_f!gwhf/ghg|ql!clppt2tohk)tu(fe|cl) pu(f!gwh_/ihhog|ql-ppt1clhj!pihjlsc2)dó(fg!hv_GFg|//ci-hhpp2vihh)ris(gf..|cl-) (;) in(f>|vi)vén(ef~|ta>)ta(fg|pe) es(f|ta) Ma(f|ta)ter(fg!hvGFE|ci1hipp2lsc2) Sal(f>|vi>)va(hg/hih|//cllsc3`tohg)tó(hv_GFg|ci-vi)ris:(ffoe.|pr) (:)
+<sp>+</sp> Qui(e|ta) cæ(fh|pe)lum(hg|cllsc3) ter(fg|pe)rám(fe~|vi>lsi6)que(fg|pe) re(fef|//po)git,(e_f/eeoc.|peS`pr) (;) in(c|ta) tu(e_0/fg|scM1)a(f|ta) se(f|ta) clau(f_e_/f!gwh_/iv_H_G/hwihi|cl-ql-ppt1vi-hjsut2qlhk!pohk)sit(i_h_|cl-) ví(hi|pe)sce(h|ta)ra(hhog|pr) fac(f|ta)tus(h_f!gwh_g_|cl-`ql!cl-) ho(fg!hv_GFg|//ci-hhpp2vihh)mo.(gf..|cl-cb) (::)
 
+<sp>V/</sp> Be(f|vi)ne(e|ta)díc(e_f!gwh_/hi|``ql-hhppt2pehk)ta(h|ta) tu(ij|pehh) in(ig~|vi>) mu(hi|pe)li(gh|pe)é(f|ta)ri(f!gwh_g_|ql!cl-ppt1)bus,(gf..|cl-) (;) et(f|vi) be(ef|pe)ne(f|ta)díc(fg|pe)tus(f|ta) fruc(f|ta)tus(f!gwh_GF_E_|ql-ppt1su1sut2) ven(f|vi)tris(hg/hih|cllsc3`tohg) tu(hv_GFg|ci-vi)i.(ffoe.|pr) (::)
+
+<sp>+</sp> Qui.(e|obtacb) (::)
