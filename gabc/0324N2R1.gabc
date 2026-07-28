@@ -1,13 +1,15 @@
+name:Factum est cum sacerdotio V Cumque ingressus;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Fa(f)ctum(de~) est,(egFssded) 
-<sp>*</sp> cum(fd~) sa(ef)cer(g)dó(hgh!iv)ti(h)o(h) (,)
-fun(h)ge(h)ré(jhJsss)tur(ghg) Za(f)cha(ghgh)rí(fefvEDe)as(ed) (;)
-in(dc~) ór(f)di(gh)ne(h) vi(hi)cis(h) su(hg)æ(f) an(EGhg>)te(f) De(evDCdwe!fv)um,(eeo1!fv) (::)
-<sp>+</sp> Ap(c)pá(dfd/e!fo1)ru(e)it(e) e(e)i(e) An(ef~)ge(e)lus(e) Gá(fe)bri(dgf!gwhgh)el,(hg) (;)
-stans(c) a(c) dex(df)tris(f) al(efED)tá(f)ris(g) in(gvFGhvig/hg>)cén(egfFs)si.(fe) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(fh~)le(hvGFECdfEDfh/ghffe)lú(egfFs)ja.(fe) (::)
-<sp>V/</sp> Cum(h)que,(gf!gwhghvGEfe) in(g)grés(gh)sus(g) in(g) tem(gf~)plum(gh~) Dó(gf)mi(e!fwgf)ni,(fe) (;)
-in(f>)cén(de~)sum(e) pó(e)ne(e)ret(e) se(e)cún(ef~)dum(e) con(e)su(e)e(e)tú(e!fo1)di(e)nem(e) sa(e)cer(e)dó(e!fwgFE)ti(g)i(ghghvGF) su(EFgef)i.(fe) (::)
-<sp>+</sp> Ap(c)pá(fd/e!fo1)ru(e)it.(e)  (::)
+(c4) Fac(f|/obvi)tum(fe|cl) est,(egF_E_fv_EDe_d_|toS2sut1ci-cl-) <sp>*</sp>(,) cum(fd~|vi>lsi6) sa(e_f|peS)cer(g|vi)dó(ixhgh_/iv|/////po-1vihl)ti(h|ta)o(h|ta) (,) fun(h|ta)ge(h|ta)ré(jhJsss|clhh/tshi)tur(ghg|//to) Za(f|ta)cha(ghgh|tr)rí(f_e_fv_EDe|cl-ci-hgvihg)as(ed..|cl-) (;) in(d_g|peS) ór(ixhgh_/iv|////po-1vihk)di(h|ta)ne(h|ta) vi(hggof|cl!pi)cis(gh|pe) su(g_h_G_FEf|//toSsu2vi)æ(fe..|cl-) (,) an(eg/hg>|ci~pp2)te(f|vi) De(ev_DCdwe_fo|vi-su1sut1qi-hgorhl)um,(ed/efe.|cltohg) (:) 
 
+<sp>+</sp> Ap(c|ta)pá(c!dwe_fo|ql-ppt1orhl)ru(e|ta)it(e|ta) e(e|ta)i(e|ta) An(ef~|ta>)ge(e|ta)lus(e|ta) Gá(f_d_|cl-)bri(d_g_f!gwhgh|toSql!po)el,(hg..|cl-) (;) stans(c|gr) a(de|pe) dex(efO1|vs)tris(e|ta) al(e|ta)tá(fv_ED|ci-)ris(fog|pq-) in(ixgv_//fg!hv_//ig/hg>|////vi-vi-hhpp2pfShm)cén(egffs|//tosthh)si.(fe..|cl-) (::) 
+
+<i><c>T.P.</c></i> Al(fh~|pe~he)le(hvGF___EC|vi-hesuu1sut1su2|d_0//fvEDfhg___|vi-hd/cihgtoShe|hffoe|clhe!pihe)lú(egffs|tohesthg){ia}.(fe..|cl-he) (::)
+
+<sp>V/</sp> Cum(h|vi)que,(g_f!gwh_g_hv_GEf_e_|cl-qi!cl-ci-hhcl-hg) in(g|vi)grés(gh|pe)sus(g|ta) in(gf~|vi>lsi6) tem(gh~|ta>)plum(fe|cl) Dó(e|ta)mi(e!fwg_f_|ql!cl-ppt1)ni,(fe..|cl-) (;) in(f>|vi>)cén(de~|ta>)sum(e|ta) pó(efO1|vslsc3)ne(e|ta)ret(e|ta) (,) se(e|ta)cún(e|ta)dum(e|ta) con(e|ta)su(e|ta)e(e|ta)tú(efO1|vs)di(e|ta)nem(e|ta) sa(e|ta)cer(e|ta)dó(e!fwg_FE|ql-ppt1su2)ti(g|vi)i(gh_g_h_GF|//to-ci-hg) su(ef/gffs|sfsthj)i.(ed..|cl-) (::)
+
+<sp>+</sp> Ap(c|ta)pá(c!dwe_fo|ql-ppt1orhl)ru(e|ta)it.(e|tacb) (::)
