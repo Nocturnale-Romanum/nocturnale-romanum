@@ -2,9 +2,8 @@ name:Deus vitam meam annuntiavi tibi;
 office-part:an;
 mode:7c;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c3) De(i)us,(g) vi(i)tam(j) me(i_)am(i_) <sp>*</sp>(,) 
-an(i)nun(i)ti(g)á(h)vi(g) ti(e.)bi:(e.) (;)
-po(g)su(g)í(g)sti(g) lá(h)cri(g)mas(f) me(h)as(g_) (,)
-in(f) con(e)spé(f_h)ctu(g) tuo(e.)o.(e.) (::)
-<eu>  E(i) U(i) O(j) U(i) A(h) E.(gh) </eu> (::)
+(c3) De(i|obvi)us,(g|ta) vi(i|vi)tam(j|vihi) me(i_|ta-)am(i_|ta-) <sp>*</sp>(,) an(i|ta)nun(i|vi)ti(g|ta)á(h|vihh)vi(g|vi) ti(e.|ta-)bi:(e.|ta-) (;) po(g|vi)su(g|vi)ís(g|vi)ti(g|vi) lá(h|vihh)cri(g|vi)mas(f|ta) me(h|vihi)as(g_|vi-) (,) in(f|vi) con(e|ta)spéc(f_h|peS)tu(g|vi) tu(e.|ta)o.(e.|tacb) (::) 
+
+<eu> E(i) U(i) O(j) U(i) A(h) E.(gh) </eu>(::)
