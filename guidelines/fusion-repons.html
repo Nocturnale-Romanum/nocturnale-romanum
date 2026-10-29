@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Fusion des répons – guidelines</title>
+<style>
+  @page { size: A4; margin: 18mm 16mm 18mm 16mm; }
+  body { font-family: "TeX Gyre Pagella", "Palatino Linotype", serif; font-size: 10.5pt; line-height: 1.38; color: #1a1a1a; }
+  h1 { font-size: 19pt; margin: 0 0 2pt; color: #7a1f1f; }
+  .sub { color: #555; margin-bottom: 14pt; }
+  h2 { font-size: 13.5pt; color: #7a1f1f; border-bottom: 1px solid #c9a6a6; padding-bottom: 2pt; margin-top: 18pt; page-break-after: avoid; }
+  h3 { font-size: 11.5pt; margin: 12pt 0 4pt; page-break-after: avoid; }
+  code, .g { font-family: "DejaVu Sans Mono", monospace; font-size: 8.6pt; background: #f4efe9; padding: 0 2px; border-radius: 2px; word-break: break-all; }
+  table { border-collapse: collapse; width: 100%; margin: 6pt 0 10pt; font-size: 9.3pt; page-break-inside: auto; }
+  tr { page-break-inside: avoid; }
+  th, td { border: 1px solid #d8cfc4; padding: 3pt 5pt; vertical-align: top; text-align: left; }
+  th { background: #efe6dc; }
+  .ok { color: #1d6b2f; font-weight: bold; }
+  .ko { color: #9b1c1c; font-weight: bold; }
+  .mid { color: #8a5a00; font-weight: bold; }
+  .rule { border-left: 3px solid #7a1f1f; padding: 4pt 8pt; background: #faf6f2; margin: 8pt 0; page-break-inside: avoid; }
+  .q { border-left: 3px solid #b07a00; padding: 4pt 8pt; background: #fff8e6; margin: 8pt 0; page-break-inside: avoid; }
+  .small { font-size: 9pt; color: #555; }
+  ul { margin: 4pt 0 6pt 16pt; padding: 0; }
+  li { margin: 2pt 0; }
+</style>
+</head>
+<body>
+
+<h1>Fusion des répons : guidelines</h1>
+<div class="sub">Nocturnale Romanum, dossier <code>gabc/</code>. Version de travail du 29/10/2026, tirée de l'étude de 5 répons déjà fusionnés par marteo.<br>
+Les points marqués <b>« Question »</b> attendent la confirmation de marteo.</div>
+
+<h2>1. Objet et périmètre</h2>
+<p>Pour chaque répons qui a plusieurs propositions, il faut produire une version fusionnée. Marteo (Matthias Bry) arbitre l'opération. Ce document décrit la façon dont marteo a fusionné jusqu'ici les propositions de <b>dcrochu</b> dans sa propre version <b>_marteo</b>, pour pouvoir appliquer les mêmes critères aux répons restants.</p>
+<p>212 répons sont déjà fusionnés. Cette première version en étudie 5, choisis parce que les messages de commit expliquent les choix et couvrent des cas différents :</p>
+<table>
+<tr><th>Pièce</th><th>Commit de fusion</th><th>Message</th></tr>
+<tr><td>1122N3R2</td><td><code>459a8f94</code> 12/10/2026</td><td>Backported dcrochu's changes</td></tr>
+<tr><td>1122N3R1</td><td><code>72b42373</code> 12/10/2026</td><td>Backported some of dcrochu's changes – but I kept the special beginning of the altera pars of the verse, as a testimony of the central medieval ms that gives it</td></tr>
+<tr><td>0829N1R3</td><td><code>a135dbf8</code> 18/09/2026</td><td>Backported rhythmic / nabc changes by dcrochu, but not melodic changes, because I want to adhere to the Paleo table as much as reasonable.</td></tr>
+<tr><td>0508N2R1</td><td><code>dfb49631</code> 29/09/2026</td><td>Backported dcrochu's changes except the liq. at ALleluia because it is not in the ms version of this All.</td></tr>
+<tr><td>MUXNN1R1</td><td><code>edac999e</code> + <code>f9b0694d</code> 12/10/2026</td><td>Backported dcrochu's changes (melody one time, lsi/lss 3 times, syllabisation), puis : lsi position against dcrochu, having checked again with the ms</td></tr>
+</table>
+
+<h2>2. Les fichiers d'une pièce</h2>
+<table>
+<tr><th>Fichier</th><th>Rôle</th></tr>
+<tr><td><code>ID.gabc</code></td><td>Version <b>retenue</b>, celle qui entre dans le livre. C'est une copie de la proposition sélectionnée sur le site, en pratique toujours <code>_marteo</code>.</td></tr>
+<tr><td><code>ID_marteo.gabc</code></td><td>Version de travail de marteo : mélodie Gregofacsimil, neumes de Hartker (H), signes rythmiques. <b>C'est elle qui reçoit la fusion.</b></td></tr>
+<tr><td><code>ID_dcrochu.gabc</code></td><td>Proposition de D. Crochu : « Gregofacsimil cum NABC », sans signes rythmiques. Attention, un second bloc d'en-tête (<code>initial-style</code>, <code>name</code>, <code>annotation</code>…, puis <code>%%</code>) est collé en tête de la notation dans 702 de ses fichiers : seule la notation qui suit le <b>dernier</b> <code>%%</code> compte.</td></tr>
+<tr><td><code>ID_sandhofe.gabc</code></td><td>Mélodie du Nocturnale de H. P. Sandhofe (2002), sans NABC. Référence historique seulement, elle n'entre pas dans la fusion.</td></tr>
+<tr><td>autres (<code>_mocquereau</code>, <code>_gbjparent</code>…)</td><td>Propositions ponctuelles.</td></tr>
+</table>
+
+<h2>3. Méthode de lecture d'une fusion</h2>
+<p>Pour chaque pièce, on compare trois états du fichier :</p>
+<ul>
+<li><b>P</b> : <code>_marteo</code> juste avant le commit de fusion (<code>git show M^:gabc/ID_marteo.gabc</code>) ;</li>
+<li><b>D</b> : <code>_dcrochu</code> tel qu'il était à ce moment-là (<code>git show M:gabc/ID_dcrochu.gabc</code>) ;</li>
+<li><b>N</b> : <code>_marteo</code> après la fusion (<code>git show M:gabc/ID_marteo.gabc</code>).</li>
+</ul>
+<p>Les syllabes sont alignées sur le texte. Pour chaque divergence entre P et D, on regarde N : la modification est <span class="ok">adoptée</span> si N = D, <span class="ko">refusée</span> si N = P, et <span class="mid">retouchée</span> si marteo a fait une troisième solution.</p>
+
+<h2>4. Règles observées</h2>
+
+<div class="rule"><b>R1. Base et signes rythmiques.</b> La fusion se fait <b>dans</b> <code>_marteo</code>. Ses signes rythmiques (épisème horizontal <code>_</code>, points de mora <code>.</code>/<code>..</code>, ictus <code>'</code>) sont <b>toujours conservés</b>, puisque dcrochu n'en met pas.<br>
+Corollaire : quand un changement de neume est adopté, marteo <b>réajuste les signes rythmiques</b> pour qu'ils correspondent au nouveau neume.</div>
+<table>
+<tr><th>Pièce</th><th>P (avant)</th><th>D (dcrochu)</th><th>N (fusion)</th></tr>
+<tr><td>0829N1R3 « rá »</td><td><code>hv_GFEf|vi-su3vi</code></td><td><code>hvGFEf|vi-sut1su2vi</code></td><td><code>hv_G_FEf|vi-sut1su2vi</code> : le tractulus adopté reçoit son épisème sur G</td></tr>
+<tr><td>0829N1R3 « pe »</td><td><code>highv_GFg|toci-vi</code></td><td><code>highvGFg|toSci-vi</code></td><td><code>h_i_g_hv_GFg|toSci-vi</code> : torculus à épisème (<code>toS</code>) adopté, épisèmes ajoutés</td></tr>
+</table>
+
+<div class="rule"><b>R2. Syllabation : toujours adopter celle de dcrochu</b>, avec une seule exception fréquente : <b>quóniam</b>. Dcrochu écrit <code>quón/i/am</code>, il faut écrire <code>quó/ni/am</code>. <i>(Confirmé par marteo.)</i></div>
+<table>
+<tr><th>Pièce</th><th>P</th><th>D = N</th></tr>
+<tr><td>1122N3R1</td><td>cog/ná</td><td>co/gná</td></tr>
+<tr><td>1122N3R2</td><td>san/ctum (répons), sig/no</td><td>sanc/tum, si/gno</td></tr>
+<tr><td>0508N2R1</td><td>Ar/chán</td><td>Arch/án</td></tr>
+<tr><td>MUXNN1R1</td><td>prós/pe, reg/na</td><td>pró/spe, re/gna</td></tr>
+</table>
+<div class="rule small">Deux coupes de dcrochu n'avaient pas été reprises : « contem/ptórem » (1122N3R1) et « san/ctum » dans le verset de 1122N3R2. Ce sont des <b>oublis</b> : il faut écrire « contemp/tórem » et « sanc/tum ». Ces deux pièces sont donc à reprendre.</div>
+
+<div class="rule"><b>R3. Mélodie : adoptée, sauf si le changement éloigne de la source manuscrite.</b> Les cas observés :
+<ul>
+<li><span class="ok">Adoptée</span> : MUXNN1R1 « con » <code>h/ijg/hg</code> → <code>h/ijh/hg</code>.</li>
+<li><span class="ko">Refusée</span> quand marteo suit volontairement un témoin : 1122N3R1, où il conserve le début particulier de l'<i>altera pars</i> du verset (« ta » <code>fe</code> au lieu de <code>f</code>, « te » <code>eh</code> au lieu de <code>h</code>), alors que dcrochu proposait une « standardisation du V/ à la médiante ».</li>
+<li><span class="ko">Refusée</span> par principe dans 0829N1R3 : « adhere to the Paleo table as much as reasonable ». Les neumes liés au changement mélodique sont refusés avec lui (« tán » <code>cltr</code> gardé contre <code>clto-1hgvihh</code> ; « él » <code>e@fog|sa</code> gardé contre <code>e/fg|scM2</code>).</li>
+</ul></div>
+<div class="q"><b>Question 2.</b> Dans 1122N3R1, le bécarre ajouté par dcrochu sur « DIxit » (<code>gydf…</code>) n'a pas été repris. Ce refus fait-il partie du début de verset conservé selon le manuscrit, ou a-t-il une autre raison ?</div>
+
+<div class="rule"><b>R4. Liquescences : refusées si le manuscrit ne les porte pas.</b> 0508N2R1 : la liquescence sur « ALleluia » (<code>g&gt;|obvi&gt;</code>) est refusée, « because it is not in the ms version of this All. ».</div>
+<div class="q"><b>Question 3.</b> 1122N3R1 « cón » : P avait <code>cl&gt;</code>, dcrochu proposait <code>vi&gt;</code>, et marteo a finalement écrit <code>cl~</code> (liquescence diminutive). Sur quel critère ?</div>
+
+<div class="rule"><b>R5. NABC, nature du neume : adoptée quand la mélodie ne change pas.</b> Quand dcrochu identifie autrement un neume sur des notes identiques, marteo reprend son choix : <code>vi-su3</code> → <code>vi-sut1su2</code> (tractulus dans les subpunctis), <code>to</code> → <code>toS</code>, <code>vi/pe…</code> → <code>scM2…</code> (1122N3R1 « á »). Il ajoute aussi les hauteurs relatives quand elles manquent : <code>pr</code> → <code>prhj</code>, <code>ci-</code> → <code>ci-hj</code>. Il corrige celles qui sont fausses : <code>vihj</code> → <code>vihl</code> (1122N3R2, « Qui », trois fois).</div>
+<div class="q"><b>Question 4.</b> Dans 0829N1R3, des ajouts de hauteur pourtant analogues ont été refusés (<code>cl!pi</code> gardé contre <code>clhj!pihj</code>, <code>cltohh</code> contre <code>cltohg</code>), de même que le déplacement <code>lsc2</code> → <code>lsc3</code>. Est-ce l'effet du principe « Paleo table » propre à cette pièce, ou une règle générale sur le placement vertical ?</div>
+
+<div class="rule"><b>R6. Espacement NABC en début de syllabe : <code>//</code> devient <code>/</code> ou rien.</b> Les <code>//</code> que dcrochu met en tête de neume sont presque toujours réduits :
+<ul>
+<li>à <code>/</code> : 0508N2R1 (« Cu », « ho », « præ », « o »), 1122N3R2 « á », 1122N3R1 « tum » ;</li>
+<li>à rien : 1122N3R1 « Hó », « di » ; 0829N1R3 « li » ; MUXNN1R1 « tu ».</li>
+</ul>
+Les décalages vers la gauche (<code>```</code> → <code>````</code>, MUXNN1R1 « Qui ») sont en revanche repris.</div>
+<div class="q"><b>Question 5.</b> Quelle est la règle exacte : <code>/</code> quand le neume précédent est proche, et rien sinon ? Dans quel cas un <code>//</code> est-il légitime ? Dcrochu lui-même a commité « // --&gt; / » sur 0908N1R2.</div>
+
+<div class="rule"><b>R7. Lettres significatives : position adoptée, sous réserve de vérification sur le manuscrit.</b> MUXNN1R1 : <code>lssm2</code> → <code>lssm3</code>, <code>lss2</code> → <code>lss3</code>, ajout de <code>lsi7</code> et <code>lsi8</code>, tous adoptés. Mais un second commit replace un <code>lsi</code> « against dcrochu, having checked again with the ms ». Le manuscrit tranche.</div>
+
+<div class="rule"><b>R8. Conventions typographiques de marteo : conservées.</b>
+<ul>
+<li>L'astérisque est une syllabe vide à part : <code>&lt;sp&gt;*&lt;/sp&gt;()</code> (dcrochu le colle à la syllabe suivante, ce qui est refusé, 0829N1R3).</li>
+<li>Balises T.P. dans l'ordre <code>&lt;c&gt;&lt;i&gt;T.P.&lt;/i&gt;&lt;/c&gt;</code>.</li>
+<li>Orientation explicite de l'oriscus (<code>O</code> → <code>O1</code>) : adoptée.</li>
+<li>Le texte romain est conservé quand dcrochu suit le texte d'un manuscrit (0810N3R2 : « kept the Roman text »).</li>
+</ul></div>
+
+<h2>5. Libellé des commits</h2>
+<p>La quasi-totalité des commits de <code>gabc/</code> vient du site de propositions (nocturnale.marteo.fr). Ils suivent des gabarits fixes, en anglais :</p>
+<table>
+<tr><th>Gabarit</th><th>Auteur git</th><th>Sens</th><th>Nombre</th></tr>
+<tr><td><code>&lt;user&gt; edited &lt;ID&gt;: &lt;message&gt;</code></td><td>l'utilisateur (dcrochu, marteo…)</td><td>Modification d'une proposition <code>ID_&lt;user&gt;.gabc</code></td><td>≈ 9 000</td></tr>
+<tr><td><code>marteo selected &lt;user&gt;'s proposal for &lt;ID&gt;</code></td><td>Matthias Bry</td><td>Copie de la proposition choisie dans <code>ID.gabc</code></td><td>≈ 2 500</td></tr>
+<tr><td><code>&lt;ID&gt; by marteo was updated from the command line.</code></td><td>marteo</td><td>Modification hors site</td><td>87</td></tr>
+<tr><td><code>Replaced X with Y via CLI</code></td><td>marteo</td><td>Remplacement en masse (ex. <code>e@fo</code> → <code>efO1</code>)</td><td>≈ 120</td></tr>
+<tr><td>phrase libre, avec renvoi éventuel à une issue (<code>#70</code>)</td><td>Matthias Bry</td><td>Opérations globales (crochets, Gloria Patri…)</td><td>—</td></tr>
+</table>
+
+<h3>Le message d'une fusion</h3>
+<p>Une fusion fait <b>deux commits</b> : <code>marteo edited ID: …</code> sur <code>ID_marteo.gabc</code>, puis <code>marteo selected marteo's proposal for ID</code>. Le message du premier dit ce qui a été repris et, surtout, <b>ce qui a été refusé et pourquoi</b> :</p>
+<ul>
+<li><code>Backported dcrochu's changes</code> : tout est repris ;</li>
+<li><code>Backported most of dcrochu's changes.</code> : l'essentiel est repris ;</li>
+<li><code>Backported dcrochu's syllabisation</code>, <code>… syllabisation and NABC tweaks</code>, <code>… syllabisation and placement</code> : report limité à ces aspects ;</li>
+<li><code>Backported dcrochu's changes except &lt;quoi&gt; because &lt;raison&gt;</code> ;</li>
+<li><code>Backported some of dcrochu's changes - but I kept &lt;quoi&gt;, as &lt;raison&gt;</code> ;</li>
+<li>quand marteo repart entièrement de la version dcrochu : <code>dcrochu as of JJ/MM/AAAA + rsigns</code>, suivi après « ; » des retouches propres (<code>; changed two bars to reflect the structure of the text</code>).</li>
+</ul>
+<p>Les syllabes visées s'écrivent avec la syllabe concernée en capitales : <code>ALleluia</code>, <code>inTENde</code>, <code>vestimentis tuIS</code>. Les messages de marteo sont en anglais. Ceux de dcrochu sont en français, en liste à puces par nature de changement : <code>• syllabisation : … • GABC : … • NABC : …</code>.</p>
+
+<h2>6. Procédure proposée pour un répons à fusionner</h2>
+<ol>
+<li>Lire les messages de commit de <code>ID_dcrochu.gabc</code> depuis la dernière modification de <code>ID_marteo.gabc</code> : ils listent les changements proposés.</li>
+<li>Aligner <code>_marteo</code> et <code>_dcrochu</code> syllabe par syllabe, en ignorant le second en-tête de dcrochu et les signes rythmiques.</li>
+<li>Classer chaque divergence (syllabation, mélodie, liquescence, nature du neume, hauteur NABC, espacement, lettres significatives, typographie), puis appliquer R1 à R8.</li>
+<li>Réajuster les signes rythmiques sur les neumes modifiés (R1).</li>
+<li>Rédiger le message selon les gabarits du § 5, en justifiant chaque refus.</li>
+<li>Faire valider par marteo avant toute sélection.</li>
+</ol>
+
+<h2>7. Questions ouvertes (récapitulatif)</h2>
+<ol>
+<li><s>Les coupes « contem/ptórem » et « san/ctum » ont-elles été conservées délibérément ?</s> Réponse : non, ce sont des oublis. On adopte toujours la syllabation de dcrochu, sauf pour « quó/ni/am » (R2).</li>
+<li>Pourquoi le bécarre de « DIxit » (1122N3R1) n'a-t-il pas été repris ?</li>
+<li>Sur quel critère « cón » a-t-il été mis en <code>cl~</code> (1122N3R1) ?</li>
+<li>Les hauteurs NABC et le <code>lsc3</code> refusés dans 0829N1R3 relèvent-ils du principe « Paleo table » ou d'une règle générale ?</li>
+<li>Quelle est la règle d'espacement : <code>//</code>, <code>/</code> ou rien ?</li>
+<li>Pour les fusions à venir : fait-on la modification directement dans <code>ID_marteo.gabc</code> (commit au nom de qui ?), ou dans une proposition à part, que marteo reprend ensuite ?</li>
+</ol>
+<p class="small">Analyse outillée : alignement syllabique des états P, D et N tirés de l'historique git. Les catégories ont été vérifiées à la main sur les 5 pièces.</p>
+</body>
+</html>
