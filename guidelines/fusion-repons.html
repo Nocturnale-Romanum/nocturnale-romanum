@@ -65,6 +65,7 @@ Les points marqués <b>« Question »</b> attendent la confirmation de marteo.</
 <li><b>D</b> : <code>_dcrochu</code> tel qu'il était à ce moment-là (<code>git show M:gabc/ID_dcrochu.gabc</code>) ;</li>
 <li><b>N</b> : <code>_marteo</code> après la fusion (<code>git show M:gabc/ID_marteo.gabc</code>).</li>
 </ul>
+<p>Cas particulier <i>(confirmé par marteo)</i> : si un répons déjà fusionné n'a <b>aucune</b> modification de <code>_marteo</code> postérieure aux propositions de dcrochu, alors toutes ces propositions ont été refusées. On compare alors directement le <code>_marteo</code> actuel au <code>_dcrochu</code> : chaque divergence est un refus.</p>
 <p>Les syllabes sont alignées sur le texte. Pour chaque divergence entre P et D, on regarde N : la modification est <span class="ok">adoptée</span> si N = D, <span class="ko">refusée</span> si N = P, et <span class="mid">retouchée</span> si marteo a fait une troisième solution.</p>
 
 <h2>4. Règles observées</h2>
@@ -271,7 +272,8 @@ Dans MUXXN1R3 « le », la vérification du contenu fait apparaître une autre m
 <h3>Périmètre du chantier</h3>
 <ol start="32">
 <li><b>Pièces copiées</b> d'un autre répons (0815N3R1, CONPN2R1, CBMVN1R1…) : fusionner via la pièce mère, puis traiter les propositions propres à la copie ?</li>
-<li><b>Fusions incomplètes</b> : 17 répons de la liste n'ont aucune modification de marteo postérieure aux propositions de dcrochu, et d'autres n'ont reçu qu'un report partiel ou sont antérieurs aux propositions de 2026. Faut-il les inclure dans le chantier et les refusionner selon les règles ?</li>
+<li><b>Fusions incomplètes</b> : certains répons n'ont reçu qu'un report partiel, ou ont été fusionnés avant les propositions de dcrochu de 2026. Faut-il les inclure dans le chantier et les refusionner selon les règles ?<br>
+<span class="small">Déjà tranché <i>(confirmé par marteo)</i> : un répons de la liste des fusionnés <b>sans aucune modification de marteo postérieure</b> à celles de dcrochu est un répons où <b>toutes les modifications de dcrochu ont été refusées</b>. Ce n'est pas un oubli. Sont concernés 17 répons : 0121N3R2, 0211N1R3, 0211N3R1, 0211N3R2, 0810N1R3, 0908N1R2, 1130N1R1, 1130N1R2, 1130N1R3, 1130N2R1, 1130N2R2, 1130N3R1, APEXN2R1, APEXN3R2, COPON1R1, P3F2R2, P3F4R1.</span></li>
 </ol>
 
 <p class="small">Analyse outillée : alignement syllabique des états P, D et N tirés de l'historique git. Les catégories ont été vérifiées à la main sur les 5 pièces.</p>
