@@ -33,7 +33,7 @@ Les points marqués <b>« Question »</b> attendent la confirmation de marteo.</
 
 <h2>1. Objet et périmètre</h2>
 <p>Pour chaque répons qui a plusieurs propositions, il faut produire une version fusionnée. Marteo (Matthias Bry) arbitre l'opération. Ce document décrit la façon dont marteo a fusionné jusqu'ici les propositions de <b>dcrochu</b> dans sa propre version <b>_marteo</b>, pour pouvoir appliquer les mêmes critères aux répons restants.</p>
-<p>212 répons sont déjà fusionnés. Cette première version en étudie 5, choisis parce que les messages de commit expliquent les choix et couvrent des cas différents :</p>
+<p>212 répons sont déjà fusionnés. Ce document en étudie 10 pour l'instant, en deux lots de 5, choisis parce que les messages de commit expliquent les choix et couvrent des cas différents :</p>
 <table>
 <tr><th>Pièce</th><th>Commit de fusion</th><th>Message</th></tr>
 <tr><td>1122N3R2</td><td><code>459a8f94</code> 12/10/2026</td><td>Backported dcrochu's changes</td></tr>
@@ -41,6 +41,11 @@ Les points marqués <b>« Question »</b> attendent la confirmation de marteo.</
 <tr><td>0829N1R3</td><td><code>a135dbf8</code> 18/09/2026</td><td>Backported rhythmic / nabc changes by dcrochu, but not melodic changes, because I want to adhere to the Paleo table as much as reasonable.</td></tr>
 <tr><td>0508N2R1</td><td><code>dfb49631</code> 29/09/2026</td><td>Backported dcrochu's changes except the liq. at ALleluia because it is not in the ms version of this All.</td></tr>
 <tr><td>MUXNN1R1</td><td><code>edac999e</code> + <code>f9b0694d</code> 12/10/2026</td><td>Backported dcrochu's changes (melody one time, lsi/lss 3 times, syllabisation), puis : lsi position against dcrochu, having checked again with the ms</td></tr>
+<tr><td>1123N2R3</td><td><code>efd20eef</code> 12/10/2026</td><td>lsal+lsb are a single group (altius bene) carried by the torculus (and specifically its 2nd note I think). Backported other dcrochu's changes</td></tr>
+<tr><td>PMEXN1R2</td><td><code>fb13fca0</code> 24/07/2026</td><td>Backported dcrochu's changes except the last flat si</td></tr>
+<tr><td>PMEXN1R1</td><td><code>71ca45f7</code> + <code>39f441c1</code> 24/07/2026</td><td>Backported dcrochu's syllabisation. Attempt at a better position of the LST on JAM - but dcrochu's version is not good.</td></tr>
+<tr><td>0810N3R2</td><td><code>43bcf65b</code> 25/08/2026</td><td>Backported dcrochu's changes but kept the Roman text</td></tr>
+<tr><td>MUXXN1R3</td><td><code>429781b2</code> 19/08/2026</td><td>Backported dcrochu's syllabisation. One instance of //-&gt;/. I do not think the lsi is in position 9, but 8 (inTENde).</td></tr>
 </table>
 
 <h2>2. Les fichiers d'une pièce</h2>
@@ -78,7 +83,10 @@ Corollaire : quand un changement de neume est adopté, marteo <b>réajuste les s
 <tr><td>1122N3R1</td><td>cog/ná</td><td>co/gná</td></tr>
 <tr><td>1122N3R2</td><td>san/ctum (répons), sig/no</td><td>sanc/tum, si/gno</td></tr>
 <tr><td>0508N2R1</td><td>Ar/chán</td><td>Arch/án</td></tr>
-<tr><td>MUXNN1R1</td><td>prós/pe, reg/na</td><td>pró/spe, re/gna</td></tr>
+<tr><td>MUXNN1R1, MUXXN1R3</td><td>prós/pe, reg/na</td><td>pró/spe, re/gna</td></tr>
+<tr><td>PMEXN1R2</td><td>san/cti, í/de</td><td>sanc/ti, íd/e</td></tr>
+<tr><td>PMEXN1R1</td><td>Ab/stér, San/ctó, tran/si</td><td>Abs/tér, Sanc/tó, trans/i</td></tr>
+<tr><td>PMEXN1R1</td><td>Quó/ni/am</td><td>dcrochu : Quón/i/am, <b>non repris</b> : application de l'exception</td></tr>
 </table>
 <div class="rule small">Deux coupes de dcrochu n'avaient pas été reprises : « contem/ptórem » (1122N3R1) et « san/ctum » dans le verset de 1122N3R2. Ce sont des <b>oublis</b> : il faut écrire « contemp/tórem » et « sanc/tum ». Ces deux pièces sont donc à reprendre.</div>
 
@@ -91,14 +99,22 @@ Corollaire : quand un changement de neume est adopté, marteo <b>réajuste les s
 <div class="rule"><b>R3 bis. Altérations.</b> <i>(Confirmé par marteo.)</i>
 <ul>
 <li><b>Bécarres</b> (<code>y</code>, <code>Y</code>) proposés par dcrochu : <b>toujours adoptés</b>.</li>
-<li><b>Bémols</b> (<code>x</code>, <code>X</code>) proposés ou supprimés par dcrochu : <b>ne jamais trancher seul</b>, il faut demander confirmation à un humain. On en a un exemple dans PMEXN1R2 : « Backported dcrochu's changes except the last flat si ».</li>
+<li><b>Bémols</b> (<code>x</code>, <code>X</code>) proposés ou supprimés par dcrochu : <b>ne jamais trancher seul</b>, il faut demander confirmation à un humain. On en a un exemple dans PMEXN1R2 : « Backported dcrochu's changes except the last flat si ». Sur les deux bémols proposés dans cette pièce, celui de « um » (<code>ixg…</code>) a été adopté, celui de « nas » (<code>ixhg…</code>) refusé : la décision se prend au cas par cas.</li>
 </ul></div>
 <div class="rule small">Le bécarre ajouté par dcrochu sur « DIxit » dans 1122N3R1 (<code>gydf…</code>) n'avait pas été repris : c'est un <b>oubli</b>, il faut l'adopter. 1122N3R1 est à reprendre.</div>
 
 <div class="rule"><b>R4. Liquescences : refusées si le manuscrit ne les porte pas.</b> 0508N2R1 : la liquescence sur « ALleluia » (<code>g&gt;|obvi&gt;</code>) est refusée, « because it is not in the ms version of this All. ».</div>
 <div class="rule small">1122N3R1 « cón » : P avait <code>cl&gt;</code>, dcrochu proposait <code>vi&gt;</code>, et marteo a écrit <code>cl~</code>. Ce n'est pas une troisième solution : d'après la référence NABC de Gregorio, <code>vi&gt;</code> et <code>cl~</code> désignent le même neume. Marteo a donc <b>suivi dcrochu</b>, avec une autre graphie. <i>(Confirmé par marteo.)</i> Avant de conclure à un refus, il faut donc vérifier si les deux codes NABC sont équivalents.</div>
 
-<div class="rule"><b>R5. NABC, glyphe de base : toute modification doit être vérifiée par un humain.</b> <i>(Confirmé par marteo.)</i> Le glyphe de base, ce sont les deux lettres du neume : <code>vi</code>, <code>cl</code>, <code>pe</code>, <code>to</code>, <code>ci</code>, <code>sc</code>… Quand dcrochu le remplace par un autre, on ne tranche pas seul, même sur des notes identiques. Exemples relevés, que marteo a adoptés après examen : <code>vi-su3</code> → <code>vi-sut1su2</code> (tractulus dans les subpunctis), <code>to</code> → <code>toS</code>, <code>vi/pe…</code> → <code>scM2…</code> (1122N3R1 « á »). Il ajoute aussi les hauteurs relatives quand elles manquent : <code>pr</code> → <code>prhj</code>, <code>ci-</code> → <code>ci-hj</code>. Il corrige celles qui sont fausses : <code>vihj</code> → <code>vihl</code> (1122N3R2, « Qui », trois fois).</div>
+<div class="rule"><b>R5. NABC, glyphe de base : toute modification doit être vérifiée par un humain.</b> <i>(Confirmé par marteo.)</i> Le glyphe de base, ce sont les deux lettres du neume : <code>vi</code>, <code>cl</code>, <code>pe</code>, <code>to</code>, <code>ci</code>, <code>sc</code>… Quand dcrochu le remplace par un autre, on ne tranche pas seul, même sur des notes identiques. Exemples relevés, que marteo a adoptés après examen : <code>vi-su3</code> → <code>vi-sut1su2</code> (tractulus dans les subpunctis), <code>to</code> → <code>toS</code>, <code>vi/pe…</code> → <code>scM2…</code> (1122N3R1 « á »). Il ajoute aussi les hauteurs relatives quand elles manquent : <code>pr</code> → <code>prhj</code>, <code>ci-</code> → <code>ci-hj</code>. Il corrige celles qui sont fausses : <code>vihj</code> → <code>vihl</code> (1122N3R2, « Qui », trois fois).<br>
+Exemples du second lot, tous adoptés : 0810N3R2 « pó » <code>vi/pehi</code> → <code>scM2</code>, « tum » <code>cl-hhppt2</code> → <code>sf-</code>, et « Hip » <code>j|tahj</code> → <code>ji|clhjlsc3</code> (correction d'erreur annoncée par dcrochu, mélodie comprise).</div>
+<div class="rule"><b>R5 bis. Hauteurs relatives NABC (<code>hX</code>) : marteo garde les siennes.</b> Quand dcrochu <b>supprime</b> ou <b>déplace</b> une hauteur que marteo avait posée, c'est refusé dans les cas observés :
+<ul>
+<li>0810N3R2 : « do » <code>qlhh!clhhppt1vi-hi</code> gardé contre <code>qlhg!clhgppt1vi-hj</code> ; « tér » <code>pe&gt;1hi</code> contre <code>pe&gt;1hj</code> ; « tus » <code>tohjtohkprhj</code> contre <code>tohhtohiprhi</code> ; « Chris », « Sanc » : <code>qlhi!clhi…</code> gardé contre <code>ql!cl…</code> (suppression) ;</li>
+<li>PMEXN1R1 « æs » : <code>qlhh!clhh…</code> gardé contre <code>ql!cl…</code> ;</li>
+<li>MUXXN1R3 « et » : <code>qi-su2</code> gardé contre <code>qi-hisu2</code>.</li>
+</ul>
+Les <b>ajouts</b> de hauteur sur un neume qui n'en avait pas sont en revanche souvent repris (R5). Voir la question 4.</div>
 <div class="q"><b>Question 4.</b> Dans 0829N1R3, des ajouts de hauteur pourtant analogues ont été refusés (<code>cl!pi</code> gardé contre <code>clhj!pihj</code>, <code>cltohh</code> contre <code>cltohg</code>), de même que le déplacement <code>lsc2</code> → <code>lsc3</code>. Est-ce l'effet du principe « Paleo table » propre à cette pièce, ou une règle générale sur le placement vertical ?</div>
 
 <div class="rule"><b>R6. Espacement NABC en début de syllabe : <code>//</code> devient <code>/</code> ou rien.</b> Les <code>//</code> que dcrochu met en tête de neume sont presque toujours réduits :
@@ -106,18 +122,33 @@ Corollaire : quand un changement de neume est adopté, marteo <b>réajuste les s
 <li>à <code>/</code> : 0508N2R1 (« Cu », « ho », « præ », « o »), 1122N3R2 « á », 1122N3R1 « tum » ;</li>
 <li>à rien : 1122N3R1 « Hó », « di » ; 0829N1R3 « li » ; MUXNN1R1 « tu ».</li>
 </ul>
-Les décalages vers la gauche (<code>```</code> → <code>````</code>, MUXNN1R1 « Qui ») sont en revanche repris.</div>
+Les décalages vers la gauche sont en revanche repris (<code>```</code> → <code>````</code>, MUXNN1R1 « Qui » ; ajout de <code>``</code>, MUXXN1R3 « et »).<br>
+<b>Contre-exemple</b> : dans PMEXN1R2, trois <code>//</code> de dcrochu ont été repris tels quels (« Chris », « su » deux fois), alors qu'un quatrième a été réduit à <code>/</code> (« tá »). La règle n'est donc pas mécanique, d'où la question 5.</div>
 <div class="q"><b>Question 5.</b> Quelle est la règle exacte : <code>/</code> quand le neume précédent est proche, et rien sinon ? Dans quel cas un <code>//</code> est-il légitime ? Dcrochu lui-même a commité « // --&gt; / » sur 0908N1R2.</div>
 
-<div class="rule"><b>R7. Lettres significatives : position adoptée, sous réserve de vérification sur le manuscrit.</b> MUXNN1R1 : <code>lssm2</code> → <code>lssm3</code>, <code>lss2</code> → <code>lss3</code>, ajout de <code>lsi7</code> et <code>lsi8</code>, tous adoptés. Mais un second commit replace un <code>lsi</code> « against dcrochu, having checked again with the ms ». Le manuscrit tranche.</div>
+<div class="rule"><b>R7. Lettres significatives : position adoptée, sous réserve de vérification sur le manuscrit.</b> MUXNN1R1 : <code>lssm2</code> → <code>lssm3</code>, <code>lss2</code> → <code>lss3</code>, ajout de <code>lsi7</code> et <code>lsi8</code>, tous adoptés. Mais un second commit replace un <code>lsi</code> « against dcrochu, having checked again with the ms ». Le manuscrit tranche.<br>
+Second lot :
+<ul>
+<li><span class="ok">Adoptés</span> : ajout de <code>lsl2</code> (1123N2R3 « mo »), suppression de <code>lse6</code> (PMEXN1R2 « no »), ajout de <code>lse4</code> (PMEXN1R2 « a »).</li>
+<li><span class="mid">Retouché</span> : 1123N2R3, <code>lsal</code> et <code>lsb</code> forment un seul groupe (<i>altius bene</i>), porté par le torculus de « bí » (<code>tolsal3lsb3</code>). Ils sont donc retirés de la bivirga voisine, alors que dcrochu y gardait <code>lsb2</code>.</li>
+<li><span class="mid">Retouché</span> : PMEXN1R1, position du <code>lst</code> sur « jam » : marteo en propose une troisième (<code>lst3</code>), « dcrochu's version is not good ».</li>
+<li><span class="ko">Refusé</span> : MUXXN1R3 « tén », <code>lsi9</code> → gardé <code>lsi8</code> (« I do not think the lsi is in position 9, but 8 »).</li>
+</ul></div>
 
 <div class="rule"><b>R8. Conventions typographiques de marteo : conservées.</b>
 <ul>
 <li>L'astérisque est une syllabe vide à part : <code>&lt;sp&gt;*&lt;/sp&gt;()</code> (dcrochu le colle à la syllabe suivante, ce qui est refusé, 0829N1R3).</li>
 <li>Balises T.P. dans l'ordre <code>&lt;c&gt;&lt;i&gt;T.P.&lt;/i&gt;&lt;/c&gt;</code>.</li>
 <li>Orientation explicite de l'oriscus (<code>O</code> → <code>O1</code>) : adoptée.</li>
-<li>Le texte romain est conservé quand dcrochu suit le texte d'un manuscrit (0810N3R2 : « kept the Roman text »).</li>
+<li>Le texte romain est conservé quand dcrochu suit le texte d'un manuscrit (0810N3R2 : « kept the Roman text »). Dcrochu y avait pris le texte de Hartker (« credis ») ; marteo garde « credideris » et, avec lui, la mélodie des syllabes concernées.</li>
 </ul></div>
+<div class="rule"><b>R9. Liquescence finale en stropha (<code>!Hs&gt;</code>) : refusée dans les cas observés.</b> Dcrochu termine certains mélismes par <code>…I!Hs&gt;</code> (stropha liquescente détachée), alors que marteo écrit <code>…IH&gt;</code>. Marteo l'a refusé deux fois : 1123N2R3 « in » (annoncé par dcrochu comme « IN mari liquescence ») et 0810N3R2 « sum » (« JeSUM liquescence ---&gt; !Hs&gt; »). Voir la question 7.</div>
+<div class="rule"><b>R10. Découpage d'un mélisme en plusieurs couples <code>gabc|nabc</code>.</b> Un long mélisme peut s'écrire <code>(gabc1|nabc1|gabc2|nabc2…)</code>, ce qui aligne mieux les neumes sur les notes. Les deux cas observés vont en sens inverse :
+<ul>
+<li>0810N3R2 « a » : marteo garde son découpage <code>jkj|tohk|iji|tohk|hhog|prhi</code>, alors que dcrochu fusionne en un seul couple ;</li>
+<li>MUXXN1R3 « le » : marteo garde un seul couple, alors que dcrochu découpe en <code>hvGFg|ci-vi|egf/ge|/to/cl</code>.</li>
+</ul>
+Voir la question 8.</div>
 
 <h2>5. Libellé des commits</h2>
 <p>La quasi-totalité des commits de <code>gabc/</code> vient du site de propositions (nocturnale.marteo.fr). Ils suivent des gabarits fixes, en anglais :</p>
@@ -160,6 +191,8 @@ Les décalages vers la gauche (<code>```</code> → <code>````</code>, MUXNN1R1 
 <li>Les hauteurs NABC et le <code>lsc3</code> refusés dans 0829N1R3 relèvent-ils du principe « Paleo table » ou d'une règle générale ?</li>
 <li>Quelle est la règle d'espacement : <code>//</code>, <code>/</code> ou rien ?</li>
 <li>Pour les fusions à venir : fait-on la modification directement dans <code>ID_marteo.gabc</code> (commit au nom de qui ?), ou dans une proposition à part, que marteo reprend ensuite ?</li>
+<li>Faut-il toujours refuser la forme <code>!Hs&gt;</code> de dcrochu, ou est-ce un glyphe de base à soumettre à un humain (R9) ?</li>
+<li>Quand découper un mélisme en plusieurs couples <code>gabc|nabc</code> (R10) ?</li>
 </ol>
 <p class="small">Analyse outillée : alignement syllabique des états P, D et N tirés de l'historique git. Les catégories ont été vérifiées à la main sur les 5 pièces.</p>
 </body>
