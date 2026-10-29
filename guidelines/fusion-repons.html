@@ -124,7 +124,7 @@ Exemples du second lot, tous adoptés : 0810N3R2 « pó » <code>vi/pehi</code> 
 La hauteur par défaut est <code>hf</code>, donc une <b>suppression</b> de hauteur équivaut à un abaissement et se refuse <i>(confirmé par marteo)</i>, tandis qu'un <b>ajout</b> au-dessus de <code>hf</code> s'accepte.<br>
 <b>Hauteurs de marteo sous <code>hf</code> : toujours conservées.</b> <i>(Confirmé par marteo.)</i> Si marteo a posé une hauteur inférieure à la hauteur par défaut (<code>he</code>, <code>hd</code>…), on la garde, quoi que propose dcrochu : suppression, ou modification.<br>
 <b>Valeur à retenir pour une hausse : celle de dcrochu, sauf plafond.</b> <i>(Confirmé par marteo.)</i> On prend la valeur exacte de dcrochu, <b>sauf</b> si les notes carrées (gabc) du neume concerné ne dépassent pas la hauteur <code>k</code> : la hauteur NABC est alors <b>plafonnée à <code>hl</code></b>. Exemple : dcrochu propose <code>tohm</code> sur un torculus dont la note la plus haute est <code>k</code> ou plus bas ; on retient <code>tohl</code>. La règle porte sur les lettres gabc telles qu'elles sont écrites, quelle que soit la clé.<br>
-<b>Cas particulier : torculus de cadence <code>ql!clppt1to…</code>, plafonné à <code>hl</code></b> (application de la règle précédente). <i>(Confirmé par marteo.)</i> Dcrochu y met systématiquement <code>tohm</code>. On accepte la hausse jusqu'à <code>tohl</code>, jamais au-delà : <code>tohj</code> → <code>tohl</code> quand dcrochu propose <code>tohm</code> ; un <code>tohl</code> ou <code>tohk</code> déjà présent chez marteo reste tel quel face à <code>tohm</code>.<br>
+<b>Cas particulier : torculus de cadence <code>ql!clppt1to…</code>, plafonné à <code>hl</code></b> (application de la règle précédente). <i>(Confirmé par marteo.)</i> Dcrochu y met systématiquement <code>tohm</code>. On accepte la hausse jusqu'à <code>tohl</code>, jamais au-delà : face à un <code>tohm</code> de dcrochu, un <code>tohj</code> ou un <code>tohk</code> de marteo devient <code>tohl</code>, et un <code>tohl</code> reste tel quel. Marteo a d'ailleurs lui-même monté des <code>hk</code> à <code>hl</code> dans les fusions de 1130.<br>
 Marteo n'a pas toujours appliqué cette règle (« par flemme »). Les fusions déjà faites ne font donc pas foi sur ce point, et c'est la règle qu'il faut suivre. Relecture des cas observés :
 <table>
 <tr><th>Pièce, syllabe</th><th>marteo</th><th>dcrochu</th><th>Sens</th><th>Décision selon la règle</th></tr>
@@ -188,6 +188,7 @@ Dans MUXXN1R3 « le », la vérification du contenu fait apparaître une autre m
 <tr><td><code>&lt;ID&gt; by marteo was updated from the command line.</code></td><td>marteo</td><td>Modification hors site</td><td>87</td></tr>
 <tr><td><code>Replaced X with Y via CLI</code></td><td>marteo</td><td>Remplacement en masse (ex. <code>e@fo</code> → <code>efO1</code>)</td><td>≈ 120</td></tr>
 <tr><td>phrase libre, avec renvoi éventuel à une issue (<code>#70</code>)</td><td>Matthias Bry</td><td>Opérations globales (crochets, Gloria Patri…)</td><td>—</td></tr>
+<tr><td>phrase libre, ex. <code>Backported dcrochu's syllabisation and spacing, and various fixes, into marteo, for 1130</code></td><td>Matthias Bry</td><td><b>Fusion groupée</b>, faite en ligne de commande, de plusieurs <code>_marteo</code> d'une même fête : <code>fd597a81</code> (1130), <code>21772754</code> (APEX), <code>12fab5e4</code> (0121N3R2, P3F2R2, P3F4R1), <code>87ee10d1</code>, <code>844449f8</code>, <code>78df020a</code>. Ces commits ne portent pas le préfixe « marteo edited » : il faut les chercher pour retrouver une fusion.</td><td>—</td></tr>
 </table>
 
 <h3>Le message d'une fusion</h3>
@@ -280,7 +281,13 @@ Dans MUXXN1R3 « le », la vérification du contenu fait apparaître une autre m
 <ol start="32">
 <li><b>Pièces copiées</b> d'un autre répons (0815N3R1, CONPN2R1, CBMVN1R1…) : fusionner via la pièce mère, puis traiter les propositions propres à la copie ?</li>
 <li><b>Fusions incomplètes</b> : certains répons n'ont reçu qu'un report partiel, ou ont été fusionnés avant les propositions de dcrochu de 2026. Faut-il les inclure dans le chantier et les refusionner selon les règles ?<br>
-<span class="small">Déjà tranché <i>(confirmé par marteo)</i> : un répons de la liste des fusionnés <b>sans aucune modification de marteo postérieure</b> à celles de dcrochu est un répons où <b>toutes les modifications de dcrochu ont été refusées</b>. Ce n'est pas un oubli. Sont concernés 17 répons : 0121N3R2, 0211N1R3, 0211N3R1, 0211N3R2, 0810N1R3, 0908N1R2, 1130N1R1, 1130N1R2, 1130N1R3, 1130N2R1, 1130N2R2, 1130N3R1, APEXN2R1, APEXN3R2, COPON1R1, P3F2R2, P3F4R1.</span></li>
+<span class="small">Déjà tranché <i>(confirmé par marteo)</i> : un répons de la liste des fusionnés <b>sans aucune modification de marteo postérieure</b> à celles de dcrochu est un répons où <b>toutes les modifications de dcrochu ont été refusées</b>. Ce n'est pas un oubli. Après vérification, seuls <b>6 répons</b> sont dans ce cas :
+<ul>
+<li><b>0211N1R3, 0211N3R1, 0211N3R2</b> : la base de marteo est la Typica Desclée, et les deux fichiers portent des mélodies différentes (cf. R3, édition typique) ;</li>
+<li><b>0810N1R3</b> : marteo garde le texte romain, alors que dcrochu a rétabli celui de Hartker (R8) ;</li>
+<li><b>0908N1R2</b> et <b>COPON1R1</b> : aucune raison écrite.</li>
+</ul>
+Les 11 autres répons d'abord comptés ici (les 1130, APEXN2R1, APEXN3R2, 0121N3R2, P3F2R2, P3F4R1) ont en réalité été fusionnés par des commits groupés en ligne de commande (§ 5). Dans 1130N2R2, les propositions de dcrochu sur le verset (10/05 et 07/08/2026) sont postérieures à la fusion : elles n'ont jamais été examinées. Ce ne sont donc pas des refus.</span></li>
 </ol>
 
 <p class="small">Analyse outillée : alignement syllabique des états P, D et N tirés de l'historique git. Les catégories ont été vérifiées à la main sur les 5 pièces.</p>
