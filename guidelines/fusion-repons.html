@@ -90,7 +90,18 @@ Corollaire : quand un changement de neume est adopté, marteo <b>réajuste les s
 </table>
 <div class="rule small">Deux coupes de dcrochu n'avaient pas été reprises : « contem/ptórem » (1122N3R1) et « san/ctum » dans le verset de 1122N3R2. Ce sont des <b>oublis</b> : il faut écrire « contemp/tórem » et « sanc/tum ». Ces deux pièces sont donc à reprendre.</div>
 
-<div class="rule"><b>R3. Mélodie : adoptée, sauf si le changement éloigne de la source manuscrite.</b> Les cas observés :
+<div class="rule"><b>R3. Mélodie : arbre de décision.</b> <i>(Confirmé par marteo sur dix exemples.)</i> Pour chaque modification mélodique de dcrochu (des notes qui changent de hauteur), on regarde le contexte de la pièce et les messages de commit :
+<table>
+<tr><th>Situation</th><th>Décision</th><th>Exemple</th></tr>
+<tr><td>La version de marteo suit une <b>édition typique</b>, citée dans son message de commit (O. Reg., Typica, édition de dom René de Sainte-Beuve…)</td><td><span class="ko">refuser</span> dcrochu</td><td>10H5N2R2 « bus » (O. Reg.) ; H2F6N1R3 « Cum » (dom René de Sainte-Beuve)</td></tr>
+<tr><td>Marteo s'appuie sur une <b>table de la Paléographie musicale</b></td><td><span class="mid">soumettre à un humain</span>, sans proposer de décision</td><td>0125N3R2 « e » ; 0829N1R3</td></tr>
+<tr><td>Le passage est dans un <b>verset synthétique</b> : après <code>V/</code>, avec le NABC encadré par <code>ob</code> au début et <code>cb</code> à la fin du verset</td><td><span class="ok">adopter</span> dcrochu et signaler dans la PR</td><td>Q6N1R3 « spéc », 09H5N2R1 « cor », Q6N3R2 « præ », 0205N2R2 « om »</td></tr>
+<tr><td>Dcrochu a <b>justifié</b> la modification dans son message de commit, en citant la syllabe (ex. « braCHIo »)</td><td><span class="ok">adopter</span> dcrochu et signaler dans la PR</td><td>H1N2R1 « chi »</td></tr>
+<tr><td>Le <code>_marteo</code> est <b>d'origine dcrochu</b> : son historique de commits ne cite que dcrochu (« dcrochu as of … », « Original composition by dcrochu »)</td><td><span class="ok">adopter</span> dcrochu</td><td>5GN2R1 « cá »</td></tr>
+<tr><td>Modification <b>significative</b> : la mélodie change et la graphie aussi (ex. quilisma <code>w</code> ajouté ou déplacé)</td><td><span class="mid">soumettre à un humain</span></td><td>P6N3R2 « si » (mélodie changée, et quilisma ajouté sur « au »)</td></tr>
+</table>
+Les altérations restent régies par R3 bis : un bémol associé à une modification mélodique passe toujours par un humain.<br>
+<span class="small">Observations sur les fusions déjà faites :</span>
 <ul>
 <li><span class="ok">Adoptée</span> : MUXNN1R1 « con » <code>h/ijg/hg</code> → <code>h/ijh/hg</code>.</li>
 <li><span class="ko">Refusée</span> quand marteo suit volontairement un témoin : 1122N3R1, où il conserve le début particulier de l'<i>altera pars</i> du verset (« ta » <code>fe</code> au lieu de <code>f</code>, « te » <code>eh</code> au lieu de <code>h</code>), alors que dcrochu proposait une « standardisation du V/ à la médiante ».</li>
@@ -212,6 +223,7 @@ Dans MUXXN1R3 « le », la vérification du contenu fait apparaître une autre m
 <li><s>Quelle est la règle d'espacement : <code>//</code>, <code>/</code> ou rien ?</s> Réponse : devant un <code>to</code>, on réduit à <code>/</code> ; ailleurs, on garde <code>//</code> (R6).</li>
 <li><s>Pour les fusions à venir : modification de <code>ID_marteo.gabc</code>, ou proposition à part ?</s> Réponse : on modifie <code>ID_marteo.gabc</code> sur une branche, avec une PR par répons (§ 6).</li>
 <li><s>Faut-il toujours refuser la forme <code>!Hs&gt;</code> de dcrochu (R9) ?</s> Réponse : oui, la transformation d'un inclinatum liquescent en stropha liquescente est toujours refusée.</li>
+<li><s>Quelle règle pour les modifications mélodiques de dcrochu ?</s> Réponse : un arbre de décision qui dépend de l'origine de la version de marteo (édition typique, table Paléo, origine dcrochu), du type de passage (verset synthétique) et de la justification donnée par dcrochu (R3).</li>
 <li><s>Quand découper un mélisme en plusieurs couples <code>gabc|nabc</code> (R10) ?</s> Réponse : on prend le découpage le plus fin, après avoir vérifié qu'il ne cache pas d'autres modifications.</li>
 </ol>
 <p class="small">Analyse outillée : alignement syllabique des états P, D et N tirés de l'historique git. Les catégories ont été vérifiées à la main sur les 5 pièces.</p>
