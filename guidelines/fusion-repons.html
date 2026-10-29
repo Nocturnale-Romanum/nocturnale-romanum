@@ -183,14 +183,24 @@ Dans MUXXN1R3 « le », la vérification du contenu fait apparaître une autre m
 </ul>
 <p>Les syllabes visées s'écrivent avec la syllabe concernée en capitales : <code>ALleluia</code>, <code>inTENde</code>, <code>vestimentis tuIS</code>. Les messages de marteo sont en anglais. Ceux de dcrochu sont en français, en liste à puces par nature de changement : <code>• syllabisation : … • GABC : … • NABC : …</code>.</p>
 
-<h2>6. Procédure proposée pour un répons à fusionner</h2>
+<h2>6. Procédure pour un répons à fusionner</h2>
+<p><i>(Mode de livraison confirmé par marteo : on modifie <code>ID_marteo.gabc</code> sur une branche, avec <b>une PR par répons</b>.)</i></p>
 <ol>
+<li>Partir de <code>main</code> à jour et créer une branche dédiée au répons, par exemple <code>merge-ID</code>.</li>
 <li>Lire les messages de commit de <code>ID_dcrochu.gabc</code> depuis la dernière modification de <code>ID_marteo.gabc</code> : ils listent les changements proposés.</li>
 <li>Aligner <code>_marteo</code> et <code>_dcrochu</code> syllabe par syllabe, en ignorant le second en-tête de dcrochu et les signes rythmiques.</li>
-<li>Classer chaque divergence (syllabation, mélodie, liquescence, nature du neume, hauteur NABC, espacement, lettres significatives, typographie), puis appliquer R1 à R8.</li>
+<li>Classer chaque divergence (syllabation, mélodie, altération, liquescence, glyphe de base, hauteur NABC, espacement, lettres significatives, découpage, typographie), puis appliquer R1 à R10.</li>
+<li>Modifier <b>uniquement</b> <code>gabc/ID_marteo.gabc</code>. On ne touche ni à <code>ID.gabc</code> (la sélection reste faite par marteo sur le site), ni à <code>ID_dcrochu.gabc</code>.</li>
 <li>Réajuster les signes rythmiques sur les neumes modifiés (R1).</li>
-<li>Rédiger le message selon les gabarits du § 5, en justifiant chaque refus.</li>
-<li>Faire valider par marteo avant toute sélection.</li>
+<li>Rédiger le commit sur le modèle des messages de marteo (§ 5), en anglais : <code>ID: Backported dcrochu's changes except … because …</code>.</li>
+<li>Ouvrir la PR vers <code>main</code>. La description reprend le message du commit et ajoute une section <b>« À vérifier »</b>, qui liste syllabe par syllabe :
+<ul>
+<li>les lettres significatives adoptées (R7) ;</li>
+<li>les bémols ajoutés ou supprimés par dcrochu, laissés en suspens (R3 bis) ;</li>
+<li>les changements de glyphe de base NABC, laissés en suspens (R5) ;</li>
+<li>les découpages de mélisme repris et ce qu'ils contenaient d'autre (R10).</li>
+</ul></li>
+<li>Marteo relit et fusionne la PR, puis sélectionne la proposition sur le site.</li>
 </ol>
 
 <h2>7. Questions ouvertes (récapitulatif)</h2>
@@ -200,7 +210,7 @@ Dans MUXXN1R3 « le », la vérification du contenu fait apparaître une autre m
 <li><s>Sur quel critère « cón » a-t-il été mis en <code>cl~</code> (1122N3R1) ?</s> Réponse : <code>cl~</code> équivaut à <code>vi&gt;</code>, donc marteo a suivi dcrochu. Tout changement de glyphe de base NABC passe par un humain (R5).</li>
 <li><s>Les hauteurs NABC et le <code>lsc3</code> refusés dans 0829N1R3 relèvent-ils du principe « Paleo table » ou d'une règle générale ?</s> Réponse : règle générale. On accepte les changements de hauteur de dcrochu seulement à la hausse (R5 bis). Les lettres significatives sont acceptées et signalées dans la PR (R7). Les refus passés de marteo ne font pas foi.</li>
 <li><s>Quelle est la règle d'espacement : <code>//</code>, <code>/</code> ou rien ?</s> Réponse : devant un <code>to</code>, on réduit à <code>/</code> ; ailleurs, on garde <code>//</code> (R6).</li>
-<li>Pour les fusions à venir : fait-on la modification directement dans <code>ID_marteo.gabc</code> (commit au nom de qui ?), ou dans une proposition à part, que marteo reprend ensuite ?</li>
+<li><s>Pour les fusions à venir : modification de <code>ID_marteo.gabc</code>, ou proposition à part ?</s> Réponse : on modifie <code>ID_marteo.gabc</code> sur une branche, avec une PR par répons (§ 6).</li>
 <li><s>Faut-il toujours refuser la forme <code>!Hs&gt;</code> de dcrochu (R9) ?</s> Réponse : oui, la transformation d'un inclinatum liquescent en stropha liquescente est toujours refusée.</li>
 <li><s>Quand découper un mélisme en plusieurs couples <code>gabc|nabc</code> (R10) ?</s> Réponse : on prend le découpage le plus fin, après avoir vérifié qu'il ne cache pas d'autres modifications.</li>
 </ol>
