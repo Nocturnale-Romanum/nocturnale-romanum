@@ -226,6 +226,54 @@ Dans MUXXN1R3 « le », la vérification du contenu fait apparaître une autre m
 <li><s>Quelle règle pour les modifications mélodiques de dcrochu ?</s> Réponse : un arbre de décision qui dépend de l'origine de la version de marteo (édition typique, table Paléo, origine dcrochu), du type de passage (verset synthétique) et de la justification donnée par dcrochu (R3).</li>
 <li><s>Quand découper un mélisme en plusieurs couples <code>gabc|nabc</code> (R10) ?</s> Réponse : on prend le découpage le plus fin, après avoir vérifié qu'il ne cache pas d'autres modifications.</li>
 </ol>
+<h2>8. Questions en attente (issues de l'analyse des 185 autres fusions)</h2>
+<p>Six analyses parallèles ont passé en revue 185 des 202 autres répons déjà fusionnés. Les questions ci-dessous sont dédoublonnées et seront posées une par une. Chaque réponse sera intégrée aux règles.</p>
+<h3>Hauteurs NABC</h3>
+<ol start="10">
+<li><b>Torculus de cadence <code>ql!clppt1to…</code></b> : dcrochu y met systématiquement <code>tohm</code>, et marteo ne l'a jamais adopté (il le ramène à <code>hk</code> ou <code>hl</code>). Faut-il un plafond, ou appliquer R5 bis ?</li>
+<li>Pour une hausse adoptée, prend-on la valeur exacte de dcrochu, ou une valeur intermédiaire est-elle permise (0810N1R2 « fór » : <code>tohj</code>, dcrochu <code>tohm</code>, retenu <code>tohl</code>) ?</li>
+<li>Quand dcrochu supprime une hauteur <b>sous</b> <code>hf</code> (ex. <code>he</code>), c'est une hausse : faut-il l'accepter ?</li>
+<li>Faut-il ajouter soi-même les hauteurs manquantes (teneur des versets en <code>tahh</code>, harmonisation de formules identiques), comme marteo le fait quand il repart de dcrochu ?</li>
+</ol>
+<h3>Formules standard</h3>
+<ol start="14">
+<li><b>Alléluia du temps pascal</b> : marteo garde toujours son alléluia standard (refus systématique, alléluia double refusé), alors que dcrochu a uniformisé la formule dans 19 fichiers. Règle : toujours garder celui de marteo ?</li>
+<li><b>Gloria Patri</b> : le Gloria Patri standard du mode, neumes compris, prime-t-il sur toutes les autres règles ?</li>
+<li><b>Bémols de cadence finale en modes 7 et 8</b> : refusés « for now » (commit 21772754). Est-ce une règle durable ? Vaut-elle aussi pour les cadences intérieures ?</li>
+</ol>
+<h3>Graphie gabc</h3>
+<ol start="17">
+<li><b>Coupures à mi-pente ascendante</b> (« CMA ») : quand dcrochu les supprime, marteo refuse presque toujours (environ 17 fois sur 18). Faut-il toujours refuser ?</li>
+<li><b>Regroupements gabc</b> (<code>/</code> remplacé par <code>!</code> ou <code>@</code>) : toujours refusés ?</li>
+<li><b>Espacement gabc <code>//</code> → <code>/</code></b> entre groupes de notes : les décisions sont partagées. Le <code>//</code> semble gardé après une virga ou un signe rythmique. Quelle règle ?</li>
+<li><b>Strophas</b> : faut-il toujours garder celles de marteo (stropha remplacée par un punctum : refusé ; notation abrégée <code>fss</code> développée en <code>fsfs</code>) ?</li>
+<li><b>Autres changements de forme de notes</b> (clivis liquescente remplacée par des inclinata liquescentes <code>hvG~F~</code>, note caudée, climacus en losanges) : faut-il les refuser comme en R9 ?</li>
+</ol>
+<h3>Espacement NABC</h3>
+<ol start="22">
+<li>Les longues séries de <code>/</code> (<code>///</code> à <code>//////</code>) qui font la place d'une altération échappent-elles à R6 ? Tombent-elles quand l'altération est refusée ?</li>
+<li>Quand dcrochu retire un espacement, ou supprime un décalage à gauche (<code>`</code>), faut-il refuser ?</li>
+</ol>
+<h3>Structure et balisage</h3>
+<ol start="24">
+<li><b>Reprise après le verset</b> : forme courte de marteo (premier mot seul, ou <code>(::h+z)</code> « pour gagner une ligne ») ou reprise complète de dcrochu ?</li>
+<li><b>Crochets <code>ob</code>/<code>cb</code></b> : ajout adopté et suppression refusée ? Où les fermer ?</li>
+<li><b>Barres de division</b> : relèvent-elles du seul choix de marteo ?</li>
+<li><b>Balise T.P.</b> : le document dit <code>&lt;c&gt;&lt;i&gt;</code>, mais la plupart des fichiers ont <code>&lt;i&gt;&lt;c&gt;</code>. Laquelle retenir ?</li>
+<li><code>lslc</code> (lettre composée) ou <code>lsl</code> + <code>lsc</code> séparées ?</li>
+<li>Les modificateurs de neume (<code>S</code>, <code>M</code>, <code>-1</code>…) relèvent-ils de R5 (glyphe de base, donc humain) ?</li>
+</ol>
+<h3>Syllabation et texte</h3>
+<ol start="30">
+<li>Coupes de dcrochu non reprises par marteo : <i>pot/é…</i>, <i>í/de/o</i>, <i>Dis/pér</i>, <i>sic/ut</i>, <i>tém/psit</i>, <i>dig/nís</i>, <i>Ag/num</i>, <i>Is/te</i> (avec l'élision <code>&lt;e&gt;</code>). Oublis, ou exceptions comme <i>quó/ni/am</i> ?</li>
+<li>Texte : marteo n'aligne le texte sur le Bréviaire romain que si le changement est « trivial ». Quel critère ?</li>
+</ol>
+<h3>Périmètre du chantier</h3>
+<ol start="32">
+<li><b>Pièces copiées</b> d'un autre répons (0815N3R1, CONPN2R1, CBMVN1R1…) : fusionner via la pièce mère, puis traiter les propositions propres à la copie ?</li>
+<li><b>Fusions incomplètes</b> : 17 répons de la liste n'ont aucune modification de marteo postérieure aux propositions de dcrochu, et d'autres n'ont reçu qu'un report partiel ou sont antérieurs aux propositions de 2026. Faut-il les inclure dans le chantier et les refusionner selon les règles ?</li>
+</ol>
+
 <p class="small">Analyse outillée : alignement syllabique des états P, D et N tirés de l'historique git. Les catégories ont été vérifiées à la main sur les 5 pièces.</p>
 </body>
 </html>
