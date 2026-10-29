@@ -123,14 +123,15 @@ Marteo n'a pas toujours appliqué cette règle (« par flemme »). Les fusions d
 <tr><td>1122N3R2 « Qui » (×3)</td><td><code>vihj</code></td><td><code>vihl</code></td><td>hausse</td><td><span class="ok">adopté</span></td></tr>
 </table></div>
 
-<div class="rule"><b>R6. Espacement NABC en début de syllabe : <code>//</code> devient <code>/</code> ou rien.</b> Les <code>//</code> que dcrochu met en tête de neume sont presque toujours réduits :
+<div class="rule"><b>R6. Espacement NABC <code>//</code> de dcrochu : réduit à <code>/</code> devant un torculus (<code>to</code>), gardé tel quel devant tout autre neume.</b> <i>(Confirmé par marteo.)</i> Un torculus suivi de ses modificateurs ou de sa hauteur (<code>toS</code>, <code>tohj</code>, <code>to-1</code>…) compte comme <code>to</code> : c'est une interprétation, à confirmer.<br>
+Les fusions passées ne l'ont pas toujours respectée. Selon la règle, il aurait fallu garder <code>//</code> devant <code>cl</code> (1122N3R1 « di », 0508N2R1 « præ ») et devant <code>pf</code> (1122N3R1 « tum »), et réduire à <code>/</code> devant <code>to</code> (PMEXN1R2 « su » ×2, 1122N3R1 « Hó », MUXNN1R1 « tu »).<br>
+<span class="small">Observations brutes qui ont conduit à la question :</span> les <code>//</code> que dcrochu met en tête de neume avaient presque toujours été réduits :
 <ul>
 <li>à <code>/</code> : 0508N2R1 (« Cu », « ho », « præ », « o »), 1122N3R2 « á », 1122N3R1 « tum » ;</li>
 <li>à rien : 1122N3R1 « Hó », « di » ; 0829N1R3 « li » ; MUXNN1R1 « tu ».</li>
 </ul>
 Les décalages vers la gauche sont en revanche repris (<code>```</code> → <code>````</code>, MUXNN1R1 « Qui » ; ajout de <code>``</code>, MUXXN1R3 « et »).<br>
-<b>Contre-exemple</b> : dans PMEXN1R2, trois <code>//</code> de dcrochu ont été repris tels quels (« Chris », « su » deux fois), alors qu'un quatrième a été réduit à <code>/</code> (« tá »). La règle n'est donc pas mécanique, d'où la question 5.</div>
-<div class="q"><b>Question 5.</b> Quelle est la règle exacte : <code>/</code> quand le neume précédent est proche, et rien sinon ? Dans quel cas un <code>//</code> est-il légitime ? Dcrochu lui-même a commité « // --&gt; / » sur 0908N1R2.</div>
+<b>Contre-exemple</b> : dans PMEXN1R2, trois <code>//</code> de dcrochu ont été repris tels quels (« Chris », « su » deux fois), alors qu'un quatrième a été réduit à <code>/</code> (« tá »).</div>
 
 <div class="rule"><b>R7. Lettres significatives (<code>ls…</code>, <code>lt…</code>) : on accepte en général les modifications de dcrochu, mais on les <u>signale dans la PR</u>, pour vérification après coup.</b> <i>(Confirmé par marteo.)</i> Cela vaut pour les ajouts, les suppressions et les changements de position (ex. 0829N1R3 « i » : <code>lsc2</code> → <code>lsc3</code>, à adopter et signaler). Les observations qui suivent montrent pourquoi ce signalement est nécessaire.<br> MUXNN1R1 : <code>lssm2</code> → <code>lssm3</code>, <code>lss2</code> → <code>lss3</code>, ajout de <code>lsi7</code> et <code>lsi8</code>, tous adoptés. Mais un second commit replace un <code>lsi</code> « against dcrochu, having checked again with the ms ». Le manuscrit tranche.<br>
 Second lot :
@@ -195,7 +196,7 @@ Voir la question 8.</div>
 <li><s>Pourquoi le bécarre de « DIxit » (1122N3R1) n'a-t-il pas été repris ?</s> Réponse : c'est un oubli. Les bécarres sont toujours adoptés, les bémols sont soumis à un humain (R3 bis).</li>
 <li><s>Sur quel critère « cón » a-t-il été mis en <code>cl~</code> (1122N3R1) ?</s> Réponse : <code>cl~</code> équivaut à <code>vi&gt;</code>, donc marteo a suivi dcrochu. Tout changement de glyphe de base NABC passe par un humain (R5).</li>
 <li><s>Les hauteurs NABC et le <code>lsc3</code> refusés dans 0829N1R3 relèvent-ils du principe « Paleo table » ou d'une règle générale ?</s> Réponse : règle générale. On accepte les changements de hauteur de dcrochu seulement à la hausse (R5 bis). Les lettres significatives sont acceptées et signalées dans la PR (R7). Les refus passés de marteo ne font pas foi.</li>
-<li>Quelle est la règle d'espacement : <code>//</code>, <code>/</code> ou rien ?</li>
+<li><s>Quelle est la règle d'espacement : <code>//</code>, <code>/</code> ou rien ?</s> Réponse : devant un <code>to</code>, on réduit à <code>/</code> ; ailleurs, on garde <code>//</code> (R6).</li>
 <li>Pour les fusions à venir : fait-on la modification directement dans <code>ID_marteo.gabc</code> (commit au nom de qui ?), ou dans une proposition à part, que marteo reprend ensuite ?</li>
 <li><s>Faut-il toujours refuser la forme <code>!Hs&gt;</code> de dcrochu (R9) ?</s> Réponse : oui, la transformation d'un inclinatum liquescent en stropha liquescente est toujours refusée.</li>
 <li>Quand découper un mélisme en plusieurs couples <code>gabc|nabc</code> (R10) ?</li>
