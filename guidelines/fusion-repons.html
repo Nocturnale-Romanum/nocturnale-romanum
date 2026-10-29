@@ -150,12 +150,15 @@ Second lot :
 <li>Le texte romain est conservé quand dcrochu suit le texte d'un manuscrit (0810N3R2 : « kept the Roman text »). Dcrochu y avait pris le texte de Hartker (« credis ») ; marteo garde « credideris » et, avec lui, la mélodie des syllabes concernées.</li>
 </ul></div>
 <div class="rule"><b>R9. Punctum inclinatum liquescent : on refuse toujours sa transformation en stropha liquescente.</b> <i>(Confirmé par marteo.)</i> Quand dcrochu change un <code>G&gt;</code>, <code>H&gt;</code>, <code>I&gt;</code>… (inclinatum liquescent) en <code>gs&gt;</code>, <code>Gs&gt;</code>, <code>!Hs&gt;</code>… (stropha liquescente), on garde la forme de marteo.<br> Dcrochu termine certains mélismes par <code>…I!Hs&gt;</code> (stropha liquescente détachée), alors que marteo écrit <code>…IH&gt;</code>. Marteo l'a refusé deux fois : 1123N2R3 « in » (annoncé par dcrochu comme « IN mari liquescence ») et 0810N3R2 « sum » (« JeSUM liquescence ---&gt; !Hs&gt; »).</div>
-<div class="rule"><b>R10. Découpage d'un mélisme en plusieurs couples <code>gabc|nabc</code>.</b> Un long mélisme peut s'écrire <code>(gabc1|nabc1|gabc2|nabc2…)</code>, ce qui aligne mieux les neumes sur les notes. Les deux cas observés vont en sens inverse :
+<div class="rule"><b>R10. Découpage d'un mélisme en plusieurs couples <code>gabc|nabc</code> : on privilégie toujours le découpage le plus fin</b>, qu'il vienne de marteo ou de dcrochu. <i>(Confirmé par marteo.)</i><br>
+<b>Attention</b> : quand on reprend un découpage, il faut comparer le contenu de chaque segment redécoupé, et pas seulement les frontières. Un changement de découpage peut cacher d'autres modifications (notes, neumes, hauteurs, lettres) qu'il faut traiter avec les autres règles. Méthode : on concatène les segments gabc de part et d'autre, puis les segments nabc, et on les compare.<br>
+Application aux cas observés : 0810N3R2 « a », découpage de marteo (plus fin) gardé, conforme ; MUXXN1R3 « le », découpage de dcrochu (plus fin) refusé par marteo, à adopter selon la règle, après vérification du contenu.<br>
+<span class="small">Observations brutes :</span> Un long mélisme peut s'écrire <code>(gabc1|nabc1|gabc2|nabc2…)</code>, ce qui aligne mieux les neumes sur les notes. Les deux cas observés vont en sens inverse :
 <ul>
 <li>0810N3R2 « a » : marteo garde son découpage <code>jkj|tohk|iji|tohk|hhog|prhi</code>, alors que dcrochu fusionne en un seul couple ;</li>
 <li>MUXXN1R3 « le » : marteo garde un seul couple, alors que dcrochu découpe en <code>hvGFg|ci-vi|egf/ge|/to/cl</code>.</li>
 </ul>
-Voir la question 8.</div>
+Dans MUXXN1R3 « le », la vérification du contenu fait apparaître une autre modification : les notes sont identiques, mais le nabc passe de <code>ci-vitocl</code> à <code>ci-vi</code> + <code>/to/cl</code>, avec deux espacements <code>/</code> ajoutés (R6).</div>
 
 <h2>5. Libellé des commits</h2>
 <p>La quasi-totalité des commits de <code>gabc/</code> vient du site de propositions (nocturnale.marteo.fr). Ils suivent des gabarits fixes, en anglais :</p>
@@ -199,7 +202,7 @@ Voir la question 8.</div>
 <li><s>Quelle est la règle d'espacement : <code>//</code>, <code>/</code> ou rien ?</s> Réponse : devant un <code>to</code>, on réduit à <code>/</code> ; ailleurs, on garde <code>//</code> (R6).</li>
 <li>Pour les fusions à venir : fait-on la modification directement dans <code>ID_marteo.gabc</code> (commit au nom de qui ?), ou dans une proposition à part, que marteo reprend ensuite ?</li>
 <li><s>Faut-il toujours refuser la forme <code>!Hs&gt;</code> de dcrochu (R9) ?</s> Réponse : oui, la transformation d'un inclinatum liquescent en stropha liquescente est toujours refusée.</li>
-<li>Quand découper un mélisme en plusieurs couples <code>gabc|nabc</code> (R10) ?</li>
+<li><s>Quand découper un mélisme en plusieurs couples <code>gabc|nabc</code> (R10) ?</s> Réponse : on prend le découpage le plus fin, après avoir vérifié qu'il ne cache pas d'autres modifications.</li>
 </ol>
 <p class="small">Analyse outillée : alignement syllabique des états P, D et N tirés de l'historique git. Les catégories ont été vérifiées à la main sur les 5 pièces.</p>
 </body>
