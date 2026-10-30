@@ -187,6 +187,13 @@ Second lot :
 <li>L'astérisque est une syllabe vide à part : <code>&lt;sp&gt;*&lt;/sp&gt;()</code> (dcrochu le colle à la syllabe suivante, ce qui est refusé, 0829N1R3).</li>
 <li>Balises T.P. <i>(confirmé par marteo)</i> : les deux ordres, <code>&lt;c&gt;&lt;i&gt;T.P.&lt;/i&gt;&lt;/c&gt;</code> et <code>&lt;i&gt;&lt;c&gt;T.P.&lt;/c&gt;&lt;/i&gt;</code>, sont corrects. On garde celui de marteo et on ignore un changement d'ordre proposé par dcrochu. En revanche, on <b>corrige toute imbrication fautive</b> (balises qui se chevauchent, comme dans CBMVN2R1), et on la mentionne dans la PR.</li>
 <li>Orientation explicite de l'oriscus (<code>O</code> → <code>O1</code>) : adoptée.</li>
+<li><b>Remplacements en masse restés incomplets : on les complète au passage</b> dans chaque fichier touché par une PR, et on le mentionne dans la PR.
+<ul>
+<li><b>Oriscus après un punctum, une note plus haut</b> : <code>e@fo</code> → <code>efO1</code>, <code>g@ho</code> → <code>ghO1</code>, et de même <code>X@Yo</code> ou <code>X!Yo</code> → <code>XYO1</code> <i>(confirmé par marteo : à appliquer systématiquement)</i>. Il en reste 32 au 30/10/2026, dans les <code>_marteo</code> : <code>e@fo</code> ×10, <code>e!fo</code> ×1, <code>g@ho</code> ×6, <code>g!ho</code> ×1, <code>h@io</code> ×1, <code>i@jo</code> ×6, <code>i!jo</code> ×4, <code>j@ko</code> ×2, <code>j!ko</code> ×1.</li>
+<li><b>Coupe <i>San/ctus</i> → <i>Sanc/tus</i></b> (commits <code>86c2d6ca</code> et <code>b2159eb1</code>, R2) : il en reste environ 83, dans 73 <code>_marteo</code>.</li>
+<li><b>Tristropha abrégée</b> <code>fsss</code> → <code>fsfsfs</code> (commit <code>7a7e0e71</code>, car la notation abrégée ne s'affiche pas dans exsurge.js) : il en reste 1. Selon R14, on développe aussi la <b>distropha abrégée</b> <code>fss</code> → <code>fsfs</code>, qui n'avait pas été remplacée en masse : 870 occurrences dans 423 <code>_marteo</code>.</li>
+<li><i>alleluja</i> → <i>alleluia</i> : complet.</li>
+</ul></li>
 <li><b>Texte : toute différence va à un humain.</b> <i>(Confirmé par marteo.)</i> Hors syllabation (R2) et balisage, toute différence de texte entre marteo et dcrochu (mot changé, ajouté ou supprimé, retour au texte d'un manuscrit ou alignement sur le Bréviaire romain) est <span class="mid">soumise à un humain</span>, ainsi que la mélodie des syllabes concernées. Pour mémoire, marteo garde en général le texte romain : dans 0810N3R2, dcrochu avait pris le texte de Hartker (« credis »), et marteo a gardé « credideris ».</li>
 </ul></div>
 <div class="rule"><b>R9. Punctum inclinatum liquescent : on refuse toujours sa transformation en stropha liquescente.</b> <i>(Confirmé par marteo.)</i> Quand dcrochu change un <code>G&gt;</code>, <code>H&gt;</code>, <code>I&gt;</code>… (inclinatum liquescent) en <code>gs&gt;</code>, <code>Gs&gt;</code>, <code>!Hs&gt;</code>… (stropha liquescente), on garde la forme de marteo.<br> Dcrochu termine certains mélismes par <code>…I!Hs&gt;</code> (stropha liquescente détachée), alors que marteo écrit <code>…IH&gt;</code>. Marteo l'a refusé deux fois : 1123N2R3 « in » (annoncé par dcrochu comme « IN mari liquescence ») et 0810N3R2 « sum » (« JeSUM liquescence ---&gt; !Hs&gt; »).</div>
@@ -355,7 +362,7 @@ Les 11 autres répons d'abord comptés ici (les 1130, APEXN2R1, APEXN3R2, 0121N3
 <li><s><b>Arbre R3</b> : dans quel ordre appliquer les cas, et que faire par défaut ?</s> Réponse : verset synthétique, puis édition typique, origine purement dcrochu, table Paléo, justification ; sinon, humain (R3).</li>
 <li>R13 : un punctum qui porte un signe rythmique de marteo (<code>g_</code>, <code>g.</code>) compte-t-il comme un « punctum seul » ?</li>
 <li><s><b>Sanc/tus</b> : convention à imposer partout ?</s> Réponse : oui, <i>sanc/tus</i> partout (R2).</li>
-<li><b>Remplacements globaux</b> : faut-il compléter au passage un remplacement en masse resté incomplet (<code>g@ho1</code> → <code>ghO1</code>) ?</li>
+<li><s><b>Remplacements globaux</b> : faut-il compléter au passage un remplacement en masse resté incomplet ?</s> Réponse : oui pour l'oriscus (<code>X@Yo</code> → <code>XYO1</code>). Les autres découlent de R2 (<i>sanc/tus</i>) et de R14 (strophas développées) (R8).</li>
 <li>Les liquescences du gabc doivent-elles suivre celles du NABC (et réciproquement) quand dcrochu les aligne ? <i>(Suppression d'élision : réglée en R2, décision humaine.)</i></li>
 </ol>
 
