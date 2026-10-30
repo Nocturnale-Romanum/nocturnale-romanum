@@ -157,7 +157,8 @@ Les fusions passées ne l'ont pas toujours respectée. Selon la règle, il aurai
 Les décalages vers la gauche sont en revanche repris (<code>```</code> → <code>````</code>, MUXNN1R1 « Qui » ; ajout de <code>``</code>, MUXXN1R3 « et »).<br>
 <b>Contre-exemple</b> : dans PMEXN1R2, trois <code>//</code> de dcrochu ont été repris tels quels (« Chris », « su » deux fois), alors qu'un quatrième a été réduit à <code>/</code> (« tá »).</div>
 
-<div class="rule"><b>R7. Lettres significatives (<code>ls…</code>, <code>lt…</code>) : on accepte en général les modifications de dcrochu, mais on les <u>signale dans la PR</u>, pour vérification après coup.</b> <i>(Confirmé par marteo.)</i> Cela vaut pour les ajouts, les suppressions et les changements de position (ex. 0829N1R3 « i » : <code>lsc2</code> → <code>lsc3</code>, à adopter et signaler). Les observations qui suivent montrent pourquoi ce signalement est nécessaire.<br> MUXNN1R1 : <code>lssm2</code> → <code>lssm3</code>, <code>lss2</code> → <code>lss3</code>, ajout de <code>lsi7</code> et <code>lsi8</code>, tous adoptés. Mais un second commit replace un <code>lsi</code> « against dcrochu, having checked again with the ms ». Le manuscrit tranche.<br>
+<div class="rule"><b>R7. Lettres significatives (<code>ls…</code>, <code>lt…</code>) : on accepte en général les modifications de dcrochu, mais on les <u>signale dans la PR</u>, pour vérification après coup.</b> <i>(Confirmé par marteo.)</i> Cela vaut pour les ajouts, les suppressions et les changements de position (ex. 0829N1R3 « i » : <code>lsc2</code> → <code>lsc3</code>, à adopter et signaler).<br>
+<b>Exception : lettre composée <code>lslc</code>.</b> <i>(Confirmé par marteo.)</i> Quand dcrochu remplace le <code>lslc</code> de marteo (<i>levare celeriter</i>) par deux lettres séparées <code>lsl</code> + <code>lsc</code>, on <b>garde <code>lslc</code></b>. On le signale dans la PR, pour vérifier sur le manuscrit qu'il s'agit bien d'une seule lettre composée <i>lc</i>. Les observations qui suivent montrent pourquoi ce signalement est nécessaire.<br> MUXNN1R1 : <code>lssm2</code> → <code>lssm3</code>, <code>lss2</code> → <code>lss3</code>, ajout de <code>lsi7</code> et <code>lsi8</code>, tous adoptés. Mais un second commit replace un <code>lsi</code> « against dcrochu, having checked again with the ms ». Le manuscrit tranche.<br>
 Second lot :
 <ul>
 <li><span class="ok">Adoptés</span> : ajout de <code>lsl2</code> (1123N2R3 « mo »), suppression de <code>lse6</code> (PMEXN1R2 « no »), ajout de <code>lse4</code> (PMEXN1R2 « a »).</li>
@@ -305,7 +306,7 @@ Conséquence pour R3 : tant que cette divergence n'est pas tranchée, le caract�
 <li><s><b>Crochets <code>ob</code>/<code>cb</code></b> : ajout adopté et suppression refusée ?</s> Réponse : toute divergence est soumise à un humain (R17).</li>
 <li><s><b>Barres de division</b> : relèvent-elles du seul choix de marteo ?</s> Réponse : non, toute divergence est soumise à un humain (R18).</li>
 <li><s><b>Balise T.P.</b> : quel ordre retenir ?</s> Réponse : les deux ordres sont corrects, on laisse tel quel ; les imbrications fautives sont corrigées (R8).</li>
-<li><code>lslc</code> (lettre composée) ou <code>lsl</code> + <code>lsc</code> séparées ?</li>
+<li><s><code>lslc</code> (lettre composée) ou <code>lsl</code> + <code>lsc</code> séparées ?</s> Réponse : on garde <code>lslc</code> et on signale dans la PR (R7).</li>
 <li>Les modificateurs de neume (<code>S</code>, <code>M</code>, <code>-1</code>…) relèvent-ils de R5 (glyphe de base, donc humain) ?</li>
 </ol>
 <h3>Syllabation et texte</h3>
