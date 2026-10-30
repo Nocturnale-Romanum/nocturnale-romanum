@@ -245,6 +245,14 @@ Conséquence pour R3 : tant que cette divergence n'est pas tranchée, le caract�
 </ol>
 Conformément à la règle « une PR par répons », la fille a sa propre PR. Sa description renvoie à la PR de la mère et distingue les modifications reportées de la mère de celles qui sont propres à la fille.</div>
 
+<div class="rule"><b>R20. Ne compte comme proposition de dcrochu que ce qu'il a lui-même changé.</b> <i>(Confirmé par marteo.)</i> Dcrochu est parti d'une version donnée de <code>_marteo</code>, celle qui existait à la date de son premier commit sur la pièce. On compare donc trois états :
+<ul>
+<li><b>B</b>, la base : <code>_marteo</code> au moment du premier commit de dcrochu ;</li>
+<li><b>D</b> : <code>_dcrochu</code> actuel ;</li>
+<li><b>M</b> : <code>_marteo</code> actuel.</li>
+</ul>
+Seules les divergences entre D et B sont des propositions de dcrochu, à traiter selon les règles. Les retouches que marteo a faites après B (divergences entre M et B, avec D = B) sont <b>conservées</b> et n'apparaissent pas dans la PR. Les signes rythmiques, que dcrochu retire toujours, n'entrent pas dans la comparaison (R1).</div>
+
 <div class="rule"><b>R11. Alléluia du temps pascal : toujours l'alléluia standard de marteo.</b> <i>(Confirmé par marteo.)</i> Partout où un alléluia pascal est nécessaire, on met l'alléluia standard de marteo, notes et neumes compris. Toute modification de dcrochu sur ce passage est refusée, qu'il s'agisse de sa formule uniformisée ou d'un alléluia double.<br>
 <b>Le Gloria Patri, lui, n'a pas de régime particulier</b> <i>(confirmé par marteo)</i> : on lui applique les règles communes (R2 à R10), comme au reste de la pièce, même quand marteo a mis le Gloria Patri standard du mode.</div>
 
@@ -277,7 +285,7 @@ Conformément à la règle « une PR par répons », la fille a sa propre PR. Sa
 <ol>
 <li>Partir de <code>main</code> à jour et créer une branche dédiée au répons, par exemple <code>merge-ID</code>.</li>
 <li>Lire les messages de commit de <code>ID_dcrochu.gabc</code> depuis la dernière modification de <code>ID_marteo.gabc</code> : ils listent les changements proposés.</li>
-<li>Aligner <code>_marteo</code> et <code>_dcrochu</code> syllabe par syllabe, en ignorant le second en-tête de dcrochu et les signes rythmiques.</li>
+<li>Retrouver la base B dont dcrochu est parti (R20), puis aligner syllabe par syllabe B, <code>_dcrochu</code> et <code>_marteo</code>, en ignorant le second en-tête de dcrochu et les signes rythmiques. Ne retenir que ce que dcrochu a changé par rapport à B.</li>
 <li>Classer chaque divergence (syllabation, mélodie, altération, liquescence, glyphe de base, hauteur NABC, espacement, lettres significatives, découpage, typographie), puis appliquer R1 à R10.</li>
 <li>Modifier <b>uniquement</b> <code>gabc/ID_marteo.gabc</code>. On ne touche ni à <code>ID.gabc</code> (la sélection reste faite par marteo sur le site), ni à <code>ID_dcrochu.gabc</code>.</li>
 <li>Réajuster les signes rythmiques sur les neumes modifiés (R1).</li>
