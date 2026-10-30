@@ -105,15 +105,15 @@ Pour tous les autres mots, on adopte la coupe de dcrochu (ex. <i>contemp/tórem<
 </table>
 <div class="rule small">Deux coupes de dcrochu n'avaient pas été reprises : « contem/ptórem » (1122N3R1) et « san/ctum » dans le verset de 1122N3R2. Ce sont des <b>oublis</b> : il faut écrire « contemp/tórem » et « sanc/tum ». Ces deux pièces sont donc à reprendre.</div>
 
-<div class="rule"><b>R3. Mélodie : arbre de décision.</b> <i>(Confirmé par marteo sur dix exemples.)</i> Pour chaque modification mélodique de dcrochu (des notes qui changent de hauteur), on regarde le contexte de la pièce et les messages de commit :
+<div class="rule"><b>R3. Mélodie : arbre de décision, appliqué dans l'ordre.</b> <i>(Confirmé par marteo, cas et ordre.)</i> Pour chaque modification mélodique de dcrochu (des notes qui changent de hauteur), on parcourt les cas <b>dans l'ordre</b>, et le premier qui s'applique décide :
 <table>
-<tr><th>Situation</th><th>Décision</th><th>Exemple</th></tr>
-<tr><td>La version de marteo suit une <b>édition typique</b>, citée dans son message de commit (O. Reg., Typica, édition de dom René de Sainte-Beuve…)</td><td><span class="ko">refuser</span> dcrochu</td><td>10H5N2R2 « bus » (O. Reg.) ; H2F6N1R3 « Cum » (dom René de Sainte-Beuve)</td></tr>
-<tr><td>Marteo s'appuie sur une <b>table de la Paléographie musicale</b></td><td><span class="mid">soumettre à un humain</span>, sans proposer de décision</td><td>0125N3R2 « e » ; 0829N1R3</td></tr>
-<tr><td>Le passage est dans un <b>verset synthétique</b> : après <code>V/</code>, avec le NABC encadré par <code>ob</code> au début et <code>cb</code> à la fin du verset</td><td><span class="ok">adopter</span> dcrochu et signaler dans la PR</td><td>Q6N1R3 « spéc », 09H5N2R1 « cor », Q6N3R2 « præ », 0205N2R2 « om »</td></tr>
-<tr><td>Dcrochu a <b>justifié</b> la modification dans son message de commit, en citant la syllabe (ex. « braCHIo »)</td><td><span class="ok">adopter</span> dcrochu et signaler dans la PR</td><td>H1N2R1 « chi »</td></tr>
-<tr><td>Le <code>_marteo</code> est <b>d'origine dcrochu</b> : son historique de commits ne cite que dcrochu (« dcrochu as of … », « Original composition by dcrochu »)</td><td><span class="ok">adopter</span> dcrochu</td><td>5GN2R1 « cá »</td></tr>
-<tr><td>Modification <b>significative</b> : la mélodie change et la graphie aussi (ex. quilisma <code>w</code> ajouté ou déplacé)</td><td><span class="mid">soumettre à un humain</span></td><td>P6N3R2 « si » (mélodie changée, et quilisma ajouté sur « au »)</td></tr>
+<tr><th>#</th><th>Situation</th><th>Décision</th><th>Exemple</th></tr>
+<tr><td>1</td><td>Le passage est dans un <b>verset synthétique</b> : après <code>V/</code>, avec le NABC encadré par <code>ob</code> au début et <code>cb</code> à la fin du verset, aux mêmes endroits dans les deux versions (R17)</td><td><span class="ok">adopter</span> dcrochu et signaler dans la PR</td><td>Q6N1R3 « spéc », 09H5N2R1 « cor », Q6N3R2 « præ », 0205N2R2 « om »</td></tr>
+<tr><td>2</td><td>La version de marteo suit une <b>édition typique</b>, citée dans son message de commit (O. Reg., Typica, édition de dom René de Sainte-Beuve…)</td><td><span class="ko">refuser</span> dcrochu</td><td>10H5N2R2 « bus » (O. Reg.) ; H2F6N1R3 « Cum » (dom René de Sainte-Beuve)</td></tr>
+<tr><td>3</td><td>Le <code>_marteo</code> est <b>d'origine purement dcrochu</b> : son historique de commits ne cite que dcrochu (« dcrochu as of … », « Original composition by dcrochu »)</td><td><span class="ok">adopter</span> dcrochu</td><td>5GN2R1 « cá »</td></tr>
+<tr><td>4</td><td>Marteo s'appuie sur une <b>table de la Paléographie musicale</b></td><td><span class="mid">soumettre à un humain</span>, sans proposer de décision</td><td>0125N3R2 « e » ; 0829N1R3</td></tr>
+<tr><td>5</td><td>Dcrochu a <b>justifié</b> la modification dans son message de commit, en citant la syllabe (ex. « braCHIo »)</td><td><span class="ok">adopter</span> dcrochu et signaler dans la PR</td><td>H1N2R1 « chi »</td></tr>
+<tr><td>6</td><td><b>Aucun des cas précédents</b>, notamment une modification significative où la mélodie et la graphie changent toutes les deux (ex. quilisma <code>w</code> ajouté ou déplacé)</td><td><span class="mid">soumettre à un humain</span></td><td>P6N3R2 « si » (mélodie changée, et quilisma ajouté sur « au »)</td></tr>
 </table>
 Les altérations restent régies par R3 bis : un bémol associé à une modification mélodique passe toujours par un humain.<br>
 <span class="small">Observations sur les fusions déjà faites :</span>
@@ -351,7 +351,7 @@ Les 11 autres répons d'abord comptés ici (les 1130, APEXN2R1, APEXN3R2, 0121N3
 
 <h3>Compléments (analyse des refus en bloc)</h3>
 <ol start="34">
-<li><b>Arbre R3</b> : dans quel ordre appliquer les cas ? Par exemple, une édition typique l'emporte-t-elle sur un verset synthétique ? Et que faire d'une modification mélodique qui n'entre dans aucun cas (non justifiée, hors verset synthétique, pièce qui n'est pas d'origine dcrochu) ?</li>
+<li><s><b>Arbre R3</b> : dans quel ordre appliquer les cas, et que faire par défaut ?</s> Réponse : verset synthétique, puis édition typique, origine purement dcrochu, table Paléo, justification ; sinon, humain (R3).</li>
 <li>R13 : un punctum qui porte un signe rythmique de marteo (<code>g_</code>, <code>g.</code>) compte-t-il comme un « punctum seul » ?</li>
 <li><b>Sanc/tus</b> : la convention de coupe <i>Sanc-tus</i> (et non <i>San-ctus</i>) est-elle prioritaire, même si dcrochu propose autre chose ? On trouve <i>San/cto</i> chez marteo dans 0211N3R2.</li>
 <li><b>Remplacements globaux</b> : faut-il compléter au passage un remplacement en masse resté incomplet (<code>g@ho1</code> → <code>ghO1</code>) ?</li>
