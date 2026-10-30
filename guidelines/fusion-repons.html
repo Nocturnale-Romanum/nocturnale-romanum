@@ -281,13 +281,15 @@ Conformément à la règle « une PR par répons », la fille a sa propre PR. Sa
 <li>Modifier <b>uniquement</b> <code>gabc/ID_marteo.gabc</code>. On ne touche ni à <code>ID.gabc</code> (la sélection reste faite par marteo sur le site), ni à <code>ID_dcrochu.gabc</code>.</li>
 <li>Réajuster les signes rythmiques sur les neumes modifiés (R1).</li>
 <li>Rédiger le commit sur le modèle des messages de marteo (§ 5), en anglais : <code>ID: Backported dcrochu's changes except … because …</code>.</li>
-<li>Ouvrir la PR vers <code>main</code>. La description reprend le message du commit et ajoute une section <b>« À vérifier »</b>, qui liste syllabe par syllabe :
+<li>Pour tout point qu'une règle renvoie à un humain (bémols, glyphe de base NABC et modificateurs, texte, crochets <code>ob</code>/<code>cb</code>, barres de division, table Paléo, cas par défaut de R3, suppression d'élision, autre changement de forme de note), on <b>garde la version de marteo</b> dans le fichier. <i>(Confirmé par marteo.)</i></li>
+<li>Ouvrir la PR vers <code>main</code>, en anglais. Le format a été validé par marteo sur la PR <a href="https://github.com/Nocturnale-Romanum/nocturnale-romanum/pull/87">#87</a>. La description comporte :
 <ul>
-<li>les lettres significatives adoptées (R7) ;</li>
-<li>les bémols ajoutés ou supprimés par dcrochu, laissés en suspens (R3 bis) ;</li>
-<li>les changements de glyphe de base NABC, laissés en suspens (R5) ;</li>
-<li>les découpages de mélisme repris et ce qu'ils contenaient d'autre (R10).</li>
+<li><b>Backported</b> : tableau syllabe / avant / après / règle ;</li>
+<li><b>Refused</b> : les refus et leur règle ;</li>
+<li><b>Needs decision</b> : les points renvoyés à un humain, avec la version de marteo (conservée) et la proposition de dcrochu en regard, pour trancher dans la PR ;</li>
+<li><b>To check</b> (cases à cocher) : les lettres significatives adoptées (R7), les modifications adoptées « et signalées » (R3), les plafonds <code>hl</code> appliqués, les découpages de mélisme repris (R10), les ajouts <code>tahh</code> (R5 ter) et les remplacements en masse complétés au passage (R8).</li>
 </ul></li>
+<li>On avance par <b>lots de 5 PR en brouillon</b>, relus avant de lancer le lot suivant.</li>
 <li>Marteo relit et fusionne la PR, puis sélectionne la proposition sur le site.</li>
 </ol>
 
