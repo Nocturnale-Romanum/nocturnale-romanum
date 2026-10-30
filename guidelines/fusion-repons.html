@@ -33,6 +33,7 @@ Les points marqués <b>« Question »</b> attendent la confirmation de marteo.</
 
 <h2>1. Objet et périmètre</h2>
 <p>Pour chaque répons qui a plusieurs propositions, il faut produire une version fusionnée. Marteo (Matthias Bry) arbitre l'opération. Ce document décrit la façon dont marteo a fusionné jusqu'ici les propositions de <b>dcrochu</b> dans sa propre version <b>_marteo</b>, pour pouvoir appliquer les mêmes critères aux répons restants.</p>
+<p><b>Périmètre du chantier</b> <i>(confirmé par marteo)</i> : les répons qui ont plusieurs propositions et ne figurent pas dans la liste des 212 répons déjà fusionnés. Ces 212 sont considérés comme traités : toute proposition de dcrochu que marteo n'y a pas reprise compte comme refusée. Ils servent seulement à apprendre les règles.</p>
 <p>212 répons sont déjà fusionnés. Ce document en étudie 10 pour l'instant, en deux lots de 5, choisis parce que les messages de commit expliquent les choix et couvrent des cas différents :</p>
 <table>
 <tr><th>Pièce</th><th>Commit de fusion</th><th>Message de marteo (traduit)</th></tr>
@@ -338,7 +339,7 @@ Conformément à la règle « une PR par répons », la fille a sa propre PR. Sa
 <h3>Périmètre du chantier</h3>
 <ol start="32">
 <li><s><b>Pièces copiées</b> d'un autre répons : comment les fusionner ?</s> Réponse : reporter dans la fille les modifications faites à la mère (sans recopier la mère), puis traiter les propositions propres à la fille (R19).</li>
-<li><b>Fusions incomplètes</b> : certains répons n'ont reçu qu'un report partiel, ou ont été fusionnés avant les propositions de dcrochu de 2026. Faut-il les inclure dans le chantier et les refusionner selon les règles ?<br>
+<li><s><b>Fusions incomplètes</b> : faut-il refusionner les répons de la liste qui n'ont reçu qu'un report partiel ou une fusion antérieure aux propositions de 2026 ?</s> Réponse : non. Les 212 répons de la liste sont considérés comme traités, et toute proposition de dcrochu que marteo n'y a pas reprise est considérée comme refusée. Le chantier porte sur les répons <b>hors liste</b>.<br>
 <span class="small">Déjà tranché <i>(confirmé par marteo)</i> : un répons de la liste des fusionnés <b>sans aucune modification de marteo postérieure</b> à celles de dcrochu est un répons où <b>toutes les modifications de dcrochu ont été refusées</b>. Ce n'est pas un oubli. Après vérification, seuls <b>6 répons</b> sont dans ce cas :
 <ul>
 <li><b>0211N1R3, 0211N3R1, 0211N3R2</b> : la base de marteo est la Typica Desclée, et les deux fichiers portent des mélodies différentes (cf. R3, édition typique) ;</li>
