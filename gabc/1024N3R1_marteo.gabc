@@ -1,16 +1,13 @@
-name:Benedicite Deum coeli dixit Angelus V Ipsum benedicite;
+name:Benedicite Deum caeli dixit Angelus V Ipsum benedicite;
 office-part:re;
 mode:7;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Be(ef)ne(e)dí(ei!jv)ci(i)te(i)
-<sp>*</sp> De(hi)um(hhog)
-c<sp>ae</sp>(h!iwjij)li,(ji..) (;) 
-di(ivHGfh)xit(g) An(g!hi~)ge(h)lus(hi) Rá(i)pha(ih/if!gwh!ivHGh)ël(hg..) (:)
-et(gh~) co(ih/io@jv)ram(i>) ó(i!jwkjk>)mni(j)bus(ji) vi(ig)vén(h>)ti<nlba>(hiHGFgwhGFEf)bus</nlba>(fe__) (,)
-con(e>)fi(ei)té(ijIHij)mi(i)ni(i) e(ji/jh/if!gwh!ivHGh)i:(hg..) (;)
-<sp>+</sp> Qui(hg)a(h) fe(ig/ho@iv)cit(h) vo(hih/ghg)bís(fe)cum(ef@gwh/efe/eod.) (,)
-mi(d)se(fh)ri(g)có(hiHG!hwij)di(i)am(i) su(ivHGFg)am.(fe..) (::)
-<sp>V/</sp> I(i!jwkJI)psum(hi/hhg~) be(h)ne(h)dí(hi)ci(h)te,(h) et(h) can(ig~)tá(hi)te(hi) il(i!jwkj)li,(ji..) (;)
-et(hi/hhg~) nar(hih)rá(i)te(i) ó(ij~)mni(i)a(i) mi(i)ra(i)bí(ijijvIH)lil(hg)a(h!iwji/jkj) e(ih!iwjij)jus.(ivHGhg..) (::)
- <sp>+</sp> Qui(hg)a.(h) (::)
+(c3) Be(ef|obpe)ne(e|ta)dí(ef|pe)ci(e|ta)te(e|ta) <sp>*</sp> () De(e|ta)um(e!foh|sa) cæ(hv_//gh/ihi_jv|vi-po-1hipp2vihk)li,(i.|ta-) (;) di(i|``talse1)xit(i|ta) An(i_0ihi|tapo)ge(f!gwh|qlppt1)lus(g!hwi_H_G_F/gwh_GF|ql!vssut2ppt1qi-hgsu2) Rá(e|ta)pha(ef!gv_FEf|//ci-pp2vihg)ël(fe..|cl-) (:) et(ihi~|``po~lsal4) co(il|pehmlsl2)ram(lk_kvJ~H~|clS-hmcl>hm) óm(i|tahh)ni(i!jwkjk|qlhi!pohippt1)bus(j_i_|cl-hi) vi(il|pehmlsl2)vén(l>|vi>hm)ti(k|tahm)bus(kl!mvLK_J_|//////vihpsu1sut2|kv_JIj_i_|ci-hmcl-hm) (,) con(i<|ta>hi)fi(j|vihk)té(k|vihm)mi(i|vihh)ni(h|ta) e(i_h_|cl-)i:(ihho_g.|clS-cl-) (:) 
+
+<sp>+</sp> Qui(g|``talse1)a(hi|pe) fe(iiog|pr)cit(i|vi) vo(h_i|peS)bís(ivH_G_hv_G_FEf|clSsut1vi-suu1su2vihg)cum(f_e_|cl-) (,) mi(e|``talse1)se(ei|pelss3)ri(i|vi)cór(ih_hg~|clSvi>)di(f|ta)am(h_f!gwh_GF|cl-ql-hgsu2) su(ef!gv_FEf|//ci-pp2vihg)am.(fe..|cl-) (::)
+
+<sp>V/</sp> Ip(i!jwk_JI|vihiql-hnsu2)sum(h_i/hhg~|peSvs>) be(h|ta)ne(h|ta)dí(hi|pe)ci(h|ta)te,(h_|ta-) (,) et(h|ta) can(ig~|vi>lsi6)tá(hi|pe)te(hi|pe) il(i!jwk_j_|qlhk!cl-hkppt1)li,(ji..|cl-hh) (;) et(h_i/hhg~|peSvs>) nar(hih|//to)rá(i|vi)te(i|vi) óm(ij~|pe~)ni(i|ta)a(i|ta) mi(i|ta)ra(i|ta)bí(ijij_IH|////tr-1hisu2)li(ih|cllsc3)a(h!iwji/jkj|////qlhi!clhippt1lsc2tohm) e(i_h!iwjij|////cl-hhqihi!pohi)jus.(iv_HGhg..|//ci-cl-hg) (::)
+
+ <sp>+</sp> Qui(g|``talse1)a.(hi|pecb) (::)
