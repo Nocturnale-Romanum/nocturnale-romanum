@@ -2,16 +2,13 @@ name:Tempus est ut revertar ad eum V Confitemini ei V Gloria;
 office-part:re;
 mode:8;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Tem(f!gh~)pus(g) est,(g) <sp>*</sp> 
-ut(g) re(g)vér(h)tar(gf~) ad(h!iwjIH) e(jk)um,(j_) (,)
-qui(i) me(j) mi(kvJIjwkjk)sit,(kj..) (;)
-di(ji)xit(h) An(ji/jk~)ge(h)lus(gh@iwjIH) Rá(g)pha(gh@ivHGh)ël;(hg..) (:)
-<sp>+</sp> Vos(gji) au(hjh!iwjg~)tem(eeo!f>) be(d)ne(e)dí(ghj)ci(h)te(iio!jv) Dó(hjhi)mi(h)num,(hg..) (;)
-et(hg~) nar(hj)rá(ji)te(h) ó(ij~)mni(i!jwkJIjwkjk)a(kj__ `) mi(j)ra(j)bí(i@jwkj)li(i)a(h@iwjIH) e(gh@ivHGh)jus.(hg..) (::)
-<sp>V/</sp> Con(j)fi(j)té(j)mi(ji)ni(jkj/iji/hhog) e(hi)i(i) co(i)ram(i) ó(i)mni(ih)bus(ij) vi(hi)vén(g)ti(g!hwih)bus,(hg..) (;)
-qui(g)a(fg) fe(g)cit(g) vo(g)bís(gh)cum(g) mi(g)se(g)ri(g)có(hiHGhih)di(ghf)am(gh~) su(h!iwji/jkj)am.(hiHGhg..) (::)
-<sp>+</sp> Vos.(gji) (::z-) 
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhog) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg..) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) Sanc(h@iwji/jkjIH)to.(hiHG/hg..) (::)
-<sp>+</sp> Vos.(gji) (::)
+(c4) Tem(f_0/gh|/obscM1)pus(g|ta) est,(g|ta) <sp>*</sp>() ut(g|``talse1) re(g|ta)vér(h|vi)tar(gf~|vi>lsi6lsc2) ad(h!iwj|`viqlhk) e(j_i!jwkjk|cl-hiqlhj!pohj)um,(k_j_|cl-hl) (,) qui(h|ta) me(j_h!iwj_IH|cl-hhql-hisu2) mi(gh!iv_HGh|//ci-hgpp2vihh)sit,(hg..|cl-) (;) di(g|``talse1)xit(g|ta) An(ghf~|//pe>lsi6)ge(g|ta)lus(g|ta) Rá(g|ta)pha(gh!iv_HGh|//ci-hgpp2vihh)ël;(hg..|cl-) (:)
+<sp>+</sp> Vos(i|`vilsl2lse9) au(i|vi)tem(i_0/jkhh_g_|vi-hhtoS2hicl-hi) be(i|vilsl2lse9)ne(i|vi)dí(i|vi)ci(i|vi)te(j_i_/jv_I_HGh_g_|cl-hivi-hisut1su2cl-hj) Dó(h!iwj|qlppt1)mi(ikjjs|//tohisthj)num,(ji..|cl-) (;) et(h|tahg) nar(j|vihg)rá(j_i_/jv_IHijO1|cl-hhci-hhvs)te(i_|ta-hh) óm(jv_jv_|bv-hi)ni(hg|cllsc3)a(g|talse9) mi(g|ta)ra(h|vi)bí(jv_jv_|bv-hi)li(hg|cllsc3)a(g|ta) e(gh!iv_HGh|//ci-hgpp2vihh)jus.(hg..|cl-) (::)
+
+<sp>V/</sp> Con(j|vi)fi(j|vi)té(j|vi)mi(ji|clhhlsc3)ni(jkj/iji/hhog|//////tohjtohkprhj) e(hi|pe)i(i_|vi-) (,) co(i|vi)ram(i|vi) óm(i|vi)ni(ih|cllsc3)bus(ij|pe) vi(hi|pe)vén(g|ta)ti(g!hwi_h_|ql!cl-ppt1)bus,(hg..|cl-) (;) qui(g|vi)a(fg|pe) fe(g|ta)cit(g|ta) vo(g|ta)bís(gh|pe)cum(g|ta-) mi(g|ta)se(g|ta)ri(g|ta)cór(ixhi_HGhih|//////pe-su2tohg)di(ghf|to)am(gh~|pe~) su(iyh!iwji/jkJ_IH|//////qlhi!clhippt1to-1hmsu2)am.(h_i_HGhg..|pe-1hhsu2cl-hh) (::)
+<sp>+</sp> Vos.(i|``vilsl2lse9) (::) 
+
+<sp>V/</sp> Gló(j|vi)ri(ji|cllsc3)a(jkj/iji/hhog|//tohitohjprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g!hwi_h_|ql!cl-ppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HG/hih|/////pe-hhsu2tohi)tu(ghf|to)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|//////qlhi!clhippt1to-1hmsu2)to.(h_i_HGhg..|pe-1hhsu2cl-hh) (::)
+<sp>+</sp> Vos.(i|``vilsl2lse9cb) (::)
