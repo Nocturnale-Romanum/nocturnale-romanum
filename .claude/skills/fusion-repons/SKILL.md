@@ -13,6 +13,13 @@ Chaque répons existe en deux versions : `gabc/<ID>_marteo.gabc` (marteo, arbitr
 2. **Les PR** `merge-<ID>` : leur description (format ci-dessous) et leurs **commentaires** (décisions de marteo et de Thomas).
 3. L'historique git des deux fichiers (`git log -- gabc/<ID>_dcrochu.gabc`), qui donne la base R20 et les justifications de dcrochu.
 
+## Références Gregorio
+
+Manuels fournis avec GregorioTeX, hors dépôt, à consulter pour les noms et la syntaxe des neumes au lieu de les déduire. `kpsewhich <fichier>` donne leur chemin ; avec MiKTeX, ils sont dans `%APPDATA%\MiKTeX\doc\luatex\gregoriotex\`.
+
+- **`GregorioNabcRef.pdf`** : langage NABC (glyphes de base, modificateurs, prépunctis et subpunctis, lettres significatives, tables de Cardine avec leur code NABC).
+- **`GregorioRef.pdf`** : manuel général ; la section 6.4 décrit la syntaxe des notes GABC, dont les signes rythmiques (6.4.10).
+
 ## Mise en place
 
 ```bash
