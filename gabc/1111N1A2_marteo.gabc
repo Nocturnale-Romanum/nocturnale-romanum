@@ -2,10 +2,11 @@ name:Sanctae Trinitatis fidem Martinus;
 office-part:an;
 mode:7a;
 submitter:marteo;
+nabc-lines:1;
 %%
-(c3) Sanc(e)tæ(e) Tri(g)ni(h)tá(i_)tis(h) fi(ij)dem(i_) 
+(c3) Sanc(e|tahc)tæ(e|tahc) Tri(g|vihc)ni(h|vihc)tá(i_|vi-)tis(h|ta) fi(ij|pe)dem(i_|vi-lsx6) 
 <sp>*</sp>(,) 
-Mar(g)tí(ij)nus(i) con(h)fés(hf__)sus(gf__) est,(e.) (;)
-ac(e) bap(g)tís(ef)mi(f_) (,) 
-grá(g)ti(h)am(g) per(f>)cé(e.)pit.(e.)  (::)
+Mar(g|ta)tí(ij|pe)nus(i|vi) con(h|vihd)fés(hf__|cl-)sus(gf__|cl-) est,(e.|ta) (;)
+ac(e|ta) bap(g|vi)tís(ef|pe)mi(f_|vi-) (,) 
+grá(g|vi)ti(h|vi)am(g|vi) per(f>|vi>)cé(e.|ta)pit.(e.|ta)  (::)
 <eu> E(i) U(i) O(j) U(i) A(h) E.(gf) </eu> (::)
