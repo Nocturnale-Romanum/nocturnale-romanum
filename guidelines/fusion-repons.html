@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<title>Fusion des répons – guidelines</title>
+<title>Fusion des répons et des antiennes – guidelines</title>
 <style>
   @page { size: A4; margin: 18mm 16mm 18mm 16mm; }
   body { font-family: "TeX Gyre Pagella", "Palatino Linotype", serif; font-size: 10.5pt; line-height: 1.38; color: #1a1a1a; }
@@ -27,13 +27,14 @@
 </head>
 <body>
 
-<h1>Fusion des répons : guidelines</h1>
+<h1>Fusion des répons et des antiennes : guidelines</h1>
 <div class="sub">Nocturnale Romanum, dossier <code>gabc/</code>. Version de travail du 30/10/2026, tirée de l'étude de 10 répons déjà fusionnés par marteo et de ses réponses aux questions. Les messages de commit restent en anglais, comme dans le reste du dépôt ; ils sont cités tels quels dans les gabarits du § 5.<br>
 Les points marqués <b>« Question »</b> attendent la confirmation de marteo.</div>
 
 <h2>1. Objet et périmètre</h2>
 <p>Pour chaque répons qui a plusieurs propositions, il faut produire une version fusionnée. Marteo (Matthias Bry) arbitre l'opération. Ce document décrit la façon dont marteo a fusionné jusqu'ici les propositions de <b>dcrochu</b> dans sa propre version <b>_marteo</b>, pour pouvoir appliquer les mêmes critères aux répons restants.</p>
 <p><b>Périmètre du chantier</b> <i>(confirmé par marteo)</i> : les répons qui ont plusieurs propositions et ne figurent pas dans la liste des 212 répons déjà fusionnés. Ces 212 sont considérés comme traités : toute proposition de dcrochu que marteo n'y a pas reprise compte comme refusée. Ils servent seulement à apprendre les règles.<br>
+<b>Antiennes</b> <i>(décision de marteo, 10/11/2026)</i> : elles entrent aussi dans le chantier, avec les règles du § 4 bis.<br>
 <b>Exclus du chantier</b> <i>(décision du 30/10/2026)</i> : les répons de l'Office des défunts (<code>ODEF…</code> : ODEFN1R1 à ODEFN3R3b).</p>
 <p>212 répons sont déjà fusionnés. Ce document en étudie 10 pour l'instant, en deux lots de 5, choisis parce que les messages de commit expliquent les choix et couvrent des cas différents :</p>
 <table>
@@ -305,6 +306,40 @@ Seules les divergences entre D et B sont des propositions de dcrochu, à traiter
 <li><b>Virga longue</b> : 0501N1R3, <code>vi-</code> → <code>vi</code> refusé, car l'édition typique laisse un grand espace après cette virga.</li>
 <li><b>Version entièrement différente</b> : 0202N2R3, dcrochu propose un tout autre répons ; on garde celui de marteo et on n'en reprend que les retouches du Gloria Patri.</li>
 <li>Décisions « humain » tranchées en faveur de dcrochu : bécarres et bémols ponctuels (09H1F2R2 « STA », 09H1N1R3 « TE »), glyphes NABC (09H1F2R1 <code>scM1</code>, 0624N2R3 <code>bv-</code>, 0205N1R1 <code>bv-</code>, 0125N2R3), formes d'oriscus (09H1F2R2 <code>efO1</code>, 0624N2R3 <code>ihhog</code>), accent <i>xís</i> (0205N1R1). En faveur de marteo : texte romain (0205N1R1), <code>suu2</code> et <code>lsi6</code> refusés (09H1N1R3), <code>lsal2</code> refusé (0205N2R1).</li>
+</ul>
+
+<h2>4 bis. Antiennes</h2>
+<p><i>(Décision de marteo, 10/11/2026.)</i> Les antiennes (<code>office-part:an;</code>, identifiants en <code>…A1</code>, <code>…A2</code>…, ex. <code>1111N2A2</code>) se fusionnent comme les répons : même fichier cible <code>_marteo</code>, une PR par antienne, mêmes sections de description, même procédure (§ 6). Les règles R1 à R25 s'appliquent aux antiennes, <b>sauf celles qui supposent un verset ou une reprise du répons</b> ; s'y ajoutent les règles propres aux antiennes A1, A2… ci-dessous. Pour une antienne, les règles A priment sur les règles R.</p>
+
+<h3>Règles R : ce qui vaut pour les antiennes</h3>
+<table>
+<tr><th>Règles</th><th>Antiennes</th></tr>
+<tr><td>R1, R2, R3 bis (règle générale), R4, R5, R5 bis, R6, R7, R8, R9, R10, R12, R13, R14, R15, R18, R19, R20, R21, R22, R23, R24</td><td><span class="ok">s'appliquent</span> telles quelles. Pour R24, la « section synthétique » est un passage de l'antienne encadré par <code>ob</code>…<code>cb</code>.</td></tr>
+<tr><td>R3</td><td><span class="ok">s'applique</span>, <b>sauf le cas 1</b> (verset synthétique) : on passe directement au cas 2.</td></tr>
+<tr><td>R11</td><td><span class="ok">s'applique</span> à l'alléluia pascal de l'antienne (arbitrage par <code>ORAL2.gabc</code>) ; le paragraphe sur le Gloria Patri est sans objet.</td></tr>
+<tr><td>R17</td><td><span class="ok">s'applique</span> (divergence de crochets <code>ob</code>/<code>cb</code> → humain), <b>sauf</b> la conséquence pour le cas 1 de R3 et l'exception de l'<code>ob</code> avancé en début de verset.</td></tr>
+<tr><td>R5 ter (teneur des versets), R16 (reprise après le verset), R25 (reprises), exception de R7 sur la <code>lse</code> ajoutée en reprise finale</td><td><span class="ko">propres aux répons</span> : sans objet pour les antiennes.</td></tr>
+</table>
+<div class="q"><b>Question.</b> L'exception de R3 bis (bémol de dcrochu dans la cadence finale <b>d'un répons</b> de mode 7 ou 8 : refus systématique) vaut-elle aussi pour la cadence finale d'une antienne de mode 7 ou 8 ? En attendant la réponse de marteo, on applique aux antiennes la règle générale de R3 bis : <span class="mid">décision humaine</span>.</div>
+
+<h3>Règles propres aux antiennes</h3>
+<div class="rule"><b>A1. Première note de l'antienne et différence : le changement de la première note entraîne celui de la différence.</b> <i>(Décision de marteo, 10/11/2026, PR #528.)</i> La différence (terminaison psalmodique, notée dans <code>&lt;eu&gt;…&lt;/eu&gt;</code> et dans l'en-tête <code>mode:</code>) conduit à la première note de l'antienne, que l'on reprend après le <i>Gloria Patri</i>. Les deux vont donc ensemble :
+<ul>
+<li>quand un changement de la <b>première note</b> de l'antienne proposé par dcrochu est <span class="ok">adopté</span> (par une règle ou par une décision), on <span class="ok">adopte aussi</span> son changement de différence : les notes de l'<code>&lt;eu&gt;</code> et la ligne <code>mode:</code> (ex. 1111N2A2, PR #528 : <i>TEtradius</i> <code>g</code> → <code>e</code> adopté, donc <code>mode:7c2;</code> → <code>mode:7d;</code> et <code>E.(ih)</code> → <code>E.(gi)</code>) ;</li>
+<li><b>sauf</b> si la différence de dcrochu est interdite par une autre règle (ex. A2) : on garde alors celle de marteo et on ajoute une case à cocher dans « To check » pour vérifier qu'elle convient à la nouvelle première note ;</li>
+<li>sans changement de première note adopté, un changement de différence proposé par dcrochu reste régi par les règles communes (R3, cas 6 : <span class="mid">décision humaine</span>), sous réserve de A2.</li>
+</ul>
+La première note se compare à la transposition près : un simple changement de clé (même mélodie écrite plus haut ou plus bas) ne change pas la première note.</div>
+
+<div class="rule"><b>A2. Ton 8a : exclu du Nocturnale Romanum.</b> <i>(Décision de marteo, 10/11/2026, PR #529.)</i> On n'emploie pas la différence 8a. Une proposition de dcrochu qui passe une antienne en <code>mode:8a;</code>, ou qui donne une différence de ton 8a dans l'<code>&lt;eu&gt;</code>, est <span class="ko">toujours refusée</span> : on garde la ligne <code>mode:</code> et l'<code>&lt;eu&gt;</code> de marteo. Si un changement de clé est adopté par ailleurs, l'<code>&lt;eu&gt;</code> de marteo est transposé avec le reste (ex. 1111N2A3, PR #529 : <code>mode:8c;</code> gardé, <code>E(j) U(j) O(h) U(j) A(k) E.(j)</code> en c4 devenu <code>E(h) U(h) O(f) U(h) A(i) E.(h)</code> en c3).</div>
+
+<h3>Décisions de marteo sur les premières antiennes (10/11/2026)</h3>
+<p>Arbitrages au cas par cas, consignés comme précédents. Ils ne changent pas les règles.</p>
+<ul>
+<li><b>Changement de clé</b> (aucune règle) : adopté dans 1111N3A1 (PR #530, <code>c4</code> → <code>c3</code>, GABC et NABC de dcrochu repris en entier) et dans 1111N2A3 (PR #529, toutes les notes transposées, hauteurs NABC d'origine de dcrochu). Dans les deux cas, les signes rythmiques de marteo sont conservés et transposés (R1).</li>
+<li><b>Stropha finale</b> (R14) : dans 1111N3A1 (PR #530), le <code>hhog&gt;</code> de dcrochu sur <i>niTÉNtem</i> a été adopté avec le reste de sa version, contre <code>jjoIs&lt;</code>.</li>
+<li><b>Discordance GABC/NABC admise par exception</b> : 1111N2A1 (PR #527), <i>fíliA</i> <code>a(hj|ta&gt;)</code> : mélodie de marteo, tractulus liquescent de dcrochu.</li>
+<li><b>Variantes bien attestées</b> (R3 cas 6) : adoptées dans 1111N2A2 (PR #528), <i>TEtradius</i> et <i>DEi</i>. Coupe <i>cóg/ni/ta</i> de dcrochu refusée comme coquille, <i>có/gni/ta</i> gardé.</li>
 </ul>
 
 <h2>5. Libellé des commits</h2>
