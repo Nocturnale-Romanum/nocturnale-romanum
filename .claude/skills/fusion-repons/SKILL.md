@@ -1,15 +1,15 @@
 ---
 name: fusion-repons
-description: Fusionner les propositions de dcrochu dans les fichiers gabc/<ID>_marteo.gabc de Nocturnale Romanum (une PR par répons), exécuter les décisions renseignées par marteo ou Thomas dans les PR, ajouter une règle aux guidelines et l'appliquer aux PR ouvertes, auditer les PR ouvertes. À utiliser dès qu'il est question de fusion de répons, de PR merge-<ID>, de décisions « Needs decision », de guidelines/fusion-repons, de dcrochu ou de marteo.
+description: Fusionner les propositions de dcrochu dans les fichiers gabc/<ID>_marteo.gabc de Nocturnale Romanum, répons et antiennes (une PR par pièce), exécuter les décisions renseignées par marteo ou Thomas dans les PR, ajouter une règle aux guidelines et l'appliquer aux PR ouvertes, auditer les PR ouvertes. À utiliser dès qu'il est question de fusion de répons ou d'antiennes, de PR merge-<ID>, de décisions « Needs decision », de guidelines/fusion-repons, de dcrochu ou de marteo.
 ---
 
-# Fusion des répons (Nocturnale Romanum)
+# Fusion des répons et des antiennes (Nocturnale Romanum)
 
-Chaque répons existe en deux versions : `gabc/<ID>_marteo.gabc` (marteo, arbitre, compte GitHub **xmarteo**) et `gabc/<ID>_dcrochu.gabc` (propositions de dcrochu). Le travail consiste à reporter dans `_marteo` les propositions de dcrochu que les règles permettent d'adopter, **une PR par répons**, et à laisser à un humain ce que les règles ne tranchent pas.
+Chaque répons ou antienne existe en deux versions : `gabc/<ID>_marteo.gabc` (marteo, arbitre, compte GitHub **xmarteo**) et `gabc/<ID>_dcrochu.gabc` (propositions de dcrochu). Le travail consiste à reporter dans `_marteo` les propositions de dcrochu que les règles permettent d'adopter, **une PR par pièce**, et à laisser à un humain ce que les règles ne tranchent pas.
 
 ## Sources de vérité
 
-1. **`guidelines/fusion-repons.html`** (et son PDF), sur `main` : toutes les règles (R1 à R25 au 01/11/2026), leurs exceptions et les décisions consignées. **À lire en entier avant tout travail**, et à relire à chaque reprise : les règles évoluent. Ne jamais les recopier ailleurs (ni ici, ni dans une PR) : y renvoyer.
+1. **`guidelines/fusion-repons.html`** (et son PDF), sur `main` : toutes les règles (R1 à R25 au 01/11/2026 ; pour les antiennes, § 4 bis : règles R applicables, A1 et A2 au 10/11/2026), leurs exceptions et les décisions consignées. **À lire en entier avant tout travail**, et à relire à chaque reprise : les règles évoluent. Ne jamais les recopier ailleurs (ni ici, ni dans une PR) : y renvoyer.
 2. **Les PR** `merge-<ID>` : leur description (format ci-dessous) et leurs **commentaires** (décisions de marteo et de Thomas).
 3. L'historique git des deux fichiers (`git log -- gabc/<ID>_dcrochu.gabc`), qui donne la base R20 et les justifications de dcrochu.
 
@@ -109,3 +109,10 @@ Chaque audit produit des **candidats** : les relire un par un avant d'agir (faux
 - **Vocabulaire NABC** : `pf` = *porrectus flexus* (pas pes flexus), `sf` = scandicus flexus, `vs` = virga strata, `pq` = pes quassus, `sa` = salicus, `ql`/`qi` = quilisma, `or` = oriscus, `pi` = pressus, `ob`/`cb` = crochets ouvrant/fermant une section de neumes synthétiques.
 - **Outils de l'environnement** : certains environnements bloquent Grep/Glob natifs ou `python3 -c` ; écrire les scripts dans des fichiers. Sous zsh, `$i:g` est un modificateur : écrire `${i}`.
 - **Conservation** : le travail doit vivre dans le dépôt (PR, guidelines, ce skill), pas dans un dossier temporaire ni dans une conversation (effacée après 30 jours par défaut).
+
+## Leçons apprises (antiennes, 10/11/2026)
+
+- **Changement de clé** (aucune règle, décision de marteo) : transposer toutes les notes, signes rythmiques et euouae compris, et reprendre les hauteurs NABC **d'origine** de dcrochu (pas celles transposées pour la clé de marteo). Vérifier ensuite que, signes rythmiques ôtés, les notes égalent celles de dcrochu.
+- **Fins de ligne** : les `.gabc` mêlent CRLF et LF. `sed -i` peut convertir tout le fichier ; éditer en octets (Python `rb`/`wb`) et vérifier `git diff --stat` (une seule ligne changée pour un seul édit).
+- **PDF sous Windows** : Chrome headless n'écrit rien si une instance tourne déjà ; ajouter `--user-data-dir=<dossier temporaire>`.
+- **Sélection** (`ID.gabc`) : seulement sur ordre explicite de marteo, par copie de `_marteo` sur `main`, commit `marteo selected marteo's proposal for <ID>`.
