@@ -92,6 +92,7 @@ Une fille (copie d'une autre pièce avec variantes) attend la fusion de sa mère
 | `audit_r13b.py` | `//` suivi d'une seule note finale un degré plus haut (second cas de R13 : seulement si dcrochu le propose) |
 | `audit_r24.py` | syllabes sans NABC dans une section synthétique (`ob`…`cb`) où dcrochu en a (R24), et NABC ajouté hors section |
 | `audit_r25.py` | correction adoptée dans le répons mais pas reportée dans une reprise (R25) |
+| `audit_r5_merge.py` | neumes NABC fusionnés en une graphie normalisée (`vi/pe` → `scM1`, `clcl` → `pf`…) dont la hauteur dépasse la plus basse des neumes d'origine (R5) |
 | `oral2.py` | alléluias pascals comparés aux alléluias standard de `gabc/ORAL2.gabc` (R11) |
 | `decisions.py`, `r5_study.py`, `r15_study.py` | recensement et classement des « Needs decision » (pour proposer des règles par lots) |
 
