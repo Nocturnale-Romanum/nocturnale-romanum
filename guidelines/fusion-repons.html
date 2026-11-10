@@ -132,7 +132,7 @@ Les altérations restent régies par R3 bis : un bémol associé à une modifica
 <ul>
 <li><b>Bécarres</b> (<code>y</code>, <code>Y</code>) proposés par dcrochu : <b>toujours adoptés</b>.</li>
 <li><b>Bémols</b> (<code>x</code>, <code>X</code>) proposés ou supprimés par dcrochu : <b>ne jamais trancher seul</b>, il faut demander confirmation à un humain. On en a un exemple dans PMEXN1R2 : « report des modifications de dcrochu, sauf le dernier si bémol ». Sur les deux bémols proposés dans cette pièce, celui de « um » (<code>ixg…</code>) a été adopté, celui de « nas » (<code>ixhg…</code>) refusé : la décision se prend au cas par cas. <i>(Reconfirmé par marteo le 31/10/2026 : sujet très sensible, la décision humaine reste nécessaire, même si les dernières revues ont souvent suivi dcrochu.)</i></li>
-<li><b>Exception : cadence finale des répons des modes 7 et 8.</b> <i>(Confirmé par marteo.)</i> Un bémol proposé par dcrochu dans la <b>cadence finale</b> d'un répons de mode 7 ou 8 est <b>toujours refusé</b>, sans consulter personne (cf. commit <code>21772754</code> : « For now, I refuse flats in the concluding cadence of mode 7/8 RR/ »). Dans une <b>cadence intérieure</b>, la règle générale s'applique : on demande à un humain.</li>
+<li><b>Exception : cadence finale des répons (et des antiennes, § 4 bis) des modes 7 et 8.</b> <i>(Confirmé par marteo ; étendu aux antiennes le 10/11/2026.)</i> Un bémol proposé par dcrochu dans la <b>cadence finale</b> d'un répons de mode 7 ou 8 est <b>toujours refusé</b>, sans consulter personne (cf. commit <code>21772754</code> : « For now, I refuse flats in the concluding cadence of mode 7/8 RR/ »). Dans une <b>cadence intérieure</b>, la règle générale s'applique : on demande à un humain.</li>
 </ul></div>
 <div class="rule small">Le bécarre ajouté par dcrochu sur « DIxit » dans 1122N3R1 (<code>gydf…</code>) n'avait pas été repris : c'est un <b>oubli</b>, il faut l'adopter. 1122N3R1 est à reprendre.</div>
 
@@ -314,13 +314,13 @@ Seules les divergences entre D et B sont des propositions de dcrochu, à traiter
 <h3>Règles R : ce qui vaut pour les antiennes</h3>
 <table>
 <tr><th>Règles</th><th>Antiennes</th></tr>
-<tr><td>R1, R2, R3 bis (règle générale), R4, R5, R5 bis, R6, R7, R8, R9, R10, R12, R13, R14, R15, R18, R19, R20, R21, R22, R23, R24</td><td><span class="ok">s'appliquent</span> telles quelles. Pour R24, la « section synthétique » est un passage de l'antienne encadré par <code>ob</code>…<code>cb</code>.</td></tr>
+<tr><td>R1, R2, R3 bis (exception de la cadence finale des modes 7 et 8 comprise), R4, R5, R5 bis, R6, R7, R8, R9, R10, R12, R13, R14, R15, R18, R19, R20, R21, R22, R23, R24</td><td><span class="ok">s'appliquent</span> telles quelles. Pour R24, la « section synthétique » est un passage de l'antienne encadré par <code>ob</code>…<code>cb</code>.</td></tr>
 <tr><td>R3</td><td><span class="ok">s'applique</span>, <b>sauf le cas 1</b> (verset synthétique) : on passe directement au cas 2.</td></tr>
 <tr><td>R11</td><td><span class="ok">s'applique</span> à l'alléluia pascal de l'antienne (arbitrage par <code>ORAL2.gabc</code>) ; le paragraphe sur le Gloria Patri est sans objet.</td></tr>
 <tr><td>R17</td><td><span class="ok">s'applique</span> (divergence de crochets <code>ob</code>/<code>cb</code> → humain), <b>sauf</b> la conséquence pour le cas 1 de R3 et l'exception de l'<code>ob</code> avancé en début de verset.</td></tr>
 <tr><td>R5 ter (teneur des versets), R16 (reprise après le verset), R25 (reprises), exception de R7 sur la <code>lse</code> ajoutée en reprise finale</td><td><span class="ko">propres aux répons</span> : sans objet pour les antiennes.</td></tr>
 </table>
-<div class="q"><b>Question.</b> L'exception de R3 bis (bémol de dcrochu dans la cadence finale <b>d'un répons</b> de mode 7 ou 8 : refus systématique) vaut-elle aussi pour la cadence finale d'une antienne de mode 7 ou 8 ? En attendant la réponse de marteo, on applique aux antiennes la règle générale de R3 bis : <span class="mid">décision humaine</span>.</div>
+<div class="rule small"><b>R3 bis et la cadence finale.</b> <i>(Décision de marteo, 10/11/2026.)</i> L'exception de R3 bis vaut aussi pour les antiennes : un bémol proposé par dcrochu dans la <b>cadence finale</b> d'une antienne de mode 7 ou 8 est <span class="ko">toujours refusé</span>, sans consulter personne. Dans une cadence intérieure, la règle générale s'applique : <span class="mid">décision humaine</span>.</div>
 
 <h3>Règles propres aux antiennes</h3>
 <div class="rule"><b>A1. Première note de l'antienne et différence : le changement de la première note entraîne celui de la différence.</b> <i>(Décision de marteo, 10/11/2026, PR #528.)</i> La différence (terminaison psalmodique, notée dans <code>&lt;eu&gt;…&lt;/eu&gt;</code> et dans l'en-tête <code>mode:</code>) conduit à la première note de l'antienne, que l'on reprend après le <i>Gloria Patri</i>. Les deux vont donc ensemble :
