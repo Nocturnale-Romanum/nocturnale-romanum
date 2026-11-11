@@ -1,16 +1,11 @@
+name:Responsum acceperat V Cum inducerent puerum;
+office-part:re;
 mode:5;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Re(d)s{pó}n(ffg~)sum<sp>*</sp>(f)
-ac(f)cé(h!iwj)pe(gf)rat(fgffvDCfvghggf) Sí(f)me(f)on(dcf/ghggf) (,)
-a(f) Spí(h!iwj)ri(g)tu(f) San(fe/fwg!hvGFg)cto,(gf) (;)
-non(FHiwjjk>) vi(j)sú(jk)rum(j) se(hhO1g) mor(h!iwjiiO1h/i)tem,(ih) (,)
-ni(h)si(j) vi(j)dé(j)ret(ij) Ch{r}i(hhO1g)stum(ixh!iwjiHGhwiH!Gs<) Dó(f)mi(FGhvGFg)ni:(gf) (:)
-<sp>+</sp> Et(f) be(g)ne(h){dí}(h!iwj)xit(g) e(fd!ewfeDCd)um(dc) et(ixffO1eGHjvHGhwiHG) di(FGhvGFg)xit:(gf) (:)
-Nunc(FHiwjjk>) di(j)mít(jk)tis(j) ser(j)vum(ij) t{<e>u</e>u}m(hhgh) in(ixhjHGhwiH!Gs<) pa(FGhvGFg)ce,(gf) (,)
-qui(fg)a(fo0!gv) vi(fd)dé(f)runt(fg~) ó(h!iwj)cu(g)li(f) me(fd!ewfeDCd)i(CDed) sa(c)lu(d)tá(fgf)re(fe) 
-{t<e>u</e>}um,(ixfvhvjvHGhwiH!Gs<) Dó(f)mi(FGhvGFg)ne.(gf) (::)
-<sp>V/</sp> Cum(j) in(j)dú(j)ce(j)rent(jkJsshih) pú(j)e(j)rum(j) Je(jk)sum(j) pa(jh)rén(hk~)tes(ij) e(ji!jwkjk>)jus,(kj) (;)
-ut(f) fá(h)ce(j)rent(j) se(j)cún(j>)dum(j) con(j)su(j)e(j)tú(jk)di(j)nem(j) le(j)gis(j) pro(j) e(jk)o,(j) (,)
-i(j)pse(j) ac(j)cé(jk)pit(j) e(j)um(j) in(ji/ji) ul(ih~)nas(jk) su(ji!jwkjjIHi)as.(ih) (::)
-<sp>+</sp> Et.(f) (::)  
+(c4) Re(d|ta)spón(f_fg~|vi-ta>hi)sum(f|ta) <sp>*</sp> ac(f|ta)cé(ixh!iwj|//vi-qlhj)pe(gf|cllsc3)rat(fgffvDCfv_ghggf__|toS2cihglsc3vi-hgtoS2hkcl-hl) Sí(f|vi)me(f|vi)on(dcf_/ghggf__|po-1lsi2toS2hjcl-hk) (,) a(f|ta) Spí(ixh!iwj|//vi-qlhklsal3)ri(g|vi)tu(f|ta) Sanc(f_e!fwg_/hv_GFg|cl-ql-hgci-hkvihk)to,(gf..|cl-) (;) non(f_h!iwjjk>|`qlhippt2pe>hl) vi(j|tahh)sú(jk|pehi)rum(j|vihh) se(hhog|pr) mor(ixh!iwj_hhwihi|////vi-hjqlhl!cl-hlqihm!pohm)tem,(ih__|cl-hh) (,) ni(h|``talse4)si(j|vi) vi(j|``vilsew2)dé(j|vi)ret(ij|pe) Chris(hhog|pr)tum(ixh!iwjIH___G/hwi_HG>|/////qlhj!vshjppt1sut2qi-hlsu1sux1) Dó(f|ta)mi(fg!hv_GFg|//ci-hhpp2vihh)ni:(gf..|cl-) (:)
+<sp>+</sp> Et(f|``talse4) be(g|vi)ne(h|vihh)dí(ixh!iwj|//vi-hiqlhmlsal3)xit(g|vi) e(f_d!ewfE__DCd|//cl-qlhg!vshgsu2vi)um(dc__|cl-) et(ixffoeg_h!jv_H_Ghwi_HG|////prMhjvi-hkppt2suu2qi-hlsu2) di(fg!hv_GFg|//ci-hhpp2vihh)xit:(gf..|cl-) (:) Nunc(f_h!iwj_jk>|`ql-hjppt2pe>hl) di(j|tahh)mít(jk|pehi)tis(j|tahh) ser(j|``tahhlse4)vum(ij|pehh) t{uu}m(h_hgh|//vi-pohg) in(ixhjH___Ghwi_HG>|////pe-1hjsut2ql-hlsu1sux1) pa(fg!hv_GFg|//ci-hhpp2vihh)ce,(gf..|cl-) (;) qui(f_g|```peSlse4)a(fog|pq) vi(fd|cllsc3)dé(f|vi)runt(gh~|ta>hglsal3) ó(ixh!iwj|//vi-qlhjlsl3)cu(g|vi)li(f|ta) me(f_d!ewfE__DCd|cl-qihg!vshgsu2vihg)i(c_d/ed__|sf-) (,) sa(c|ta)lu(d|vi)tá(fgf|//to)re(fe__|cl-) t{uu}m,(ixg_h_2//jvH__G/hwi_HG>|//vi-hj/vi-hl/vi-hmsuu2qi-hmsu1sux1) Dó(f|ta)mi(fg!hv_GFg|//ci-hhpp2vihh)ne.(gf..|cl-) (::)
 
+<sp>V/</sp> Cum(j|obvihh) in(j|vihh)dú(j|vihh)ce(j|vihh)rent(jk_Jsjs_hih|pe-hlds-hltohl) pú(j|vihh)e(j|vihh)rum(j|vihh) Je(jk|pehi)sum(j|tahh) pa(jh|clhhlsc3)rén(hk|pehi)tes(ij|pehh) e(j_i!jwkjk|cl-hjqlhk!pohk)jus,(kj..|cl-hh) (;) ut(f|ta) fá(h|vi)ce(j|vihh)rent(j|vihh) se(j|vihh)cún(j|vihh)dum(j|vihh) con(j|vihh)su(j|vihh)e(j|vihh)tú(jk|pehi)di(j|tahh)nem(j|tahh) le(j|tahh)gis(j|tahh) pro(j|tahh) e(jk|pehi)o,(j|tahh) (,) ip(j|tahh)se(j|tahh) ac(j|tahh)cé(jk|pehh)pit(j|tahh) e(j|tahh)um(j|tahh) in(ji/ji|pfhhlsc2) ul(ih~|vi>hh)nas(j_k|peShi) su(ixj_i!jwkJ__IHi|////cl-hlqlhl!vshlsu2vihl)as.(ih..|cl-cb) (::)
+<sp>+</sp> Et(f|``talse4) be(g|vi)ne(h|vihh)dí(ixh!iwj|//vi-hiqlhmlsal3)xit.(g|vi) (::)
