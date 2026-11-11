@@ -1,14 +1,15 @@
+name:Senex puerum portabat V Accipiens Simeon V Gloria;
+office-part:re;
 mode:8;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c3)  Se(hhi)nex(h) Pú(hi)e(h)rum(hg) por(fg~)tá(e)bat,<sp>*</sp>(e) (,)
-Pu(hhi)er(h) au(hi~)tem(ivHGFgo0!hv) se(i)nem(ighvFE) re(de)gé(e!fwgfg)bat(fe) (:)
-<sp>+</sp> Quem(ef) vir(f!gwh!ivHGhwih/i>)go(h) con(i>)cé(hvhgh)pit(e) vir(fhg~)go(h) pé(ig/ho0!iv)pe(fe)rit,(EFgwhe/f/eeO1d) (;)
-vir(efd~)go(e) post(f) par(f!gwh!ivHGhwih/i>)tum,(h) (,)
-quem(i>) gé(h)nu(hvGF)it,(fg/hiffe) ad(ef)o(fd!ewf)rá(f!gwhe)vit.(e) (z0::c4)
-Ac(j)cí(j)pi(ji)ens(jkj/iji/hhO1g) Sí(hi)me(i)on(i) pú(i)e(ih)rum(ij) in(hi>) má(g)ni(g!hwih)bus,(hg) (;)
-grá(g)ti(fg)as(g) a(fg~)gens(g) be(g)ne(g)dí(hiHGhih)xit(ghf) Dó(gh)mi(h!iwji/jkjIH)num.(hiHGhg) (z0::c3)
-<sp>+</sp> Quem.(ef) (::)
-<sp>V/</sp> Gló(j)ri(ji)a(jkj/0iji/0hhO1g) Pa(ih)tri,(ij) et(hi) Fí(g)li(g@hwih)o,(hg) (;) 
-et(g) Spi(g)rí(hiHG@hih)tu(ghf)i(gh) San(h@iwji@jkjIH)cto.(hiHG/hg) (z0::c3)
-<sp>+</sp> Quem.(ef)  (::)
+(c4) Se(j_0jk|scM1hj)nex(j|tahh) Pú(jk|pehi)e(j|tahh)rum(ji__|cl-hj) por(hi~|ta>)tá(g.|ta)bat,(g.|ta) <sp>*</sp>(;) Pu(j_0jk|scM1hj)er(j|tahh) au(jk~|ta>hh)tem(kvJ__IGhoi|////vi-hlsuu1su2pqhl) se(j|vi)nem(kjjvHG_____|cl-hlvi-hlsuu2) re(fg|pe)gé(g!hwihi|ql!poppt1)bat(hg..|cl-) (;)
+<sp>+</sp> Quem(fg|pelsc4lsi3) vir(g!hwj/kvJ__I/jwkjk>|```qlhlppt1lse4vi-hlsuu2qlhl!clhlvi>hm)go(j|tahh) con(k>|vi>hilss2)cé(j_jij|vi-hjpohl)pit(g|ta) (,) vir(h_i>|``pe>1lsl1)go(i|vi) pé(ki/jok|clhklssc2pqhk)pe(hg|cl)rit,(g_h!iwjg__/hv_/ggof.|qlhj!cl-hjppu2`vi-hl`prhl) (;) vir(hf~|vi>)go(g|vi) post(h|``vilsc1) par(h!iwj/kvJ__I/jwkjk>|vi-hlqlhlvi-hmsut2qlhm!clhmvi>hn)tum,(j|ta) (,) quem(k>|vi>hi) gé(j|vihh)nu(jv_IH|ci-hj)it,(hi__/jkhhg__|pe-1hhtoS2hkcl-hl) (,) ad(g_h|peS)o(h_f!gwh|cl-`qlhg)rá(h!iwjg__|qlhj!cl-hjppt1)vit.(g.|ta) (::)
+
+<sp>V/</sp> Ac(j|tahh)cí(j|tahh)pi(ji|clhh)ens(jkj/iji/hhog|////tohhtohiprhj) Sí(hi|pe)me(i|vi)on(i|vi) pú(i|vi)e(ih|clhhlsc3)rum(ij|pe) in(hi>|pe>) má(g|ta)ni(g!hwih__|qihh!cl-hhppt1)bus,(hg..|cl-) (;) grá(g|vi)ti(fg|pe)as(g|vi) a(gh~|ta>)gens(g|ta) (,) be(g|ta)ne(g|ta)dí(ixhi_HGhih|////pe-hhsu2tohj)xit(ghf~|pe>) Dó(g_h|peS)mi(iyh!iwji/jkJ_IH|////qlhj!clhjppt1to-1hmsu2)num.(hi__HGhg..|pe-1hhsu2cl-hh) (::)
+<sp>+</sp> Quem(fg|pelsc4lsi3) vir(g!hwj/kvJ__I/jwkjk>|```qlhlppt1lse4vi-hlsuu2qlhl!clhlvi>hm)go.(j|tahh) (::)
+
+<sp>V/</sp> Gló(j|obvihh)ri(ji|clhh)a(jkj/0iji/0hhog|///tohhtohiprhi) Pa(ih|cllsc3)tri,(ij|pe) et(hi|pe) Fí(g|ta)li(g@hwih__|qlhh!cl-hhppt1)o,(hg..|cl-) (;) et(g|ta) Spi(g|ta)rí(ixhi_HGhih|////pe-hhsu2tohi)tu(ghf|//to)i(g_h|peS) Sanc(iyh!iwji/jkJ_IH|///////qlhj!clhjppt1toS2hmsu2)to.(hi__HG/hg..|pe-1hhsu2cl-hhcbhh) (::)
+<sp>+</sp> Quem(fg|pelsc4lsi3) vir(g!hwj/kvJ__I/jwkjk>|```qlhlppt1lse4vi-hlsuu2qlhl!clhlvi>hm)go.(j|tahh) (::)
 
