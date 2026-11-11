@@ -1,15 +1,13 @@
+name:Postquam impleti sunt V Obtulerunt pro eo;
+office-part:re;
 mode:3;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Post(e)quam(egFssded) 
-<sp>*</sp> im(f>)plé(ef)ti(g) sunt(g) di(hgh!iv)es(h) (;)
-pur(h)ga(h)ti(h)ó(h)nis(hg) e(high!iv)jus(hggo~efe) (:)
-se(f)cún(gh)dum(h>) le(gh>)gem(g) Móy(df!gvegefv)si,(ed) (,)
-tu(f)lé(f)runt(f) il(f)lum(egFssded) in(dc~) Je(gh)rú(g)sa(hjjo~)lem,(i) (;)
-ut(i) sí(i)ste(i)rent(ikJsshihhg) e(h)um(j) Dó(ikjJs)mi(jvHJkvJIj)no,(ji) (;)
-<sp>+</sp> Si(g)cut(h!iwj) scri(jij)ptum(GHiwjIHivHG) est(hg) in(e) le(GHij>)ge(h) Dó(j)mi(i/jij)ni:(hggo~efe) (;)
-Qui(f)a(ghg) o(h>)mne(g) mas(g)cu(g)lí(gh)num(g) ad(g)a(g)pé(gh)ri(gf)ens(ef~) vul(fvegefv)vam,(ed) (;)
-sanc(gh~)tum(g) Dó(HsJss)mi(ji)no(jo0!kv) vo(g)cá(eeo1!fv)bi(fvDFgvFEf)tur.(fe) (::)
-<sp>V/</sp> Ob(i)tu(i)lé(ikjJs)runt(h!iwjiiO1h) pro(hg) e(h)o(j) Dó(i)mi(ikjJs)no(ji) (;)
-par(hg~) túr(hi~)tu(i)rum(i) aut(i) du(i!jo1)os(i) pul(i)los(ikjjvIHiwji) co(hg)lum(GHiwj)bá(jiiO1hivHGh)rum.(hg) (::)
-<sp>+</sp> Si(g)cut.(h!iwj) (::)
+(c4) Post(e|vi)quam(eg_/fsfs_ded|pe-ds-hitohilsim8) <sp>*</sp> im(fd~|vi>)plé(e_f|peS)ti(g|vi) sunt(g|vi) di(ixhgh_/iv|////po-1vihj)es(h|vi) pur(h|vi)ga(h|vi)ti(h|vi)ó(h|vi)nis(hg|cllsc3) e(ixh_0/igh|////vi-pohj)jus(hggo/efe|cllsc3`orhgtohglsi7) (;) se(f|vi)cún(gh|pe)dum(h>|vi>lsal3) le(gh>|pe>)gem(gf|cllsc3) Mó(de|pe)y(e_0/fgffs|vi-toS2hjvihk)si,(ed..|cl-) (:) tu(e|vilsal2)lé(e|vi)runt(e|vi) il(e|vi)lum(eg_/fsfs_ded|pe-ds-hitohi) in(dc~|vi>) Je(gh|pelsal2)rú(g|ta)sa(hi_/jo|pe-hhlss2orhk)lem,(i|ta) (,) ut(i|ta) sís(i|ta)te(i|ta)rent(ik_/jsjs_hihhg__|pe-hllss2ds-hmtoS2hmcl-hm) e(h|vi)um(j|vihi) Dó(ikjjs|//tohjsthl)mi(jv_/hj!kv_JIj|vi-hlci-hlpp2vihl)no,(ji..|cl-) (:)
 
+<sp>+</sp> Sic(g|talsi7)ut(h!iwj|vi-qlhjlsl2) scrip(jij|po)tum(g_h!iwj_IHiv_HGh|`ql-hkppt2su2ci-hjvihj) est(hg__|cl-) (,) in(e|talsi7) le(ef/gh>|``pe>hipp2lsal1)ge(g|ta) Dó(h|vilss3)mi(ixh_0/igh|////vi-lse1pohjlslc2)ni:(hggo/efe.|cllsc3`orhhtohi) (;) Qui(f|vi)a(ghg|//to) om(h>|vi>)ne(g|ta) mas(g|ta)cu(g|ta)lí(gh|pe)num(g|ta) ad(g|ta)a(g|ta)pé(gh|pe)ri(gf|cllsc3)ens(de~|ta>lsi7) vul(e_0/fgffs|vi-toS2hjvihk)vam,(ed..|cl-) (;) sanc(gh~|``ta>lss1)tum(g|ta) Dó(gsjsjs|//tsMlsc3)mi(ih|cllsc3)no(hoi|pq) vo(g|vi)cá(eeof|sa)bi(fv_//df!gv_FEf|vi-/ci-hipp2vihh)tur.(fe..|cl-) (::)
+
+<sp>V/</sp> Ob(i|ta)tu(i|ta)lé(ikjjs|//tohisthk)runt(h!iwji__/hhog|qlhj!cl-hjppt1`prhl) pro(ig|cllss2lsc3) e(h|vi)o(j|vi) Dó(i|vi)mi(ikjjs|//tohisthk)no(ji..|cl-) (;) par(ig~|vi>) túr(hi~|ta>)tu(i|ta)rum(i|ta) aut(i|ta) du(ijO1|vslsc3)os(i|ta) pul(i|ta)los(ikjjvI_____H/iwji__|//toShlvi-hlsut2qihl!cl-hl) co(hg|cllsc3)lum(g_h!iwj|``qlhhppt2)bá(jiioh/iv_HGh|clhh!pihhci-hhvihh)rum.(hg..|cl-) (::)
+
+<sp>+</sp> Sic(g|talsi7)ut.(h!iwj|vi-qlhjlsl2) (::)
