@@ -1,17 +1,17 @@
+name:Hoc signum Crucis V Cum sederit Filius V Gloria;
+office-part:re;
 mode:4;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) Hoc(e) si(e)gnum(Fsss) Cru(DFhvFEf)cis*(fe) (,)
-e(d)rit(h) in(h>) cœ(h!IJG2h)lo,(EFgwh/igFssded) (;)
-cum(fd~) Dó(e!fwg!ho~)mi(g)nus(g) ad(g) ju(g)di(g)cán(gf~)dum(FGhvig/hg>) vé(e)ne(egfFs)rit:(fe) (:)
-<sp>+</sp> Tunc(d) ma(h)ni(h)fé(h)sta(hg) e(h/IJG2h)runt(EFgwh/igFssded) (;)
-ab(fd)scón(f!gw!h>)di(g)ta(gh) cor(hgGs)dis(FGhv/ig/hg) no(egfFs)stri.(fe) (::)
-<v>{\scriptsize\itshape t.p.\ }</v> Al(ed~)le(ewf)ú(ec~)ja,(ded) (,)
-al(fh~)le(hvGFECdvfvEDfhg/hffO1e)lú(egFfs)ja.(fe) (::)
-<sp>V/</sp> Cum(h) sé(h)de(gh)rit(gf!gwhghvGEfe) Fí(g)li(g)us(g) hó(gh)mi(g)nis(g) in(g) se(gh)de(g) 
-ma(g)je(gf)stá(gh)tis(gf) su(e!fwgf)æ,(fe) (;)
-et(f) cœ(de)pe(e)rit(e) ju(e)di(e)cá(e!fo1)re(e) sǽ(e)cu(e!fwgFE)lum(g) per(ghghvGF) i(EFgeFs)gnem.(ed) (::)
-<sp>+</sp> Tunc.(d) (::)
-<sp>V/</sp> Gló(h)ri(gh)a(gf!gwhghvGEfe) Pa(gf)tri,(gh) et(gf~) Fí(e)li(e!fwgf)o,(fe) (;) 
-et(e) Spi(e)rí(e@fwgFE)tu(g)i(ghghGF) San(E/0Fgef>)cto.(ed)  (::)
-<sp>+</sp> Tunc.(d) (::)
+(c4) Hoc(e|ta) sig(e|ta)num(fsfsfs|//ts) Cru(df!gv_FEf|//ci-hhpp2vihh)cis(fe__|cl-) <sp>*</sp>(,) e(h|vi)rit(h|vi) in(hg~|vi>) cæ(h_0/jsjsgs_hv|vi-/tgShjvihj)lo,(ixe_f!gwh/ig_/fsfs_ded.|////qlppt2clShhds-hitohj) (;) cum(fd~|cl>) Dó(e!fwg/ho|``vi-qlhjorhm)mi(g|ta)nus(g|ta) ad(g|ta) ju(g|ta)di(g|ta)cán(gf~|vi>)dum(ixfg!hv_//ig_/hg>|////vi-pp2clShkcl>hk) vé(e|ta)ne(egffs|//tosthh)rit:(fe..|cl-) (:)
+
+<sp>+</sp> Tunc(h|vi) ma(h|vi)ni(h|vi)fés(h|vi)ta(hg|cllsc3) e(h_0/jsjsgs_hv|vi-tgS-hivihj)runt(ixe_f!gwh/ig_/fsfs_ded|////qlppt2clS-hhds-hitohj) (;) abs(fd|cllsc3)cón(e!fwg/h>|```vi-qlhjvi>hl)di(g|ta)ta(gh|pe) cor(hggof~|clor>hh)dis(ixfg!hv_//ig/hg__|////vi-pp2clhlcl-hm) nos(egffs|//tosthh)tri.(fe..|cl-) (::) <c><i>T.P.</i></c> Al(ed~|vi>)le(ewf|ql)lú(ec~|vi>)ia,(ded___|//toS) (,) al(fh~|ta>)le(hvGFEC_____|///vi-sut4|d_0/fvED|vi-ciSlsc3|fhg___/hf__foe|toScl-hipihi)lú(egffs|//tosthh)ia.(fe..|cl-) (::)
+
+<sp>V/</sp> Cum(h|vi) sé(h|vi)de(gh|pe)rit(g_f!gwhg__/hv_GEfe__|cl-qi!cl-ci-hicl-hi) Fí(g|vi)li(g|vi)us(g|vi) hó(gh|pe)mi(g|ta)nis(g|ta) (,) in(g|ta) se(gh|pe)de(g|ta) ma(g|ta)jes(gf|cl)tá(gh|pe)tis(gf|cl) su(e!fwgf__|ql!cl-ppt1)æ,(fe..|cl-) (;) et(f|vi) cœ́(de|pe)pe(e|ta)rit(e|ta) ju(e|ta)di(e|ta)cá(efO1|vs)re(e|ta) sǽ(e|ta)cu(e!fwg_FE|ql-ppt1su2)lum(g|vi) per(ghgh___GF|//to-ci-hh) i(ef/gffs|sfsthk)gnem.(ed..|cl-) (::)
+
+<sp>+</sp> Tunc(h|vi) ma(h|vi)ni(h|vi)fés(h|vi)ta.(hg|cllsc3) (::)
+<sp>V/</sp> Gló(h|vi)ri(gh|pe)a(g_f!gwhg__/hv_GEfe__|cl-qihg!cl-hgci-hicl-hi) Pa(gf|cl)tri,(gh|pe) et(gf~|vi>) Fí(e|ta)li(e!fwgf__|ql!cl-ppt1)o,(fe..|cl-) (;) et(e|ta) Spi(e|ta)rí(e!fwg_FE|ql-ppt1su2)tu(g|vi)i(ghgh___GF|//to-ci-hg) Sanc(ef/gffs|sfsthk)to.(ed..|cl-) (::)
+
+<sp>+</sp> Tunc(h|vi) ma(h|vi)ni(h|vi)fés(h|vi)ta.(hg|cllsc3) (::)
 
