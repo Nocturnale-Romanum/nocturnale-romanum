@@ -1,15 +1,17 @@
+name:In toto corde tuo V Ave princeps generosa V Gloria;
+office-part:re;
 mode:1;
+submitter:marteo;
+nabc-lines:1;
 %%
-(c4) In(d!ewfef>) to(cd)to<sp>*</sp>(d) cor(dh~)de(gf) tu(ixghg/hih)o(h) (;)
-gé(hj)mi(j)tus(jijh) Ma(hvGF)tris(gh) tu(fe)æ(ddO1c) (,)
-ne(d!ewf!gh) o(ixhih)bli(g)vi(f!gwhffO1e)scá(d!ewfef)ris,(ed) (:)
-<sp>+</sp> Ut(hg~) per(h>)fi(hg/hggO1f)ci(g)á(gh)tur(g) pro(hvGF)pi(g)tá(gh)ti(g)o(g) (,)
-et(hgf~) be(ghg)ne(fe)dí(ghgFE)cti(d!ewfef)o.(ed) (::)
-<sp>V/</sp> A(h)ve(hg/hggO1f) prin(gh)ceps(hf) ge(gh)ne(gh)ró(ixh/iiO1h)sa,(h) (;)
-Mar(gf~)ty(gh)rúm(h)que(h) pri(h)ma(h) ro(ixhi)sa,(h) (,)
-Vir(h)gi(h)núm(hg/hg~)que(gf) lí(f!gwhg/hih)li(hvGFEfwg!hv)um.(gf) (::)
-<sp>+</sp> Ut.(hg~) (::)
-<sp>V/</sp> Gló(h)ri(h)a(hg/hggO1f) Pa(hf)tri,(gh) et(gh) Fí(h)li(ixh/iiO1!h)o,(h) (;) 
-et(h) Spi(h)rí(hg/hg)tu(gf)i(ixf!gwhg/hih) San(hvGFEfwg!h>)cto.(gf) (::)
-<sp>+</sp> Ut.(hg~)  (::)
+(c4) In(d!ewfefd~|/obql!po>ppt1lsi6) to(cd|pe)to(d|ta) <sp>*</sp>() cor(d_h|peS)de(gfg|po) tu(ixiv_HGh_i|////ci-hhpeShh)o(h.|ta) (;) gé(hj|pe)mi(j|vi)tus(jijh|//pf1lsc2) Ma(gf|cl)tris(gh|pe) tu(fv_ED|ci-)æ(dfddc__|toS2cl-hg) (,) ne(d!ewf_/gv|ql-ppt1vihl) ob(h|vi)li(gf|cl)vis(gh|pe)cá(d!ewfef|ql!poppt1)ris,(ed..|cl-) (:)
 
+<sp>+</sp> Ut(h|vilsal3) per(h>|vi>)fi(gh__GF|pe-1su2)ci(g|vi)á(gh|pe)tur(h|vi) pro(g|ta)pi(h|vi)ti(gf|cllsc3)á(g|vi)ti(gh|pe)o(h_|vi-) (,) et(hv_G~F~|cl->) be(fgffe|//to!cl)ne(dc|cllsc3)díc(d|vi)ti(d!ewfef|ql!poppt1)o.(ed..|cl-) (::)
+
+<sp>V/</sp> A(h|vi)ve(hg/hggo_f|pflsc2``pihhlst3) prin(g|vi)ceps(hf|cllsc3) ge(gh|pe)ne(gh|pe)ró(ixh_0/iioh|////prppu1)sa,(h.|vi) (;) Mar(hf~|vi>)ty(gh|pe)rúm(ixhi|////pe)que(h|ta) pri(h|ta)ma(h|ta) ro(ixhi|////pe)sa,(h|ta) (,) Vir(h|ta)gi(h|ta)núm(hg/hg~|//po>)que(hf|cllsc3) lí(ixf!gwhg/hih|////ql!clppt1tohm)li(hv_GF_Efwg_/hv|///vi-su1sut2qi-hgvihk)um.(gf..|cl-) (::)
+
+<sp>+</sp> Ut.(h|vilsal3) (::)
+
+<sp>V/</sp> Gló(h|vi)ri(h|vi)a(hg/hggof|clcl!pi) Pa(hf|cllsc3)tri,(gh|pe) et(gh|pe) Fí(h|ta)li(ixh_0/iioh|////prppu1)o,(h.|ta) (;) et(h|ta) Spi(h|ta)rí(hg/hg|pflsc2)tu(hf|cllsc3)i(ixf!gwhg/hih|////ql!clppt1tohm) Sanc(hv_GF_Efwg_/hv|vi-su1sut2qi-hgvihk)to.(gf..|cl-) (::)
+
+<sp>+</sp> Ut.(h|vilsal3cb) (::)
